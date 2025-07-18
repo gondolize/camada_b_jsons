@@ -1,122 +1,122 @@
 [{
-       "mandatory_terms":["CLEAR", "MEN", "HAALAND","ALIVIO","COCEIRA","400"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR", "HAALAND","ALIVIO","COCEIRA","400"],
+       "optional_terms": ["MEN"],
        "ean": "7891150014121"
     },
     {
-       "mandatory_terms":["CLEAR","MEN","DIARIA","2EM1","LIMPEZA","200"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR","MEN","DIARIA","LIMPEZA","200"],
+       "optional_terms": ["ANTICASPA"],
        "ean": "7898422746216"
     },
     {
-       "mandatory_terms":["CLEAR","MEN","MENTHOL","GRÁTIS","ICE","70"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR","MENTHOL","GRATIS","ICE","70"],
+       "optional_terms": ["MEN"],
        "ean": "7891150060968"
     },
     {
-       "mandatory_terms":["CLEAR","MEN","DIARIA","GRÁTIS","2EM1","70"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR","DIARIA","GRATIS","LIMPEZA","70"],
+       "optional_terms": ["MEN"],
        "ean": "7891150060975"
     },
     
     {
-       "mandatory_terms":["CLEAR","SPORTS","PROFUNDA","MEN","SHAMPOO","400"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR","SPORTS","PROFUNDA","SHAMPOO","400"],
+       "optional_terms": ["MEN"],
        "ean": "7891150019416"
     },
     {
-       "mandatory_terms":["CLEAR","SPORTS","PROFUNDA","MEN","SHAMPOO","200"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR","SPORTS","PROFUNDA","SHAMPOO","200"],
+       "optional_terms": ["MEN"],
        "ean": "7891150019508"
     },
     {
-       "mandatory_terms":["CLEAR","MEN","MENTHOL","COOL","ICE","400"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR","MENTHOL","COOL","ICE","400"],
+       "optional_terms": ["MEN"],
        "ean": "7891150001183"
     },
     {
-       "mandatory_terms":["CLEAR","MEN","DIARIA","2EM1","400","CASPA"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR","DIARIA","LIMPEZA","400","CASPA"],
+       "optional_terms": ["MEN"],
        "ean": "7891150014138"
     },
     {
-       "mandatory_terms":["CLEAR","MEN","VINI","400","CAMPEA","HIDRATACAO"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR","VINI","400","CAMPEA","HIDRATACAO"],
+       "optional_terms": ["MEN"],
        "ean": "7891150099272"
     },
     {
-       "mandatory_terms":["CLEAR","MEN","QUEDA","CONTROL","200","BIO"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR","QUEDA","CONTROL","200","BIO"],
+       "optional_terms": ["MEN"],
        "ean": "7891150001077"
     },
     {
-       "mandatory_terms":["CLEAR","MEN","QUEDA","CONTROL","400","BIO"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR","QUEDA","CONTROL","400","BIO"],
+       "optional_terms": ["MEN"],
        "ean": "7891150001268"
     },
     {
-       "mandatory_terms":["CLEAR","MEN","MENTHOL","200","COOL","ICE"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR","MENTHOL","200","COOL","ICE"],
+       "optional_terms": ["MEN"],
        "ean": "7891150007406"
     },
     {
-       "mandatory_terms":["CLEAR","MEN","GRATIS","30","MENTHOL","ANTICASPA"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR","GRATIS","30","MENTHOL","ANTICASPA"],
+       "optional_terms": ["MEN"],
        "ean": "7891150095267"
     },
     {
-       "mandatory_terms":["CLEAR","MEN","VINI","200","CAMPEA","HIDRATACAO"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR","VINI","200","CAMPEA","HIDRATACAO"],
+       "optional_terms": ["MEN"],
        "ean": "7891150099289"
     },
     {
-       "mandatory_terms":["CLEAR","SHAMPOO","HIDRATACAO","ANTI","CASPA","200"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR","SHAMPOO","HIDRATACAO","ANTI","200"],
+       "optional_terms": ["CASPA"],
        "ean": "7891150008151"
     },
     {
-       "mandatory_terms":["CLEAR","MEN","CABELO","BARBA","200","ANTICASPA"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR","MEN","CABELO","BARBA","200"],
+       "optional_terms": ["ANTICASPA"],
        "ean": "7891150075276"
     },
     {
-       "mandatory_terms":["CLEAR","MEN","COCEIRA","200","CONTROLE","ALIVIO"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR","COCEIRA","200","CONTROLE","ALIVIO"],
+       "optional_terms": ["MEN"],
        "ean": "7891150014107"
     },
     {
-       "mandatory_terms":["CLEAR","SCALPFOODS","DETOX","200","SHAMPOO","DIARIO"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR","SCALPFOODS","DETOX","200","SHAMPOO"],
+       "optional_terms": ["DIARIO"],
        "ean": "7891150055698"
     },
     {
-       "mandatory_terms":["CLEAR","BOTANIQUE","ANTICOCEIRA","200","SHAMPOO","ANTICASPA"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR","BOTANIQUE","ANTICOCEIRA","200","SHAMPOO"],
+       "optional_terms": ["ANTICASPA"],
        "ean": "7891150081611"
     },
     {
-       "mandatory_terms":["CLEAR","GRATIS","ANTI","HIDRATACAO","SHAMPOO","70"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR","GRATIS","HIDRATACAO","SHAMPOO","70"],
+       "optional_terms": ["ANTI"],
        "ean": "7891150067578"
     },
     {
-       "mandatory_terms":["CLEAR","BOTANIQUE","ANTICOCEIRA","400","SHAMPOO","ANTICASPA"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR","BOTANIQUE","ANTICOCEIRA","400","SHAMPOO"],
+       "optional_terms": ["ANTICASPA"],
        "ean": "7891150081628"
     },
     {
-       "mandatory_terms":["CLEAR","ANTICASPA","HIDRATACAO","INTENSA","400","SHAMPOO"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR","HIDRATACAO","INTENSA","400","SHAMPOO"],
+       "optional_terms": ["ANTICASPA"],
        "ean": "7891150008137"
     },
     {
-       "mandatory_terms":["CLEAR","ANTI","SHAMPOO","FLOR","CEREJEIRA","200"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR","SHAMPOO","FLOR","CEREJEIRA","200"],
+       "optional_terms": ["ANTI"],
        "ean": "7891150055704"
     },
     {
-       "mandatory_terms":["CLEAR","SCALPFOODS","DETOX","70","GRATIS","400"],
-       "optional_terms": [],
+       "mandatory_terms":["CLEAR","SCALPFOODS","70","GRATIS","400"],
+       "optional_terms": ["DETOX"],
        "ean": "7891150067561"
     }
 

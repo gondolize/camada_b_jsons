@@ -203,9 +203,7 @@
        "mandatory_terms":["DOVE","HIDRATACAO"],
        "ean":"7891150054462,7891150054455,7891150054479,7891150054448,7891150094949,7891150094345"
     },
-    {
-       "comment": "--- LINHA RECONSTRUCAO ---"
-    },
+ 
     {
        "mandatory_terms":["DOVE","RECONSTRUCAO","COMPLETA","SHAMPOO","200"],
        "ean": "7891150008953"
@@ -254,9 +252,7 @@
        "mandatory_terms":["DOVE","RECONSTRUCAO"],
        "ean":"7891150008953,7791293005010,7891150077997,7891150096745,7891150096738,7891150008816,7791293004976,7891150094963,7891150094918,7891150095243"
     },
-    {
-       "comment": "--- LINHA RITUAL (REPARACAO E CRESCIMENTO) ---"
-    },
+    
     {
        "mandatory_terms":["DOVE","RITUAL","REPARACAO","SHAMPOO","200"],
        "ean": "7891150050082"

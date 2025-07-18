@@ -1,11 +1,5 @@
 [
-    {
-        "comment": "INICIO - LINHAS DE PRODUTO",
-        "note": "Agrupados por linha de produto Clear"
-    },
-    {
-        "comment": "--- LINHA CLEAR MEN ---"
-    },
+   
     {
        "mandatory_terms":["CLEAR", "MAN", "HAALAND","ALIVIO","COCEIRA","400"],
        "ean": "7891150014121"
@@ -98,9 +92,7 @@
        "mandatory_terms":["CLEAR", "MEN"],
        "ean":"7891150014121,7891150014107,7898422746216,7891150060975,7891150014138,7891150060968,7891150001183,7891150007406,7891150095267,7891150019416,7891150019508,7891150001077,7891150001268,7891150099272,7891150099289,7891150075276"
     },
-    {
-        "comment": "--- LINHA CLEAR BOTANIQUE ---"
-    },
+    
     {
        "mandatory_terms":["CLEAR","BOTANIQUE","ANTICOCEIRA","200","SHAMPOO","ANTICASPA"],
        "ean": "7891150081611"
@@ -117,9 +109,7 @@
        "mandatory_terms":["CLEAR", "BOTANIQUE"],
        "ean":"7891150081611,7891150081628"
     },
-    {
-        "comment": "--- LINHA CLEAR SCALPFOODS ---"
-    },
+    
     {
        "mandatory_terms":["CLEAR","SCALPFOODS","DETOX","200","SHAMPOO","DIARIO"],
        "ean": "7891150055698"
@@ -136,9 +126,7 @@
        "mandatory_terms":["CLEAR", "SCALPFOODS"],
        "ean":"7891150055698,7891150067561"
     },
-    {
-        "comment": "--- LINHA CLEAR REGULAR / FEMININO ---"
-    },
+    
     {
        "mandatory_terms":["CLEAR","SHAMPOO","HIDRATACAO","ANTI","CASPA","200"],
        "ean": "7891150008151"
@@ -159,9 +147,7 @@
        "mandatory_terms":["CLEAR", "HIDRATACAO"],
        "ean":"7891150008151,7891150067578,7891150008137"
     },
-    {
-        "comment": "--- AGRUPAMENTO FINAL DE MARCA ---"
-    },
+    
     {
        "mandatory_terms":["CLEAR"],
        "ean":"7891150014121,7891150014107,7898422746216,7891150060975,7891150014138,7891150060968,7891150001183,7891150007406,7891150095267,7891150019416,7891150019508,7891150001077,7891150001268,7891150099272,7891150099289,7891150075276,7891150081611,7891150081628,7891150055698,7891150067561,7891150008151,7891150067578,7891150008137,7891150055704"
