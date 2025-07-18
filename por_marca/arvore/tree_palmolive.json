@@ -1,12 +1,5 @@
 [
     {
-        "comment": "INICIO - LINHAS DE PRODUTO",
-        "note": "Agrupados por linha de produto Palmolive"
-    },
-    {
-        "comment": "--- LINHA NEUTRO (LIMPEZA BALANCEADA) ---"
-    },
-    {
         "mandatory_terms": ["PALMOLIVE", "NEUTRO", "LIMPEZA", "BALANCEADA", "SHAMPOO", "350"],
         "ean": "7891024172230"
     },
@@ -25,9 +18,6 @@
     {
         "mandatory_terms": ["PALMOLIVE", "NEUTRO", "LIMPEZA", "BALANCEADA"],
         "ean": "7891024172230,7509546673851,7891024172537"
-    },
-    {
-        "comment": "--- LINHA NUTRICAO EXTRAORDINARIA ---"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "NUTRICAO", "EXTRAORDINARIA", "SHAMPOO", "350"],
@@ -50,9 +40,6 @@
         "ean": "7891024171639,7509546674940,7891024172339"
     },
     {
-        "comment": "--- LINHA ANTICASPA E CUIDADOS ESPECIAIS ---"
-    },
-    {
         "mandatory_terms": ["PALMOLIVE", "ANTICASPA", "ANTIQUEDA", "SHAMPOO", "350"],
         "ean": "7891024160718"
     },
@@ -70,14 +57,11 @@
     },
     {
         "mandatory_terms": ["PALMOLIVE", "CUIDADO", "ANTICASPA"],
-        "ean": "7891024171233,7509546687544"
+        "ean": "7891024171233,"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "ANTICASPA"],
         "ean": "7891024160718,7891024171233,7509546687544,7509546686202"
-    },
-    {
-        "comment": "--- LINHA CERAMIDAS FORCE ---"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "CERAMIDAS", "FORCE", "SHAMPOO", "350"],
@@ -100,9 +84,6 @@
         "ean": "7891024174210,7509546674957,7891024174715"
     },
     {
-        "comment": "--- LINHA DETOX ENERGIZANTE ---"
-    },
-    {
         "mandatory_terms": ["PALMOLIVE", "DETOX", "ENERGIZANTE", "SHAMPOO", "350"],
         "ean": "7891024042908"
     },
@@ -113,9 +94,6 @@
     {
         "mandatory_terms": ["PALMOLIVE", "DETOX", "ENERGIZANTE"],
         "ean": "7891024042908,7891024042915"
-    },
-    {
-        "comment": "--- LINHA LISOS RADIANTES ---"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "LISOS", "RADIANTES", "SHAMPOO", "350"],
@@ -130,9 +108,6 @@
         "ean": "7891024161913,7891024170335"
     },
     {
-        "comment": "--- LINHA PRETOS VIBRANTES ---"
-    },
-    {
         "mandatory_terms": ["PALMOLIVE", "PRETOS", "VIBRANTES", "SHAMPOO", "350"],
         "ean": "7891024158609"
     },
@@ -145,9 +120,6 @@
         "ean": "7891024158609,7891024158708"
     },
     {
-        "comment": "--- LINHA BOOM HIDRATACAO ---"
-    },
-    {
         "mandatory_terms": ["PALMOLIVE", "BOOM", "HIDRATACAO", "SHAMPOO", "350"],
         "ean": "7891024034064"
     },
@@ -158,9 +130,6 @@
     {
         "mandatory_terms": ["PALMOLIVE", "BOOM", "HIDRATACAO"],
         "ean": "7891024034064,7891024034156"
-    },
-    {
-        "comment": "--- LINHA HYDRATE ---"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "HYDRATE", "SHAMPOO", "350"],
@@ -183,9 +152,6 @@
         "ean": "7509546681153,7509546683041,7509546681146"
     },
     {
-        "comment": "--- LINHA NUTRE E HIDRATA ---"
-    },
-    {
         "mandatory_terms": ["PALMOLIVE", "NUTRE", "HIDRATA", "SHAMPOO", "350"],
         "ean": "7509546689944"
     },
@@ -196,9 +162,6 @@
     {
         "mandatory_terms": ["PALMOLIVE", "NUTRE", "HIDRATA"],
         "ean": "7509546689944,7509546689890,7509546689937"
-    },
-    {
-        "comment": "--- LINHA FORCE ---"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "FORCE", "SHAMPOO", "350"],
@@ -213,9 +176,6 @@
         "ean": "7509546681139,7509546681054"
     },
     {
-        "comment": "--- LINHA CACHOS LIVRES ---"
-    },
-    {
         "mandatory_terms": ["PALMOLIVE", "CACHOS", "LIVRES", "SHAMPOO", "350"],
         "ean": "7891024042311"
     },
@@ -228,9 +188,6 @@
         "ean": "7891024042311,7891024042328"
     },
     {
-        "comment": "--- LINHA SEMPRE LONGO ---"
-    },
-    {
         "mandatory_terms": ["PALMOLIVE", "SEMPRE", "LONGO", "SHAMPOO", "350"],
         "ean": "7509546659435"
     },
@@ -241,9 +198,6 @@
     {
         "mandatory_terms": ["PALMOLIVE", "SEMPRE", "LONGO"],
         "ean": "7509546659435,7509546659442"
-    },
-    {
-        "comment": "--- DEMAIS LINHAS E PRODUTOS ---"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "FORTALECE", "PROTEGE", "SHAMPOO", "350"],
@@ -260,9 +214,6 @@
     {
         "mandatory_terms": ["PALMOLIVE", "FORCA", "ANTI-DANO", "CONDICIONADOR", "350"],
         "ean": "7891024171295"
-    },
-    {
-        "comment": "--- AGRUPAMENTO FINAL DE MARCA ---"
     },
     {
         "mandatory_terms": ["PALMOLIVE"],
