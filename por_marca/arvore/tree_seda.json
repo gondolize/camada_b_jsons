@@ -1,0 +1,358 @@
+[
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","SEDA","CACHOS","DEFINIDOS"],
+       "ean": "7891150097353"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","SEDA","CERAMIDAS"],
+       "ean": "7891150097377,7891150043084"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","SEDA","LISO","PERFEITO"],
+       "ean": "7891150097384"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","SEDA","GLYCOL","VITA","C"],
+       "ean": "7891150099982"
+    },
+    {
+       "mandatory_terms":["TAMANHO","ESPECIAL","SEDA","4","GLYCOL","425"],
+       "ean": "7891150099869"
+    },
+    {
+       "mandatory_terms":["TAMANHO","ESPECIAL","SEDA","LISO","PERFEITO","425"],
+       "ean": "7891150065635"
+    },
+    {
+       "mandatory_terms":["SHAMPOO","TAMANHO","FAMILIA","SEDA","CERAMIDAS","SHAMPOO"],
+       "ean": "7891150078253"
+    },
+    {
+       "mandatory_terms":["TAMANHO","ESPECIAL","SEDA","CERAMIDAS","SHAMPOO"],
+       "ean": "7891150065550"
+    },
+    {
+       "mandatory_terms":["SEDA","COCRIACOES","CERAMIDAS","SHAMPOO","325"],
+       "ean": "7891150037397"
+    },
+    {
+       "mandatory_terms":["SEDA","CERAMIDAS","BRILHO","CREME","PENTEAR","300"],
+       "ean": "7891037144705"
+    },
+    {
+       "mandatory_terms":["SEDA","COCRIACOES","CERAMIDAS","TRATAMENTO","CONDICIONADOR","325"],
+       "ean": "7891150037250"
+    },
+    {
+       "mandatory_terms":["SEDA","CERAMIDAS","SHAMPOO"],
+       "ean":"7891150037397,7891150078253,7891150065550"
+    },
+    {
+       "mandatory_terms":["SEDA","CERAMIDAS"],
+       "ean":"7891150037397,7891037144705,7891150037250,7891150078253,7891150065550"
+    },
+    {
+       "mandatory_terms":["SEDA","CACHOS","DEFINIDOS","SHAMPOO","325"],
+       "ean": "7891150037595"
+    },
+    {
+       "mandatory_terms":["SEDA","CACHOS","DEFINIDOS","TRATAMENTO","CONDICIONADOR","325"],
+       "ean": "7891150037465"
+    },
+    {
+       "mandatory_terms":["SEDA","CACHOS","DEFINIDOS","CREME","PENTEAR","300"],
+       "ean": "7891037000322"
+    },
+    {
+       "mandatory_terms":["SEDA","COCRIACOES","CACHOS","DEFINIDOS","CONDICIONADOR","425"],
+       "ean": "7891150065659"
+    },
+    {
+       "mandatory_terms":["SEDA","CACHOS","DEFINIDOS"],
+       "ean":"7891150037595,7891150037465,7891037000322,7891150065659"
+    },
+    {
+       "mandatory_terms":["SEDA","6","GLYCOL","VITA","C","MASCARA"],
+       "ean": "7891150099883"
+    },
+    {
+       "mandatory_terms":["SEDA","6","GLYCOL","VITA","C","300"],
+       "ean": "7891150099852"
+    },
+    {
+       "mandatory_terms":["SEDA","2","GLYCOL","VITA","C","300"],
+       "ean": "7891150099845"
+    },
+    {
+       "mandatory_terms":["SEDA","4","GLYCOL","VITA","CONDICIONADOR","300"],
+       "ean": "7891150099838"
+    },
+    {
+       "mandatory_terms":["SEDA","6","GLYCOL","VITA","C","110"],
+       "ean": "7891150099821"
+    },
+    {
+       "mandatory_terms":["SEDA","GLYCOL","VITA","C"],
+       "ean":"7891150099883,7891150099852,7891150099845,7891150099838,7891150099821"
+    },
+    {
+       "mandatory_terms":["SEDA","LISO","PERFEITO","SHAMPOO","325"],
+       "ean": "7891150037519"
+    },
+    {
+       "mandatory_terms":["SEDA","LISO","PERFEITO","CREME","PENTEAR","300"],
+       "ean": "7891037010048"
+    },
+    {
+       "mandatory_terms":["SEDA","LISO","PERFEITO","TRATAMENTO","CONDICIONADOR","325"],
+       "ean": "7891150037328"
+    },
+    {
+       "mandatory_terms":["SEDA","LISO","EXTREMO","SHAMPOO","325"],
+       "ean": "7891150037502"
+    },
+    {
+       "mandatory_terms":["SEDA","LISO","EXTREMO","CONDICIONADOR","325"],
+       "ean": "7891150037632"
+    },
+    {
+       "mandatory_terms":["SEDA","LISO","SHAMPOO"],
+       "ean":"7891150037519,7891150037502"
+    },
+    {
+       "mandatory_terms":["SEDA","LISO","CONDICIONADOR"],
+       "ean":"7891150037328,7891150037632"
+    },
+    {
+       "mandatory_terms":["SEDA","LISO"],
+       "ean":"7891150037519,7891037010048,7891150037328,7891150037502,7891150037632"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","HIDRATACAO","DURADOURA","SHAMPOO","250"],
+       "ean": "7891150096288"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","HIDRATACAO","DURADOURA","CONDICIONADOR","250"],
+       "ean": "7891150096257"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","DEFINICAO","INTENSA","LIBERADO","350"],
+       "ean": "7891150096387"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","HIDRATACAO","DURADOURA","TRATAMENTO","500"],
+       "ean": "7891150088573"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","NUTRICAO","INTENSA","CONDICIONADOR","250"],
+       "ean": "7891150096271"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","HIDRATACAO","PRO","SHAMPOO","300"],
+       "ean": "7891150088467"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","PRO","CURVATURA","CREME","350"],
+       "ean": "7891150088375"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","DEFINICAO","FLEXIVEL","CREME","350"],
+       "ean": "7891150095915"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","NUTRICAO","INTENSA","SHAMPOO","250"],
+       "ean": "7891150096318"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","DEFINICAO","HIDRATACAO","CREME","PENTEAR"],
+       "ean": "7891150091788"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","NUTRICAO","INTENSA","TRATAMENTO","500"],
+       "ean": "7891150095939"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","SHAMPOO"],
+       "ean":"7891150096288,7891150088467,7891150096318"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","CONDICIONADOR"],
+       "ean":"7891150096257,7891150096271"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","CREME"],
+       "ean":"7891150088375,7891150095915,7891150091788"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM"],
+       "ean":"7891150096288,7891150096257,7891150096387,7891150088573,7891150096271,7891150088467,7891150088375,7891150095915,7891150096318,7891150091788,7891150095939"
+    },
+    {
+       "mandatory_terms":["SEDA","PREBIOTICOS","BIOTINA","CRESCIMENTO","SHAMPOO","325"],
+       "ean": "7891150091467"
+    },
+    {
+       "mandatory_terms":["SEDA","PREBIOTICOS","BIOTINA","FORCA","CRESCIMENTO"],
+       "ean": "7891150091474"
+    },
+    {
+       "mandatory_terms":["SEDA","PREBIOTICOS","BIOTINA","CRESCIMENTO","CONDICIONADOR","325"],
+       "ean": "7891150091429"
+    },
+    {
+       "mandatory_terms":["SEDA","PREBIOTICOS","BIOTINA","CRESCIMENTO","CREME","300"],
+       "ean": "7891150091436"
+    },
+    {
+       "mandatory_terms":["SEDA","PREBIOTICOS","BIOTINA"],
+       "ean":"7891150091467,7891150091474,7891150091429,7891150091436"
+    },
+    {
+       "mandatory_terms":["SEDA","COLAGENO","VITAMINA","C","SHAMPOO","325"],
+       "ean": "7891150080089"
+    },
+    {
+       "mandatory_terms":["SEDA","COLAGENO","VITAMINA","C","CONDICIONADOR","325"],
+       "ean": "7891150080096"
+    },
+    {
+       "mandatory_terms":["SEDA","COLAGENO","VITAMINA","C","MASCARA","300"],
+       "ean": "7891150080119"
+    },
+    {
+       "mandatory_terms":["SEDA","COLAGENO","VITAMINA","C"],
+       "ean":"7891150080089,7891150080096,7891150080119"
+    },
+    {
+       "mandatory_terms":["SEDA","RAYZA","BABOSA","OLEOS","SHAMPOO","325"],
+       "ean": "7891150060685"
+    },
+    {
+       "mandatory_terms":["SEDA","RAYZA","BABOSA","OLEOS","CREME","300"],
+       "ean": "7891150060883"
+    },
+    {
+       "mandatory_terms":["SEDA","RAYZA","BABOSA","OLEOS","CONDICIONADOR","325"],
+       "ean": "7891150060722"
+    },
+    {
+       "mandatory_terms":["SEDA","RAYZA","BABOSA","OLEOS"],
+       "ean":"7891150060685,7891150060883,7891150060722"
+    },
+    {
+       "mandatory_terms":["SEDA","RECARGA","NATURAL","COCO","CONDICIONADOR","325"],
+       "ean": "7891150067516"
+    },
+    {
+       "mandatory_terms":["SEDA","RECARGA","NATURAL","HIDRATACAO","CONDICIONADOR","325"],
+       "ean": "7891150037489"
+    },
+    {
+       "mandatory_terms":["SEDA","RECARGA","NATURAL","COCO","SHAMPOO","325"],
+       "ean": "7891150067509"
+    },
+    {
+       "mandatory_terms":["SEDA","RECARGA","NATURAL","BAMBU","SHAMPOO","325"],
+       "ean": "7891150070301"
+    },
+    {
+       "mandatory_terms":["SEDA","RECARGA","NATURAL","BAMBU","CONDICIONADOR","325"],
+       "ean": "7891150070295"
+    },
+    {
+       "mandatory_terms":["SEDA","RECARGA","NATURAL","SHAMPOO"],
+       "ean":"7891150067509,7891150070301"
+    },
+    {
+       "mandatory_terms":["SEDA","RECARGA","NATURAL","CONDICIONADOR"],
+       "ean":"7891150067516,7891150037489,7891150070295"
+    },
+    {
+       "mandatory_terms":["SEDA","RECARGA","NATURAL"],
+       "ean":"7891150067516,7891150037489,7891150067509,7891150070301,7891150070295"
+    },
+    {
+       "mandatory_terms":["SEDA","COCRIACOES","PRETOS","LUMINOSOS","SHAMPOO","325"],
+       "ean": "7891150037526"
+    },
+    {
+       "mandatory_terms":["SEDA","COCRIACOES","PRETOS","LUMINOSOS","CONDICIONADOR","325"],
+       "ean": "7891150037342"
+    },
+    {
+       "mandatory_terms":["SEDA","COCRIACOES","PRETOS","LUMINOSOS","CREME","300"],
+       "ean": "7898422745301"
+    },
+    {
+       "mandatory_terms":["SEDA","COCRIACOES","ARGAN","TRATAMENTO","CONDICIONADOR","325"],
+       "ean": "7891150056589"
+    },
+    {
+       "mandatory_terms":["SEDA","COCRIACOES","TRATAMENTO","CONDICIONADOR","325"],
+       "ean": "7891150037427"
+    },
+    {
+       "mandatory_terms":["SEDA","COCRIACOES","ARGAN","SHAMPOO","325"],
+       "ean": "7891150056572"
+    },
+    {
+       "mandatory_terms":["SEDA","COCRIACOES","SHAMPOO"],
+       "ean":"7891150037397,7891150037526,7891150056572"
+    },
+    {
+       "mandatory_terms":["SEDA","COCRIACOES","CONDICIONADOR"],
+       "ean":"7891150037250,7891150037342,7891150056589,7891150037427,7891150065659"
+    },
+    {
+       "mandatory_terms":["SEDA","COCRIACOES"],
+       "ean":"7891150037397,7891150037526,7891150037250,7898422745301,7891150037342,7891150056589,7891150037427,7891150056572,7891150065659"
+    },
+    {
+       "mandatory_terms":["SEDA","2","AMINO","SILK","SHAMPOO","300"],
+       "ean": "7891150101616"
+    },
+    {
+       "mandatory_terms":["SEDA","4","AMINO","SILK","CONDICIONADOR","250"],
+       "ean": "7891150101586"
+    },
+    {
+       "mandatory_terms":["SEDA","5","AMINO","SILK","CREME","300"],
+       "ean": "7891150101593"
+    },
+    {
+       "mandatory_terms":["SEDA","AMINO","SILK"],
+       "ean":"7891150101616,7891150101586,7891150101593"
+    },
+    {
+       "mandatory_terms":["SEDA","ANTI","CASPA","SHAMPOO","325"],
+       "ean": "7891150037458"
+    },
+    {
+       "mandatory_terms":["SEDA","JOIAS","GENGIBRE","HIDRATACAO","SHAMPOO","325"],
+       "ean": "7891150037601"
+    },
+    {
+       "mandatory_terms":["SEDA","JOIAS","CITRICOS","PURIFICACAO","SHAMPOO","325"],
+       "ean": "7891150037564"
+    },
+    {
+       "mandatory_terms":["SEDA","OLEO","HIDRATACAO","SHAMPOO","325"],
+       "ean": "7891150037540"
+    },
+    {
+       "mandatory_terms":["SEDA","MICELAR","HIALURONICO","CONDICIONADOR","325"],
+       "ean": "7891150063457"
+    },
+    {
+       "mandatory_terms":["SEDA","MICELAR","HIALURONICO","SHAMPOO","325"],
+       "ean": "7891150063440"
+    },
+    {
+       "mandatory_terms":["SEDA","RESTAURACAO","INSTANTANEA","SHAMPOO","325"],
+       "ean": "7891150037571"
+    },
+    {
+       "mandatory_terms":["SEDA"],
+       "ean":"7891150037397,7891150037595,7891150099883,7891150037519,7891150037458,7891150099852,7891150099845,7891037144705,7891150037526,7891150037250,7891150099838,7891037010048,7891150037328,7891150037601,7891150096288,7891150037465,7891150091467,7891150080089,7891150037502,7891150060685,7891150037342,7891150037564,7891150096257,7891037000322,7891150060883,7891150096387,7891150088573,7891150080096,7891150091474,7891150037540,7891150096271,7891150099821,7891150060722,7898422745301,7891150067516,7891150056589,7891150037632,7891150037489,7891150063457,7891150088467,7891150101616,7891150088375,7891150067509,7891150037427,7891150080119,7891150091429,7891150095915,7891150096318,7891150099869,7891150065635,7891150078253,7891150070301,7891150037571,7891150091788,7891150056572,7891150065659,7891150091436,7891150101593,7891150095939,7891150063440,7891150070295,7891150065550"
+    }
+]

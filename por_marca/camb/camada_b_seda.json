@@ -1,0 +1,342 @@
+[
+    {
+       "mandatory_terms":["SEDA","CERAMIDAS","SHAMPOO","325"],
+       "optional_terms": ["COCRIACOES"],
+       "ean": "7891150037397"
+    },
+    {
+       "mandatory_terms":["SEDA","CACHOS","DEFINIDOS","SHAMPOO","325"],
+       "optional_terms": ["COCRIACOES", "JUNTAS"],
+       "ean": "7891150037595"
+    },
+    {
+       "mandatory_terms":["SEDA","6","GLYCOL","VITA","MASCARA"],
+       "optional_terms": ["C","LUMINOUS", "UV"],
+       "ean": "7891150099883"
+    },
+    {
+       "mandatory_terms":["SEDA","LISO","PERFEITO","SHAMPOO","325"],
+       "optional_terms": ["COCRIACOES", "JUNTAS"],
+       "ean": "7891150037519"
+    },
+    {
+       "mandatory_terms":["SEDA","ANTI","CASPA","SHAMPOO","325"],
+       "optional_terms": ["COCRIACOES", "JUNTAS"],
+       "ean": "7891150037458"
+    },
+    {
+       "mandatory_terms":["SEDA","6","GLYCOL","VITA","300"],
+       "optional_terms": ["C","LUMINOUS", "UV"],
+       "ean": "7891150099852"
+    },
+    {
+       "mandatory_terms":["SEDA","2","GLYCOL","VITA","300"],
+       "optional_terms": ["C","LUMINOUS", "UV"],
+       "ean": "7891150099845"
+    },
+    {
+       "mandatory_terms":["SEDA","CERAMIDAS","CREME","PENTEAR","300"],
+       "optional_terms": ["BRILHO","CABELOS"],
+       "ean": "7891037144705"
+    },
+    {
+       "mandatory_terms":["SEDA","PRETOS","LUMINOSOS","SHAMPOO","325"],
+       "optional_terms": ["COCRIACOES","INFUSAO"],
+       "ean": "7891150037526"
+    },
+    {
+       "mandatory_terms":["SEDA","CERAMIDAS","TRATAMENTO","CONDICIONADOR","325"],
+       "optional_terms": ["COCRIACOES"],
+       "ean": "7891150037250"
+    },
+    {
+       "mandatory_terms":["SEDA","4","GLYCOL","VITA","300"],
+       "optional_terms": ["LUMINOUS", "UV", "CONDICIONADOR"],
+       "ean": "7891150099838"
+    },
+    {
+       "mandatory_terms":["SEDA","LISO","CREME","300"],
+       "optional_terms": ["PERFEITO","PENTEAR"],
+       "ean": "7891037010048"
+    },
+    {
+       "mandatory_terms":["SEDA","LISO","PERFEITO","TRATAMENTO","325"],
+       "optional_terms": ["CONDICIONADOR"],
+       "ean": "7891150037328"
+    },
+    {
+       "mandatory_terms":["SEDA","JOIAS","GENGIBRE","SHAMPOO","325"],
+       "optional_terms": ["HIDRATACAO", "ANTI-NOS"],
+       "ean": "7891150037601"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","HIDRATACAO","SHAMPOO","250"],
+       "optional_terms": ["DURADOURA", "HIGIENIZADOR"],
+       "ean": "7891150096288"
+    },
+    {
+       "mandatory_terms":["SEDA","CACHOS","DEFINIDOS","TRATAMENTO","325"],
+       "optional_terms": ["CONDICIONADOR"],
+       "ean": "7891150037465"
+    },
+    {
+       "mandatory_terms":["SEDA","PREBIOTICOS","BIOTINA","CRESCIMENTO","SHAMPOO","325"],
+       "optional_terms": ["FORCA"],
+       "ean": "7891150091467"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","SEDA","CACHOS","DEFINIDOS"],
+       "optional_terms": ["NOVO"],
+       "ean": "7891150097353"
+    },
+    {
+       "mandatory_terms":["SEDA","COLAGENO","VITAMINA","SHAMPOO","325"],
+       "optional_terms": ["C", "NIINA", "SECRETS"],
+       "ean": "7891150080089"
+    },
+    {
+       "mandatory_terms":["SEDA","LISO","EXTREMO","SHAMPOO","325"],
+       "optional_terms": ["INFUSAO"],
+       "ean": "7891150037502"
+    },
+    {
+       "mandatory_terms":["SEDA","BABOSA","OLEOS","SHAMPOO","325"],
+       "optional_terms": ["RAYZA"],
+       "ean": "7891150060685"
+    },
+    {
+       "mandatory_terms":["SEDA","PRETOS","LUMINOSOS","CONDICIONADOR","325"],
+       "optional_terms": ["COCRIACOES"],
+       "ean": "7891150037342"
+    },
+    {
+       "mandatory_terms":["SEDA","JOIAS","CITRICOS","PURIFICACAO","SHAMPOO","325"],
+       "optional_terms": ["PURIFICACAO","DETOX"],
+       "ean": "7891150037564"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","HIDRATACAO","DURADOURA","CONDICIONADOR","250"],
+       "optional_terms": ["HIDRATANTE"],
+       "ean": "7891150096257"
+    },
+    {
+       "mandatory_terms":["SEDA","CACHOS","CREME","PENTEAR", "300"],
+       "optional_terms": ["DEFINIDOS","CONTROLA","FRIZZ"],
+       "ean": "7891037000322"
+    },
+    {
+       "mandatory_terms":["SEDA","BABOSA","OLEOS","300"],
+       "optional_terms": ["RAYZA","CREME","PARA","PENTEAR"],
+       "ean": "7891150060883"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","DEFINICAO","INTENSA","350"],
+       "optional_terms": ["LIBERADO"],
+       "ean": "7891150096387"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","HIDRATACAO","DURADOURA","500"],
+       "optional_terms": ["TRATAMENTO","INTENSIVO"],
+       "ean": "7891150088573"
+    },
+    {
+       "mandatory_terms":["SEDA","COLAGENO","VITAMINA","CONDICIONADOR","325"],
+       "optional_terms": ["C"],
+       "ean": "7891150080096"
+    },
+    {
+       "mandatory_terms":["SEDA","PREBIOTICOS","BIOTINA"],
+       "optional_terms": ["FORCA","CRESCIMENTO","MASCARA"],
+       "ean": "7891150091474"
+    },
+    {
+       "mandatory_terms":["SEDA","OLEO","HIDRATACAO","SHAMPOO","325"],
+       "optional_terms": ["INFUSAO","ATIVA"],
+       "ean": "7891150037540"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","NUTRICAO","INTENSA","CONDICIONADOR","250"],
+       "optional_terms": ["OLEO-NUTRITIVO"],
+       "ean": "7891150096271"
+    },
+    {
+       "mandatory_terms":["SEDA","GLYCOL","VITA"],
+       "optional_terms": ["6","C","110"],
+       "ean": "7891150099821"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","SEDA","CERAMIDAS"],
+       "optional_terms": ["COLAGENO"],
+       "ean": "7891150097377"
+    },
+    {
+       "mandatory_terms":["SEDA","BABOSA","OLEOS","CONDICIONADOR","325"],
+       "optional_terms": ["RAYZA"],
+       "ean": "7891150060722"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","SEDA","LISO","PERFEITO"],
+       "optional_terms": ["FORTE"],
+       "ean": "7891150097384"
+    },
+    {
+       "mandatory_terms":["SEDA","PRETOS","LUMINOSOS","CREME","300"],
+       "optional_terms": ["COCRIACOES","PARA", "PENTEAR"],
+       "ean": "7898422745301"
+    },
+    {
+       "mandatory_terms":["SEDA","RECARGA","NATURAL","COCO","CONDICIONADOR", "325"],
+       "optional_terms": ["BOMBA"],
+       "ean": "7891150067516"
+    },
+    {
+       "mandatory_terms":["SEDA","ARGAN","TRATAMENTO","CONDICIONADOR","325"],
+       "optional_terms": ["COCRIACOES"],
+       "ean": "7891150056589"
+    },
+    {
+       "mandatory_terms":["SEDA","LISO","EXTREMO","CONDICIONADOR","325"],
+       "optional_terms": ["COCRIACOES"],
+       "ean": "7891150037632"
+    },
+    {
+       "mandatory_terms":["SEDA","ANTINOS","HIDRATACAO","CONDICIONADOR","325"],
+       "optional_terms": ["NATURAL"],
+       "ean": "7891150037489"
+    },
+    {
+       "mandatory_terms":["SEDA","MICELAR","HIALURONICO","CONDICIONADOR","325"],
+       "optional_terms": ["NOVA"],
+       "ean": "7891150063457"
+    },
+    {
+       "mandatory_terms":["SEDA","HIDRATACAO","PRO","SHAMPOO","300"],
+       "optional_terms": ["BOOM"],
+       "ean": "7891150088467"
+    },
+    {
+       "mandatory_terms":["SEDA","2","AMINO-SILK","SHAMPOO","300"],
+       "optional_terms": ["TOQUE"],
+       "ean": "7891150101616"
+    },
+    {
+       "mandatory_terms":["SEDA","PRO","CURVATURA","CREME","350"],
+       "optional_terms": ["BOOM"],
+       "ean": "7891150088375"
+    },
+    {
+       "mandatory_terms":["SEDA","RECARGA","COCO","SHAMPOO", "325"],
+       "optional_terms": ["NATURAL"],
+       "ean": "7891150067509"
+    },
+    {
+       "mandatory_terms":["SEDA","RESTAURACAO","CONDICIONADOR","325","INSTANTANEA"],
+       "optional_terms": ["TRATAMENTO"],
+       "ean": "7891150037427"
+    },
+    {
+       "mandatory_terms":["SEDA","COLAGENO","VITAMINA","C","MASCARA","300"],
+       "optional_terms": ["+"],
+       "ean": "7891150080119"
+    },
+    {
+       "mandatory_terms":["SEDA","PREBIOTICOS","BIOTINA","CONDICIONADOR","325"],
+       "optional_terms": ["CRESCIMENTO"],
+       "ean": "7891150091429"
+    },
+    {
+       "mandatory_terms":["SEDA","DEFINICAO","FLEXIVEL","CREME","350"],
+       "optional_terms": ["BOOM"],
+       "ean": "7891150095915"
+    },
+    {
+       "mandatory_terms":["SEDA","NUTRICAO","INTENSA","SHAMPOO","250"],
+       "optional_terms": ["BOOM"],
+       "ean": "7891150096318"
+    },
+    {
+       "mandatory_terms":["SEDA","AMINO-SILK","CONDICIONADOR","250"],
+       "optional_terms": ["4"],
+       "ean": "7891150101586"
+    },
+    {
+       "mandatory_terms":["TAMANHO","ESPECIAL","SEDA","GLYCOL","425"],
+       "optional_terms": ["VITA"],
+       "ean": "7891150099869"
+    },
+    {
+       "mandatory_terms":["CONDICIONADOR","SEDA","LISO","PERFEITO","425"],
+       "optional_terms": ["TAMANHO"],
+       "ean": "7891150065635"
+    },
+    {
+       "mandatory_terms":["SHAMPOO","670","SEDA","CERAMIDAS","SHAMPOO"],
+       "optional_terms": ["TAMANHO"],
+       "ean": "7891150078253"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","SEDA","GLYCOL","VITA","C"],
+       "optional_terms": ["+"],
+       "ean": "7891150099982"
+    },
+    {
+       "mandatory_terms":["SEDA","RECARGA","BIOTINA","SHAMPOO","325"],
+       "optional_terms": ["NATURAL"],
+       "ean": "7891150070301"
+    },
+    {
+       "mandatory_terms":["SEDA","RESTAURACAO","INSTANTANEA","SHAMPOO","325"],
+       "optional_terms": ["INFUSAO"],
+       "ean": "7891150037571"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","DEFINICAO","HIDRATACAO","CREME"],
+       "optional_terms": ["PENTEAR"],
+       "ean": "7891150091788"
+    },
+    {
+       "mandatory_terms":["SEDA","COCRIACOES","ARGAN","SHAMPOO","325"],
+       "optional_terms": ["BOMBA"],
+       "ean": "7891150056572"
+    },
+    {
+       "mandatory_terms":["SEDA","CACHOS","DEFINIDOS","CONDICIONADOR","425"],
+       "optional_terms": ["TAMANHO"],
+       "ean": "7891150065659"
+    },
+    {
+       "mandatory_terms":["SEDA","PREBIOTICOS","BIOTINA","CREME","300"],
+       "optional_terms": ["CRESCIMENTO"],
+       "ean": "7891150091436"
+    },
+    {
+       "mandatory_terms":["SEDA","5","AMINO","SILK","CREME","300"],
+       "optional_terms": ["AMINO-SILK"],
+       "ean": "7891150101593"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","SEDA","CERAMIDAS"],
+       "optional_terms": ["CONJUNTO"],
+       "ean": "7891150043084"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","NUTRICAO","INTENSA","500"],
+       "optional_terms": ["TRATAMENTO"],
+       "ean": "7891150095939"
+    },
+    {
+       "mandatory_terms":["SEDA","MICELAR","HIALURONICO","SHAMPOO","325"],
+       "optional_terms": ["+"],
+       "ean": "7891150063440"
+    },
+    {
+       "mandatory_terms":["SEDA","RECARGA","BIOTINA","CONDICIONADOR","325"],
+       "optional_terms": ["NATURAL"],
+       "ean": "7891150070295"
+    },
+    {
+       "mandatory_terms":["TAMANHO","SEDA","CERAMIDAS","SHAMPOO","425"],
+       "optional_terms": ["ECONOMICO"],
+       "ean": "7891150065550"
+    }
+]
