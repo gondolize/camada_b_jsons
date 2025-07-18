@@ -1,0 +1,357 @@
+[
+    {
+       "mandatory_terms":["DOVE","BRILHO","OLEO","MICELAR","CONDICIONADOR","200"],
+       "optional_terms": [],
+       "ean": "7891150055193"
+    },
+    {
+       "mandatory_terms":["DOVE","TEXTURAS","REAIS","CRESPOS","SHAMPOO","355"],
+       "optional_terms": [],
+       "ean": "7891150087309"
+    },
+    {
+       "mandatory_terms":["DOVE","HIDRATACAO","INTENSA","SHAMPOO","200"],
+       "optional_terms": [],
+       "ean": "7891150054462"
+    },
+    {
+       "mandatory_terms":["DOVE","BOND","INTENSE","REPAIR","SHAMPOO","175"],
+       "optional_terms": [],
+       "ean": "7891150095571"
+    },
+    {
+       "mandatory_terms":["DOVE","NUTRICAO","OLEO-MICELAR","SHAMPOO","200"],
+       "optional_terms": [],
+       "ean": "7891150055186"
+    },
+    {
+       "mandatory_terms":["DOVE","NUTRICAO","OLEO-MICELAR","SHAMPOO","400"],
+       "optional_terms": [],
+       "ean": "7891150055162"
+    },
+    {
+       "mandatory_terms":["DOVE","NUTRICAO","FUSAO","OLEO","SHAMPOO","400"],
+       "optional_terms": [],
+       "ean": "7891150017368"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","DOVE","RECONSTRUCAO","QUERATINA"],
+       "optional_terms": [],
+       "ean": "7891150093263"
+    },
+    {
+       "mandatory_terms":["DOVE","BOND","INTENSE","REPAIR","CONDICIONADOR","150"],
+       "optional_terms": [],
+       "ean": "7891150095564"
+    },
+    {
+       "mandatory_terms":["DOVE","HIDRATACAO","INTENSA","SHAMPOO","400"],
+       "optional_terms": [],
+       "ean": "7891150054455"
+    },
+    {
+       "mandatory_terms":["DOVE","BOND","INTENSE","REPAIR","SHAMPOO","350"],
+       "optional_terms": [],
+       "ean": "7891150095588"
+    },
+    {
+       "mandatory_terms":["DOVE","RITUAL","REPARACAO","SHAMPOO","200"],
+       "optional_terms": [],
+       "ean": "7891150050082"
+    },
+    {
+       "mandatory_terms":["DOVE","HIDRA-LISO","SHAMPOO","400"],
+       "optional_terms": [],
+       "ean": "7891150075283"
+    },
+    {
+       "mandatory_terms":["DOVE","BOND","INTENSE","REPAIR","CONDICIONADOR","250"],
+       "optional_terms": [],
+       "ean": "7891150095595"
+    },
+    {
+       "mandatory_terms":["DOVE","TEXTURAS","REAIS","CACHEADOS","SHAMPOO","400"],
+       "optional_terms": [],
+       "ean": "7891150084483"
+    },
+    {
+       "mandatory_terms":["DOVE","BRILHO","OLEO","MICELAR","CONDICIONADOR","400"],
+       "optional_terms": [],
+       "ean": "7891150055179"
+    },
+    {
+       "mandatory_terms":["DOVE","HIDRATACAO","INTENSA","CONDICIONADOR","200"],
+       "optional_terms": [],
+       "ean": "7891150054479"
+    },
+    {
+       "mandatory_terms":["DOVE","RECONSTRUCAO","COMPLETA","SHAMPOO","200"],
+       "optional_terms": [],
+       "ean": "7891150008953"
+    },
+    {
+       "mandatory_terms":["DOVE","OLEO","NUTRICAO","SHAMPOO","200"],
+       "optional_terms": [],
+       "ean": "7891150017351"
+    },
+    {
+       "mandatory_terms":["DOVE","RECONSTRUCAO","QUERATINA","SHAMPOO","400"],
+       "optional_terms": [],
+       "ean": "7791293005010"
+    },
+    {
+       "mandatory_terms":["DOVE","OLEO","NUTRICAO","SHAMPOO","670"],
+       "optional_terms": [],
+       "ean": "7891150078017"
+    },
+    {
+       "mandatory_terms":["DOVE","HIDRATACAO","INTENSA","CONDICIONADOR","400"],
+       "optional_terms": [],
+       "ean": "7891150054448"
+    },
+    {
+       "mandatory_terms":["DOVE","10","1","BOND","INTENSE","MASCARA"],
+       "optional_terms": [],
+       "ean": "7891150095557"
+    },
+    {
+       "mandatory_terms":["DOVE","RITUAL","REPARACAO","CONDICIONADOR","200"],
+       "optional_terms": [],
+       "ean": "7891150050129"
+    },
+    {
+       "mandatory_terms":["DOVE","TEXTURAS","REAIS","CACHEADOS","CONDICIONADOR","400"],
+       "optional_terms": [],
+       "ean": "7891150084490"
+    },
+    {
+       "mandatory_terms":["DOVE","RECONSTRUCAO","COMPLETA","SHAMPOO","670"],
+       "optional_terms": [],
+       "ean": "7891150077997"
+    },
+    {
+       "mandatory_terms":["DOVE","RECONSTRUCAO","QUERATINA","2","1","MASCARA"],
+       "optional_terms": [],
+       "ean": "7891150096745"
+    },
+    {
+       "mandatory_terms":["DOVE","OLEO","NUTRICAO","CONDICIONADOR","400"],
+       "optional_terms": [],
+       "ean": "7891150017337"
+    },
+    {
+       "mandatory_terms":["DOVE","TEXTURAS","REAIS","CRESPOS","CONDICIONADOR","400"],
+       "optional_terms": [],
+       "ean": "7891150084506"
+    },
+    {
+       "mandatory_terms":["DOVE","RECONSTRUCAO","QUERATINA","CONDICIONADOR","200"],
+       "optional_terms": [],
+       "ean": "7891150008816"
+    },
+    {
+       "mandatory_terms":["DOVE","RECONSTRUCAO","QUERATINA","CONDICIONADOR","400"],
+       "optional_terms": [],
+       "ean": "7791293004976"
+    },
+    {
+       "mandatory_terms":["DOVE","NUTRICAO","FUSAO","OLEOS","CONDICIONADOR","200"],
+       "optional_terms": [],
+       "ean": "7891150017375"
+    },
+    {
+       "mandatory_terms":["DOVE","NUTRICAO","FUSAO","OLEOS","2","1"],
+       "optional_terms": [],
+       "ean": "7891150096752"
+    },
+    {
+       "mandatory_terms":["DOVE","TEXTURAS","REAIS","CACHEADOS","CREME","PENTEAR"],
+       "optional_terms": [],
+       "ean": "7891150087286"
+    },
+    {
+       "mandatory_terms":["DOVE","TEXTURAS","REAIS","CRESPOS","CREME","PENTEAR"],
+       "optional_terms": [],
+       "ean": "7891150087293"
+    },
+    {
+       "mandatory_terms":["DOVE","RECONSTRUCAO","QUERATINA","2","1","MASCARA"],
+       "optional_terms": [],
+       "ean": "7891150096738"
+    },
+    {
+       "mandatory_terms":["DOVE","RITUAL","REPARACAO","CONDICIONADOR","400"],
+       "optional_terms": [],
+       "ean": "7891150050112"
+    },
+    {
+       "mandatory_terms":["DOVE","MASCARA","ALTA","POTENCIA"],
+       "optional_terms": [],
+       "ean": "7891150084803"
+    },
+    {
+       "mandatory_terms":["DOVE","BOND","INTENSE","REPAIR","CREME","50"],
+       "optional_terms": [],
+       "ean": "7891150095601"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","DOVE","NUTRICAO"],
+       "optional_terms": [],
+       "ean": "7891150093256"
+    },
+    {
+       "mandatory_terms":["DOVE","HIDRA-LISO","CONDICIONADOR","400"],
+       "optional_terms": [],
+       "ean": "7891150075306"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","DOVE","BOND","INTENSE","REPAIR"],
+       "optional_terms": [],
+       "ean": "7891150097643"
+    },
+    {
+       "mandatory_terms":["DOVE","RITUAL","REPARACAO","MASCARA","1","MINUTO"],
+       "optional_terms": [],
+       "ean": "7891150080744"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","DOVE","RITUAL","REPARACAO"],
+       "optional_terms": [],
+       "ean": "7891150095250"
+    },
+    {
+       "mandatory_terms":["DOVE","RECONSTRUCAO","CREME","PENTEAR","200"],
+       "optional_terms": [],
+       "ean": "7891150094963"
+    },
+    {
+       "mandatory_terms":["DOVE","BOND","INTENSE","REPAIR","SERUM","110"],
+       "optional_terms": [],
+       "ean": "7891150095540"
+    },
+    {
+       "mandatory_terms":["DOVE","SECRETS","RITUAL","CRESCIMENTO","SHAMPOO","400"],
+       "optional_terms": [],
+       "ean": "7891150050105"
+    },
+    {
+       "mandatory_terms":["DOVE","TEXTURAS","REAIS","CACHEADOS","SHAMPOO","200"],
+       "optional_terms": [],
+       "ean": "7891150086975"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","DOVE","HIDRATACAO","POTENTE"],
+       "optional_terms": [],
+       "ean": "7891150095533"
+    },
+    {
+       "mandatory_terms":["DOVE","10","1","RECONSTRUCAO","MASCARA","TRATAMENTO"],
+       "optional_terms": [],
+       "ean": "7891150094918"
+    },
+    {
+       "mandatory_terms":["DOVE","MEN","CARE","SHAMPOO","FORCA","400"],
+       "optional_terms": [],
+       "ean": "7891150021679"
+    },
+    {
+       "mandatory_terms":["DOVE","SECRETS","RITUAL","CRESCIMENTO","CONDICIONADOR","400"],
+       "optional_terms": [],
+       "ean": "7891150050143"
+    },
+    {
+       "mandatory_terms":["DOVE","10","1","NUTRICAO","MASCARA","TRATAMENTO"],
+       "optional_terms": [],
+       "ean": "7891150094895"
+    },
+    {
+       "mandatory_terms":["DOVE","RITUAL","CRESCIMENTO","500"],
+       "optional_terms": [],
+       "ean": "7891150080768"
+    },
+    {
+       "mandatory_terms":["DOVE","SECRETS","RITUAL","REPARACAO","SHAMPOO","200"],
+       "optional_terms": [],
+       "ean": "7891150050075"
+    },
+    {
+       "mandatory_terms":["DOVE","10","1","HIDRATACAO","MASCARA","TRATAMENTO"],
+       "optional_terms": [],
+       "ean": "7891150094949"
+    },
+    {
+       "mandatory_terms":["DOVE","10","1","BRILHO","MASCARA","TRATAMENTO"],
+       "optional_terms": [],
+       "ean": "7891150094932"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","DOVE","TEXTURAS","REAIS","CACHEADOS"],
+       "optional_terms": [],
+       "ean": "7891150090088"
+    },
+    {
+       "mandatory_terms":["DOVE","MEN","CARE","SHAMPOO","REFRESCANTE","200"],
+       "optional_terms": [],
+       "ean": "7891150021686"
+    },
+    {
+       "mandatory_terms":["DOVE","MEN","CARE","SHAMPOO","ALIVIO","400"],
+       "optional_terms": [],
+       "ean": "7891150062528"
+    },
+    {
+       "mandatory_terms":["DOVE","RECONSTRUCAO","5","1","MULTIFUNCIONAL","175"],
+       "optional_terms": [],
+       "ean": "7891150095243"
+    },
+    {
+       "mandatory_terms":["DOVE","HIDRATACAO","VITAMINAS","SERUM","FLUIDO","110"],
+       "optional_terms": [],
+       "ean": "7891150094345"
+    },
+    {
+       "mandatory_terms":["DOVE","NUTRICAO","TRATAMENTO","NOTURNO","175"],
+       "optional_terms": [],
+       "ean": "7891150095236"
+    },
+    {
+       "mandatory_terms":["DOVE","MEN","CARE","SHAMPOO","LIMPEZA","400"],
+       "optional_terms": [],
+       "ean": "7891150021693"
+    },
+    {
+       "mandatory_terms":["DOVE","MEN","CARE","SHAMPOO","SPORTS","200"],
+       "optional_terms": [],
+       "ean": "7891150068926"
+    },
+    {
+       "mandatory_terms":["DOVE","MEN","CARE","SHAMPOO","PROTECAO","400"],
+       "optional_terms": [],
+       "ean": "7891150021716"
+    },
+    {
+       "mandatory_terms":["DOVE","MEN","CARE","SHAMPOO","PROTECAO","200"],
+       "optional_terms": [],
+       "ean": "7891150021709"
+    },
+    {
+       "mandatory_terms":["DOVE","DETOX","PURIFICANTE","CONDICIONADOR","400"],
+       "optional_terms": [],
+       "ean": "7891150062498"
+    },
+    {
+       "mandatory_terms":["DOVE","REGENERACAO","EXTREMA","CONDICIONADOR","400"],
+       "optional_terms": [],
+       "ean": "7891150043237"
+    },
+    {
+       "mandatory_terms":["DOVE","REGENERACAO","EXTREMA","CONDICIONADOR","200"],
+       "optional_terms": [],
+       "ean": "7891150043282"
+    },
+    {
+       "mandatory_terms":["DOVE","HIALURONICO","DERMO","RENOVADOR","380"],
+       "optional_terms": [],
+       "ean": "7891150095830"
+    }
+]

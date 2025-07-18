@@ -1,0 +1,1009 @@
+[
+
+    {
+
+       "comment": "INICIO - KITS",
+
+       "note": "Hierarquia de Kits"
+
+    },
+
+    {
+
+       "mandatory_terms":["KIT", "PROMOCIONAL", "PANTENE", "BIOTINAMINA B3", "ANTIQUEDA", "300"],
+
+       "ean":"7500435253598"
+
+    },
+
+    {
+
+       "mandatory_terms":["KIT", "PROMOCIONAL", "PANTENE", "PRO-V", "MIRACLES", "QUERATINA"],
+
+       "ean":"7500435233644"
+
+    },
+
+    {
+
+       "mandatory_terms":["KIT", "PROMOCIONAL", "PANTENE", "PRO-V", "MIRACLES", "COLAGENO"],
+
+       "ean":"7500435200301"
+
+    },
+
+    {
+
+       "mandatory_terms":["KIT", "PROMOCIONAL", "PANTENE", "PRO-V", "MIRACLES", "EQUILIBRIO"],
+
+       "ean":"7500435215565"
+
+    },
+
+    {
+
+       "mandatory_terms":["KIT", "PROMOCIONAL", "PANTENE", "PRO-V", "MIRACLES"],
+
+       "ean":"7500435233644,7500435200301,7500435215565"
+
+    },
+
+    {
+
+       "mandatory_terms":["KIT", "DESCONTO", "PANTENE", "CABELO LONGO", "E FORTE", "400"],
+
+       "ean":"7500435188227,7500435199780"
+
+    },
+
+    {
+
+       "mandatory_terms":["KIT", "DESCONTO", "PANTENE", "CABELO LONGO", "E FORTE", "350"],
+
+       "ean":"7500435169370,7500435169363,7500435128384,7500435169387"
+
+    },
+
+    {
+
+       "mandatory_terms":["KIT", "DESCONTO", "PANTENE", "CABELO LONGO", "E FORTE", "175"],
+
+       "ean":"7500435128360,7500435128353,7500435128346,7500435128391"
+
+    },
+
+    {
+
+       "mandatory_terms":["KIT", "DESCONTO", "PANTENE", "CABELO LONGO", "E FORTE"],
+
+       "ean":"7500435188227,7500435199780,7500435169370,7500435169363,7500435128384,7500435169387,7500435128360,7500435128353,7500435128346,7500435128391,7500435137577,7500435169356"
+
+    },
+
+    {
+
+       "mandatory_terms":["KIT", "PROMOCIONAL", "PANTENE"],
+
+       "ean":"7500435253598,7500435233644,7500435200301,7500435215565"
+
+    },
+
+    {
+
+       "mandatory_terms":["KIT", "DESCONTO", "PANTENE"],
+
+       "ean":"7500435188227,7500435199780,7500435169370,7500435169363,7500435128384,7500435169387,7500435128360,7500435128353,7500435128346,7500435128391,7500435137577,7500435169356"
+
+    },
+
+    {
+
+       "mandatory_terms":["KIT", "PANTENE"],
+
+       "ean":"7500435253598,7500435233644,7500435200301,7500435215565,7500435188227,7500435199780,7500435169370,7500435169363,7500435128384,7500435169387,7500435128360,7500435128353,7500435128346,7500435128391,7500435137577,7500435169356"
+
+    },
+
+    {
+
+       "mandatory_terms":["KIT"],
+
+       "ean":"7500435253598,7500435233644,7500435200301,7500435215565,7500435188227,7500435199780,7500435169370,7500435169363,7500435128384,7500435169387,7500435128360,7500435128353,7500435128346,7500435128391,7500435137577,7500435169356"
+
+    },
+
+    {
+
+       "comment": "FIM - KITS"
+
+    },
+
+    {
+
+       "comment": "INICIO - LINHAS REGULARES (GARRAFAS, POTES, BISNAGAS, ETC)",
+
+       "note":"Agrupados por linha de produto"
+
+    },
+
+    {
+
+       "comment": "--- LINHA RESTAURACAO ---"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "RESTAURACAO", "SHAMPOO", "400"],
+
+       "ean":"7501006721133"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "RESTAURACAO", "SHAMPOO", "175"],
+
+       "ean":"7500435125468"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "RESTAURACAO", "CONDICIONADOR", "400"],
+
+       "ean":"7501006721317"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "RESTAURACAO", "CONDICIONADOR", "175"],
+
+       "ean":"7500435125451"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "RESTAURACAO", "MASCARA", "INTENSIVA", "270"],
+
+       "ean":"7500435142243"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "3 MINUTOS", "MILAGROSOS", "RESTAURACAO", "170"],
+
+       "ean":"7500435106382"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "RESTAURACAO", "SHAMPOO"],
+
+       "ean":"7501006721133,7500435125468"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "RESTAURACAO", "CONDICIONADOR"],
+
+       "ean":"7501006721317,7500435125451"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "RESTAURACAO"],
+
+       "ean":"7501006721133,7500435125468,7501006721317,7500435125451,7500435142243,7500435106382"
+
+    },
+
+    {
+
+       "comment": "--- LINHA HIDRATACAO ---"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "HIDRATACAO", "SHAMPOO", "400"],
+
+       "ean":"7501007413921"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "HIDRATACAO", "SHAMPOO", "175"],
+
+       "ean":"7500435125383"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "HIDRATACAO", "CONDICIONADOR", "400"],
+
+       "ean":"7501007413105"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "HIDRATACAO", "CONDICIONADOR", "175"],
+
+       "ean":"7500435125376"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "HIDRATACAO", "MASCARA", "INTENSIVA", "270"],
+
+       "ean":"7500435142229"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "3 MINUTOS", "MILAGROSOS", "HIDRATACAO", "170"],
+
+       "ean":"7500435116305"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "HIDRATACAO", "SHAMPOO"],
+
+       "ean":"7501007413921,7500435125383"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "HIDRATACAO", "CONDICIONADOR"],
+
+       "ean":"7501007413105,7500435125376"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "HIDRATACAO"],
+
+       "ean":"7501007413921,7500435125383,7501007413105,7500435125376,7500435142229,7500435116305"
+
+    },
+
+    {
+
+       "comment": "--- LINHA LISO EXTREMO ---"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "LISO", "EXTREMO", "SHAMPOO", "400"],
+
+       "ean":"7501001165246"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "LISO", "EXTREMO", "SHAMPOO", "175"],
+
+       "ean":"7501001165246"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "LISO", "EXTREMO", "CONDICIONADOR", "400"],
+
+       "ean":"7501001165253"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "LISO", "EXTREMO", "CONDICIONADOR", "175"],
+
+       "ean":"7500435125413"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "LISO", "PRO-V", "CREME", "PARA", "PENTEAR", "240"],
+
+       "ean":"7506195167281"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "LISO", "EXTREMO", "SHAMPOO"],
+
+       "ean":"7501001165246"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "LISO", "EXTREMO", "CONDICIONADOR"],
+
+       "ean":"7501001165253,7500435125413"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "LISO", "EXTREMO"],
+
+       "ean":"7501001165246,7501001165253,7500435125413"
+
+    },
+
+    {
+
+        "comment":"--- LINHA BAMBU ---"
+
+    },
+
+    {
+
+        "mandatory_terms":["PANTENE", "PRO-V", "BAMBU", "CRESCE", "SHAMPOO", "400"],
+
+        "ean":"7500435154239"
+
+     },
+
+     {
+
+        "mandatory_terms":["PANTENE", "PRO-V", "BAMBU", "SHAMPOO", "200"],
+
+        "ean":"7500435154222"
+
+     },
+
+     {
+
+        "mandatory_terms":["PANTENE", "PRO-V", "BAMBU", "NUTRE & CRESCE", "CONDICIONADOR", "150"],
+
+        "ean":"7500435154260"
+
+     },
+
+     {
+
+        "mandatory_terms":["PANTENE", "PRO-V", "BAMBU", "NUTRE & CRESCE", "CONDICIONADOR", "250"],
+
+        "ean":"7500435154277"
+
+     },
+
+     {
+
+        "mandatory_terms":["PANTENE", "BAMBU", "NUTRE", "CRESCE", "600"],
+
+        "ean":"7500435154291"
+
+     },
+
+     {
+
+        "mandatory_terms":["PANTENE", "BAMBU", "PRO-V", "CREME", "PARA", "PENTEAR", "240"],
+
+        "ean":"7500435154307"
+
+     },
+
+     {
+
+        "mandatory_terms":["PANTENE", "PRO-V", "BAMBU", "SHAMPOO"],
+
+        "ean":"7500435154239,7500435154222"
+
+     },
+
+     {
+
+        "mandatory_terms":["PANTENE", "PRO-V", "BAMBU"],
+
+        "ean":"7500435154239,7500435154222,7500435154260,7500435154277,7500435154291,7500435154307"
+
+     },
+
+    {
+
+       "comment": "--- SUB-MARCA MIRACLES ---"
+
+    },
+
+    {
+
+       "comment": "--- MIRACLES - COLAGENO ---"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "COLAGENO", "SHAMPOO", "510"],
+
+       "ean":"7500435151498"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "COLAGENO", "SHAMPOO", "300"],
+
+       "ean":"7500435196987"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "COLAGENO", "SHAMPOO", "175"],
+
+       "ean":"7500435196970"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "COLAGENO", "SHAMPOO", "1"],
+
+       "ean":"7500435243117"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "COLAGENO", "CONDICIONADOR", "510"],
+
+       "ean":"7500435151504"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "COLAGENO", "CONDICIONADOR", "250"],
+
+       "ean":"7500435197007"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "COLAGENO", "CONDICIONADOR", "150"],
+
+       "ean":"7500435196994"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "COLAGENO", "CONDICIONADOR", "1"],
+
+       "ean":"7500435243490"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "COLAGENO", "MASCARA", "HIDRATANTE", "550"],
+
+       "ean":"7500435197014"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "COLAGENO", "CREME", "PARA", "PENTEAR", "240"],
+
+       "ean":"7500435136952"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "COLAGENO", "SHAMPOO"],
+
+       "ean":"7500435151498,7500435196987,7500435196970,7500435243117"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "COLAGENO", "CONDICIONADOR"],
+
+       "ean":"7500435151504,7500435197007,7500435196994,7500435243490"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "COLAGENO"],
+
+       "ean":"7500435151498,7500435196987,7500435196970,7500435243117,7500435151504,7500435197007,7500435196994,7500435243490,7500435197014,7500435136952"
+
+    },
+
+    {
+
+       "comment": "--- MIRACLES - QUERATINA ---"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "QUERATINA", "SHAMPOO", "510"],
+
+       "ean":"7500435232838"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "QUERATINA", "SHAMPOO", "300"],
+
+       "ean":"7500435232814"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "QUERATINA", "SHAMPOO", "175"],
+
+       "ean":"7500435232777"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "QUERATINA", "SHAMPOO", "1"],
+
+       "ean":"7500435243124"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "QUERATINA", "CONDICIONADOR", "510"],
+
+       "ean":"7500435232821"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "QUERATINA", "CONDICIONADOR", "250"],
+
+       "ean":"7500435232807"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "QUERATINA", "CONDICIONADOR", "150"],
+
+       "ean":"7500435232784"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "QUERATINA", "CONDICIONADOR", "1"],
+
+       "ean":"7500435243513"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "QUERATINA", "MULTIBENEFICIOS", "160"],
+
+       "ean":"7500435240529"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "OLEO", "MILAGROSO", "QUERATINA", "95"],
+
+       "ean":"7500435240512"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "QUERATINA", "CREME", "PARA", "PENTEAR", "240"],
+
+       "ean":"7500435251969"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "QUERATINA", "SHAMPOO"],
+
+       "ean":"7500435232838,7500435232814,7500435232777,7500435243124"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "QUERATINA", "CONDICIONADOR"],
+
+       "ean":"7500435232821,7500435232807,7500435232784,7500435243513"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "QUERATINA"],
+
+       "ean":"7500435232838,7500435232814,7500435232777,7500435243124,7500435232821,7500435232807,7500435232784,7500435243513,7500435240529,7500435240512,7500435251969"
+
+    },
+
+    {
+
+       "comment": "--- MIRACLES - EQUILIBRIO ---"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "EQUILIBRIO", "SHAMPOO", "510"],
+
+       "ean":"7500435209748"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "EQUILIBRIO", "SHAMPOO", "300"],
+
+       "ean":"7500435209304"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "EQUILIBRIO", "SHAMPOO", "175"],
+
+       "ean":"7500435209342"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "EQUILIBRIO", "SHAMPOO", "1"],
+
+       "ean":"7500435243100"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "EQUILIBRIO", "CONDICIONADOR", "510"],
+
+       "ean":"7500435209755"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "EQUILIBRIO", "CONDICIONADOR", "250"],
+
+       "ean":"7500435209311"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "EQUILIBRIO", "CONDICIONADOR", "150"],
+
+       "ean":"7500435209335"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "EQUILIBRIO", "CONDICIONADOR", "1"],
+
+       "ean":"7500435243506"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "EQUILIBRIO", "SERUM", "REVITALIZADOR", "95"],
+
+       "ean":"7500435212335"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "EQUILIBRIO", "SHAMPOO"],
+
+       "ean":"7500435209748,7500435209304,7500435209342,7500435243100"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "EQUILIBRIO", "CONDICIONADOR"],
+
+       "ean":"7500435209755,7500435209311,7500435209335,7500435243506"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "EQUILIBRIO"],
+
+       "ean":"7500435209748,7500435209304,7500435209342,7500435243100,7500435209755,7500435209311,7500435209335,7500435243506,7500435212335"
+
+    },
+
+    {
+
+       "comment": "--- MIRACLES - BIOTINAMINA ---"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "BIOTINAMINA B3", "SHAMPOO", "510"],
+
+       "ean":"7500435248068"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "BIOTINAMINA", "SHAMPOO", "300"],
+
+       "ean":"7500435248143"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "BIOTINAMINA B3", "SHAMPOO", "175"],
+
+       "ean":"7500435248136"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "BIOTINAMINA B3", "CONDICIONADOR", "510"],
+
+       "ean":"7500435248051"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "BIOTINAMINA B3", "CONDICIONADOR", "250"],
+
+       "ean":"7500435248167"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "BIOTINAMINA B3", "CONDICIONADOR", "150"],
+
+       "ean":"7500435248174"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "BIOTINAMINA B3", "CREME", "DE", "PENTEAR", "240"],
+
+       "ean":"7500435248181"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "BIOTINAMINA", "ANTIQUEDA", "TONICO", "CAPILAR", "52"],
+
+       "ean":"7500435247917"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "BIOTINAMINA", "SHAMPOO"],
+
+       "ean":"7500435248068,7500435248143,7500435248136"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "BIOTINAMINA", "CONDICIONADOR"],
+
+       "ean":"7500435248051,7500435248167,7500435248174"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES", "BIOTINAMINA"],
+
+       "ean":"7500435248068,7500435248143,7500435248136,7500435248051,7500435248167,7500435248174,7500435248181,7500435247917"
+
+    },
+
+    {
+
+       "comment":"--- MIRACLES - Agregado ---"
+
+    },
+
+    {
+
+       "mandatory_terms":["PANTENE", "PRO-V", "MIRACLES"],
+
+       "ean":"7500435151498,7500435196987,7500435196970,7500435243117,7500435151504,7500435197007,7500435196994,7500435243490,7500435197014,7500435136952,7500435232838,7500435232814,7500435232777,7500435243124,7500435232821,7500435232807,7500435232784,7500435243513,7500435240529,7500435240512,7500435251969,7500435209748,7500435209304,7500435209342,7500435243100,7500435209755,7500435209311,7500435209335,7500435243506,7500435212335,7500435248068,7500435248143,7500435248136,7500435248051,7500435248167,7500435248174,7500435248181,7500435247917,7500435197021,7500435197038"
+
+    },
+
+    {
+
+        "comment": "--- DEMAIS LINHAS E PRODUTOS ---"
+
+    },
+
+    {
+
+        "mandatory_terms": ["PANTENE", "PRO-V", "3 MINUTOS", "MILAGROSOS", "NUTRICAO", "170"],
+
+        "ean": "7500435106405"
+
+    },
+
+    {
+
+        "mandatory_terms": ["PANTENE", "PRO-V", "3 MINUTOS", "MILAGROSOS"],
+
+        "ean": "7500435106382,7500435116305,7500435106405"
+
+    },
+
+    {
+
+        "mandatory_terms": ["PANTENE", "PRO-V", "CACHOS", "HIDRA-VITAMINADOS", "SHAMPOO", "400"],
+
+        "ean": "7501001164645"
+
+    },
+
+    {
+
+        "mandatory_terms": ["PANTENE", "PRO-V", "CACHOS", "SHAMPOO", "175"],
+
+        "ean": "7500435125475"
+
+    },
+
+    {
+
+        "mandatory_terms": ["PANTENE", "PRO-V", "CACHOS", "HIDRA-VITAMINADOS", "CONDICIONADOR", "400"],
+
+        "ean": "7501001165321"
+
+    },
+
+    {
+
+        "mandatory_terms": ["PANTENE", "PRO-V", "CACHOS", "HIDRA-VITAMINADOS", "CONDICIONADOR", "175"],
+
+        "ean": "7500435125482"
+
+    },
+
+    {
+
+        "mandatory_terms": ["PANTENE", "PRO-V", "CACHOS", "SHAMPOO"],
+
+        "ean": "7501001164645,7500435125475"
+
+    },
+
+    {
+
+        "mandatory_terms": ["PANTENE", "PRO-V", "CACHOS", "CONDICIONADOR"],
+
+        "ean": "7501001165321,7500435125482"
+
+    },
+
+    {
+
+        "mandatory_terms": ["PANTENE", "PRO-V", "CACHOS"],
+
+        "ean": "7501001164645,7500435125475,7501001165321,7500435125482,7500435118507"
+
+    },
+
+    {
+
+        "mandatory_terms": ["PANTENE", "PRO-V", "MICELAR", "SHAMPOO", "400"],
+
+        "ean": "7500435128933"
+
+    },
+
+    {
+
+        "mandatory_terms": ["PANTENE", "PRO-V", "MICELAR", "SHAMPOO", "200"],
+
+        "ean": "7500435128926"
+
+    },
+
+    {
+
+        "mandatory_terms": ["PANTENE", "PRO-V", "MICELAR", "PURIFICA", "CONDICIONADOR", "400"],
+
+        "ean": "7500435128957"
+
+    },
+
+    {
+
+        "mandatory_terms": ["PANTENE", "PRO-V", "MICELAR", "SHAMPOO"],
+
+        "ean": "7500435128933,7500435128926"
+
+    },
+
+    {
+
+        "mandatory_terms": ["PANTENE", "PRO-V", "MICELAR"],
+
+        "ean": "7500435128933,7500435128926,7500435128957"
+
+    },
+
+    {
+
+        "comment": "--- Agrupamentos Finais ---"
+
+    },
+
+    {
+
+        "mandatory_terms": ["PANTENE", "PRO-V"],
+
+        "ean": "7501006721133,7500435125468,7501006721317,7500435125451,7500435142243,7500435106382,7501007413921,7500435125383,7501007413105,7500435125376,7500435142229,7500435116305,7501001165246,7501001165253,7500435125413,7506195167281,7500435154239,7500435154222,7500435154260,7500435154277,7500435154291,7500435154307,7500435151498,7500435196987,7500435196970,7500435243117,7500435151504,7500435197007,7500435196994,7500435243490,7500435197014,7500435136952,7500435232838,7500435232814,7500435232777,7500435243124,7500435232821,7500435232807,7500435232784,7500435243513,7500435240529,7500435240512,7500435251969,7500435209748,7500435209304,7500435209342,7500435243100,7500435209755,7500435209311,7500435209335,7500435243506,7500435212335,7500435248068,7500435248143,7500435248136,7500435248051,7500435248167,7500435248174,7500435248181,7500435197021,7500435197038,7500435106405,7501001164645,7500435125475,7501001165321,7500435125482,7500435118507,7500435128933,7500435128926,7500435128957,7501007457796,7501007457789,7500435125307,7501007457826,7500435125406,7506309840024,7500435125390,7506309840581,7506195167304,7506309841816,7506309841823,7500435118583,7500435118514"
+
+    },
+
+    {
+
+       "mandatory_terms": ["PANTENE"],
+
+       "ean": "7501006721133,7500435125468,7501006721317,7500435125451,7500435142243,7500435106382,7501007413921,7500435125383,7501007413105,7500435125376,7500435142229,7500435116305,7501001165246,7501001165253,7500435125413,7506195167281,7500435154239,7500435154222,7500435154260,7500435154277,7500435154291,7500435154307,7500435151498,7500435196987,7500435196970,7500435243117,7500435151504,7500435197007,7500435196994,7500435243490,7500435197014,7500435136952,7500435232838,7500435232814,7500435232777,7500435243124,7500435232821,7500435232807,7500435232784,7500435243513,7500435240529,7500435240512,7500435251969,7500435209748,7500435209304,7500435209342,7500435243100,7500435209755,7500435209311,7500435209335,7500435243506,7500435212335,7500435248068,7500435248143,7500435248136,7500435248051,7500435248167,7500435248174,7500435248181,7500435197021,7500435197038,7500435106405,7501001164645,7500435125475,7501001165321,7500435125482,7500435118507,7500435128933,7500435128926,7500435128957,7501007457796,7501007457789,7500435125307,7501007457826,7500435125406,7506309840024,7500435125390,7506309840581,7506195167304,7506309841816,7506309841823,7500435118583,7500435118514,7500435020442,7506309889399,7506309889375,7506309889368,7500435247917,7500435142236,7500435241748,7500435241724,7500435241731"
+
+    }
+
+]
