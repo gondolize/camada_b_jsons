@@ -1,0 +1,190 @@
+[
+    {
+        "mandatory_terms": ["PALMOLIVE",",NEUTRO","LIMPEZA","BALANCEADA","SHAMPOO","350"],
+        "optional_terms": [],
+        "ean": "7891024172230"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE",",NUTRICAO","EXTRAORDINARIA","SHAMPOO","350"],
+        "optional_terms": [],
+        "ean": "7891024171639"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE",",ANTICASPA","ANTIQUEDA","SHAMPOO","350"], 
+        "optional_terms": [],
+        "ean": "7891024160718"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","CERAMIDAS","FORCE","SHAMPOO","350"],
+        "optional_terms": [],
+        "ean": "7891024174210"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","DETOX","ENERGIZANTE","SHAMPOO","350"],
+        "optional_terms": [],
+        "ean": "7891024042908"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","CUIDADO",",ANTICASPA","SHAMPOO","350"],
+        "optional_terms": [],
+        "ean": "7891024171233"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","LISOS","RADIANTES","SHAMPOO","350"],
+        "optional_terms": [],
+        "ean": "7891024161913"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","PRETOS","VIBRANTES","SHAMPOO","350"],
+        "optional_terms": [],
+        "ean": "7891024158609"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","CERAMIDAS","FORCE","CONDICIONADOR","350"],
+        "optional_terms": [],
+        "ean": "7891024174715"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","ANTICOCEIRA","SHAMPOO","350"],
+        "optional_terms": [],
+        "ean": "7509546686202"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE",",NUTRICAO","EXTRAORDINARIA","CONDICIONADOR","350"],
+        "optional_terms": [],
+        "ean": "7891024172339"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE",",NEUTRO","LIMPEZA","BALANCEADA","CONDICIONADOR","350"],
+        "optional_terms": [],
+        "ean": "7891024172537"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","PRETOS","VIBRANTES","CONDICIONADOR","350"],
+        "optional_terms": [],
+        "ean": "7891024158708"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","BOOM","HIDRATACAO","SHAMPOO","350"],
+        "optional_terms": [],
+        "ean": "7891024034064"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","LISOS","RADIANTES","CONDICIONADOR","350"],
+        "optional_terms": [],
+        "ean": "7891024170335"
+    },
+     {
+        "mandatory_terms": ["PALMOLIVE","DETOX","ENERGIZANTE","CONDICIONADOR","350"],
+        "optional_terms": [],
+        "ean": "7891024042915"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","FORTALECE","PROTEGE", "SHAMPOO", "350"],
+        "optional_terms": [],
+        "ean": "7509546689913"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","BOOM","HIDRATACAO","CONDICIONADOR","350"],
+        "optional_terms": [],
+        "ean": "7891024034156"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE",",NEUTRO","LIMPEZA","BALANCEADA","SHAMPOO","650"],
+        "optional_terms": [],
+        "ean": "7509546673851"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE",",NUTRICAO","EXTRAORDINARIA","SHAMPOO","650"],
+        "optional_terms": [],
+        "ean": "7509546674940"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE", "NUTRE","HIDRATA", "CONDICIONADOR","350"],
+        "optional_terms": [],
+        "ean": "7509546689890"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","CERAMIDAS", "FORCE", "SHAMPOO", "650"],
+        "optional_terms": [],
+        "ean": "7509546674957"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","HYDRATE","SHAMPOO","350"],
+        "optional_terms": [],
+        "ean": "7509546681153"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","HYDRATE","SHAMPOO","650"],
+        "optional_terms": [],
+        "ean": "7509546683041"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","CUIDADO", "ANTICASPA","650"],
+        "optional_terms": [],
+        "ean": "7509546687544"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","FRIZZ","RESIST","SHAMPOO", "350"],
+        "optional_terms": [],
+        "ean": "7891024174036"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","FORCE","SHAMPOO", "350"],
+        "optional_terms": [],
+        "ean": "7509546681139"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","NUTRE", "HIDRATA", "CONDICIONADOR", "350"],
+        "optional_terms": [],
+        "ean": "7509546689937"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","NUTRE", "HIDRATA", "SHAMPOO", "350"],
+        "optional_terms": [],
+        "ean": "7509546689944"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","HYDRATE","CONDICIONADOR","350"],
+        "optional_terms": [],
+        "ean": "7509546681146"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","CACHOS","LIVRES","CONDICIONADOR","350"],
+        "optional_terms": [],
+        "ean": "7891024042328"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","FORCE","CONDICIONADOR","350"],
+        "optional_terms": [],
+        "ean": "7509546681054"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","CACHOS","LIVRES","SHAMPOO","350"],
+        "optional_terms": [],
+        "ean": "7891024042311"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","HIDRATACAO","BRILHOS","RADIANTES","CONDICIONADOR", "350"],
+        "optional_terms": [],
+        "ean": "7891024160923"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","FORCA","ANTI-DANO","CONDICIONADOR", "350"],
+        "optional_terms": [],
+        "ean": "7891024171295"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","SEMPRE","LONGO","SHAMPOO","350"],
+        "optional_terms": [],
+        "ean": "7509546659435"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","SEMPRE","LONGO","CONDICIONADOR","350"],
+        "optional_terms": [],
+        "ean": "7509546659442"
+    }
+
+
+
+]

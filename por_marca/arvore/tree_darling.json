@@ -1,0 +1,85 @@
+[
+    {
+        "comment": "INICIO - LINHAS DE PRODUTO",
+        "note": "Agrupados por linha de produto Darling"
+    },
+    {
+        "comment": "--- LINHA DARLING CERAMIDAS ---"
+    },
+    {
+       "mandatory_terms":["SHAMPOO","DARLING","CERAMIDAS"],
+       "ean": "7891024181072"
+    },
+    {
+       "mandatory_terms":["FAMILIA","SHAMPOO","DARLING","CERAMIDAS"],
+       "ean": "7509546696300"
+    },
+    {
+       "mandatory_terms":["CONDICIONADOR","DARLING","CERAMIDAS"],
+       "ean": "7891024184271"
+    },
+    {
+       "mandatory_terms":["DARLING","CERAMIDAS","SHAMPOO"],
+       "ean": "7891024181072,7509546696300"
+    },
+    {
+       "mandatory_terms":["DARLING","CERAMIDAS"],
+       "ean": "7891024181072,7509546696300,7891024184271"
+    },
+    {
+        "comment": "--- LINHA DARLING TILIA ---"
+    },
+    {
+       "mandatory_terms":["SHAMPOO","DARLING","TILIA"],
+       "ean": "7891024180877"
+    },
+    {
+       "mandatory_terms":["CONDICIONADOR","DARLING","TILIA"],
+       "ean": "7891024182970"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","DARLING","TILIA"],
+       "ean": "7509546696393"
+    },
+    {
+       "mandatory_terms":["DARLING","TILIA"],
+       "ean": "7891024180877,7891024182970,7509546696393"
+    },
+    {
+        "comment": "--- LINHA DARLING 2 EM 1 ---"
+    },
+    {
+       "mandatory_terms":["SHAMPOO","CONDICIONADOR","DARLING","2","1"],
+       "ean": "7891024182475"
+    },
+    {
+       "mandatory_terms":["FAMILIA","DARLING","2","1"],
+       "ean": "7509546673844"
+    },
+    {
+       "mandatory_terms":["DARLING","2","1"],
+       "ean": "7891024182475,7509546673844"
+    },
+    {
+        "comment": "--- LINHA DARLING DETOX ---"
+    },
+    {
+       "mandatory_terms":["SHAMPOO","DARLING","DETOX"],
+       "ean": "7509546682600"
+    },
+    {
+       "mandatory_terms":["CONDICIONADOR","DARLING","DETOX"],
+       "ean": "7509546682617"
+    },
+    {
+       "mandatory_terms":["DARLING", "DETOX"],
+       "ean": "7509546682600,7509546682617"
+    },
+    {
+        "comment": "--- AGRUPAMENTO FINAL DE MARCA ---"
+    },
+    {
+       "mandatory_terms":["DARLING"],
+       "ean":"7891024181072,7509546696300,7891024184271,7891024180877,7891024182970,7509546696393,7891024182475,7509546673844,7509546682600,7509546682617"
+    }
+]

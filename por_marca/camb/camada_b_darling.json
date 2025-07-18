@@ -1,0 +1,52 @@
+[{
+       "mandatory_terms":["SHAMPOO","DARLING","CERAMIDAS"],
+       "optional_terms": [],
+       "ean": "7891024181072"
+    },
+    {
+       "mandatory_terms":["SHAMPOO","CONDICIONADOR","DARLING","2","1"],
+       "optional_terms": [],
+       "ean": "7891024182475"
+    },
+    {
+       "mandatory_terms":["SHAMPOO","DARLING","TILIA"],
+       "optional_terms": [],
+       "ean": "7891024180877"
+    },
+    {
+       "mandatory_terms":["CONDICIONADOR","DARLING","CERAMIDAS"],
+       "optional_terms": [],
+       "ean": "7891024184271"
+    },
+    {
+       "mandatory_terms":["CONDICIONADOR","DARLING","TILIA"],
+       "optional_terms": [],
+       "ean": "7891024182970"
+    },
+    {
+       "mandatory_terms":["SHAMPOO","DARLING","DETOX"],
+       "optional_terms": [],
+       "ean": "7509546682600"
+    },
+    {
+       "mandatory_terms":["CONDICIONADOR","DARLING","DETOX"],
+       "optional_terms": [],
+       "ean": "7509546682617"
+    },
+    {
+       "mandatory_terms":["FAMILIA","DARLING","2","1"],
+       "optional_terms": [],
+       "ean": "7509546673844"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","DARLING","TILIA"],
+       "optional_terms": [],
+       "ean": "7509546696393"
+    },
+    {
+       "mandatory_terms":["FAMILIA","SHAMPOO","DARLING","CERAMIDAS"],
+       "optional_terms": [],
+       "ean": "7509546696300"
+    }
+    
+]
