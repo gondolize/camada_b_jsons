@@ -1,0 +1,1745 @@
+[
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","ELSEVE","GLYCOLIC","GLOSS"],
+       "optional_terms": ["BRILHO","ULTRA"],
+       "ean": "7908615085418"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","ELSEVE","CACHOS","LONGOS","SONHOS"],
+       "optional_terms": ["PREENCHEDOR","SELADOR"],
+       "ean": "7899706197687"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","ELSEVE","LONGO","SONHOS"],
+       "optional_terms": ["SALVADOR","DESATA","NOS"],
+       "ean": "7899706175951"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","ELSEVE","HIDRA","HIALURONICO"],
+       "optional_terms": ["PREENCHEDOR","SELADOR"],
+       "ean": "7899706188302"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","ELSEVE","PURE","HIALURONICO"],
+       "optional_terms": ["PURIFICANTE","REIDRATANTE"],
+       "ean": "7908615017211"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","ELSEVE","REPARACAO","TOTAL","5"],
+       "optional_terms": ["REPARADOR","RESTAURADOR"],
+       "ean": "7899706164337"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","ELSEVE","OLEO","EXTRAORDINARIO"],
+       "optional_terms": ["NUTRICAO"],
+       "ean": "7899706164375"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","ELSEVE","LISO","SONHOS"],
+       "optional_terms": ["LIQUID","HAIR"],
+       "ean": "7908785476825"
+    },
+    
+    {
+       "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","TRATAMENTO","ANTIPOROSIDADE"],
+       "optional_terms": ["300","POROSO"],
+       "ean": "7908615053110"
+    },
+    {
+       "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","SHAMPOO","EXTRA","200"],
+       "optional_terms": ["ACIDO","COMPLEXO"],
+       "ean": "7908615060385"
+    },
+    {
+       "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","SHAMPOO","EXTRA","400"],
+       "optional_terms": ["ACIDO","COMPLEXO"],
+       "ean": "7908615060606"
+    },
+    {
+       "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","SHAMPOO","EXTRA"],
+       "optional_terms": ["ACIDO","COMPLEXO","400"],
+       "ean": "7908615060606"
+    },
+    {
+       "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","SHAMPOO","EXTRA"],
+       "optional_terms": ["ACIDO","COMPLEXO","200"],
+       "ean": "7908615060385"
+    },
+    {
+       "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","SHAMPOO","SELA","400"],
+       "optional_terms": ["COMPLEXO"],
+       "ean": "7908615055169"
+    },
+    
+    {
+       "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","CREME","SUPER"],
+       "optional_terms": ["250"],
+       "ean": "7908615059983"
+    },
+    {
+       "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","CONDICIONADOR","200"],
+       "optional_terms": ["SELA"],
+       "ean": "7908615055145"
+    },
+    {
+       "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","3","PROLONGADOR"],
+       "optional_terms": ["100","ELIXIR","PROLONGADOR"],
+       "ean": "7908615055183"
+    },
+    {
+       "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","ACIDIFICANTE"],
+       "optional_terms": ["6","ULTRA"],
+       "ean": "7908615060347"
+    },
+   
+    {
+       "mandatory_terms":["ELSEVE","HIDRA","HIALURONICO","CONDICIONADOR","SELADOR","400"],
+       "optional_terms": ["LEVE","SOLTO"],
+       "ean": "7899706187428"
+    },
+    {
+       "mandatory_terms":["ELSEVE","HIDRA","HIALURONICO","CONDICIONADOR","SELADOR","200"],
+       "optional_terms": ["LEVE","SOLTO"],
+       "ean": "7899706187404"
+    },
+    {
+       "mandatory_terms":["ELSEVE","HIDRA","HIALURONICO","CREME"],
+       "optional_terms": ["PREENCHEDOR","250"],
+       "ean": "7899706187466"
+    },
+    {
+       "mandatory_terms":["ELSEVE","HIDRA","HIALURONICO","MASCARA"],
+       "optional_terms": ["INTENSIVA","300"],
+       "ean": "7899706187480"
+    },
+    {
+       "mandatory_terms":["ELSEVE","HIDRA","HIALURONICO","HIDRATACAO","NOTURNA"],
+       "optional_terms": ["200", "DESIDRATADOS"],
+       "ean": "7899706187541"
+    },
+    {
+       "mandatory_terms":["ELSEVE","HIDRA","HIALURONICO","3","CREME","MILAGROSO"],
+       "optional_terms": ["EM","1"],
+       "ean": "7908615060620"
+    },
+  
+    {
+       "mandatory_terms":["ELSEVE","PURE","HIALURONICO","TRATAMENTO","REEQUILIBRANTE"],
+       "optional_terms": ["300","HIDRATA"],
+       "ean": "7899706244008"
+    },
+    {
+       "mandatory_terms":["ELSEVE","PURE","HIALURONICO","CONDICIONADOR","REIDRATANTE","400"],
+       "optional_terms": ["RAIZES","OLEOSAS"],
+       "ean": "7899706244060"
+    },
+    {
+       "mandatory_terms":["ELSEVE","PURE","HIALURONICO","CONDICIONADOR","REIDRATANTE","200"],
+       "optional_terms": ["RAIZES","OLEOSAS"],
+       "ean": "7899706244084"
+    },
+    {
+       "mandatory_terms":["ELSEVE","PURE","HIALURONICO","SHAMPOO","400"],
+       "optional_terms": ["PURIFICANTE"],
+       "ean": "7899706244107"
+    },
+    {
+       "mandatory_terms":["ELSEVE","PURE","HIALURONICO","SHAMPOO","200"],
+       "optional_terms": ["PURIFICANTE"],
+       "ean": "7899706244121"
+    },
+    {
+       "mandatory_terms":["ELSEVE","LONGOS","CACHOS","CONDICIONADOR","400"],
+       "optional_terms": ["SONHOS"],
+       "ean": "7899706197564"
+    },
+    {
+       "mandatory_terms":["ELSEVE","LONGOS","CACHOS","TRATAMENTO","300"],
+       "optional_terms": ["SONHOS"],
+       "ean": "7899706197489"
+    },
+    {
+       "mandatory_terms":["ELSEVE","LONGOS","SHAMPOO","200"],
+       "optional_terms": ["SONHOS"],
+       "ean": "7899706197601"
+    },
+    {
+       "mandatory_terms":["ELSEVE","CACHOS","LONGOS","SHAMPOO","400"],
+       "optional_terms": ["SONHOS"],
+       "ean": "7899706197649"
+    },
+    {
+       "mandatory_terms":["ELSEVE","CACHOS","LONGOS","CREME","NOTURNO"],
+       "optional_terms": ["SONHOS"],
+       "ean": "7899706197663"
+    },
+    {
+       "mandatory_terms":["ELSEVE","LONGOS","CACHOS","CONDICIONADOR","200"],
+       "optional_terms": ["SONHOS"],
+       "ean": "7899706197588"
+    },
+    {
+       "mandatory_terms":["ELSEVE","LONGOS","CACHOS","CREME","250"],
+       "optional_terms": ["SONHOS"],
+       "ean": "7899706197502"
+    },
+    {
+       "mandatory_terms":["ELSEVE","LONGOS","3","1","CREME","MILAGROSO"],
+       "optional_terms": ["SONHOS"],
+       "ean": "7899706197526"
+    },
+
+    
+    {
+       "mandatory_terms":["ELSEVE","LONGO","CONDICIONADOR","DESATA","200"],
+       "optional_terms": ["SONHOS"],
+       "ean": "7899706170857"
+    },
+    {
+       "mandatory_terms":["ELSEVE","LONGO","SHAMPOO","SALVADOR","200"],
+       "optional_terms": ["SONHOS"],
+       "ean": "7899706170833"
+    },
+    {
+       "mandatory_terms":["ELSEVE","LONGO","SHAMPOO","SALVADOR","400"],
+       "optional_terms": ["SONHOS"],
+       "ean": "7899706170819"
+    },
+    {
+       "mandatory_terms":["ELSEVE","LONGO","CONDICIONADOR","DESATA","400"],
+       "optional_terms": ["SONHOS"],
+       "ean": "7899706170871"
+    },
+    {
+       "mandatory_terms":["ELSEVE","LONGO","CREME","PENTEAR","250"],
+       "optional_terms": ["SONHOS"],
+       "ean": "7899706170895"
+    },
+    {
+       "mandatory_terms":["ELSEVE","LONGO","TRATAMENTO","MILAGROSO","300"],
+       "optional_terms": ["SONHOS"],
+       "ean": "7899706170918"
+    },
+    
+    {
+       "mandatory_terms":["ELSEVE","REPARACAO","5","CONDICIONADOR","200"],
+       "optional_terms": ["TOTAL"],
+       "ean": "7899026420571"
+    },
+    {
+       "mandatory_terms":["ELSEVE","REPARACAO","5","SHAMPOO","400"],
+       "optional_terms": ["TOTAL"],
+       "ean": "7899026420564"
+    },
+    {
+       "mandatory_terms":["ELSEVE","REPARACAO","5","CREME","250"],
+       "optional_terms": ["TOTAL"],
+       "ean": "7899026420595"
+    },
+    {
+       "mandatory_terms":["ELSEVE","REPARACAO","5","SHAMPOO","200"],
+       "optional_terms": ["TOTAL"],
+       "ean": "7899026459960"
+    },
+    {
+       "mandatory_terms":["ELSEVE","REPARACAO","5","CONDICIONADOR","400"],
+       "optional_terms": ["TOTAL"],
+       "ean": "7899026459908"
+    },
+    {
+       "mandatory_terms":["ELSEVE","REPARACAO","5","TRATAMENTO","300"],
+       "optional_terms": ["TOTAL"],
+       "ean": "7899026457645"
+    },
+    {
+       "mandatory_terms":["ELSEVE","REPARACAO","5","CICACTRI","RENOV"],
+       "optional_terms": ["TOTAL"],
+       "ean": "7899706149822"
+    },
+    {
+       "mandatory_terms":["ELSEVE","REPARACAO","5","3","CREME","MILAGROSO"],
+       "optional_terms": ["TOTAL"],
+       "ean": "7908615060668"
+    },
+    
+    {
+       "mandatory_terms":["ELSEVE","LISO","SHAMPOO","SUPER","200"],
+       "optional_terms": ["SONHOS"],
+       "ean": "7908785461753"
+    },
+    {
+       "mandatory_terms":["ELSEVE","LISO","SONHOS","CONDICIONADOR","200"],
+       "optional_terms": ["HAIR"],
+       "ean": "7908785461654"
+    },
+    {
+       "mandatory_terms":["ELSEVE","LISO","SONHOS","CONDICIONADOR","400"],
+       "optional_terms": ["HAIR"],
+       "ean": "7908785461609"
+    },
+    {
+       "mandatory_terms":["ELSEVE","LISO","SONHOS","SHAMPOO","400"],
+       "optional_terms": ["ALINHADOR"],
+       "ean": "7908785461708"
+    },
+    {
+       "mandatory_terms":["ELSEVE","LISO","SONHOS","SHAMPOO","400"],
+       "optional_terms": ["ALINHAOOR"],
+       "ean": "7899706180948"
+    },
+    {
+       "mandatory_terms":["ELSEVE","LISO","SONHOS","CONDICIONADOR","200"],
+       "optional_terms": ["FIOS"],
+       "ean": "7899706180962"
+    },
+    {
+       "mandatory_terms":["ELSEVE","LISO","SONHOS","SHAMPOO","200"],
+       "optional_terms": ["ALINHADOR"],
+       "ean": "7899706180924"
+    },
+    {
+       "mandatory_terms":["ELSEVE","LISO","SONHOS","CONDICIONADOR","400"],
+       "optional_terms": ["FIOS"],
+       "ean": "7899706180986"
+    },
+    {
+       "mandatory_terms":["ELSEVE","LISO","SONHOS","TRATAMENTO","300"],
+       "optional_terms": ["14"],
+       "ean": "7908785461456"
+    },
+    {
+       "mandatory_terms":["ELSEVE","LISO","SONHOS","SHAMPOO","200"],
+       "optional_terms": ["LOREAL"],
+       "ean": "7908785461777"
+    },
+    
+    {
+       "mandatory_terms":["ELSEVE","OLEO","EXTRAORDINARIO","TRATAMENTO","SUBLIME"],
+       "optional_terms": ["100"],
+       "ean": "7899026478909"
+    },
+    {
+       "mandatory_terms":["ELSEVE","OLEO","EXTRAORDINARIO","CONDICIONADOR","200"],
+       "optional_terms": ["NUTRICAO"],
+       "ean": "7898587774352"
+    },
+    {
+       "mandatory_terms":["ELSEVE","OLEO","EXTRAORDINARIO","CONDICIONADOR","400"],
+       "optional_terms": ["NUTRICAO"],
+       "ean": "7898587774376"
+    },
+    {
+       "mandatory_terms":["ELSEVE","OLEO","EXTRAORDINARIO","SHAMPOO","200"],
+       "optional_terms": ["NUTRICAO"],
+       "ean": "7898587774314"
+    },
+    {
+       "mandatory_terms":["ELSEVE","OLEO","EXTRAORDINARIO","SHAMPOO","400"],
+       "optional_terms": ["NUTRICAO"],
+       "ean": "7898587774338"
+    },
+    {
+       "mandatory_terms":["ELSEVE","OLEO","EXTRAORDINARIO","CREME","250"],
+       "optional_terms": ["PENTEAR", "NUTRITIVO", "24H"],
+       "ean": "7899706111621"
+    },
+    {
+       "mandatory_terms":["ELSEVE","OLEO","EXTRAORDINARIO","3","CREME"],
+       "optional_terms": ["EM", "1", "MILAGROSO"],
+       "ean": "7908615060644"
+    },
+    {
+       "mandatory_terms":["ELSEVE","OLEO","EXTRAORDINARIO","TRATAMENTO","300"],
+       "optional_terms": ["NUTRITIVO", "SECOS"],
+       "ean": "7898587774475"
+    },
+    
+    {
+       "mandatory_terms":["ELSEVE","COLOR","VIVE","CONDICIONADOR","200"],
+       "optional_terms": ["PROTETOR", "DA", "COR"],
+       "ean": "7896014123902"
+    },
+    {
+       "mandatory_terms":["ELSEVE","COLOR","VIVE","SHAMPOO","200"],
+       "optional_terms": ["PROTETOR","DA","COR"],
+       "ean": "7899026459748"
+    },
+    {
+       "mandatory_terms":["ELSEVE","COLOR","VIVE","SHAMPOO","400"],
+       "optional_terms": ["PROTETOR","DA","COR"],
+       "ean": "7899026417885"
+    },
+    {
+       "mandatory_terms":["ELSEVE","COLOR","VIVE","CONDICIONADOR","400"],
+       "optional_terms": ["PROTETOR","DA","COR"],
+       "ean": "7899026459649"
+    },
+    
+    {
+       "mandatory_terms":["ELSEVE","DETOX","ANTICASPA","CONDICIONADOR","200"],
+       "optional_terms": ["HIDRATANTE","PONTAS", "SECAS"],
+       "ean": "7899706139038"
+    },
+    {
+       "mandatory_terms":["ELSEVE","HYDRA","DETOX","CONDICIONADOR","200"],
+       "optional_terms": ["HIDRATANTE"],
+       "ean": "7899706133418"
+    },
+    {
+       "mandatory_terms":["ELSEVE","DETOX","ANTICASPA","SHAMPOO","400"],
+       "optional_terms": ["HYDRA","REEQUILIBRANTE"],
+       "ean": "7899706134170"
+    },
+    {
+       "mandatory_terms":["ELSEVE","QUERA-LISO", "CONDICIONADOR", "REVIGORANTE", "200"],
+       "optional_terms": ["LOREAL"],
+       "ean":"7899026487208"
+    },
+    {
+       "mandatory_terms":["DOVE","BRILHO","MICELAR","CONDICIONADOR","200"],
+       "optional_terms": ["OLEO"],
+       "ean": "7891150055193"
+    },
+    {
+       "mandatory_terms":["DOVE","TEXTURAS","CRESPOS","SHAMPOO","355"],
+       "optional_terms": ["REAIS"],
+       "ean": "7891150087309"
+    },
+    {
+       "mandatory_terms":["DOVE","HIDRATACAO","INTENSA","SHAMPOO","200"],
+       "optional_terms": ["NUTRITIVE"],
+       "ean": "7891150054462"
+    },
+    {
+       "mandatory_terms":["DOVE","BOND","REPAIR","SHAMPOO","175"],
+       "optional_terms": ["INTENSE"],
+       "ean": "7891150095571"
+    },
+    {
+       "mandatory_terms":["DOVE","OLEO-MICELAR","SHAMPOO","200"],
+       "optional_terms": ["NUTRICAO"],
+       "ean": "7891150055186"
+    },
+    {
+       "mandatory_terms":["DOVE","OLEO-MICELAR","SHAMPOO","400"],
+       "optional_terms": ["NUTRICAO"],
+       "ean": "7891150055162"
+    },
+    {
+       "mandatory_terms":["DOVE","FUSAO","OLEO","SHAMPOO","400"],
+       "optional_terms": ["NUTRICAO"],
+       "ean": "7891150017368"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","DOVE","RECONSTRUCAO","QUERATINA"],
+       "optional_terms": ["KIT"],
+       "ean": "7891150093263"
+    },
+    {
+       "mandatory_terms":["DOVE","BOND","REPAIR","CONDICIONADOR","150"],
+       "optional_terms": ["INTENSE"],
+       "ean": "7891150095564"
+    },
+    {
+       "mandatory_terms":["DOVE","HIDRATACAO","INTENSA","SHAMPOO","400"],
+       "optional_terms": ["NUTRITIVE"],
+       "ean": "7891150054455"
+    },
+    {
+       "mandatory_terms":["DOVE","BOND","REPAIR","SHAMPOO","350"],
+       "optional_terms": ["INTENSE"],
+       "ean": "7891150095588"
+    },
+    {
+       "mandatory_terms":["DOVE","RITUAL","REPARACAO","SHAMPOO","200"],
+       "optional_terms": ["SECRETS"],
+       "ean": "7891150050082"
+    },
+    {
+       "mandatory_terms":["DOVE","HIDRA","LISO","SHAMPOO","400"],
+       "optional_terms": ["NUTRITIVE"],
+       "ean": "7891150075283"
+    },
+    {
+       "mandatory_terms":["DOVE","BOND","REPAIR","CONDICIONADOR","250"],
+       "optional_terms": ["INTENSE"],
+       "ean": "7891150095595"
+    },
+    {
+       "mandatory_terms":["DOVE","REAIS","CACHEADOS","SHAMPOO","400"],
+       "optional_terms": ["TEXTURAS"],
+       "ean": "7891150084483"
+    },
+    {
+       "mandatory_terms":["DOVE","BRILHO","MICELAR","CONDICIONADOR","400"],
+       "optional_terms": ["OLEO"],
+       "ean": "7891150055179"
+    },
+    {
+       "mandatory_terms":["DOVE","HIDRATACAO","INTENSA","CONDICIONADOR","200"],
+       "optional_terms": ["NUTRITIVE"],
+       "ean": "7891150054479"
+    },
+    {
+       "mandatory_terms":["DOVE","RECONSTRUCAO","COMPLETA","SHAMPOO","200"],
+       "optional_terms": ["NUTRITIVE"],
+       "ean": "7891150008953"
+    },
+    {
+       "mandatory_terms":["DOVE","OLEO","NUTRICAO","SHAMPOO","200"],
+       "optional_terms": [],
+       "ean": "7891150017351"
+    },
+    {
+       "mandatory_terms":["DOVE","RECONSTRUCAO","QUERATINA","SHAMPOO","400"],
+       "optional_terms": ["+"],
+       "ean": "7791293005010"
+    },
+    {
+       "mandatory_terms":["DOVE","OLEO","NUTRICAO","SHAMPOO","670"],
+       "optional_terms": ["GRATIS"],
+       "ean": "7891150078017"
+    },
+    {
+       "mandatory_terms":["DOVE","HIDRATACAO","INTENSA","CONDICIONADOR","400"],
+       "optional_terms": ["NUTRITIVE"],
+       "ean": "7891150054448"
+    },
+    {
+       "mandatory_terms":["DOVE","10","1","BOND","INTENSE","MASCARA"],
+       "optional_terms": ["REPAIR"],
+       "ean": "7891150095557"
+    },
+    {
+       "mandatory_terms":["DOVE","RITUAL","REPARACAO","CONDICIONADOR","200"],
+       "optional_terms": ["INTENSE"],
+       "ean": "7891150050129"
+    },
+    {
+       "mandatory_terms":["DOVE","REAIS","CACHEADOS","CONDICIONADOR","400"],
+       "optional_terms": ["TEXTURAS"],
+       "ean": "7891150084490"
+    },
+    {
+       "mandatory_terms":["DOVE","RECONSTRUCAO","COMPLETA","SHAMPOO","670"],
+       "optional_terms": ["GRATIS"],
+       "ean": "7891150077997"
+    },
+    {
+       "mandatory_terms":["DOVE","RECONSTRUCAO","QUERATINA","2","1","MASCARA"],
+       "optional_terms": ["+"],
+       "ean": "7891150096745"
+    },
+    {
+       "mandatory_terms":["DOVE","OLEO","NUTRICAO","CONDICIONADOR","400"],
+       "optional_terms": ["CABELOS"],
+       "ean": "7891150017337"
+    },
+    {
+       "mandatory_terms":["DOVE","REAIS","CRESPOS","CONDICIONADOR","400"],
+       "optional_terms": ["TEXTURAS"],
+       "ean": "7891150084506"
+    },
+    {
+       "mandatory_terms":["DOVE","RECONSTRUCAO","QUERATINA","CONDICIONADOR","200"],
+       "optional_terms": ["+"],
+       "ean": "7891150008816"
+    },
+    {
+       "mandatory_terms":["DOVE","RECONSTRUCAO","QUERATINA","CONDICIONADOR","400"],
+       "optional_terms": ["+"],
+       "ean": "7791293004976"
+    },
+    {
+       "mandatory_terms":["DOVE","FUSAO","OLEOS","CONDICIONADOR","200"],
+       "optional_terms": ["NUTRICAO"],
+       "ean": "7891150017375"
+    },
+    {
+       "mandatory_terms":["DOVE","FUSAO","OLEOS","2","1"],
+       "optional_terms": ["NUTRICAO"],
+       "ean": "7891150096752"
+    },
+    {
+       "mandatory_terms":["DOVE","REAIS","CACHEADOS","CREME","PENTEAR"],
+       "optional_terms": ["TEXTURAS"],
+       "ean": "7891150087286"
+    },
+    {
+       "mandatory_terms":["DOVE","TEXTURAS","REAIS","CRESPOS","CREME","PENTEAR"],
+       "optional_terms": ["TEXTURAS"],
+       "ean": "7891150087293"
+    },
+    {
+       "mandatory_terms":["DOVE","RECONSTRUCAO","QUERATINA","2","1","MASCARA"],
+       "optional_terms": ["+"],
+       "ean": "7891150096738"
+    },
+    {
+       "mandatory_terms":["DOVE","RITUAL","REPARACAO","CONDICIONADOR","400"],
+       "optional_terms": ["SECRETS"],
+       "ean": "7891150050112"
+    },
+    {
+       "mandatory_terms":["DOVE","MASCARA","ALTA","POTENCIA","500"],
+       "optional_terms": ["ULTRA"],
+       "ean": "7891150084803"
+    },
+    {
+       "mandatory_terms":["DOVE","BOND","INTENSE","REPAIR","50"],
+       "optional_terms": ["CREME"],
+       "ean": "7891150095601"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","DOVE","NUTRICAO"],
+       "optional_terms": ["FUSAO", "NUTRE"],
+       "ean": "7891150093256"
+    },
+    {
+       "mandatory_terms":["DOVE","HIDRA","LISO","CONDICIONADOR","400"],
+       "optional_terms": ["NUTRITIVE"],
+       "ean": "7891150075306"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","DOVE","BOND","REPAIR"],
+       "optional_terms": ["INTENSE"],
+       "ean": "7891150097643"
+    },
+    {
+       "mandatory_terms":["DOVE","RITUAL","REPARACAO","MASCARA","1","MINUTO"],
+       "optional_terms": ["500"],
+       "ean": "7891150080744"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","DOVE","RITUAL","REPARACAO"],
+       "optional_terms": ["SECRETS"],
+       "ean": "7891150095250"
+    },
+    {
+       "mandatory_terms":["DOVE","RECONSTRUCAO","CREME","PENTEAR","200"],
+       "optional_terms": ["QUERATINA"],
+       "ean": "7891150094963"
+    },
+    {
+       "mandatory_terms":["DOVE","BOND","INTENSE","REPAIR","110"],
+       "optional_terms": ["SERUM"],
+       "ean": "7891150095540"
+    },
+    {
+       "mandatory_terms":["DOVE","SECRETS","RITUAL","CRESCIMENTO","SHAMPOO","400"],
+       "optional_terms": ["SECRETS"],
+       "ean": "7891150050105"
+    },
+    {
+       "mandatory_terms":["DOVE","REAIS","CACHEADOS","SHAMPOO","200"],
+       "optional_terms": ["TEXTURAS"],
+       "ean": "7891150086975"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","DOVE","HIDRATACAO","POTENTE"],
+       "optional_terms": ["VITAMINAS"],
+       "ean": "7891150095533"
+    },
+    {
+       "mandatory_terms":["DOVE","10","1","RECONSTRUCAO","MASCARA"],
+       "optional_terms": ["TRATAMENTO"],
+       "ean": "7891150094918"
+    },
+    {
+       "mandatory_terms":["DOVE","MEN","SHAMPOO","FORCA","400"],
+       "optional_terms": ["CARE"],
+       "ean": "7891150021679"
+    },
+    {
+       "mandatory_terms":["DOVE","RITUAL","CRESCIMENTO","CONDICIONADOR","400"],
+       "optional_terms": ["SECRETS"],
+       "ean": "7891150050143"
+    },
+    {
+       "mandatory_terms":["DOVE","10","1","MASCARA","TRATAMENTO"],
+       "optional_terms": ["NUTRICAO"],
+       "ean": "7891150094895"
+    },
+    {
+       "mandatory_terms":["DOVE","RITUAL","CRESCIMENTO","500","MASCARA"],
+       "optional_terms": ["NUTRICAO"],
+       "ean": "7891150080768"
+    },
+    {
+       "mandatory_terms":["DOVE","RITUAL","REPARACAO","SHAMPOO","200"],
+       "optional_terms": ["SECRETS"],
+       "ean": "7891150050075"
+    },
+    {
+       "mandatory_terms":["DOVE","10","1","HIDRATACAO","MASCARA"],
+       "optional_terms": ["TRATAMENTO"],
+       "ean": "7891150094949"
+    },
+    {
+       "mandatory_terms":["DOVE","10","1","BRILHO","MASCARA"],
+       "optional_terms": ["TRATAMENTO"],
+       "ean": "7891150094932"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","DOVE","REAIS","CACHEADOS"],
+       "optional_terms": ["TEXTURAS"],
+       "ean": "7891150090088"
+    },
+    {
+       "mandatory_terms":["DOVE","MEN","SHAMPOO","REFRESCANTE","200"],
+       "optional_terms": ["CARE"],
+       "ean": "7891150021686"
+    },
+    {
+       "mandatory_terms":["DOVE","MEN","SHAMPOO","ALIVIO","400"],
+       "optional_terms": ["CARE"],
+       "ean": "7891150062528"
+    },
+    {
+       "mandatory_terms":["DOVE","RECONSTRUCAO","5","1","MULTIFUNCIONAL","175"],
+       "optional_terms": [],
+       "ean": "7891150095243"
+    },
+    {
+       "mandatory_terms":["DOVE","VITAMINAS","SERUM","FLUIDO","110"],
+       "optional_terms": ["HIDRATACAO"],
+       "ean": "7891150094345"
+    },
+    {
+       "mandatory_terms":["DOVE","NUTRICAO","TRATAMENTO","NOTURNO","175"],
+       "optional_terms": ["COMPLEX"],
+       "ean": "7891150095236"
+    },
+    {
+       "mandatory_terms":["DOVE","MEN","CARE","SHAMPOO","LIMPEZA","400"],
+       "optional_terms": ["CARE"],
+       "ean": "7891150021693"
+    },
+    {
+       "mandatory_terms":["DOVE","MEN","SHAMPOO","SPORTS","200"],
+       "optional_terms": ["CARE"],
+       "ean": "7891150068926"
+    },
+    {
+       "mandatory_terms":["DOVE","MEN","SHAMPOO","PROTECAO","400"],
+       "optional_terms": ["CARE"],
+       "ean": "7891150021716"
+    },
+    {
+       "mandatory_terms":["DOVE","MEN","CARE","SHAMPOO","PROTECAO","200"],
+       "optional_terms": ["CARE"],
+       "ean": "7891150021709"
+    },
+    {
+       "mandatory_terms":["DOVE","DETOX","PURIFICANTE","CONDICIONADOR","400"],
+       "optional_terms": ["NUTRITIVE"],
+       "ean": "7891150062498"
+    },
+    {
+       "mandatory_terms":["DOVE","REGENERACAO","EXTREMA","CONDICIONADOR","400"],
+       "optional_terms": ["DANIFICADOS"],
+       "ean": "7891150043237"
+    },
+    {
+       "mandatory_terms":["DOVE","REGENERACAO","EXTREMA","CONDICIONADOR","200"],
+       "optional_terms": ["DANIFICADOS"],
+       "ean": "7891150043282"
+    },
+    {
+       "mandatory_terms":["DOVE","HIALURONICO","DERMO","RENOVADOR","380"],
+       "optional_terms": ["CORPORAL"],
+       "ean": "7891150095830"
+    },
+    {
+       "mandatory_terms":["SEDA","CERAMIDAS","SHAMPOO","325"],
+       "optional_terms": ["COCRIACOES"],
+       "ean": "7891150037397"
+    },
+    {
+       "mandatory_terms":["SEDA","CACHOS","DEFINIDOS","SHAMPOO","325"],
+       "optional_terms": ["COCRIACOES", "JUNTAS"],
+       "ean": "7891150037595"
+    },
+    {
+       "mandatory_terms":["SEDA","6","GLYCOL","VITA","MASCARA"],
+       "optional_terms": ["C","LUMINOUS", "UV"],
+       "ean": "7891150099883"
+    },
+    {
+       "mandatory_terms":["SEDA","LISO","PERFEITO","SHAMPOO","325"],
+       "optional_terms": ["COCRIACOES", "JUNTAS"],
+       "ean": "7891150037519"
+    },
+    {
+       "mandatory_terms":["SEDA","ANTI","CASPA","SHAMPOO","325"],
+       "optional_terms": ["COCRIACOES", "JUNTAS"],
+       "ean": "7891150037458"
+    },
+    {
+       "mandatory_terms":["SEDA","6","GLYCOL","VITA","300"],
+       "optional_terms": ["C","LUMINOUS", "UV"],
+       "ean": "7891150099852"
+    },
+    {
+       "mandatory_terms":["SEDA","2","GLYCOL","VITA","300"],
+       "optional_terms": ["C","LUMINOUS", "UV"],
+       "ean": "7891150099845"
+    },
+    {
+       "mandatory_terms":["SEDA","CERAMIDAS","CREME","PENTEAR","300"],
+       "optional_terms": ["BRILHO","CABELOS"],
+       "ean": "7891037144705"
+    },
+    {
+       "mandatory_terms":["SEDA","PRETOS","LUMINOSOS","SHAMPOO","325"],
+       "optional_terms": ["COCRIACOES","INFUSAO"],
+       "ean": "7891150037526"
+    },
+    {
+       "mandatory_terms":["SEDA","CERAMIDAS","TRATAMENTO","CONDICIONADOR","325"],
+       "optional_terms": ["COCRIACOES"],
+       "ean": "7891150037250"
+    },
+    {
+       "mandatory_terms":["SEDA","4","GLYCOL","VITA","300"],
+       "optional_terms": ["LUMINOUS", "UV", "CONDICIONADOR"],
+       "ean": "7891150099838"
+    },
+    {
+       "mandatory_terms":["SEDA","LISO","CREME","300"],
+       "optional_terms": ["PERFEITO","PENTEAR"],
+       "ean": "7891037010048"
+    },
+    {
+       "mandatory_terms":["SEDA","LISO","PERFEITO","TRATAMENTO","325"],
+       "optional_terms": ["CONDICIONADOR"],
+       "ean": "7891150037328"
+    },
+    {
+       "mandatory_terms":["SEDA","JOIAS","GENGIBRE","SHAMPOO","325"],
+       "optional_terms": ["HIDRATACAO", "ANTI-NOS"],
+       "ean": "7891150037601"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","HIDRATACAO","SHAMPOO","250"],
+       "optional_terms": ["DURADOURA", "HIGIENIZADOR"],
+       "ean": "7891150096288"
+    },
+    {
+       "mandatory_terms":["SEDA","CACHOS","DEFINIDOS","TRATAMENTO","325"],
+       "optional_terms": ["CONDICIONADOR"],
+       "ean": "7891150037465"
+    },
+    {
+       "mandatory_terms":["SEDA","PREBIOTICOS","BIOTINA","CRESCIMENTO","SHAMPOO","325"],
+       "optional_terms": ["FORCA"],
+       "ean": "7891150091467"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","SEDA","CACHOS","DEFINIDOS"],
+       "optional_terms": ["NOVO"],
+       "ean": "7891150097353"
+    },
+    {
+       "mandatory_terms":["SEDA","COLAGENO","VITAMINA","SHAMPOO","325"],
+       "optional_terms": ["C", "NIINA", "SECRETS"],
+       "ean": "7891150080089"
+    },
+    {
+       "mandatory_terms":["SEDA","LISO","EXTREMO","SHAMPOO","325"],
+       "optional_terms": ["INFUSAO"],
+       "ean": "7891150037502"
+    },
+    {
+       "mandatory_terms":["SEDA","BABOSA","OLEOS","SHAMPOO","325"],
+       "optional_terms": ["RAYZA"],
+       "ean": "7891150060685"
+    },
+    {
+       "mandatory_terms":["SEDA","PRETOS","LUMINOSOS","CONDICIONADOR","325"],
+       "optional_terms": ["COCRIACOES"],
+       "ean": "7891150037342"
+    },
+    {
+       "mandatory_terms":["SEDA","JOIAS","CITRICOS","PURIFICACAO","SHAMPOO","325"],
+       "optional_terms": ["PURIFICACAO","DETOX"],
+       "ean": "7891150037564"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","HIDRATACAO","DURADOURA","CONDICIONADOR","250"],
+       "optional_terms": ["HIDRATANTE"],
+       "ean": "7891150096257"
+    },
+    {
+       "mandatory_terms":["SEDA","CACHOS","CREME","PENTEAR", "300"],
+       "optional_terms": ["DEFINIDOS","CONTROLA","FRIZZ"],
+       "ean": "7891037000322"
+    },
+    {
+       "mandatory_terms":["SEDA","BABOSA","OLEOS","300"],
+       "optional_terms": ["RAYZA","CREME","PARA","PENTEAR"],
+       "ean": "7891150060883"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","DEFINICAO","INTENSA","350"],
+       "optional_terms": ["LIBERADO"],
+       "ean": "7891150096387"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","HIDRATACAO","DURADOURA","500"],
+       "optional_terms": ["TRATAMENTO","INTENSIVO"],
+       "ean": "7891150088573"
+    },
+    {
+       "mandatory_terms":["SEDA","COLAGENO","VITAMINA","CONDICIONADOR","325"],
+       "optional_terms": ["C"],
+       "ean": "7891150080096"
+    },
+    {
+       "mandatory_terms":["SEDA","PREBIOTICOS","BIOTINA"],
+       "optional_terms": ["FORCA","CRESCIMENTO","MASCARA"],
+       "ean": "7891150091474"
+    },
+    {
+       "mandatory_terms":["SEDA","OLEO","HIDRATACAO","SHAMPOO","325"],
+       "optional_terms": ["INFUSAO","ATIVA"],
+       "ean": "7891150037540"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","NUTRICAO","INTENSA","CONDICIONADOR","250"],
+       "optional_terms": ["OLEO-NUTRITIVO"],
+       "ean": "7891150096271"
+    },
+    {
+       "mandatory_terms":["SEDA","GLYCOL","VITA"],
+       "optional_terms": ["6","C","110"],
+       "ean": "7891150099821"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","SEDA","CERAMIDAS"],
+       "optional_terms": ["COLAGENO"],
+       "ean": "7891150097377"
+    },
+    {
+       "mandatory_terms":["SEDA","BABOSA","OLEOS","CONDICIONADOR","325"],
+       "optional_terms": ["RAYZA"],
+       "ean": "7891150060722"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","SEDA","LISO","PERFEITO"],
+       "optional_terms": ["FORTE"],
+       "ean": "7891150097384"
+    },
+    {
+       "mandatory_terms":["SEDA","PRETOS","LUMINOSOS","CREME","300"],
+       "optional_terms": ["COCRIACOES","PARA", "PENTEAR"],
+       "ean": "7898422745301"
+    },
+    {
+       "mandatory_terms":["SEDA","RECARGA","NATURAL","COCO","CONDICIONADOR", "325"],
+       "optional_terms": ["BOMBA"],
+       "ean": "7891150067516"
+    },
+    {
+       "mandatory_terms":["SEDA","ARGAN","TRATAMENTO","CONDICIONADOR","325"],
+       "optional_terms": ["COCRIACOES"],
+       "ean": "7891150056589"
+    },
+    {
+       "mandatory_terms":["SEDA","LISO","EXTREMO","CONDICIONADOR","325"],
+       "optional_terms": ["COCRIACOES"],
+       "ean": "7891150037632"
+    },
+    {
+       "mandatory_terms":["SEDA","ANTINOS","HIDRATACAO","CONDICIONADOR","325"],
+       "optional_terms": ["NATURAL"],
+       "ean": "7891150037489"
+    },
+    {
+       "mandatory_terms":["SEDA","MICELAR","HIALURONICO","CONDICIONADOR","325"],
+       "optional_terms": ["NOVA"],
+       "ean": "7891150063457"
+    },
+    {
+       "mandatory_terms":["SEDA","HIDRATACAO","PRO","SHAMPOO","300"],
+       "optional_terms": ["BOOM"],
+       "ean": "7891150088467"
+    },
+    {
+       "mandatory_terms":["SEDA","2","AMINO-SILK","SHAMPOO","300"],
+       "optional_terms": ["TOQUE"],
+       "ean": "7891150101616"
+    },
+    {
+       "mandatory_terms":["SEDA","PRO","CURVATURA","CREME","350"],
+       "optional_terms": ["BOOM"],
+       "ean": "7891150088375"
+    },
+    {
+       "mandatory_terms":["SEDA","RECARGA","COCO","SHAMPOO", "325"],
+       "optional_terms": ["NATURAL"],
+       "ean": "7891150067509"
+    },
+    {
+       "mandatory_terms":["SEDA","RESTAURACAO","CONDICIONADOR","325","INSTANTANEA"],
+       "optional_terms": ["TRATAMENTO"],
+       "ean": "7891150037427"
+    },
+    {
+       "mandatory_terms":["SEDA","COLAGENO","VITAMINA","C","MASCARA","300"],
+       "optional_terms": ["+"],
+       "ean": "7891150080119"
+    },
+    {
+       "mandatory_terms":["SEDA","PREBIOTICOS","BIOTINA","CONDICIONADOR","325"],
+       "optional_terms": ["CRESCIMENTO"],
+       "ean": "7891150091429"
+    },
+    {
+       "mandatory_terms":["SEDA","DEFINICAO","FLEXIVEL","CREME","350"],
+       "optional_terms": ["BOOM"],
+       "ean": "7891150095915"
+    },
+    {
+       "mandatory_terms":["SEDA","NUTRICAO","INTENSA","SHAMPOO","250"],
+       "optional_terms": ["BOOM"],
+       "ean": "7891150096318"
+    },
+    {
+       "mandatory_terms":["SEDA","AMINO-SILK","CONDICIONADOR","250"],
+       "optional_terms": ["4"],
+       "ean": "7891150101586"
+    },
+    {
+       "mandatory_terms":["TAMANHO","ESPECIAL","SEDA","GLYCOL","425"],
+       "optional_terms": ["VITA"],
+       "ean": "7891150099869"
+    },
+    {
+       "mandatory_terms":["CONDICIONADOR","SEDA","LISO","PERFEITO","425"],
+       "optional_terms": ["TAMANHO"],
+       "ean": "7891150065635"
+    },
+    {
+       "mandatory_terms":["SHAMPOO","670","SEDA","CERAMIDAS","SHAMPOO"],
+       "optional_terms": ["TAMANHO"],
+       "ean": "7891150078253"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","SEDA","GLYCOL","VITA","C"],
+       "optional_terms": ["+"],
+       "ean": "7891150099982"
+    },
+    {
+       "mandatory_terms":["SEDA","RECARGA","BIOTINA","SHAMPOO","325"],
+       "optional_terms": ["NATURAL"],
+       "ean": "7891150070301"
+    },
+    {
+       "mandatory_terms":["SEDA","RESTAURACAO","INSTANTANEA","SHAMPOO","325"],
+       "optional_terms": ["INFUSAO"],
+       "ean": "7891150037571"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","DEFINICAO","HIDRATACAO","CREME"],
+       "optional_terms": ["PENTEAR"],
+       "ean": "7891150091788"
+    },
+    {
+       "mandatory_terms":["SEDA","COCRIACOES","ARGAN","SHAMPOO","325"],
+       "optional_terms": ["BOMBA"],
+       "ean": "7891150056572"
+    },
+    {
+       "mandatory_terms":["SEDA","CACHOS","DEFINIDOS","CONDICIONADOR","425"],
+       "optional_terms": ["TAMANHO"],
+       "ean": "7891150065659"
+    },
+    {
+       "mandatory_terms":["SEDA","PREBIOTICOS","BIOTINA","CREME","300"],
+       "optional_terms": ["CRESCIMENTO"],
+       "ean": "7891150091436"
+    },
+    {
+       "mandatory_terms":["SEDA","5","AMINO","SILK","CREME","300"],
+       "optional_terms": ["AMINO-SILK"],
+       "ean": "7891150101593"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","SEDA","CERAMIDAS"],
+       "optional_terms": ["CONJUNTO"],
+       "ean": "7891150043084"
+    },
+    {
+       "mandatory_terms":["SEDA","BOOM","NUTRICAO","INTENSA","500"],
+       "optional_terms": ["TRATAMENTO"],
+       "ean": "7891150095939"
+    },
+    {
+       "mandatory_terms":["SEDA","MICELAR","HIALURONICO","SHAMPOO","325"],
+       "optional_terms": ["+"],
+       "ean": "7891150063440"
+    },
+    {
+       "mandatory_terms":["SEDA","RECARGA","BIOTINA","CONDICIONADOR","325"],
+       "optional_terms": ["NATURAL"],
+       "ean": "7891150070295"
+    },
+    {
+       "mandatory_terms":["TAMANHO","SEDA","CERAMIDAS","SHAMPOO","425"],
+       "optional_terms": ["ECONOMICO"],
+       "ean": "7891150065550"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","NEUTRO","LIMPEZA","BALANCEADA","SHAMPOO"],
+        "optional_terms": ["350"],
+        "ean": "7891024172230"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE",",NUTRICAO","EXTRAORDINARIA","SHAMPOO"],
+        "optional_terms": ["350"],
+        "ean": "7891024171639"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE",",ANTICASPA","ANTIQUEDA","SHAMPOO"], 
+        "optional_terms": ["350"],
+        "ean": "7891024160718"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","CERAMIDAS","FORCE","SHAMPOO"],
+        "optional_terms": ["350"],
+        "ean": "7891024174210"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","DETOX","ENERGIZANTE","SHAMPOO"],
+        "optional_terms": ["350"],
+        "ean": "7891024042908"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","CUIDADO",",ANTICASPA","SHAMPOO"],
+        "optional_terms": ["350"],
+        "ean": "7891024171233"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","LISOS","RADIANTES","SHAMPOO"],
+        "optional_terms": ["350"],
+        "ean": "7891024161913"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","PRETOS","VIBRANTES","SHAMPOO"],
+        "optional_terms": ["350"],
+        "ean": "7891024158609"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","CERAMIDAS","FORCE","CONDICIONADOR"],
+        "optional_terms": ["350"],
+        "ean": "7891024174715"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","ANTICOCEIRA","SHAMPOO"],
+        "optional_terms": ["350"],
+        "ean": "7509546686202"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE",",NUTRICAO","EXTRAORDINARIA","CONDICIONADOR"],
+        "optional_terms": ["350"],
+        "ean": "7891024172339"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE",",NEUTRO","LIMPEZA","BALANCEADA","CONDICIONADOR"],
+        "optional_terms": ["350"],
+        "ean": "7891024172537"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","PRETOS","VIBRANTES","CONDICIONADOR"],
+        "optional_terms": ["350"],
+        "ean": "7891024158708"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","BOOM","HIDRATACAO","SHAMPOO"],
+        "optional_terms": ["350"],
+        "ean": "7891024034064"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","LISOS","RADIANTES","CONDICIONADOR"],
+        "optional_terms": ["350"],
+        "ean": "7891024170335"
+    },
+     {
+        "mandatory_terms": ["PALMOLIVE","DETOX","ENERGIZANTE","CONDICIONADOR"],
+        "optional_terms": ["350"],
+        "ean": "7891024042915"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","FORTALECE","PROTEGE", "SHAMPOO"],
+        "optional_terms": ["350"],
+        "ean": "7509546689913"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","BOOM","HIDRATACAO","CONDICIONADOR"],
+        "optional_terms": ["350"],
+        "ean": "7891024034156"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE",",NEUTRO","LIMPEZA","BALANCEADA","SHAMPOO","650"],
+        "optional_terms": [],
+        "ean": "7509546673851"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE",",NUTRICAO","EXTRAORDINARIA","SHAMPOO","650"],
+        "optional_terms": [],
+        "ean": "7509546674940"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE", "NUTRE","HIDRATA", "CONDICIONADOR"],
+        "optional_terms": ["350"],
+        "ean": "7509546689890"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","CERAMIDAS", "FORCE", "SHAMPOO", "650"],
+        "optional_terms": [],
+        "ean": "7509546674957"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","HYDRATE","SHAMPOO"],
+        "optional_terms": ["350"],
+        "ean": "7509546681153"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","HYDRATE","SHAMPOO","650"],
+        "optional_terms": [],
+        "ean": "7509546683041"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","CUIDADO", "ANTICASPA","650"],
+        "optional_terms": [],
+        "ean": "7509546687544"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","FRIZZ","RESIST","SHAMPOO"],
+        "optional_terms": ["350"],
+        "ean": "7891024174036"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","FORCE","SHAMPOO"],
+        "optional_terms": ["350"],
+        "ean": "7509546681139"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","NUTRE", "HIDRATA", "CONDICIONADOR"],
+        "optional_terms": ["350"],
+        "ean": "7509546689937"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","NUTRE", "HIDRATA", "SHAMPOO"],
+        "optional_terms": ["350"],
+        "ean": "7509546689944"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","HYDRATE","CONDICIONADOR"],
+        "optional_terms": ["350"],
+        "ean": "7509546681146"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","CACHOS","LIVRES","CONDICIONADOR"],
+        "optional_terms": ["350"],
+        "ean": "7891024042328"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","FORCE","CONDICIONADOR"],
+        "optional_terms": ["350"],
+        "ean": "7509546681054"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","CACHOS","LIVRES","SHAMPOO"],
+        "optional_terms": ["350"],
+        "ean": "7891024042311"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","HIDRATACAO","BRILHOS","RADIANTES","CONDICIONADOR"],
+        "optional_terms": ["350"],
+        "ean": "7891024160923"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","FORCA","ANTI-DANO","CONDICIONADOR"],
+        "optional_terms": ["350"],
+        "ean": "7891024171295"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","SEMPRE","LONGO","SHAMPOO"],
+        "optional_terms": ["350"],
+        "ean": "7509546659435"
+    },
+    {
+        "mandatory_terms": ["PALMOLIVE","SEMPRE","LONGO","CONDICIONADOR"],
+        "optional_terms": ["350"],
+        "ean": "7509546659442"
+    },
+    {
+       "mandatory_terms":["SHAMPOO","DARLING","CERAMIDAS"],
+       "optional_terms": ["FORCA","BRILHO"],
+       "ean": "7891024181072"
+    },
+    {
+       "mandatory_terms":["SHAMPOO","CONDICIONADOR","DARLING","2","1"],
+       "optional_terms": ["PROTECAO","MACIEZ"],
+       "ean": "7891024182475"
+    },
+    {
+       "mandatory_terms":["SHAMPOO","DARLING","TILIA"],
+       "optional_terms": ["REPARA","HIDRATA"],
+       "ean": "7891024180877"
+    },
+    {
+       "mandatory_terms":["CONDICIONADOR","DARLING","CERAMIDAS"],
+       "optional_terms": ["FORCA","BRILHO"],
+       "ean": "7891024184271"
+    },
+    {
+       "mandatory_terms":["CONDICIONADOR","DARLING","TILIA"],
+       "optional_terms": ["REPARA","HIDRATA"],
+       "ean": "7891024182970"
+    },
+    {
+       "mandatory_terms":["SHAMPOO","DARLING","DETOX"],
+       "optional_terms": ["BRILHO","LEVEZA"],
+       "ean": "7509546682600"
+    },
+    {
+       "mandatory_terms":["CONDICIONADOR","DARLING","DETOX"],
+       "optional_terms": ["BRILHO","LEVEZA"],
+       "ean": "7509546682617"
+    },
+    {
+       "mandatory_terms":["FAMILIA","DARLING","2","1"],
+       "optional_terms": ["PROTECAO","MACIEZ","650"],
+       "ean": "7509546673844"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","DARLING","TILIA"],
+       "optional_terms": ["REPARA","HIDRATA"],
+       "ean": "7509546696393"
+    },
+    {
+       "mandatory_terms":["FAMILIA","SHAMPOO","DARLING","CERAMIDAS"],
+       "optional_terms": ["FORCA","BRILHO","650"],
+       "ean": "7509546696300"
+    },    
+{
+"mandatory_terms": ["KIT", "PROMOCIONAL", "PANTENE", "ANTIQUEDA", "BIOTINAMINA", "300"],
+"optional_terms": ["ANTIQUEDA", "NUTRICAO","B3"],
+"ean": "7500435253598"
+},
+{
+"mandatory_terms": ["KIT",  "PANTENE", "QUERATINA", "MIRACLES"],
+"optional_terms": ["PREENCHE", "BLINDA", "PRO-V","PROMOCIONAL"],
+"ean": "7500435233644"
+},
+{
+"mandatory_terms": ["KIT", "PANTENE", "COLAGENO", "MIRACLES"],
+"optional_terms": ["HIRATA", "RESGATA", "PROMOCIONAL", "PRO-V"],
+"ean": "7500435200301"
+},
+{
+"mandatory_terms": ["KIT", "PANTENE", "EQUILIBRIO", "MIRACLES"],
+"optional_terms": ["RAIZ", "PONTAS","PRO-V","PROMOCIONAL"],
+"ean": "7500435215565"
+},
+{
+"mandatory_terms": ["KIT",  "PANTENE", "BRILHO",  "400"],
+"optional_terms": ["DESCONTO","CABELO", "LONGO", "FORTE"],
+"ean": "7500435199780"
+},
+{
+"mandatory_terms": ["KIT", "PANTENE", "BAMBU", "400"],
+"optional_terms": ["DESCONTO","CABELO", "LONGO", "FORTE"],
+"ean": "7500435188227"
+},
+{
+"mandatory_terms": ["KIT",  "PANTENE", "HIRO","CAUTERIZACAO", "350"],
+"optional_terms": ["DESCONTO","CABELO", "LONGO", "FORTE"],
+"ean": "7500435169387"
+},
+{
+"mandatory_terms": ["KIT",  "PANTENE", "HIDRO","CAUTERIZACAO",  "175"],
+"optional_terms": ["DESCONTO","CABELO", "LONGO", "FORTE"],
+"ean": "7500435128384"
+},
+{
+"mandatory_terms": ["KIT", "PANTENE", "LISO","350"],
+"optional_terms": ["DESCONTO","CABELO", "LONGO", "FORTE"],
+"ean": "7500435169363"
+},
+{
+"mandatory_terms": ["KIT", "PANTENE", "HIDRATACAO","350"],
+"optional_terms": ["DESCONTO","CABELO", "LONGO", "FORTE"],
+"ean": "7500435169370"
+},
+{
+"mandatory_terms": ["KIT","PANTENE", "CACHOS","175"],
+"optional_terms": ["DESCONTO","CABELO", "LONGO", "FORTE"],
+"ean": "7500435128391"
+},
+{
+"mandatory_terms": ["KIT", "PANTENE", "HIDRATACAO","175"],
+"optional_terms": ["DESCONTO","CABELO", "LONGO", "FORTE"],
+"ean": "7500435128360"
+},
+{
+"mandatory_terms": ["KIT","PANTENE", "LISO","175"],
+"optional_terms": ["DESCONTO","CABELO", "LONGO", "FORTE"],
+"ean": "7500435128353"
+},
+{
+"mandatory_terms": ["KIT","PANTENE", "RESTAURACAO","175"],
+"optional_terms": ["DESCONTO","CABELO", "LONGO", "FORTE"],
+"ean": "7500435128346"
+},
+{
+"mandatory_terms": ["PANTENE",  "BIOTINAMINA", "SHAMPOO", "510"],
+"optional_terms": ["PRO-V", "MIRACLES", "B3", "ANTIQUEDA"],
+"ean": "7500435248068"
+},
+{
+"mandatory_terms": ["PANTENE",  "BIOTINAMINA", "SHAMPOO", "300"],
+"optional_terms": ["PRO-V", "MIRACLES", "B3", "ANTIQUEDA"],
+"ean": "7500435248143"
+},
+{
+"mandatory_terms": ["PANTENE","BIOTINAMINA", "SHAMPOO", "175"],
+"optional_terms": ["PRO-V", "MIRACLES", "B3", "ANTIQUEDA"],
+"ean": "7500435248136"
+},
+{
+"mandatory_terms": ["PANTENE","BIOTINAMINA", "CONDICIONADOR", "510"],
+"optional_terms": ["PRO-V", "MIRACLES", "B3", "ANTIQUEDA"],
+"ean": "7500435248051"
+},
+{
+"mandatory_terms": ["PANTENE","BIOTINAMINA", "CONDICIONADOR", "250"],
+"optional_terms": ["PRO-V", "MIRACLES", "B3", "ANTIQUEDA"],
+"ean": "7500435248167"
+},
+{
+"mandatory_terms": ["PANTENE","BIOTINAMINA", "CONDICIONADOR", "150"],
+"optional_terms": ["PRO-V", "MIRACLES", "B3", "ANTIQUEDA"],
+"ean": "7500435248174"
+},
+{
+"mandatory_terms": ["PANTENE","BIOTINAMINA", "CREME", "DE", "PENTEAR", "240"],
+"optional_terms": ["PRO-V", "MIRACLES", "B3", "ANTIQUEBRA"],
+"ean": "7500435248181"
+},
+{
+"mandatory_terms": ["PANTENE", "BIOTINAMINA", "ANTIQUEDA", "TONICO", "CAPILAR"],
+"optional_terms": ["B3","52"],
+"ean": "7500435247917"
+},
+{
+"mandatory_terms": ["PANTENE", "RESTAURACAO", "SHAMPOO", "400"],
+"optional_terms": ["PRO-V"],
+"ean": "7501006721133"
+},
+{
+"mandatory_terms": ["PANTENE",  "RESTAURACAO", "SHAMPOO", "175"],
+"optional_terms": ["PRO-V"],
+"ean": "7500435125468"
+},
+{
+"mandatory_terms": ["PANTENE","RESTAURACAO", "CONDICIONADOR", "400"],
+"optional_terms": ["PRO-V"],
+"ean": "7501006721317"
+},
+{
+"mandatory_terms": ["PANTENE", "RESTAURACAO", "CONDICIONADOR", "175"],
+"optional_terms": [ "PRO-V"],
+"ean": "7500435125451"
+},
+{
+"mandatory_terms": ["PANTENE","RESTAURACAO", "MASCARA", "INTENSIVA", "270"],
+"optional_terms": ["PRO-V"],
+"ean": "7500435142243"
+},
+{
+"mandatory_terms": ["PANTENE",  "3", "MINUTOS", "MILAGROSOS", "RESTAURACAO", "170"],
+"optional_terms": ["PRO-V","CONDICIONADOR", "FORTALECEDOR", "DIARIO"],
+"ean": "7500435106382"
+},
+{
+"mandatory_terms": ["PANTENE","QUERATINA", "SHAMPOO", "510"],
+"optional_terms": ["PRO-V", "MIRACLES","PREENCHE","BLINDA"],
+"ean": "7500435232838"
+},
+{
+"mandatory_terms": ["PANTENE", "QUERATINA", "SHAMPOO", "300"],
+"optional_terms": ["PRO-V", "MIRACLES","PREENCHE","BLINDA"],
+"ean": "7500435232814"
+},
+{
+"mandatory_terms": ["PANTENE","QUERATINA", "SHAMPOO", "175"],
+"optional_terms": ["PRO-V", "MIRACLES","PREENCHE","BLINDA"],
+"ean": "7500435232777"
+},
+{
+"mandatory_terms": ["PANTENE","QUERATINA", "SHAMPOO", "1"],
+"optional_terms": ["PRO-V", "MIRACLES","PREENCHE","BLINDA"],
+"ean": "7500435243124"
+},
+{
+"mandatory_terms": ["PANTENE","QUERATINA", "CONDICIONADOR", "510"],
+"optional_terms": ["PRO-V", "MIRACLES","PREENCHE","BLINDA"],
+"ean": "7500435232821"
+},
+{
+"mandatory_terms": ["PANTENE","QUERATINA", "CONDICIONADOR", "250"],
+"optional_terms": ["PRO-V", "MIRACLES","PREENCHE","BLINDA"],
+"ean": "7500435232807"
+},
+{
+"mandatory_terms": ["PANTENE","QUERATINA", "CONDICIONADOR", "150"],
+"optional_terms": ["PRO-V", "MIRACLES","PREENCHE","BLINDA"],
+"ean": "7500435232784"
+},
+{
+"mandatory_terms": ["PANTENE", "QUERATINA", "CONDICIONADOR", "1"],
+"optional_terms": ["PRO-V", "MIRACLES","PREENCHE","BLINDA"],
+"ean": "7500435243513"
+},
+{
+"mandatory_terms": ["PANTENE","QUERATINA","SPRAY" , "160"],
+"optional_terms": ["PRO-V", "MIRACLES","MULTIBENEFICIOS"],
+"ean": "7500435240529"
+},
+{
+"mandatory_terms": ["PANTENE",  "HIDRATACAO", "SHAMPOO", "400"],
+"optional_terms": ["PRO-V"],
+"ean": "7501007413921"
+},
+{
+"mandatory_terms": ["PANTENE",  "HIDRATACAO", "SHAMPOO", "175"],
+"optional_terms": ["PRO-V"],
+"ean": "7500435125383"
+},
+{
+"mandatory_terms": ["PANTENE", "HIDRATACAO", "CONDICIONADOR", "400"],
+"optional_terms": ["PRO-V"],
+"ean": "7501007413105"
+},
+{
+"mandatory_terms": ["PANTENE",  "HIDRATACAO", "CONDICIONADOR", "175"],
+"optional_terms": ["PRO-V"],
+"ean": "7500435125376"
+},
+{
+"mandatory_terms": ["PANTENE", "HIDRATACAO", "MASCARA", "INTENSIVA", "270"],
+"optional_terms": ["PRO-V"],
+"ean": "7500435142229"
+},
+{
+"mandatory_terms": ["PANTENE", "3", "MINUTOS", "MILAGROSOS", "HIDRATACAO", "170"],
+"optional_terms": [ "PRO-V"],
+"ean": "7500435116305"
+},
+{
+"mandatory_terms": ["PANTENE","LISO", "EXTREMO", "SHAMPOO", "400"],
+"optional_terms": ["PRO-V"],
+"ean": "7501001165246"
+},
+{
+"mandatory_terms": ["PANTENE","LISO", "EXTREMO", "SHAMPOO", "175"],
+"optional_terms": ["PRO-V"],
+"ean": "7500435125420"
+},
+{
+"mandatory_terms": ["PANTENE", "LISO", "EXTREMO", "CONDICIONADOR", "400"],
+"optional_terms": [ "PRO-V"],
+"ean": "7501001165253"
+},
+{
+"mandatory_terms": ["PANTENE", "LISO", "EXTREMO", "CONDICIONADOR", "175"],
+"optional_terms": ["PRO-V"],
+"ean": "7500435125413"
+},
+{
+"mandatory_terms": ["PANTENE", "LISO", "CREME", "PARA", "PENTEAR", "240"],
+"optional_terms": [ "PRO-V"],
+"ean": "7506195167281"
+},
+{
+"mandatory_terms": ["PANTENE", "BAMBU", "SHAMPOO", "400"],
+"optional_terms": ["PRO-V","NUTRE","CRESCE"],
+"ean": "7500435154239"
+},
+{
+"mandatory_terms": ["PANTENE",  "BAMBU", "SHAMPOO", "200"],
+"optional_terms": ["PRO-V","NUTRE","CRESCE"],
+"ean": "7500435154222"
+},
+{
+"mandatory_terms": ["PANTENE","BAMBU", "CONDICIONADOR", "150"],
+"optional_terms": ["PRO-V","NUTRE","CRESCE"],
+"ean": "7500435154260"
+},
+{
+"mandatory_terms": ["PANTENE", "BAMBU", "CONDICIONADOR", "250"],
+"optional_terms": ["PRO-V","NUTRE","CRESCE"],
+"ean": "7500435154277"
+},
+{
+"mandatory_terms": ["PANTENE", "BAMBU","MASCARA", "NUTRITIVA", "600"],
+"optional_terms": ["PRO-V","NUTRE","CRESCE"],
+"ean": "7500435154291"
+},
+{
+"mandatory_terms": ["PANTENE", "BAMBU", "CREME", "PARA", "PENTEAR", "240"],
+"optional_terms": ["PRO-V"],
+"ean": "7500435154307"
+},
+{
+"mandatory_terms": ["PANTENE","COLAGENO", "SHAMPOO", "510"],
+"optional_terms": ["PRO-V","MIRACLES","HIDRATA", "RESGATA"],
+"ean": "7500435151498"
+},
+{
+"mandatory_terms": ["PANTENE",  "COLAGENO", "SHAMPOO", "300"],
+"optional_terms": ["PRO-V", "MIRACLES","HIDRATA", "RESGATA"],
+"ean": "7500435196987"
+},
+{
+"mandatory_terms": ["PANTENE","COLAGENO", "SHAMPOO", "175"],
+"optional_terms": ["PRO-V", "MIRACLES","HIDRATA", "RESGATA"],
+"ean": "7500435196970"
+},
+{
+"mandatory_terms": ["PANTENE","COLAGENO", "SHAMPOO", "1"],
+"optional_terms": ["PRO-V", "MIRACLES","HIDRATA", "RESGATA"],
+"ean": "7500435243117"
+},
+{
+"mandatory_terms": ["PANTENE", "COLAGENO", "CONDICIONADOR", "510"],
+"optional_terms": ["PRO-V", "MIRACLES","HIDRATA", "RESGATA"],
+"ean": "7500435151504"
+},
+{
+"mandatory_terms": ["PANTENE", "COLAGENO", "CONDICIONADOR", "250"],
+"optional_terms": ["PRO-V", "MIRACLES","HIDRATA", "RESGATA"],
+"ean": "7500435197007"
+},
+{
+"mandatory_terms": ["PANTENE", "COLAGENO", "CONDICIONADOR", "150"],
+"optional_terms": ["PRO-V", "MIRACLES","HIDRATA", "RESGATA"],
+"ean": "7500435196994"
+},
+{
+"mandatory_terms": ["PANTENE", "COLAGENO", "CONDICIONADOR", "1"],
+"optional_terms": ["PRO-V", "MIRACLES","HIDRATA", "RESGATA"],
+"ean": "7500435243490"
+},
+{
+"mandatory_terms": ["PANTENE", "COLAGENO", "MASCARA", "HIDRATANTE", "550"],
+"optional_terms": [ "PRO-V", "MIRACLES","HIDRATA", "RESGATA"],
+"ean": "7500435197014"
+},
+{
+"mandatory_terms": ["PANTENE", "SHAMPOO", "LIBERADO", "270"],
+"optional_terms": ["PRO-V", "CACHOS", "LIMPA", "HIDRATA"],
+"ean": "7500435136952"
+},
+
+{
+"mandatory_terms": ["PANTENE",  "OLEO", "MILAGROSO", "QUERATINA", "95"],
+"optional_terms": ["PRO-V", "MIRACLES"],
+"ean": "7500435240512"
+},
+{
+"mandatory_terms": ["PANTENE", "QUERATINA", "CREME", "PARA", "PENTEAR", "240"],
+"optional_terms": ["PRO-V", "MIRACLES"],
+"ean": "7500435251969"
+},
+{
+"mandatory_terms": ["PANTENE",  "EQUILIBRIO", "SHAMPOO", "510"],
+"optional_terms": ["PRO-V", "MIRACLES","RAIZ", "PONTAS"],
+"ean": "7500435209748"
+},
+{
+"mandatory_terms": ["PANTENE","EQUILIBRIO", "SHAMPOO", "300"],
+"optional_terms": ["PRO-V", "MIRACLES","RAIZ", "PONTAS"],
+"ean": "7500435209304"
+},
+{
+"mandatory_terms": ["PANTENE",  "EQUILIBRIO", "SHAMPOO", "175"],
+"optional_terms": ["PRO-V", "MIRACLES","RAIZ", "PONTAS"],
+"ean": "7500435209342"
+},
+{
+"mandatory_terms": ["PANTENE", "EQUILIBRIO", "SHAMPOO", "1"],
+"optional_terms": ["PRO-V", "MIRACLES","RAIZ", "PONTAS"],
+"ean": "7500435243100"
+},
+{
+"mandatory_terms": ["PANTENE","EQUILIBRIO", "CONDICIONADOR", "510"],
+"optional_terms": ["PRO-V", "MIRACLES","RAIZ", "PONTAS"],
+"ean": "7500435209755"
+},
+{
+"mandatory_terms": ["PANTENE","EQUILIBRIO", "CONDICIONADOR", "250"],
+"optional_terms": ["PRO-V", "MIRACLES","RAIZ", "PONTAS"],
+"ean": "7500435209311"
+},
+{
+"mandatory_terms": ["PANTENE","EQUILIBRIO", "CONDICIONADOR", "150"],
+"optional_terms": ["PRO-V", "MIRACLES","RAIZ", "PONTAS"],
+"ean": "7500435209335"
+},
+{
+"mandatory_terms": ["PANTENE", "EQUILIBRIO", "CONDICIONADOR", "1"],
+"optional_terms": ["PRO-V", "MIRACLES","RAIZ", "PONTAS"],
+"ean": "7500435243506"
+},
+{
+"mandatory_terms": ["PANTENE", "EQUILIBRIO", "SERUM", "95"],
+"optional_terms": ["PRO-V", "MIRACLES","REVITALIZADOR"],
+"ean": "7500435212335"
+},
+
+{
+"mandatory_terms": ["PANTENE","3", "MINUTOS", "NUTRICAO", "170"],
+"optional_terms": ["PRO-V","MILAGROSOS"],
+"ean": "7500435106405"
+},
+{
+"mandatory_terms": ["PANTENE",  "CACHOS", "SHAMPOO", "400"],
+"optional_terms": ["PRO-V","HIDRA-VITAMINADOS"],
+"ean": "7501001164645"
+},
+{
+"mandatory_terms": ["PANTENE","CACHOS", "SHAMPOO", "175"],
+"optional_terms": ["PRO-V","HIDRA-VITAMINADOS"],
+"ean": "7500435125475"
+},
+{
+"mandatory_terms": ["PANTENE","CACHOS","CONDICIONADOR", "400"],
+"optional_terms": ["PRO-V","HIDRA-VITAMINADOS"],
+"ean": "7501001165321"
+},
+{
+"mandatory_terms": ["PANTENE","CACHOS","CONDICIONADOR", "175"],
+"optional_terms": ["PRO-V","HIDRA-VITAMINADOS"],
+"ean": "7500435125482"
+},
+{
+"mandatory_terms": ["PANTENE",  "MICELAR", "SHAMPOO", "400"],
+"optional_terms": ["PRO-V","PURIFICA", "HIDRATA"],
+"ean": "7500435128933"
+},
+{
+"mandatory_terms": ["PANTENE","MICELAR", "SHAMPOO", "200"],
+"optional_terms": ["PRO-V","PURIFICA", "HIDRATA"],
+"ean": "7500435128926"
+},
+{
+"mandatory_terms": ["PANTENE","MICELAR", "CONDICIONADOR", "400"],
+"optional_terms": ["PRO-V","PURIFICA", "HIDRATA"],
+"ean": "7500435128957"
+}
+]
