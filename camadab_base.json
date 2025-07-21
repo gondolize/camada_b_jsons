@@ -46,8 +46,8 @@
        "ean": "7908615053110"
     },
     {
-       "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","SHAMPOO","EXTRA","400"],
-       "optional_terms": ["ACIDO"],
+       "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","SHAMPOO","EXTRA"],
+       "optional_terms": ["ACIDO","400"],
        "ean": "7908615060606"
     },
     {
