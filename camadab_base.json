@@ -46,20 +46,31 @@
        "ean": "7908615053110"
     },
     {
-       "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","SHAMPOO","EXTRA"],
-       "optional_terms": ["ACIDO","400"],
+       "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","SHAMPOO","EXTRA","200"],
+       "optional_terms": ["ACIDO","COMPLEXO"],
+       "ean": "7908615060385"
+    },
+    {
+       "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","SHAMPOO","EXTRA","400"],
+       "optional_terms": ["ACIDO","COMPLEXO"],
        "ean": "7908615060606"
+    },
+    {
+       "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","SHAMPOO","EXTRA"],
+       "optional_terms": ["ACIDO","COMPLEXO","400"],
+       "ean": "7908615060606"
+    },
+    {
+       "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","SHAMPOO","EXTRA"],
+       "optional_terms": ["ACIDO","COMPLEXO","200"],
+       "ean": "7908615060385"
     },
     {
        "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","SHAMPOO","SELA","400"],
        "optional_terms": ["COMPLEXO"],
        "ean": "7908615055169"
     },
-    {
-       "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","SHAMPOO","EXTRA","200"],
-       "optional_terms": ["COMPLEXO"],
-       "ean": "7908615060385"
-    },
+    
     {
        "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","CREME","SUPER"],
        "optional_terms": ["250"],
