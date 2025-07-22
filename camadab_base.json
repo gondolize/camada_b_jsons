@@ -21,13 +21,13 @@
     },
     
     {
-       "mandatory_terms":["CLEAR","SPORTS","PROFUNDA","SHAMPOO","400"],
-       "optional_terms": ["MEN"],
+       "mandatory_terms":["CLEAR","LIMPEZA","PROFUNDA","400"],
+       "optional_terms": ["SPORTS"],
        "ean": "7891150019416"
     },
     {
-       "mandatory_terms":["CLEAR","SPORTS","PROFUNDA","SHAMPOO","200"],
-       "optional_terms": ["MEN"],
+       "mandatory_terms":["CLEAR","LIMPEZA","PROFUNDA","200"],
+       "optional_terms": ["SPORTS"],
        "ean": "7891150019508"
     },
     {
@@ -46,12 +46,12 @@
        "ean": "7891150099272"
     },
     {
-       "mandatory_terms":["CLEAR","QUEDA","CONTROL","200","BIO"],
+       "mandatory_terms":["CLEAR","QUEDA","CONTROL","200"],
        "optional_terms": ["MEN"],
        "ean": "7891150001077"
     },
     {
-       "mandatory_terms":["CLEAR","QUEDA","CONTROL","400","BIO"],
+       "mandatory_terms":["CLEAR","QUEDA","CONTROL","400"],
        "optional_terms": ["MEN"],
        "ean": "7891150001268"
     },
@@ -86,8 +86,8 @@
        "ean": "7891150014107"
     },
     {
-       "mandatory_terms":["CLEAR","SCALPFOODS","DETOX","200","SHAMPOO"],
-       "optional_terms": ["DIARIO"],
+       "mandatory_terms":["CLEAR","BOTANIQUE","DETOX","DIARIO"],
+       "optional_terms": ["200"],
        "ean": "7891150055698"
     },
     {
@@ -116,7 +116,7 @@
        "ean": "7891150055704"
     },
     {
-       "mandatory_terms":["CLEAR","SCALPFOODS","70","GRATIS","400"],
+       "mandatory_terms":["CLEAR","DETOX","DIARIO","GRATIS","400"],
        "optional_terms": ["DETOX"],
        "ean": "7891150067561"
     },
