@@ -178,9 +178,24 @@
        "ean": "7500435112123"
     },
     {
+       "mandatory_terms":["HEAD","SHOULDERS","MEN","MENTROL","SPORT"],
+       "optional_terms": ["REFRESCANTE","SENSACAO"],
+       "ean": "7501001133627"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","MEN","MENTA","ICE"],
+       "optional_terms": ["200","200ML"],
+       "ean": "7501001133627"
+    },
+    {
        "mandatory_terms":["HEAD","SHOULDERS","MEN","MENTA","ICE","400"],
        "optional_terms": ["SENSACAO","REFRESCANCIA"],
        "ean": "7501001133290"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","MEN","MENTA","ICE","650"],
+       "optional_terms": ["SHAMPOO","ANTICASPA"],
+       "ean": "7500435238670"
     },
     {
        "mandatory_terms":["HEAD","SHOULDERS","CRESCIMENTO","200"],
@@ -193,7 +208,7 @@
        "ean": "7500435112130"
     },
     {
-       "mandatory_terms":["HEAD","SHOULDERS","MEN","CONTRA","QUEDA","200"],
+       "mandatory_terms":["HEAD","SHOULDERS","MEN","ANTIQUEDA","200"],
        "optional_terms": ["AJUDA","PREVENIR"],
        "ean": "7501006707687"
     },
@@ -233,14 +248,10 @@
        "optional_terms": ["REDUZIR","QUEDA"],
        "ean": "7501006707694"
     },
+    
     {
-       "mandatory_terms":["HEAD","SHOULDERS","MEN","MENTA","ICE","650"],
-       "optional_terms": ["SHAMPOO","ANTICASPA"],
-       "ean": "7500435238670"
-    },
-    {
-       "mandatory_terms":["HEAD","SHOULDERS","DETOX","RAIZ","200"],
-       "optional_terms": ["LIMPA","PROFUNDAMENTE"],
+       "mandatory_terms":["HEAD","SHOULDERS","DETOX","RAIZ"],
+       "optional_terms": ["200"],
        "ean": "7500435128742"
     },
     
