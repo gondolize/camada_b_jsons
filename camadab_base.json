@@ -146,6 +146,11 @@
        "ean": "7506309865393"
     },
     {
+       "mandatory_terms":["HEAD","SHOULDERS","MEN"],
+       "optional_terms": ["3","1","200", "200ML"],
+       "ean": "7506309865393"
+    },
+    {
        "mandatory_terms":["HEAD","SHOULDERS","MEN","3","1","400"],
        "optional_terms": ["LIMPA","PROFUNDAMENTE"],
        "ean": "7506309865409"
