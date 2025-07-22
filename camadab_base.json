@@ -141,8 +141,8 @@
        "ean": "7506195142035"
     },
     {
-       "mandatory_terms":["HEAD","SHOULDERS","MEN","3","1","200"],
-       "optional_terms": ["LIMPA","PROFUNDAMENTE"],
+       "mandatory_terms":["HEAD","SHOULDERS","MEN","3","1"],
+       "optional_terms": ["200", "200ML"],
        "ean": "7506309865393"
     },
     {
@@ -173,8 +173,8 @@
        "ean": "7506195142042"
     },
     {
-       "mandatory_terms":["HEAD","SHOULDERS","REMOCAO","OLEOSIDADE","200"],
-       "optional_terms": ["REMOVE"],
+       "mandatory_terms":["HEAD","SHOULDERS","REMOCAO","OLEOSIDADE"],
+       "optional_terms": ["200", "200ML"],
        "ean": "7500435112123"
     },
     {
@@ -208,8 +208,8 @@
        "ean": "7500435112130"
     },
     {
-       "mandatory_terms":["HEAD","SHOULDERS","MEN","ANTIQUEDA","200"],
-       "optional_terms": ["AJUDA","PREVENIR"],
+       "mandatory_terms":["HEAD","SHOULDERS","MEN","ANTIQUEDA"],
+       "optional_terms": ["200", "200ML"],
        "ean": "7501006707687"
     },
     {
