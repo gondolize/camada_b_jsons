@@ -126,13 +126,13 @@
        "ean": "7500435242615"
     },
     {
-       "mandatory_terms":["HEAD","SHOULDERS","LIMPEZA","EFICAZ","400"],
-       "optional_terms": ["SHAMPOO","ANTICASPA"],
+       "mandatory_terms":["HEAD","SHOULDERS","LIMPEZA","EFICAZ"],
+       "optional_terms": ["400","400ML"],
        "ean": "7500435242622"
     },
     {
-       "mandatory_terms":["HEAD","SHOULDERS","LIMPEZA","EFICAZ","650"],
-       "optional_terms": ["SHAMPOO","ANTICASPA"],
+       "mandatory_terms":["HEAD","SHOULDERS","LIMPEZA","EFICAZ"],
+       "optional_terms": ["650","650ML"],
        "ean": "7500435248914"
     },
     {
@@ -158,9 +158,14 @@
     
     
     {
-       "mandatory_terms":["HEAD","SHOULDERS","MEN","OLD","SPICE","200"],
-       "optional_terms": ["CABELO","LIMPO"],
+       "mandatory_terms":["HEAD","SHOULDERS","MEN","OLD","SPICE"],
+       "optional_terms": ["200", "200ML"],
        "ean": "7500435187879"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","OLD","SPICE"],
+       "optional_terms": ["400", "400ML"],
+       "ean": "7500435187886"
     },
     {
        "mandatory_terms":["HEAD","SHOULDERS","ANTICOCEIRA","400"],
@@ -207,11 +212,7 @@
        "optional_terms": ["COURO","CABELUDO","RESSECADO"],
        "ean": "7501001133306"
     },
-    {
-       "mandatory_terms":["HEAD","SHOULDERS","OLD","SPICE","400"],
-       "optional_terms": ["CABELO","LIMPO"],
-       "ean": "7500435187886"
-    },
+    
     {
        "mandatory_terms":["HEAD","SHOULDERS","MEN","FRAGRANCIA","PODEROSA","650"],
        "optional_terms": ["OLD","SPICE"],
