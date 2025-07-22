@@ -1,0 +1,124 @@
+[
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","LIMPEZA","EFICAZ","400"],
+       "optional_terms": ["SHAMPOO","ANTICASPA"],
+       "ean": "7500435242615"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","ANTICOCEIRA","200"],
+       "optional_terms": ["ALIVIO","COCEIRA"],
+       "ean": "7506195142035"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","MEN","3","1","200"],
+       "optional_terms": ["LIMPA","PROFUNDAMENTE"],
+       "ean": "7506309865393"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","MEN","3","1","400"],
+       "optional_terms": ["LIMPA","PROFUNDAMENTE"],
+       "ean": "7506309865409"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","MEN","MENTROL","SPORT"],
+       "optional_terms": ["REFRESCANTE","SENSACAO"],
+       "ean": "7501001133627"
+    },
+    
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","LIMPEZA","EFICAZ","400"],
+       "optional_terms": ["SHAMPOO","ANTICASPA"],
+       "ean": "7500435242622"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","MEN","OLD","SPICE","200"],
+       "optional_terms": ["CABELO","LIMPO"],
+       "ean": "7500435187879"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","ANTICOCEIRA","400"],
+       "optional_terms": ["SHAMPOO","ANTICASPA"],
+       "ean": "7506195142042"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","REMOCAO","OLEOSIDADE","200"],
+       "optional_terms": ["REMOVE"],
+       "ean": "7500435112123"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","MEN","MENTA","ICE","400"],
+       "optional_terms": ["SENSACAO","REFRESCANCIA"],
+       "ean": "7501001133290"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","CRESCIMENTO","400"],
+       "optional_terms": ["FORTE","RAIZ"],
+       "ean": "7500435176866"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","REMOCAO","OLEOSIDADE","400"],
+       "optional_terms": ["REMOVE"],
+       "ean": "7500435112130"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","MEN","CONTRA","QUEDA","200"],
+       "optional_terms": ["AJUDA","PREVENIR"],
+       "ean": "7501006707687"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","MEN","3","1","650"],
+       "optional_terms": ["SHAMPOO","ANTICASPA"],
+       "ean": "7500435240376"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","HIDRATACAO","400"],
+       "optional_terms": ["COURO","CABELUDO","RESSECADO"],
+       "ean": "7501001133306"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","HIDRATACAO","200"],
+       "optional_terms": ["COURO","CABELUDO","RESSECADO"],
+       "ean": "7501001133306"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","OLD","SPICE","400"],
+       "optional_terms": ["CABELO","LIMPO"],
+       "ean": "7500435187886"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","MEN","FRAGRANCIA","PODEROSA","650"],
+       "optional_terms": ["OLD","SPICE"],
+       "ean": "7500435238687"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","CRESCIMENTO","400"],
+       "optional_terms": ["FORTE","RAIZ"],
+       "ean": "7500435176880"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","ANTICOCEIRA","650"],
+       "optional_terms": ["SHAMPOO","ANTICASPA"],
+       "ean": "7500435240369"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","ANTIQUEDA","400"],
+       "optional_terms": ["REDUZIR","QUEDA"],
+       "ean": "7501006707694"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","MEN","MENTA","ICE","650"],
+       "optional_terms": ["SHAMPOO","ANTICASPA"],
+       "ean": "7500435238670"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","DETOX","RAIZ","200"],
+       "optional_terms": ["LIMPA","PROFUNDAMENTE"],
+       "ean": "7500435128742"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","LIMPEZA","EFICAZ","650"],
+       "optional_terms": ["SHAMPOO","ANTICASPA"],
+       "ean": "7500435248914"
+    }
+
+]
