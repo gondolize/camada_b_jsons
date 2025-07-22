@@ -121,8 +121,8 @@
        "ean": "7891150067561"
     },
    {
-       "mandatory_terms":["HEAD","SHOULDERS","LIMPEZA","EFICAZ","200"],
-       "optional_terms": ["SHAMPOO","ANTICASPA"],
+       "mandatory_terms":["HEAD","SHOULDERS","LIMPEZA","EFICAZ"],
+       "optional_terms": ["200","200ML"],
        "ean": "7500435242615"
     },
     {
