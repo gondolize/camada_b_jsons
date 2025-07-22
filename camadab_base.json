@@ -41,8 +41,8 @@
        "ean": "7891150014138"
     },
     {
-       "mandatory_terms":["CLEAR","VINI","400","CAMPEA","HIDRATACAO"],
-       "optional_terms": ["MEN"],
+       "mandatory_terms":["CLEAR","400","CAMPEA","HIDRATACAO"],
+       "optional_terms": ["VINI"],
        "ean": "7891150099272"
     },
     {
@@ -66,8 +66,8 @@
        "ean": "7891150095267"
     },
     {
-       "mandatory_terms":["CLEAR","VINI","200","CAMPEA","HIDRATACAO"],
-       "optional_terms": ["MEN"],
+       "mandatory_terms":["CLEAR","200","CAMPEA","HIDRATACAO"],
+       "optional_terms": ["VINI"],
        "ean": "7891150099289"
     },
     {
@@ -106,8 +106,8 @@
        "ean": "7891150081628"
     },
     {
-       "mandatory_terms":["CLEAR","HIDRATACAO","INTENSA","400","SHAMPOO"],
-       "optional_terms": ["ANTICASPA"],
+       "mandatory_terms":["CLEAR","HIDRATACAO","INTENSA","SHAMPOO"],
+       "optional_terms": ["400"],
        "ean": "7891150008137"
     },
     {
