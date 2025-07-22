@@ -1,6 +1,6 @@
 [
    {
-       "mandatory_terms":["CLEAR","MEN", "HAALAND","ALIVIO","COCEIRA"],
+       "mandatory_terms":["CLEAR","HAALAND","CONTROLE","ALIVIO"],
        "optional_terms": ["400","400ML"],
        "ean": "7891150014121"
     },
@@ -36,8 +36,8 @@
        "ean": "7891150001183"
     },
     {
-       "mandatory_terms":["CLEAR","DIARIA","LIMPEZA","400","CASPA"],
-       "optional_terms": ["MEN"],
+       "mandatory_terms":["CLEAR","MEN","LIMPEZA","DIARIA"],
+       "optional_terms": ["400","400ML","2"],
        "ean": "7891150014138"
     },
     {
