@@ -126,6 +126,16 @@
        "ean": "7500435242615"
     },
     {
+       "mandatory_terms":["HEAD","SHOULDERS","LIMPEZA","EFICAZ","400"],
+       "optional_terms": ["SHAMPOO","ANTICASPA"],
+       "ean": "7500435242622"
+    },
+    {
+       "mandatory_terms":["HEAD","SHOULDERS","LIMPEZA","EFICAZ","650"],
+       "optional_terms": ["SHAMPOO","ANTICASPA"],
+       "ean": "7500435248914"
+    },
+    {
        "mandatory_terms":["HEAD","SHOULDERS","ANTICOCEIRA","200"],
        "optional_terms": ["ALIVIO","COCEIRA"],
        "ean": "7506195142035"
@@ -146,11 +156,7 @@
        "ean": "7501001133627"
     },
     
-    {
-       "mandatory_terms":["HEAD","SHOULDERS","LIMPEZA","EFICAZ","400"],
-       "optional_terms": ["SHAMPOO","ANTICASPA"],
-       "ean": "7500435242622"
-    },
+    
     {
        "mandatory_terms":["HEAD","SHOULDERS","MEN","OLD","SPICE","200"],
        "optional_terms": ["CABELO","LIMPO"],
@@ -236,11 +242,7 @@
        "optional_terms": ["LIMPA","PROFUNDAMENTE"],
        "ean": "7500435128742"
     },
-    {
-       "mandatory_terms":["HEAD","SHOULDERS","LIMPEZA","EFICAZ","650"],
-       "optional_terms": ["SHAMPOO","ANTICASPA"],
-       "ean": "7500435248914"
-    },
+    
     {
        "mandatory_terms":["PRECO","ESPECIAL","ELSEVE","GLYCOLIC","GLOSS"],
        "optional_terms": ["BRILHO","ULTRA"],
