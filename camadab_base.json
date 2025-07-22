@@ -121,7 +121,7 @@
        "ean": "7891150067561"
     },
    {
-       "mandatory_terms":["HEAD","SHOULDERS","LIMPEZA","EFICAZ","400"],
+       "mandatory_terms":["HEAD","SHOULDERS","LIMPEZA","EFICAZ","200"],
        "optional_terms": ["SHAMPOO","ANTICASPA"],
        "ean": "7500435242615"
     },
@@ -172,7 +172,7 @@
        "ean": "7501001133290"
     },
     {
-       "mandatory_terms":["HEAD","SHOULDERS","CRESCIMENTO","400"],
+       "mandatory_terms":["HEAD","SHOULDERS","CRESCIMENTO","200"],
        "optional_terms": ["FORTE","RAIZ"],
        "ean": "7500435176866"
     },
