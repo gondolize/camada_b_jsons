@@ -42,7 +42,7 @@
     },
     {
        "mandatory_terms":["CLEAR","400","CAMPEA","HIDRATACAO"],
-       "optional_terms": ["VINI"],
+       "optional_terms": ["VINI","CABELOS","LIMPOS"],
        "ean": "7891150099272"
     },
     {
@@ -137,7 +137,7 @@
     },
     {
        "mandatory_terms":["HEAD","SHOULDERS","ANTICOCEIRA","200"],
-       "optional_terms": ["ALIVIO", "200ML"],
+       "optional_terms": ["ALIVIO", "200ML","&"],
        "ean": "7506195142035"
     },
     {
@@ -204,7 +204,7 @@
     },
     {
        "mandatory_terms":["HEAD","SHOULDERS","REMOCAO","OLEOSIDADE","400"],
-       "optional_terms": ["REMOVE"],
+       "optional_terms": ["REMOVE","&"],
        "ean": "7500435112130"
     },
     {
@@ -240,7 +240,7 @@
     },
     {
        "mandatory_terms":["HEAD","SHOULDERS","ANTICOCEIRA","650"],
-       "optional_terms": ["SHAMPOO","ANTICASPA"],
+       "optional_terms": ["SHAMPOO","ANTICASPA","LEVE","MAIS"],
        "ean": "7500435240369"
     },
     {
