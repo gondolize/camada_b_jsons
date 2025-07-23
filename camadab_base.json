@@ -179,7 +179,7 @@
     },
     {
        "mandatory_terms":["HEAD","SHOULDERS","MEN","MENTHOL","SPORT"],
-       "optional_terms": ["REFRESCANTE","SENSACAO"],
+       "optional_terms": ["REFRESCANTE"],
        "ean": "7501001133627"
     },
     {
