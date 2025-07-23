@@ -37,7 +37,7 @@
     },
     {
        "mandatory_terms":["CLEAR","MEN","LIMPEZA","DIARIA"],
-       "optional_terms": ["400","400ML","2"],
+       "optional_terms": ["400","400ML"],
        "ean": "7891150014138"
     },
     {
