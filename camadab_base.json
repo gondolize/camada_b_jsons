@@ -136,8 +136,8 @@
        "ean": "7500435248914"
     },
     {
-       "mandatory_terms":["HEAD","SHOULDERS","ANTICOCEIRA"],
-       "optional_terms": ["ALIVIO","200", "200ML"],
+       "mandatory_terms":["HEAD","SHOULDERS","ANTICOCEIRA","200"],
+       "optional_terms": ["ALIVIO", "200ML"],
        "ean": "7506195142035"
     },
     {
@@ -169,7 +169,7 @@
     },
     {
        "mandatory_terms":["HEAD","SHOULDERS","ANTICOCEIRA","400"],
-       "optional_terms": ["SHAMPOO","ANTICASPA"],
+       "optional_terms": ["SHAMPOO","ANTICASPA","ALIVIO"],
        "ean": "7506195142042"
     },
     {
