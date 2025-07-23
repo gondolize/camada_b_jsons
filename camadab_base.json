@@ -1,7 +1,7 @@
 [
    {
        "mandatory_terms":["CLEAR","HAALAND","CONTROLE","ALIVIO"],
-       "optional_terms": ["400","400ML","COCEIRA"],
+       "optional_terms": ["400","400ML","COCEIRA","MEN"],
        "ean": "7891150014121"
     },
     {
@@ -41,8 +41,8 @@
        "ean": "7891150014138"
     },
     {
-       "mandatory_terms":["CLEAR","400","CAMPEA","HIDRATACAO"],
-       "optional_terms": ["VINI","CABELOS","LIMPOS"],
+       "mandatory_terms":["CLEAR","CAMPEA","HIDRATACAO"],
+       "optional_terms": ["400","400ML","VINI","CABELOS","LIMPOS"],
        "ean": "7891150099272"
     },
     {
@@ -169,7 +169,7 @@
     },
     {
        "mandatory_terms":["HEAD","SHOULDERS","ANTICOCEIRA","400"],
-       "optional_terms": ["SHAMPOO","ANTICASPA","ALIVIO"],
+       "optional_terms": ["SHAMPOO","ANTICASPA","ALIVIO","&"],
        "ean": "7506195142042"
     },
     {
