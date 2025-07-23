@@ -183,8 +183,8 @@
        "ean": "7501001133627"
     },
     {
-       "mandatory_terms":["HEAD","SHOULDERS","MEN","MENTA","ICE"],
-       "optional_terms": ["200","200ML","CASPA"],
+       "mandatory_terms":["HEAD","SHOULDERS","MEN","MENTA","ICE","200"],
+       "optional_terms": ["200ML","CASPA"],
        "ean": "7501001133627"
     },
     {
