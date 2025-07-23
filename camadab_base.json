@@ -136,8 +136,8 @@
        "ean": "7500435248914"
     },
     {
-       "mandatory_terms":["HEAD","SHOULDERS","ANTICOCEIRA","200"],
-       "optional_terms": ["ALIVIO","COCEIRA"],
+       "mandatory_terms":["HEAD","SHOULDERS","ANTICOCEIRA"],
+       "optional_terms": ["ALIVIO","200", "200ML"],
        "ean": "7506195142035"
     },
     {
@@ -178,7 +178,7 @@
        "ean": "7500435112123"
     },
     {
-       "mandatory_terms":["HEAD","SHOULDERS","MEN","MENTROL","SPORT"],
+       "mandatory_terms":["HEAD","SHOULDERS","MEN","MENTHOL","SPORT"],
        "optional_terms": ["REFRESCANTE","SENSACAO"],
        "ean": "7501001133627"
     },
