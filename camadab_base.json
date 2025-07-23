@@ -22,7 +22,7 @@
     
     {
        "mandatory_terms":["CLEAR","LIMPEZA","PROFUNDA","400"],
-       "optional_terms": ["SPORTS"],
+       "optional_terms": ["SPORTS","DIARIO","CARVAO"],
        "ean": "7891150019416"
     },
     {
@@ -107,7 +107,7 @@
     },
     {
        "mandatory_terms":["CLEAR","HIDRATACAO","INTENSA","SHAMPOO"],
-       "optional_terms": ["70"],
+       "optional_terms": ["400","400ML","LIMPA"],
        "ean": "7891150008137"
     },
     {
