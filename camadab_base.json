@@ -6,7 +6,7 @@
     },
     {
        "mandatory_terms":["CLEAR","MEN","DIARIA","LIMPEZA","200"],
-       "optional_terms": ["ANTICASPA"],
+       "optional_terms": ["ANTICASPA","2","EM","1"],
        "ean": "7898422746216"
     },
     {
