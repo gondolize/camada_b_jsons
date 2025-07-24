@@ -1643,19 +1643,19 @@
        "ean":"7500435233644,7500435200301,7500435215565"
     },
     {
-       "mandatory_terms":["KIT", "DESCONTO", "PANTENE", "CABELO LONGO", "E FORTE", "400"],
+       "mandatory_terms":["KIT", "DESCONTO", "PANTENE", "LONGO", "FORTE", "400"],
        "ean":"7500435188227,7500435199780"
     },
     {
-       "mandatory_terms":["KIT", "DESCONTO", "PANTENE", "CABELO LONGO", "E FORTE", "350"],
+       "mandatory_terms":["KIT", "DESCONTO", "PANTENE", "LONGO", "FORTE", "350"],
        "ean":"7500435169370,7500435169363,7500435128384,7500435169387"
     },
     {
-       "mandatory_terms":["KIT", "DESCONTO", "PANTENE", "CABELO LONGO", "E FORTE", "175"],
+       "mandatory_terms":["KIT", "DESCONTO", "PANTENE", "LONGO", "FORTE", "175"],
        "ean":"7500435128360,7500435128353,7500435128346,7500435128391"
     },
     {
-       "mandatory_terms":["KIT", "DESCONTO", "PANTENE", "CABELO LONGO", "E FORTE"],
+       "mandatory_terms":["KIT", "DESCONTO", "PANTENE", "LONGO", "FORTE"],
        "ean":"7500435188227,7500435199780,7500435169370,7500435169363,7500435128384,7500435169387,7500435128360,7500435128353,7500435128346,7500435128391,7500435137577,7500435169356"
     },
     {
@@ -1695,7 +1695,7 @@
        "ean":"7500435142243"
     },
     {
-       "mandatory_terms":["PANTENE", "PRO-V", "3 MINUTOS", "MILAGROSOS", "RESTAURACAO", "170"],
+       "mandatory_terms":["PANTENE", "PRO-V", "3", "MILAGROSOS", "RESTAURACAO", "170"],
        "ean":"7500435106382"
     },
     {
