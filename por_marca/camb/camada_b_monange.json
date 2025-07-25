@@ -1,0 +1,103 @@
+[
+    {
+       "mandatory_terms":["MONANGE","SHAMPOO","LISOS"],
+       "optional_terms": ["QUERO","VINAGRE","MACA","325"],
+       "ean": "7896235353331"
+    },
+    {
+       "mandatory_terms":["MONANGE","SHAMPOO","QUIMICA"],
+       "optional_terms": ["SEM","DRAMA","325"],
+       "ean": "7896235353355"
+    },
+    {
+       "mandatory_terms":["MONANGE","HIDRATA","SHAMPOO"],
+       "optional_terms": ["COM","PODER","325"],
+       "ean": "7896235353324"
+    },
+    {
+       "mandatory_terms":["MONANGE","CONDICIONADOR","BOOST"],
+       "optional_terms": ["CRESCIMENTO","325"],
+       "ean": "7896235353447"
+    },
+    {
+       "mandatory_terms":["MONANGE","SHAMPOO","BOOST"],
+       "optional_terms": ["CRESCIMENTO","325"],
+       "ean": "7896235353379"
+    },
+    {
+       "mandatory_terms":["MONANGE","SHAMPOO","CACHOS"],
+       "optional_terms": ["QUE","TAL","325"],
+       "ean": "7896235353348"
+    },
+    {
+       "mandatory_terms":["MONANGE","CONDICIONADOR","LISOS"],
+       "optional_terms": ["TE","QUERO","325"],
+       "ean": "7896235353409"
+    },
+    {
+       "mandatory_terms":["MONANGE","CONDICIONADOR","CACHOS"],
+       "optional_terms": ["QUE","TAL","325"],
+       "ean": "7896235353416"
+    },
+    {
+       "mandatory_terms":["MONANGE","CONDICIONADOR","HIDRATA"],
+       "optional_terms": ["COM","PODER","325"],
+       "ean": "7896235353393"
+    },
+    {
+       "mandatory_terms":["MONANGE","CONDICIONADOR","DETOX"],
+       "optional_terms": ["TERAPIA","ACAO","ANTIPOLUICAO","325"],
+       "ean": "7896235353454"
+    },
+    {
+       "mandatory_terms":["MONANGE","SHAMPOO","RESTAURA"],
+       "optional_terms": ["QUE","EU","GOSTO","325"],
+       "ean": "7896235353362"
+    },
+    {
+       "mandatory_terms":["MONANGE","CONDICIONADOR","QUIMICA"],
+       "optional_terms": ["SEM","DRAMA","325"],
+       "ean": "7896235353423"
+    },
+    {
+       "mandatory_terms":["MONANGE", "CONDICIONADOR", "RESTAURA", "PROFUNDAMENTE", "325"],
+       "optional_terms": ["ARGININA", "AMINOACIDOS"],
+       "ean": "7896235353430"
+    },
+    {
+       "mandatory_terms":["MONANGE", "REPARACAO", "CREME", "PENTEAR", "300"],
+       "optional_terms": ["POS", "QUIMICA", "7", "OLEOS", "PODEROSOS"],
+       "ean": "7898919412211"
+    },
+    {
+       "mandatory_terms":["MONANGE", "SHAMPOO", "DETOX", "ACAO", "325"],
+       "optional_terms": ["ANTIPOLUICAO", "DETOX"],
+       "ean": "7896235353386"
+    },
+    {
+       "mandatory_terms":["MONANGE", "CREME", "PENTEAR", "LISOS", "300"],
+       "optional_terms": ["TE", "QUERO"],
+       "ean": "7898919412181"
+    },
+    {
+       "mandatory_terms":["MONANGE", "CREME", "PENTEAR", "HIDRATA", "300"],
+       "optional_terms": ["EXTRATO", "OLIVA"],
+       "ean": "7898919412204"
+    },
+    {
+       "mandatory_terms":["MONANGE", "CREME", "TRATAMENTO", "CACHOS", "300"],
+       "optional_terms": ["QUE", "TAL", "HIDRATA", "DEFINE"],
+       "ean": "7898919412143"
+    },
+    {
+       "mandatory_terms":["MONANGE", "CREME", "PENTEAR", "CACHOS", "300"],
+       "optional_terms": ["QUE", "TAL", "OLEO", "COCO"],
+       "ean": "7898919412174"
+    },
+    {
+       "mandatory_terms":["MONANGE", "CREME", "TRATAMENTO", "LISOS"],
+       "optional_terms": ["EFEITO", "LISO", "30"],
+       "ean": "7898919412150"
+    }
+
+]

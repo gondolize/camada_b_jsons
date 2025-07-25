@@ -24,7 +24,6 @@
        "optional_terms": ["REFRESCANTE","SENSACAO"],
        "ean": "7501001133627"
     },
-    
     {
        "mandatory_terms":["HEAD","SHOULDERS","LIMPEZA","EFICAZ","400"],
        "optional_terms": ["SHAMPOO","ANTICASPA"],
@@ -120,5 +119,4 @@
        "optional_terms": ["SHAMPOO","ANTICASPA"],
        "ean": "7500435248914"
     }
-
 ]

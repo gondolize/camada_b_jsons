@@ -1,4 +1,814 @@
 [
+    {
+       "mandatory_terms":["EUDORA","SIAGE","LISO","INTENSO","CONDICIONADOR"],
+       "optional_terms": ["200","200ML", "LISOS"],
+       "ean": "7891033535057"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","HAIR-PLASTIA"],
+       "optional_terms": ["MASCARA","CAPILAR","HIALURONICA"],
+       "ean": "7891033016440"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","GLOW","EXPERT","CONDICIONADOR"],
+       "optional_terms": ["200","BRILHO","ESPELHADO"],
+       "ean": "7891033471768"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","NUTRI","OLEOS","PODEROSOS"],
+       "optional_terms": ["MASCARA","RESGATE", "250"],
+       "ean": "7891033534371"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","NUTRI","ROSE"],
+       "optional_terms": ["SHAMPOO","NUTRICAO","250"],
+       "ean": "7891033534357"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","LISO","INTENSO","SHAMPOO"],
+       "optional_terms": ["250","MAIS","LISOS"],
+       "ean": "7891033535040"
+    }, 
+    { 
+       "mandatory_terms":["EUDORA","SIAGE","HAIR-PLASTIA","CONDICIONADOR"],
+       "optional_terms": ["200","CORRIGE","LESOES"],
+       "ean": "7891033930470"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","LISO","INTENSO","MASCARA"],
+       "optional_terms": ["SELADORA","250"],
+       "ean": "7891033535002"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRO","CRONOLOGY","CONDICIONADOR"],
+       "optional_terms": ["200","CAPILAR","ACELERADO"],
+       "ean": "7891033530953"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","GLOW","EXPERT","MASCARA"],
+       "optional_terms": ["ULTRA","BRILHO","250"],
+       "ean": "7891033471775"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","HAIR-PLASTIA","SHAMPOO"],
+       "optional_terms": ["CORRIGE","LESOES","250"],
+       "ean": "7891033016419"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRO","CRONOLOGY","SHAMPOO"],
+       "optional_terms": ["CRONOGRAMA","CAPILAR","ACELERADO"],
+       "ean": "7891033530946"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","RESGATE","IMEDIATO","CONDICIONADOR"],
+       "optional_terms": ["PREENCHE","SELA","200"],
+       "ean": "7891033558032"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","GLOW","EXPERT","SHAMPOO"],
+       "optional_terms": ["250","BRILHO","ESPELHADO"],
+       "ean": "7891033471751"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CAUTERIZAÇÃO","LISOS","CONDICIONADOR"],
+       "optional_terms": ["200","DANOS", "ALISAMENTO"],
+       "ean": "7891033517459"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","NUTRI","ROSE","CONDICIONADOR"],
+       "optional_terms": ["NUTRICAO","PROFUNDA","200"],
+       "ean": "7891033534364"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRO","CRONOLOGY","MASCARA"],
+       "optional_terms": ["MASCARA","HIDRATACAO","250"],
+       "ean": "7891033533558"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRECO","ESPECIAL","LISO","INTENSO"],
+       "optional_terms": ["SHAMPOO","CONDICIONADOR","BLOQUEIO","FRIZZ"],
+       "ean": "7891033545964"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","RESGATE","IMEDIATO","SHAMPOO"],
+       "optional_terms": ["PREENCHE","SELA","250"],
+       "ean": "7891033558025"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","LOIRO","EXPERT","CONDICIONADOR"],
+       "optional_terms": ["PROTEGE","PROLONGA","200"],
+       "ean": "7891033534999"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","NUTRI","OLEOS","PODEROSOS","SHAMPOO"],
+       "optional_terms": ["NUTRICAO","PROFUNDA","250"],
+       "ean": "7891033931033"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CAUTERIZAÇÃO","LISOS","CONDICIONADOR"],
+       "optional_terms": ["TRATA","DANOS","200"],
+       "ean": "7891033517466"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","ACELERA","CRESCIMENTO","MASCARA"],
+       "optional_terms": ["ANTIQUEBRA","LONGOS","250"],
+       "ean": "7891033535064"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRECO","ESPECIAL","NUTRI","ROSE"],
+       "optional_terms": ["EFEITO","ANTI","TESOURA"],
+       "ean": "7891033551538"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","MEN","CASPA"],
+       "optional_terms": ["COMBATE","SHAMPOO","250"],
+       "ean": "7891033522125"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRECO","ESPECIAL","GLOW","EXPERT"],
+       "optional_terms": ["FIOS","BRILHANTES","72"],
+       "ean": "7891033545995"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","RESGATE","IMEDIATO","MASCARA"],
+       "optional_terms": ["PREENCHEDORA","BALM","250"],
+       "ean": "7891033558049"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","NUTRI","OLEOS","PODEROSOS"],
+       "optional_terms": ["CONDICIONADOR","NUTRICAO","PROFUNDA","200"],
+       "ean": "7891033931040"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","NUTRI","OLEOS","PODEROSOS","MASCARA"],
+       "optional_terms": ["RESGATE","MILENARES","250"],
+       "ean": "7891033931057"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","ACELERA","CRESCIMENTO","CONDICIONADOR"],
+       "optional_terms": ["FIOS","LONGOS","200"],
+       "ean": "7891033535019"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CAUTERIZAÇÃO","LISOS","MASCARA"],
+       "optional_terms": ["PRE","POS","ALISAMENTO","250"],
+       "ean": "7891033517497" 
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","ACELERA","CRESCIMENTO","SHAMPOO"],
+       "optional_terms": ["250","FIOS","LONGOS"],
+       "ean": "7891033535026"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","LISO","INTENSO","SHAMPOO"],
+       "optional_terms": ["MAIS","LISOS","250","FRIZZ"],
+       "ean": "7891033926046"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","RECONSTROI","FIOS","CONDICIONADOR"],
+       "optional_terms": ["RECUPERACAO","TOTAL","CABELOS","200"],
+       "ean": "7891033535200"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRECO","ESPECIAL","HAIR","PLASTIA"],
+       "optional_terms": ["HIDRATA","DEVOLVE","DENSIDADE"],
+       "ean": "7891033545957"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CAUTERIZACAO","FIOS","MASCARA"],
+       "optional_terms": ["PRE","POS","ALISAMENTO","250"],
+       "ean": "7891033534333"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CICA","THERAPY","MASCARA"],
+       "optional_terms": ["CAPILAR","CICATRIZANTE"],
+       "ean": "7891033473649"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","RECONSTROI","FIOS","SHAMPOO"],
+       "optional_terms": ["RECUPERACAO","TOTAL","250"],
+       "ean": "7891033535194"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CAUTERIZACAO","FIOS","CONDICIONADOR"],
+       "optional_terms": ["PREENCHE","PROTEGE", "200"],
+       "ean": "7891033534302"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRECO","ESPECIAL","PRO","CRONOLOGY"],
+       "optional_terms": ["CRONOGRAMA","CAPILAR","ACELERADO"],
+       "ean": "7891033557646"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","REGENERACAO","POS","QUIMICA","SHAMPOO"],
+       "optional_terms": ["COMBATE","PREVINE","250"],
+       "ean": "7891033534395"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","HIDRATACAO","MICELAR","CONDICIONADOR"],
+       "optional_terms": ["HIDRATACAO","INTELIGENTE","200"],
+       "ean": "7891033303021"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","NUTRI","OLEOS", "PODEROSOS","SHAMPOO"],
+       "optional_terms": ["NUTRICAO","PROFUNDA","250"],
+       "ean": "7891033931064"
+    }, 
+    {
+       "mandatory_terms":["EUDORA","SIAGE", "HIDRATACAO", "MICELAR", "SHAMPOO"],
+       "optional_terms": ["250","AFFINITE"],
+       "ean": "7891033301997"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE", "PRO","CRONOLOGY", "LEAVE"],
+       "optional_terms": ["MEMORIZADOR","CRONOGRAMA"],
+       "ean": "7891033530960"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE", "NUTRI", "DIAMOND", "MASCARA"],
+       "optional_terms": ["BRILHO","AFFINITE"],
+       "ean": "7891033925582"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE", "CAUTERIZACAO", "FIOS", "SHAMPOO"],
+       "optional_terms": ["AFFINITE","250"],
+       "ean": "7891033534289"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE", "LOIRO", "EXPERT","MASCARA"],
+       "optional_terms": ["MATIZADORA","PROTEGE"],
+       "ean": "7891033534654"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE", "COMBATE", "FRIZZ", "CONDICIONADOR"],
+       "optional_terms": ["72","AFFINITE"],
+       "ean": "7891033471683"
+    },
+    {
+      "mandatory_terms":["EUDORA", "SIAGE", "CAUTERIZACAO", "FIOS", "MASCARA"],
+       "optional_terms": ["CAUTERIZACAO","IMEDIATA"],
+       "ean": "7891033930562"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE", "COMBATE", "FRIZZ", "MASCARA"],
+       "optional_terms": ["ANTIFRIZZ","AFFINITE"],
+       "ean": "7891033471690"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE", "CICA", "THERAPY", "SHAMPOO"],
+       "optional_terms": ["CICATRIZA","RESTAURA"],
+       "ean": "7891033198160"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE", "MEN", "COMBATE", "SHAMPOO"],
+       "optional_terms": ["ELIMINA","100", "CASPA"],
+       "ean": "7891033522040"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE", "MEN", "CRESCIMENTO", "SHAMPOO"],
+       "optional_terms": ["ESTIMULA","MENOS", "QUEDA"],
+       "ean": "7891033522132"
+    },
+   {
+       "mandatory_terms":["ABOVE","MEN","ANTICASPA","SHAMPOO"],
+       "optional_terms": ["HIDRATACAO","4","1","325"],
+       "ean": "7899674036063"
+    },
+    {
+       "mandatory_terms":["ABOVE","MEN","ANTICASPA","MENTOL"],
+       "optional_terms": ["SHAMPOO","HIDRATACAO","325"],
+       "ean": "7899674039392"
+    },
+    {
+       "mandatory_terms":["ABOVE", "MEN", "ANTI", "QUEDA", "SHAMPOO"],
+       "optional_terms": ["325", "ANTICASPA", "ANTIQUEDA"],
+       "ean": "7899674041609"
+    },
+    {
+       "mandatory_terms":["ABOVE","MEN","FRESH","SHAMPOO"],
+       "optional_terms": ["HIDRATACAO","325"],
+       "ean": "7899674037190"
+    },
+    {
+       "mandatory_terms":["ABOVE","SHAMPOO","SECO","NEUTRAL"],
+       "optional_terms": ["PERFUME","BRILHO","MACIEZ"],
+       "ean": "7899674027672"
+    },
+    {
+       "mandatory_terms":["ABOVE","KIT","RECONSTRUCAO"],
+       "optional_terms": ["RESULTADOS","RAPIDOS","SHAMPOO","CONDICIONADOR"],
+       "ean": "7899674038623"
+    },
+    {
+       "mandatory_terms":["ABOVE","GEL","FIXADOR"],
+       "optional_terms": ["MEN","300","MEDIA"],
+       "ean": "7899674037497"
+    },
+    {
+       "mandatory_terms":["ABOVE","ANTICASPA","SHAMPOO"],
+       "optional_terms": ["HIDRATACAO","220"],
+       "ean": "7899674042866"
+    },
+    {
+       "mandatory_terms":["VULT","LISO","PROFUNDO","SHAMPOO"],
+       "optional_terms": ["FIOS","MAIS","350"],
+       "ean": "7899852025452"
+     },
+     {
+       "mandatory_terms":["VULT","RECARGA","HIDRATACAO","CONDICIONADOR"],
+       "optional_terms": ["INTENSIVO","HIDRATA","325"],
+       "ean": "7899852025407"
+     },
+     {
+       "mandatory_terms":["VULT","RECARGA","HIDRATACAO","SHAMPOO"],
+       "optional_terms": ["HIDRATA","350"],
+       "ean": "7899852025063"
+     },
+     {
+       "mandatory_terms":["VULT","RECARGA","HIDRATACAO","MASCARA"],
+       "optional_terms": ["HIDRA-TURBINADA","REDUZ","250"],
+       "ean": "7899852025438"
+     },
+     {
+       "mandatory_terms":["VULT","CHOQUE","RECONSTRUCAO","CONDICIONADOR"],
+       "optional_terms": ["INTENSIVO","SELA","REPARA", "325"],
+       "ean": "7899852025506"
+     },
+     {
+       "mandatory_terms":["VULT","ONDULADOS","SHAMPOO"],
+       "optional_terms": ["REALCA","2A","2C","350"],
+       "ean": "7899852025551"
+     },
+     {
+       "mandatory_terms":["VULT","NUTRICAO","MASCARA"],
+       "optional_terms": ["HIPER-NUTRITIVA","250"],
+       "ean": "7899852023687"
+     },
+     {
+       "mandatory_terms":["VULT","EXPLOSAO","FORCA","SHAMPOO"],
+       "optional_terms": ["FORTALECE","CRESCIMENTO","350"],
+       "ean": "7899852025049"
+     },
+     {
+       "mandatory_terms":["VULT","EXPLOSAO","FORCA","MASCARA"],
+       "optional_terms": ["FORTALECEDORA","250"],
+       "ean": "7899852024936"
+     },
+     {
+       "mandatory_terms":["VULT","ONDULADOS","CONDICIONADOR"],
+       "optional_terms": ["INTENSIVO","REALCA","2A","2C","325"],
+       "ean": "7899852025568"
+     },
+     {
+       "mandatory_terms":["VULT","LISO","PROFUNDO","MASCARA"],
+       "optional_terms": ["ULTRA-ALINHADORA", "FIOS", "MAIS", "250"],
+       "ean": "7899852023588"
+     },
+     {
+       "mandatory_terms":["VULT","OLEOS","PODEROSOS","SHAMPOO"],
+       "optional_terms": ["NUTRE","BRILHO","350"],
+       "ean": "7899852023144"
+     },
+     {
+       "mandatory_terms":["VULT","LISO","PROFUNDO","CREME"],
+       "optional_terms": ["DEFRIZANTE","TERMOPROTETOR","100"],
+       "ean": "7899852023571"
+     },
+     {
+       "mandatory_terms":["VULT","OLEOS","PODEROSOS","CONDICIONADOR"],
+       "optional_terms": ["INTENSIVO","SELA","NUTRE","325"],
+       "ean": "7899852025896"
+     },
+     {
+       "mandatory_terms":["VULT","EXPLOSAO","FORCA","CONDICIONADOR"],
+       "optional_terms": ["INTENSIVO","FORTALECE","325"],
+       "ean": "7899852025056"
+     },
+     {
+       "mandatory_terms":["VULT", "CREOGEL", "3", "EM", "1"],
+       "optional_terms": ["ONDULADOS", "CACHOS"],
+       "ean": "7899852023519"
+     },
+     {
+       "mandatory_terms":["VULT", "CACHOS", "3A", "3C", "SHAMPOO"],
+       "optional_terms": ["MEMORIZA", "350"],
+       "ean": "7899852025513"
+     },
+     {
+       "mandatory_terms":["VULT", "CACHOS", "3A", "3C", "CONDICIONADOR"],
+       "optional_terms": ["INTENSIVO", "325"],
+       "ean": "7899852025520"
+     },
+     {
+       "mandatory_terms":["VULT", "ONDULADOS", "2A", "2C", "300"],
+       "optional_terms": ["CREME", "PENTEAR"],
+       "ean": "7899852023632"
+     },
+     {
+       "mandatory_terms":["VULT", "ONDULADOS", "2A", "2C", "500"],
+       "optional_terms": ["MASCARA", "REALCA"],
+       "ean": "7899852023625"
+     },
+   {
+       "mandatory_terms":["MONANGE","SHAMPOO","LISOS"],
+       "optional_terms": ["QUERO","VINAGRE","MACA","325"],
+       "ean": "7896235353331"
+    },
+    {
+       "mandatory_terms":["MONANGE","SHAMPOO","QUIMICA"],
+       "optional_terms": ["SEM","DRAMA","325"],
+       "ean": "7896235353355"
+    },
+    {
+       "mandatory_terms":["MONANGE","HIDRATA","SHAMPOO"],
+       "optional_terms": ["COM","PODER","325"],
+       "ean": "7896235353324"
+    },
+    {
+       "mandatory_terms":["MONANGE","CONDICIONADOR","BOOST"],
+       "optional_terms": ["CRESCIMENTO","325"],
+       "ean": "7896235353447"
+    },
+    {
+       "mandatory_terms":["MONANGE","SHAMPOO","BOOST"],
+       "optional_terms": ["CRESCIMENTO","325"],
+       "ean": "7896235353379"
+    },
+    {
+       "mandatory_terms":["MONANGE","SHAMPOO","CACHOS"],
+       "optional_terms": ["QUE","TAL","325"],
+       "ean": "7896235353348"
+    },
+    {
+       "mandatory_terms":["MONANGE","CONDICIONADOR","LISOS"],
+       "optional_terms": ["TE","QUERO","325"],
+       "ean": "7896235353409"
+    },
+    {
+       "mandatory_terms":["MONANGE","CONDICIONADOR","CACHOS"],
+       "optional_terms": ["QUE","TAL","325"],
+       "ean": "7896235353416"
+    },
+    {
+       "mandatory_terms":["MONANGE","CONDICIONADOR","HIDRATA"],
+       "optional_terms": ["COM","PODER","325"],
+       "ean": "7896235353393"
+    },
+    {
+       "mandatory_terms":["MONANGE","CONDICIONADOR","DETOX"],
+       "optional_terms": ["TERAPIA","ACAO","ANTIPOLUICAO","325"],
+       "ean": "7896235353454"
+    },
+    {
+       "mandatory_terms":["MONANGE","SHAMPOO","RESTAURA"],
+       "optional_terms": ["QUE","EU","GOSTO","325"],
+       "ean": "7896235353362"
+    },
+    {
+       "mandatory_terms":["MONANGE","CONDICIONADOR","QUIMICA"],
+       "optional_terms": ["SEM","DRAMA","325"],
+       "ean": "7896235353423"
+    },
+    {
+       "mandatory_terms":["MONANGE", "CONDICIONADOR", "RESTAURA", "PROFUNDAMENTE", "325"],
+       "optional_terms": ["ARGININA", "AMINOACIDOS"],
+       "ean": "7896235353430"
+    },
+    {
+       "mandatory_terms":["MONANGE", "REPARACAO", "CREME", "PENTEAR", "300"],
+       "optional_terms": ["POS", "QUIMICA", "7", "OLEOS", "PODEROSOS"],
+       "ean": "7898919412211"
+    },
+    {
+       "mandatory_terms":["MONANGE", "SHAMPOO", "DETOX", "ACAO", "325"],
+       "optional_terms": ["ANTIPOLUICAO", "DETOX"],
+       "ean": "7896235353386"
+    },
+    {
+       "mandatory_terms":["MONANGE", "CREME", "PENTEAR", "LISOS", "300"],
+       "optional_terms": ["TE", "QUERO"],
+       "ean": "7898919412181"
+    },
+    {
+       "mandatory_terms":["MONANGE", "CREME", "PENTEAR", "HIDRATA", "300"],
+       "optional_terms": ["EXTRATO", "OLIVA"],
+       "ean": "7898919412204"
+    },
+    {
+       "mandatory_terms":["MONANGE", "CREME", "TRATAMENTO", "CACHOS", "300"],
+       "optional_terms": ["QUE", "TAL", "HIDRATA", "DEFINE"],
+       "ean": "7898919412143"
+    },
+    {
+       "mandatory_terms":["MONANGE", "CREME", "PENTEAR", "CACHOS", "300"],
+       "optional_terms": ["QUE", "TAL", "OLEO", "COCO"],
+       "ean": "7898919412174"
+    },
+    {
+       "mandatory_terms":["MONANGE", "CREME", "TRATAMENTO", "LISOS"],
+       "optional_terms": ["EFEITO", "LISO", "30"],
+       "ean": "7898919412150"
+    },
+   {
+       "mandatory_terms":["TRESEMME", "HIDRATACAO", "PROFUNDA", "CONDICIONADOR", "400"],
+       "optional_terms": ["PANTENOL", "NIACINAMIDA"],
+       "ean": "7891150018754"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "HIDRATACAO", "PROFUNDA", "SHAMPOO", "400"],
+       "optional_terms": ["PANTENOL", "NIACINAMIDA"],
+       "ean": "7891150018846"
+    },
+    {
+       "mandatory_terms":["TRESEMME" , "PRECO", "ESPECIAL"],
+       "optional_terms": ["HIDRATACAO", "PROFUNDA"],
+       "ean": "7891150094499"
+    },    
+    {
+       "mandatory_terms":["TRESEMME", "DETOX", "CAPILAR", "CONDICIONADOR", "400"],
+       "optional_terms": ["MATCHA", "EXTRATO", "GENGIBRE"],
+       "ean": "7891150041646"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "BRILHO", "LAMELAR", "SHAMPOO", "400"],
+       "optional_terms": ["TECNOLOGIA", "OLEOS"],
+       "ean": "7891150091214"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "DETOX", "CAPILAR", "SHAMPOO", "400"],
+       "optional_terms": ["MATCHA", "EXTRATO", "GENGIBRE"],
+       "ean": "7891150041714"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "BRILHO", "LAMELAR", "SHAMPOO", "650"],
+       "optional_terms": ["TECNOLOGIA", "OLEOS"],
+       "ean": "7891150091207"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "BRILHO", "LAMELAR", "MASCARA", "400"],
+       "optional_terms": ["TECNOLOGIA", "OLEOS"],
+       "ean": "7891150091245"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "PRECO", "ESPECIAL"],
+       "optional_terms": ["RECONSTRUCAO", "FORCA"],
+       "ean": "7891150094512"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "RECONSTRUCAO", "FORCA", "SHAMPOO", "400"],
+       "optional_terms": ["COLAGENO", "ARGININA"],
+       "ean": "7891150018877"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "PRECO", "ESPECIAL"],
+       "optional_terms": ["BRILHO", "LAMELAR"],
+       "ean": "7891150094529"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "BRILHO", "LAMELAR", "CONDICIONADOR", "650"],
+       "optional_terms": ["TECNOLOGIA", "OLEOS"],
+       "ean": "7891150091221"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "BRILHO", "LAMELAR", "CONDICIONADOR", "400"],
+       "optional_terms": ["TECNOLOGIA", "OLEOS"],
+       "ean": "7891150091115"
+    },
+    {
+       "mandatory_terms":["PRECO", "ESPECIAL", "TRESEMME", "CABELOS", "RESISTENTES"],
+       "optional_terms": ["AO", "FRIZZ"],
+       "ean": "7891150094505"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "REGENERACAO", "TRESPLEX", "CONDICIONADOR", "400"],
+       "optional_terms": ["QUERATINA", "LIQUIDA"],
+       "ean": "7891150029538"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "HIDRATACAO", "PROFUNDA", "CONDICIONADOR", "650"],
+       "optional_terms": ["PANTENOL", "NIACINAMIDA"],
+       "ean": "7891150091160"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "RECONSTRUCAO", "FORCA", "CONDICIONADOR", "400"],
+       "optional_terms": ["COLAGENO", "ARGININA"],
+       "ean": "7891150018785"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "HIDRATACAO", "PROFUNDA", "CREME", "200"],
+       "optional_terms": ["PANTENOL", "NIACINAMIDA", "LEAVE", "IN"],
+       "ean": "7891150058965"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "BLINDAGEM", "ANTIUMIDADE", "SHAMPOO", "650"],
+       "optional_terms": ["QUERATINA", "HIDROLISADA", "ACIDO", "HIALURONICO"],
+       "ean": "7891150100312"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "PRO", "HIDRATACAO", "ATIVA"],
+       "optional_terms": ["MASCARA", "400"],
+       "ean": "7891150023338"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "RECONSTRUCAO", "FORCA", "CONDICIONADOR", "650"],
+       "optional_terms": ["COLAGENO", "ARGININA"],
+       "ean": "7891150091238"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "REGENERACAO", "TRESPLEX", "SHAMPOO", "400"],
+       "optional_terms": ["QUERATINA", "LIQUIDA"],
+       "ean": "7891150029606"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "BLINDAGEM", "ANTIUMIDADE", "MASCARA", "400"],
+       "optional_terms": ["QUERATINA", "HIDROLISADA", "ACIDO", "HIALURONICO"],
+       "ean": "7891150100350"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "BLINDAGEM", "ANTIUMIDADE", "CONDICIONADOR", "650"],
+       "optional_terms": ["QUERATINA", "HIDROLISADA", "ACIDO", "HIALURONICO"],
+       "ean": "7891150100367"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "HIDRATACAO", "PROFUNDA", "SHAMPOO", "400"],
+       "optional_terms": ["PANTENOL", "NIACINAMIDA"],
+       "ean": "7891150091184"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "BLINDAGEM", "ANTIFRIZZ", "SHAMPOO", "400"],
+       "optional_terms": ["QUERATINA", "HIDROLISADA", "ACIDO", "HIALURONICO"],
+       "ean": "7891150079793"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "SELAGEM", "ACABAMENTO", "PROFISSIONAL", "180"],
+       "optional_terms": ["180", "TRATAMENTO"],
+       "ean": "7891150100107"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "RECONSTRUCAO", "ULTRA", "INTENSA", "400"],
+       "optional_terms": ["RECONSTRUCAO", "INTENSA"],
+       "ean": "7891150023321"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "RECONSTRUCAO", "FORCA", "SHAMPOO", "650"],
+       "optional_terms": ["COLAGENO", "ARGININA"],
+       "ean": "7891150091122"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "PROTETOR", "TERMICO", "SPRAY", "110"],
+       "optional_terms": ["TERMICO", "CABELOS"],
+       "ean": "7891150100343"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "BLINDAGEM", "ANTIUMIDADE", "SHAMPOO", "400"],
+       "optional_terms": ["QUERATINA", "HIDROLISADA", "ACIDO", "HIALURONICO"],
+       "ean": "7891150100336"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "BLINDAGEM", "ANTIUMIDADE", "CONDICIONADOR", "400"],
+       "optional_terms": ["QUERATINA", "HIDROLISADA", "ACIDO", "HIALURONICO"],
+       "ean": "7891150100329"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "CACHOS", "DEFINIDOS", "SHAMPOO", "400"],
+       "optional_terms": ["ELASTINA", "OLEO", "DE", "MACADAMIA"],
+       "ean": "7891150018853"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "BLINDAGEM", "ANTIFRIZZ", "CONDICIONADOR", "400"],
+       "optional_terms": ["QUERATINA", "HIDROLISADA", "ACIDO", "HIALURONICO"],
+       "ean": "7891150079755"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "REGENERACAO", "TRESPLEX", "CONDICIONADOR", "650"],
+       "optional_terms": ["QUERATINA", "LIQUIDA"],
+       "ean": "7891150093096"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "BLINDAGEM", "ANTIUMIDADE", "SERUM", "170"],
+       "optional_terms": ["QUERATINA", "HIDROLISADA", "ACIDO", "HIALURONICO"],
+       "ean": "7891150100046"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "REGENERACAO", "TRESPLEX", "SHAMPOO", "650"],
+       "optional_terms": ["QUERATINA", "LIQUIDA"],
+       "ean": "7891150093034"
+    },
+    {
+       "mandatory_terms":["TRESEMME", "BLINDAGEM", "ANTIFRIZZ", "CREME", "200"],
+       "optional_terms": ["QUERATINA", "HIDROLISADA", "ACIDO", "HIALURONICO"],
+       "ean": "7891150058972"
+    },
+     {
+       "mandatory_terms":["TRESEMME", "BRILHO", "LAMELAR", "SERUM", "TRATAMENTO"],
+       "optional_terms": ["TECNOLOGIA", "LAMELAR", "BLEND", "OLEOS"],
+       "ean": "7891150091276"
+     },
+     {
+       "mandatory_terms":["TRESEMME", "RECONSTRUCAO", "FORCA", "CREME", "200"],
+       "optional_terms": ["LEAVE", "IN", "COLAGENO", "ARGININA"],
+       "ean": "7891150091153"
+     },
+     {
+       "mandatory_terms":["TRESEMME","DETOX","CAPILAR"],
+       "optional_terms": ["PARABENOS", "CORANTES"],
+       "ean": "7891150041639"
+     },
+     {
+       "mandatory_terms":["TRESEMME","BLINDAGEM","ANTIFRIZZ","CONDICIONADOR"],
+       "optional_terms": ["650", "ACIDO","QUERATINA"],
+       "ean": "7891150093089"
+     },
+     {
+       "mandatory_terms":["TRESEMME","BRILHO","LAMELAR"],
+       "optional_terms": ["OLEO","FINALIZADOR"],
+       "ean": "7891150094406"
+     },
+     {
+       "mandatory_terms":["TRESEMME","BLINDAGEM","ANTIFRIZZ","SHAMPOO","650"],
+       "optional_terms": ["ACIDO", "QUERATINA","HIDROLISADA"],
+       "ean": "7891150093058"
+     },
+     {
+       "mandatory_terms":["TRESEMME","DETOX","CAPILAR","SHAMPOO","650"],
+       "optional_terms": ["EXTRATO","GENGIBRE"],
+       "ean": "7891150091191"
+     },
+     {
+       "mandatory_terms":["TRESEMME","DETOX","CAPILAR"],
+       "optional_terms": ["MASCARA","EXTRATO","GENGIBRE"],
+       "ean": "7891150091252"
+     },
+     {
+       "mandatory_terms":["TRESEMME","CACHOS","DEFINIDOS","CONDICIONADOR","400"],
+       "optional_terms": ["OLEO","MACADAMIA"],
+       "ean": "7891150018761"
+     },
+     {
+       "mandatory_terms":["TRESEMME","ULTRA", "MATIZADOR","SHAMPOO","400"],
+       "optional_terms": ["PIGMENTO","VIOLETA","COMPLEXO"],
+       "ean": "7891150093843"
+     },
+     {
+       "mandatory_terms":["TRESEMME","SUPER","CONDICIONADOR","LONGOS","FORTES"],
+       "optional_terms": ["EFEITO","PRIMER"],
+       "ean": "7891150070868"
+     },
+     {
+       "mandatory_terms":["TRESEMME","NUTRICAO","CONDICIONADOR","400"],
+       "optional_terms": ["OLEO","COCO"],
+       "ean": "7891150051911"
+     },
+     {
+       "mandatory_terms":["TRESEMME","DETOX","CAPILAR","CONDICIONADOR","650"],
+       "optional_terms": ["EXTRATO", "GENGIBRE"],
+       "ean": "7891150091146"
+     },
+     {
+       "mandatory_terms":["TRESEMME","ULTRA","VIOLETA","MATIZADOR","CONDICIONADOR","400"],
+       "optional_terms": ["PIGMENTO", "COMPLEXO", "VITAMINICO"],
+       "ean": "7891150093850"
+     },
+     {
+       "mandatory_terms":["TRESEMME","DETOX","CAPILAR","GENGIBRE"],
+       "optional_terms": ["LEAVE-IN","FINALIZADOR"],
+       "ean": "7891150094734"
+     },
+     {
+       "mandatory_terms":["TRESEMME","REGENERACAO","TRESPLEX"],
+       "optional_terms": ["MASCARA","TRATAMENTO","PROFISSIONAL"],
+       "ean": "7891150029583"
+     },
+     {
+       "mandatory_terms":["TRESEMME","SUPER","CONDICIONADOR","PRIMER"],
+       "optional_terms": ["EFEITO","170"],
+       "ean": "7891150080706"
+     },
+     {
+       "mandatory_terms":["TRESEMME","ACABAMENTO","PROFISSIONAL","400"],
+       "optional_terms": ["CREME","PENTEAR"],
+       "ean": "7891150058996"
+     },
+    {
+       "mandatory_terms":["TRESEMME","CRESCIMENTO","MAXIMO","CONDICIONADOR","400"],
+       "optional_terms": ["OLEO","RICINO","CAFEINA"],
+       "ean": "7891150070851"
+     },
+     {
+       "mandatory_terms":["TRESEMME","CACHOS","DEFINIDOS","CREME","380"],
+       "optional_terms": ["LEAVE-IN", "ELASTINA","MACADAMIA"],
+       "ean": "7891150093898"
+     },
+     {
+       "mandatory_terms":["TRESEMME","BLINDAGEM","ANTIFRIZZ","170"],
+       "optional_terms": ["SERUM","TRATAMENTO","ML"],
+       "ean": "7891150093836"
+     },
+     {
+       "mandatory_terms":["TRESEMME","OLEO","COCO","400"],
+       "optional_terms": ["BAIXO","NUTRICAO"],
+       "ean": "7891150051898"
+     },
    {
        "mandatory_terms":["CLEAR","HAALAND","CONTROLE","ALIVIO"],
        "optional_terms": ["400","400ML","COCEIRA","MEN"],

@@ -1,0 +1,326 @@
+[
+    {
+       "mandatory_terms":["TRESEMME","PRECO","ESPECIAL","HIDRATACAO","PROFUNDA"],
+       "ean": "7891150094499"
+    },
+    {
+       "mandatory_terms":["TRESEMME","PRECO","ESPECIAL","RECONSTRUCAO","FORCA"],
+       "ean": "7891150094512"
+    },
+    {
+       "mandatory_terms":["TRESEMME","PRECO","ESPECIAL","BRILHO","LAMELAR"],
+       "ean": "7891150094529"
+    },
+    {
+       "mandatory_terms":["PRECO","ESPECIAL","TRESEMME","CABELOS","RESISTENTES","AO"],
+       "ean": "7891150094505"
+    },
+    {
+       "mandatory_terms":["TRESEMME","PRECO","ESPECIAL"],
+       "ean":"7891150094499,7891150094512,7891150094529,7891150094505"
+    },
+    {
+       "mandatory_terms":["TRESEMME","HIDRATACAO","PROFUNDA","CONDICIONADOR","400","PANTENOL"],
+       "ean": "7891150018754"
+    },
+    {
+       "mandatory_terms":["TRESEMME","HIDRATACAO","PROFUNDA","SHAMPOO","400","PANTENOL"],
+       "ean": "7891150018846,7891150091184"
+    },
+    {
+       "mandatory_terms":["TRESEMME","HIDRATACAO","PROFUNDA","CONDICIONADOR","650","PANTENOL"],
+       "ean": "7891150091160"
+    },
+    {
+       "mandatory_terms":["TRESEMME","HIDRATACAO","PROFUNDA","CREME","200","PANTENOL"],
+       "ean": "7891150058965"
+    },
+    {
+       "mandatory_terms":["TRESEMME","HIDRATACAO","PROFUNDA","SHAMPOO"],
+       "ean":"7891150018846,7891150091184"
+    },
+    {
+       "mandatory_terms":["TRESEMME","HIDRATACAO","PROFUNDA","CONDICIONADOR"],
+       "ean":"7891150018754,7891150091160"
+    },
+    {
+       "mandatory_terms":["TRESEMME","HIDRATACAO","PROFUNDA"],
+       "ean":"7891150018754,7891150018846,7891150091184,7891150091160,7891150058965"
+    },
+    {
+       "mandatory_terms":["TRESEMME","DETOX","CAPILAR","CONDICIONADOR","400","MATCHA"],
+       "ean": "7891150041646"
+    },
+    {
+       "mandatory_terms":["TRESEMME","DETOX","CAPILAR","SHAMPOO","400","MATCHA"],
+       "ean": "7891150041714"
+    },
+    {
+       "mandatory_terms":["TRESEMME","DETOX","CAPILAR","PARABENOS","CORANTES"],
+       "ean": "7891150041639"
+    },
+    {
+       "mandatory_terms":["TRESEMME","DETOX","CAPILAR","SHAMPOO","650","EXTRATO"],
+       "ean": "7891150091191"
+    },
+    {
+       "mandatory_terms":["TRESEMME","DETOX","CAPILAR","MASCARA","EXTRATO","GENGIBRE"],
+       "ean": "7891150091252"
+    },
+    {
+       "mandatory_terms":["TRESEMME","DETOX","CAPILAR","CONDICIONADOR","650","EXTRATO"],
+       "ean": "7891150091146"
+    },
+    {
+       "mandatory_terms":["TRESEMME","DETOX","CAPILAR","GENGIBRE","LEAVE-IN","FINALIZADOR"],
+       "ean": "7891150094734"
+    },
+    {
+       "mandatory_terms":["TRESEMME","DETOX","CAPILAR","SHAMPOO"],
+       "ean":"7891150041714,7891150091191"
+    },
+    {
+       "mandatory_terms":["TRESEMME","DETOX","CAPILAR","CONDICIONADOR"],
+       "ean":"7891150041646,7891150091146"
+    },
+    {
+       "mandatory_terms":["TRESEMME","DETOX","CAPILAR"],
+       "ean":"7891150041646,7891150041714,7891150041639,7891150091191,7891150091252,7891150091146,7891150094734"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BRILHO","LAMELAR","SHAMPOO","400","TECNOLOGIA"],
+       "ean": "7891150091214"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BRILHO","LAMELAR","SHAMPOO","650","TECNOLOGIA"],
+       "ean": "7891150091207"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BRILHO","LAMELAR","MASCARA","400","TECNOLOGIA"],
+       "ean": "7891150091245"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BRILHO","LAMELAR","CONDICIONADOR","650","TECNOLOGIA"],
+       "ean": "7891150091221"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BRILHO","LAMELAR","CONDICIONADOR","400","TECNOLOGIA"],
+       "ean": "7891150091115"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BRILHO","LAMELAR","SERUM","TRATAMENTO","TECNOLOGIA"],
+       "ean": "7891150091276"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BRILHO","LAMELAR","OLEO","FINALIZADOR"],
+       "ean": "7891150094406"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BRILHO","LAMELAR","SHAMPOO"],
+       "ean":"7891150091214,7891150091207"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BRILHO","LAMELAR","CONDICIONADOR"],
+       "ean":"7891150091221,7891150091115"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BRILHO","LAMELAR"],
+       "ean":"7891150091214,7891150091207,7891150091245,7891150091221,7891150091115,7891150091276,7891150094406"
+    },
+    {
+       "mandatory_terms":["TRESEMME","RECONSTRUCAO","FORCA","SHAMPOO","400","COLAGENO"],
+       "ean": "7891150018877"
+    },
+    {
+       "mandatory_terms":["TRESEMME","RECONSTRUCAO","FORCA","CONDICIONADOR","400","COLAGENO"],
+       "ean": "7891150018785"
+    },
+    {
+       "mandatory_terms":["TRESEMME","RECONSTRUCAO","FORCA","CONDICIONADOR","650","COLAGENO"],
+       "ean": "7891150091238"
+    },
+    {
+       "mandatory_terms":["TRESEMME","RECONSTRUCAO","ULTRA","INTENSA","400"],
+       "ean": "7891150023321"
+    },
+    {
+       "mandatory_terms":["TRESEMME","RECONSTRUCAO","FORCA","SHAMPOO","650","COLAGENO"],
+       "ean": "7891150091122"
+    },
+    {
+       "mandatory_terms":["TRESEMME","RECONSTRUCAO","FORCA","CREME","200","LEAVE"],
+       "ean": "7891150091153"
+    },
+    {
+       "mandatory_terms":["TRESEMME","RECONSTRUCAO","FORCA","SHAMPOO"],
+       "ean":"7891150018877,7891150091122"
+    },
+    {
+       "mandatory_terms":["TRESEMME","RECONSTRUCAO","FORCA","CONDICIONADOR"],
+       "ean":"7891150018785,7891150091238"
+    },
+    {
+       "mandatory_terms":["TRESEMME","RECONSTRUCAO"],
+       "ean":"7891150018877,7891150018785,7891150091238,7891150023321,7891150091122,7891150091153"
+    },
+    {
+       "mandatory_terms":["TRESEMME","REGENERACAO","TRESPLEX","CONDICIONADOR","400","QUERATINA"],
+       "ean": "7891150029538"
+    },
+    {
+       "mandatory_terms":["TRESEMME","REGENERACAO","TRESPLEX","SHAMPOO","400","QUERATINA"],
+       "ean": "7891150029606"
+    },
+    {
+       "mandatory_terms":["TRESEMME","REGENERACAO","TRESPLEX","CONDICIONADOR","650","QUERATINA"],
+       "ean": "7891150093096"
+    },
+    {
+       "mandatory_terms":["TRESEMME","REGENERACAO","TRESPLEX","SHAMPOO","650","QUERATINA"],
+       "ean": "7891150093034"
+    },
+    {
+       "mandatory_terms":["TRESEMME","REGENERACAO","TRESPLEX","MASCARA","TRATAMENTO","PROFISSIONAL"],
+       "ean": "7891150029583"
+    },
+    {
+       "mandatory_terms":["TRESEMME","REGENERACAO","TRESPLEX","SHAMPOO"],
+       "ean":"7891150029606,7891150093034"
+    },
+    {
+       "mandatory_terms":["TRESEMME","REGENERACAO","TRESPLEX","CONDICIONADOR"],
+       "ean":"7891150029538,7891150093096"
+    },
+    {
+       "mandatory_terms":["TRESEMME","REGENERACAO","TRESPLEX"],
+       "ean":"7891150029538,7891150029606,7891150093096,7891150093034,7891150029583"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BLINDAGEM","ANTIUMIDADE","SHAMPOO","650","QUERATINA"],
+       "ean": "7891150100312"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BLINDAGEM","ANTIUMIDADE","MASCARA","400","QUERATINA"],
+       "ean": "7891150100350"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BLINDAGEM","ANTIUMIDADE","CONDICIONADOR","650","QUERATINA"],
+       "ean": "7891150100367"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BLINDAGEM","ANTIFRIZZ","SHAMPOO","400","QUERATINA"],
+       "ean": "7891150079793"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BLINDAGEM","ANTIUMIDADE","SHAMPOO","400","QUERATINA"],
+       "ean": "7891150100336"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BLINDAGEM","ANTIUMIDADE","CONDICIONADOR","400","QUERATINA"],
+       "ean": "7891150100329"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BLINDAGEM","ANTIFRIZZ","CONDICIONADOR","400","QUERATINA"],
+       "ean": "7891150079755"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BLINDAGEM","ANTIUMIDADE","SERUM","170","QUERATINA"],
+       "ean": "7891150100046"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BLINDAGEM","ANTIFRIZZ","CREME","200","QUERATINA"],
+       "ean": "7891150058972"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BLINDAGEM","ANTIFRIZZ","CONDICIONADOR","650","ACIDO"],
+       "ean": "7891150093089"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BLINDAGEM","ANTIFRIZZ","SHAMPOO","650","ACIDO"],
+       "ean": "7891150093058"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BLINDAGEM","ANTIFRIZZ","170","SERUM","TRATAMENTO"],
+       "ean": "7891150093836"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BLINDAGEM","SHAMPOO"],
+       "ean":"7891150100312,7891150079793,7891150100336,7891150093058"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BLINDAGEM","CONDICIONADOR"],
+       "ean":"7891150100367,7891150100329,7891150079755,7891150093089"
+    },
+    {
+       "mandatory_terms":["TRESEMME","BLINDAGEM"],
+       "ean":"7891150100312,7891150100350,7891150100367,7891150079793,7891150100336,7891150100329,7891150079755,7891150100046,7891150058972,7891150093089,7891150093058,7891150093836"
+    },
+    {
+       "mandatory_terms":["TRESEMME","CACHOS","DEFINIDOS","SHAMPOO","400","ELASTINA"],
+       "ean": "7891150018853"
+    },
+    {
+       "mandatory_terms":["TRESEMME","CACHOS","DEFINIDOS","CONDICIONADOR","400","OLEO"],
+       "ean": "7891150018761"
+    },
+    {
+       "mandatory_terms":["TRESEMME","CACHOS","DEFINIDOS","CREME","380","LEAVE-IN"],
+       "ean": "7891150093898"
+    },
+    {
+       "mandatory_terms":["TRESEMME","CACHOS","DEFINIDOS"],
+       "ean":"7891150018853,7891150018761,7891150093898"
+    },
+    {
+       "mandatory_terms":["TRESEMME","ULTRA","MATIZADOR","SHAMPOO","400","PIGMENTO"],
+       "ean": "7891150093843"
+    },
+    {
+       "mandatory_terms":["TRESEMME","ULTRA","VIOLETA","MATIZADOR","CONDICIONADOR","400"],
+       "ean": "7891150093850"
+    },
+    {
+       "mandatory_terms":["TRESEMME","ULTRA","VIOLETA","MATIZADOR"],
+       "ean":"7891150093843,7891150093850"
+    },
+    {
+       "mandatory_terms":["TRESEMME","PRO","HIDRATACAO","ATIVA","MASCARA","400"],
+       "ean": "7891150023338"
+    },
+    {
+       "mandatory_terms":["TRESEMME","SELAGEM","ACABAMENTO","PROFISSIONAL","180","TRATAMENTO"],
+       "ean": "7891150100107"
+    },
+    {
+       "mandatory_terms":["TRESEMME","PROTETOR","TERMICO","SPRAY","110","CABELOS"],
+       "ean": "7891150100343"
+    },
+    {
+       "mandatory_terms":["TRESEMME","SUPER","CONDICIONADOR","LONGOS","FORTES","EFEITO"],
+       "ean": "7891150070868"
+    },
+    {
+       "mandatory_terms":["TRESEMME","NUTRICAO","CONDICIONADOR","400","OLEO","COCO"],
+       "ean": "7891150051911"
+    },
+    {
+       "mandatory_terms":["TRESEMME","SUPER","CONDICIONADOR","PRIMER","EFEITO","170"],
+       "ean": "7891150080706"
+    },
+    {
+       "mandatory_terms":["TRESEMME","ACABAMENTO","PROFISSIONAL","400","CREME","PENTEAR"],
+       "ean": "7891150058996"
+    },
+    {
+       "mandatory_terms":["TRESEMME","CRESCIMENTO","MAXIMO","CONDICIONADOR","400","OLEO"],
+       "ean": "7891150070851"
+    },
+    {
+       "mandatory_terms":["TRESEMME","OLEO","COCO","400","BAIXO","NUTRICAO"],
+       "ean": "7891150051898"
+    },
+    {
+       "mandatory_terms":["TRESEMME"],
+       "ean":"7891150018754,7891150018846,7891150094499,7891150041646,7891150091214,7891150041714,7891150091207,7891150091245,7891150094512,7891150018877,7891150094529,7891150091221,7891150091115,7891150094505,7891150029538,7891150091160,7891150018785,7891150058965,7891150100312,7891150023338,7891150091238,7891150029606,7891150100350,7891150100367,7891150091184,7891150079793,7891150100107,7891150023321,7891150091122,7891150100343,7891150100336,7891150100329,7891150018853,7891150079755,7891150093096,7891150100046,7891150093034,7891150058972,7891150091276,7891150091153,7891150041639,7891150093089,7891150094406,7891150093058,7891150091191,7891150091252,7891150018761,7891150093843,7891150070868,7891150051911,7891150091146,7891150093850,7891150094734,7891150029583,7891150080706,7891150058996,7891150070851,7891150093898,7891150093836,7891150051898"
+    }
+]

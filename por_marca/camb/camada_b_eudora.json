@@ -1,0 +1,273 @@
+[
+    {
+       "mandatory_terms":["EUDORA","SIAGE","LISO","INTENSO","CONDICIONADOR"],
+       "optional_terms": ["200","200ML", "LISOS"],
+       "ean": "7891033535057"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","HAIR-PLASTIA"],
+       "optional_terms": ["MASCARA","CAPILAR","HIALURONICA"],
+       "ean": "7891033016440"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","GLOW","EXPERT","CONDICIONADOR"],
+       "optional_terms": ["200","BRILHO","ESPELHADO"],
+       "ean": "7891033471768"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","NUTRI","OLEOS","PODEROSOS"],
+       "optional_terms": ["MASCARA","RESGATE", "250"],
+       "ean": "7891033534371"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","NUTRI","ROSE"],
+       "optional_terms": ["SHAMPOO","NUTRICAO","250"],
+       "ean": "7891033534357"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","LISO","INTENSO","SHAMPOO"],
+       "optional_terms": ["250","MAIS","LISOS"],
+       "ean": "7891033535040"
+    }, 
+    { 
+       "mandatory_terms":["EUDORA","SIAGE","HAIR-PLASTIA","CONDICIONADOR"],
+       "optional_terms": ["200","CORRIGE","LESOES"],
+       "ean": "7891033930470"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","LISO","INTENSO","MASCARA"],
+       "optional_terms": ["SELADORA","250"],
+       "ean": "7891033535002"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRO","CRONOLOGY","CONDICIONADOR"],
+       "optional_terms": ["200","CAPILAR","ACELERADO"],
+       "ean": "7891033530953"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","GLOW","EXPERT","MASCARA"],
+       "optional_terms": ["ULTRA","BRILHO","250"],
+       "ean": "7891033471775"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","HAIR-PLASTIA","SHAMPOO"],
+       "optional_terms": ["CORRIGE","LESOES","250"],
+       "ean": "7891033016419"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRO","CRONOLOGY","SHAMPOO"],
+       "optional_terms": ["CRONOGRAMA","CAPILAR","ACELERADO"],
+       "ean": "7891033530946"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","RESGATE","IMEDIATO","CONDICIONADOR"],
+       "optional_terms": ["PREENCHE","SELA","200"],
+       "ean": "7891033558032"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","GLOW","EXPERT","SHAMPOO"],
+       "optional_terms": ["250","BRILHO","ESPELHADO"],
+       "ean": "7891033471751"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CAUTERIZAÇÃO","LISOS","CONDICIONADOR"],
+       "optional_terms": ["200","DANOS", "ALISAMENTO"],
+       "ean": "7891033517459"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","NUTRI","ROSE","CONDICIONADOR"],
+       "optional_terms": ["NUTRICAO","PROFUNDA","200"],
+       "ean": "7891033534364"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRO","CRONOLOGY","MASCARA"],
+       "optional_terms": ["MASCARA","HIDRATACAO","250"],
+       "ean": "7891033533558"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRECO","ESPECIAL","LISO","INTENSO"],
+       "optional_terms": ["SHAMPOO","CONDICIONADOR","BLOQUEIO","FRIZZ"],
+       "ean": "7891033545964"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","RESGATE","IMEDIATO","SHAMPOO"],
+       "optional_terms": ["PREENCHE","SELA","250"],
+       "ean": "7891033558025"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","LOIRO","EXPERT","CONDICIONADOR"],
+       "optional_terms": ["PROTEGE","PROLONGA","200"],
+       "ean": "7891033534999"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","NUTRI","OLEOS","PODEROSOS","SHAMPOO"],
+       "optional_terms": ["NUTRICAO","PROFUNDA","250"],
+       "ean": "7891033931033"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CAUTERIZAÇÃO","LISOS","CONDICIONADOR"],
+       "optional_terms": ["TRATA","DANOS","200"],
+       "ean": "7891033517466"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","ACELERA","CRESCIMENTO","MASCARA"],
+       "optional_terms": ["ANTIQUEBRA","LONGOS","250"],
+       "ean": "7891033535064"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRECO","ESPECIAL","NUTRI","ROSE"],
+       "optional_terms": ["EFEITO","ANTI","TESOURA"],
+       "ean": "7891033551538"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","MEN","CASPA"],
+       "optional_terms": ["COMBATE","SHAMPOO","250"],
+       "ean": "7891033522125"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRECO","ESPECIAL","GLOW","EXPERT"],
+       "optional_terms": ["FIOS","BRILHANTES","72"],
+       "ean": "7891033545995"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","RESGATE","IMEDIATO","MASCARA"],
+       "optional_terms": ["PREENCHEDORA","BALM","250"],
+       "ean": "7891033558049"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","NUTRI","OLEOS","PODEROSOS"],
+       "optional_terms": ["CONDICIONADOR","NUTRICAO","PROFUNDA","200"],
+       "ean": "7891033931040"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","NUTRI","OLEOS","PODEROSOS","MASCARA"],
+       "optional_terms": ["RESGATE","MILENARES","250"],
+       "ean": "7891033931057"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","ACELERA","CRESCIMENTO","CONDICIONADOR"],
+       "optional_terms": ["FIOS","LONGOS","200"],
+       "ean": "7891033535019"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CAUTERIZAÇÃO","LISOS","MASCARA"],
+       "optional_terms": ["PRE","POS","ALISAMENTO","250"],
+       "ean": "7891033517497" 
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","ACELERA","CRESCIMENTO","SHAMPOO"],
+       "optional_terms": ["250","FIOS","LONGOS"],
+       "ean": "7891033535026"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","LISO","INTENSO","SHAMPOO"],
+       "optional_terms": ["MAIS","LISOS","250","FRIZZ"],
+       "ean": "7891033926046"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","RECONSTROI","FIOS","CONDICIONADOR"],
+       "optional_terms": ["RECUPERACAO","TOTAL","CABELOS","200"],
+       "ean": "7891033535200"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRECO","ESPECIAL","HAIR","PLASTIA"],
+       "optional_terms": ["HIDRATA","DEVOLVE","DENSIDADE"],
+       "ean": "7891033545957"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CAUTERIZACAO","FIOS","MASCARA"],
+       "optional_terms": ["PRE","POS","ALISAMENTO","250"],
+       "ean": "7891033534333"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CICA","THERAPY","MASCARA"],
+       "optional_terms": ["CAPILAR","CICATRIZANTE"],
+       "ean": "7891033473649"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","RECONSTROI","FIOS","SHAMPOO"],
+       "optional_terms": ["RECUPERACAO","TOTAL","250"],
+       "ean": "7891033535194"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CAUTERIZACAO","FIOS","CONDICIONADOR"],
+       "optional_terms": ["PREENCHE","PROTEGE", "200"],
+       "ean": "7891033534302"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRECO","ESPECIAL","PRO","CRONOLOGY"],
+       "optional_terms": ["CRONOGRAMA","CAPILAR","ACELERADO"],
+       "ean": "7891033557646"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","REGENERACAO","POS","QUIMICA","SHAMPOO"],
+       "optional_terms": ["COMBATE","PREVINE","250"],
+       "ean": "7891033534395"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","HIDRATACAO","MICELAR","CONDICIONADOR"],
+       "optional_terms": ["HIDRATACAO","INTELIGENTE","200"],
+       "ean": "7891033303021"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","NUTRI","OLEOS", "PODEROSOS","SHAMPOO"],
+       "optional_terms": ["NUTRICAO","PROFUNDA","250"],
+       "ean": "7891033931064"
+    }, 
+    {
+       "mandatory_terms":["EUDORA","SIAGE", "HIDRATACAO", "MICELAR", "SHAMPOO"],
+       "optional_terms": ["250","AFFINITE"],
+       "ean": "7891033301997"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE", "PRO","CRONOLOGY", "LEAVE"],
+       "optional_terms": ["MEMORIZADOR","CRONOGRAMA"],
+       "ean": "7891033530960"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE", "NUTRI", "DIAMOND", "MASCARA"],
+       "optional_terms": ["BRILHO","AFFINITE"],
+       "ean": "7891033925582"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE", "CAUTERIZACAO", "FIOS", "SHAMPOO"],
+       "optional_terms": ["AFFINITE","250"],
+       "ean": "7891033534289"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE", "LOIRO", "EXPERT","MASCARA"],
+       "optional_terms": ["MATIZADORA","PROTEGE"],
+       "ean": "7891033534654"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE", "COMBATE", "FRIZZ", "CONDICIONADOR"],
+       "optional_terms": ["72","AFFINITE"],
+       "ean": "7891033471683"
+    },
+    {
+      "mandatory_terms":["EUDORA", "SIAGE", "CAUTERIZACAO", "FIOS", "MASCARA"],
+       "optional_terms": ["CAUTERIZACAO","IMEDIATA"],
+       "ean": "7891033930562"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE", "COMBATE", "FRIZZ", "MASCARA"],
+       "optional_terms": ["ANTIFRIZZ","AFFINITE"],
+       "ean": "7891033471690"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE", "CICA", "THERAPY", "SHAMPOO"],
+       "optional_terms": ["CICATRIZA","RESTAURA"],
+       "ean": "7891033198160"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE", "MEN", "COMBATE", "SHAMPOO"],
+       "optional_terms": ["ELIMINA","100", "CASPA"],
+       "ean": "7891033522040"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE", "MEN", "CRESCIMENTO", "SHAMPOO"],
+       "optional_terms": ["ESTIMULA","MENOS", "QUEDA"],
+       "ean": "7891033522132"
+    }
+
+]

@@ -1,0 +1,102 @@
+[
+    {
+       "mandatory_terms":["VULT","LISO","PROFUNDO","SHAMPOO"],
+       "optional_terms": ["FIOS","MAIS","350"],
+       "ean": "7899852025452"
+     },
+     {
+       "mandatory_terms":["VULT","RECARGA","HIDRATACAO","CONDICIONADOR"],
+       "optional_terms": ["INTENSIVO","HIDRATA","325"],
+       "ean": "7899852025407"
+     },
+     {
+       "mandatory_terms":["VULT","RECARGA","HIDRATACAO","SHAMPOO"],
+       "optional_terms": ["HIDRATA","350"],
+       "ean": "7899852025063"
+     },
+     {
+       "mandatory_terms":["VULT","RECARGA","HIDRATACAO","MASCARA"],
+       "optional_terms": ["HIDRA-TURBINADA","REDUZ","250"],
+       "ean": "7899852025438"
+     },
+     {
+       "mandatory_terms":["VULT","CHOQUE","RECONSTRUCAO","CONDICIONADOR"],
+       "optional_terms": ["INTENSIVO","SELA","REPARA", "325"],
+       "ean": "7899852025506"
+     },
+     {
+       "mandatory_terms":["VULT","ONDULADOS","SHAMPOO"],
+       "optional_terms": ["REALCA","2A","2C","350"],
+       "ean": "7899852025551"
+     },
+     {
+       "mandatory_terms":["VULT","NUTRICAO","MASCARA"],
+       "optional_terms": ["HIPER-NUTRITIVA","250"],
+       "ean": "7899852023687"
+     },
+     {
+       "mandatory_terms":["VULT","EXPLOSAO","FORCA","SHAMPOO"],
+       "optional_terms": ["FORTALECE","CRESCIMENTO","350"],
+       "ean": "7899852025049"
+     },
+     {
+       "mandatory_terms":["VULT","EXPLOSAO","FORCA","MASCARA"],
+       "optional_terms": ["FORTALECEDORA","250"],
+       "ean": "7899852024936"
+     },
+     {
+       "mandatory_terms":["VULT","ONDULADOS","CONDICIONADOR"],
+       "optional_terms": ["INTENSIVO","REALCA","2A","2C","325"],
+       "ean": "7899852025568"
+     },
+     {
+       "mandatory_terms":["VULT","LISO","PROFUNDO","MASCARA"],
+       "optional_terms": ["ULTRA-ALINHADORA", "FIOS", "MAIS", "250"],
+       "ean": "7899852023588"
+     },
+     {
+       "mandatory_terms":["VULT","OLEOS","PODEROSOS","SHAMPOO"],
+       "optional_terms": ["NUTRE","BRILHO","350"],
+       "ean": "7899852023144"
+     },
+     {
+       "mandatory_terms":["VULT","LISO","PROFUNDO","CREME"],
+       "optional_terms": ["DEFRIZANTE","TERMOPROTETOR","100"],
+       "ean": "7899852023571"
+     },
+     {
+       "mandatory_terms":["VULT","OLEOS","PODEROSOS","CONDICIONADOR"],
+       "optional_terms": ["INTENSIVO","SELA","NUTRE","325"],
+       "ean": "7899852025896"
+     },
+     {
+       "mandatory_terms":["VULT","EXPLOSAO","FORCA","CONDICIONADOR"],
+       "optional_terms": ["INTENSIVO","FORTALECE","325"],
+       "ean": "7899852025056"
+     },
+     {
+       "mandatory_terms":["VULT", "CREOGEL", "3", "EM", "1"],
+       "optional_terms": ["ONDULADOS", "CACHOS"],
+       "ean": "7899852023519"
+     },
+     {
+       "mandatory_terms":["VULT", "CACHOS", "3A", "3C", "SHAMPOO"],
+       "optional_terms": ["MEMORIZA", "350"],
+       "ean": "7899852025513"
+     },
+     {
+       "mandatory_terms":["VULT", "CACHOS", "3A", "3C", "CONDICIONADOR"],
+       "optional_terms": ["INTENSIVO", "325"],
+       "ean": "7899852025520"
+     },
+     {
+       "mandatory_terms":["VULT", "ONDULADOS", "2A", "2C", "300"],
+       "optional_terms": ["CREME", "PENTEAR"],
+       "ean": "7899852023632"
+     },
+     {
+       "mandatory_terms":["VULT", "ONDULADOS", "2A", "2C", "500"],
+       "optional_terms": ["MASCARA", "REALCA"],
+       "ean": "7899852023625"
+     }
+]

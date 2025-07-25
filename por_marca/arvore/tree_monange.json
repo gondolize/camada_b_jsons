@@ -1,0 +1,150 @@
+[
+    {
+       "mandatory_terms":["MONANGE","SHAMPOO","LISOS","QUERO","VINAGRE","MACA"],
+       "ean": "7896235353331"
+    },
+    {
+       "mandatory_terms":["MONANGE","CONDICIONADOR","LISOS","TE","QUERO","325"],
+       "ean": "7896235353409"
+    },
+    {
+       "mandatory_terms":["MONANGE","CREME","PENTEAR","LISOS","300","TE"],
+       "ean": "7898919412181"
+    },
+    {
+       "mandatory_terms":["MONANGE","CREME","TRATAMENTO","LISOS","EFEITO","LISO"],
+       "ean": "7898919412150"
+    },
+    {
+       "mandatory_terms":["MONANGE","SHAMPOO","LISOS"],
+       "ean":"7896235353331"
+    },
+    {
+       "mandatory_terms":["MONANGE","CONDICIONADOR","LISOS"],
+       "ean":"7896235353409"
+    },
+    {
+       "mandatory_terms":["MONANGE","CREME","LISOS"],
+       "ean":"7898919412181,7898919412150"
+    },
+    {
+       "mandatory_terms":["MONANGE","LISOS"],
+       "ean":"7896235353331,7896235353409,7898919412181,7898919412150"
+    },
+    {
+       "mandatory_terms":["MONANGE","SHAMPOO","QUIMICA","SEM","DRAMA","325"],
+       "ean": "7896235353355"
+    },
+    {
+       "mandatory_terms":["MONANGE","CONDICIONADOR","QUIMICA","SEM","DRAMA","325"],
+       "ean": "7896235353423"
+    },
+    {
+       "mandatory_terms":["MONANGE","REPARACAO","CREME","PENTEAR","300","POS"],
+       "ean": "7898919412211"
+    },
+    {
+       "mandatory_terms":["MONANGE","QUIMICA"],
+       "ean":"7896235353355,7896235353423"
+    },
+    {
+       "mandatory_terms":["MONANGE","HIDRATA","SHAMPOO","COM","PODER","325"],
+       "ean": "7896235353324"
+    },
+    {
+       "mandatory_terms":["MONANGE","CONDICIONADOR","HIDRATA","COM","PODER","325"],
+       "ean": "7896235353393"
+    },
+    {
+       "mandatory_terms":["MONANGE","CREME","PENTEAR","HIDRATA","300","EXTRATO"],
+       "ean": "7898919412204"
+    },
+    {
+       "mandatory_terms":["MONANGE","HIDRATA"],
+       "ean":"7896235353324,7896235353393,7898919412204"
+    },
+    {
+       "mandatory_terms":["MONANGE","CONDICIONADOR","BOOST","CRESCIMENTO","325"],
+       "ean": "7896235353447"
+    },
+    {
+       "mandatory_terms":["MONANGE","SHAMPOO","BOOST","CRESCIMENTO","325"],
+       "ean": "7896235353379"
+    },
+    {
+       "mandatory_terms":["MONANGE","BOOST","CRESCIMENTO"],
+       "ean":"7896235353447,7896235353379"
+    },
+    {
+       "mandatory_terms":["MONANGE","SHAMPOO","CACHOS","QUE","TAL","325"],
+       "ean": "7896235353348"
+    },
+    {
+       "mandatory_terms":["MONANGE","CONDICIONADOR","CACHOS","QUE","TAL","325"],
+       "ean": "7896235353416"
+    },
+    {
+       "mandatory_terms":["MONANGE","CREME","TRATAMENTO","CACHOS","300","QUE"],
+       "ean": "7898919412143"
+    },
+    {
+       "mandatory_terms":["MONANGE","CREME","PENTEAR","CACHOS","300","QUE"],
+       "ean": "7898919412174"
+    },
+    {
+       "mandatory_terms":["MONANGE","SHAMPOO","CACHOS"],
+       "ean":"7896235353348"
+    },
+    {
+       "mandatory_terms":["MONANGE","CONDICIONADOR","CACHOS"],
+       "ean":"7896235353416"
+    },
+    {
+       "mandatory_terms":["MONANGE","CREME","CACHOS"],
+       "ean":"7898919412143,7898919412174"
+    },
+    {
+       "mandatory_terms":["MONANGE","CACHOS"],
+       "ean":"7896235353348,7896235353416,7898919412143,7898919412174"
+    },
+    {
+       "mandatory_terms":["MONANGE","CONDICIONADOR","DETOX","TERAPIA","ACAO","ANTIPOLUICAO"],
+       "ean": "7896235353454"
+    },
+    {
+       "mandatory_terms":["MONANGE","SHAMPOO","DETOX","ACAO","325","ANTIPOLUICAO"],
+       "ean": "7896235353386"
+    },
+    {
+       "mandatory_terms":["MONANGE","DETOX"],
+       "ean":"7896235353454,7896235353386"
+    },
+    {
+       "mandatory_terms":["MONANGE","SHAMPOO","RESTAURA","QUE","EU","GOSTO"],
+       "ean": "7896235353362"
+    },
+    {
+       "mandatory_terms":["MONANGE","CONDICIONADOR","RESTAURA","PROFUNDAMENTE","325","ARGININA"],
+       "ean": "7896235353430"
+    },
+    {
+       "mandatory_terms":["MONANGE","RESTAURA"],
+       "ean":"7896235353362,7896235353430"
+    },
+    {
+       "mandatory_terms":["MONANGE","SHAMPOO"],
+       "ean":"7896235353331,7896235353355,7896235353324,7896235353379,7896235353348,7896235353362,7896235353386"
+    },
+    {
+       "mandatory_terms":["MONANGE","CONDICIONADOR"],
+       "ean":"7896235353447,7896235353409,7896235353416,7896235353393,7896235353454,7896235353423,7896235353430"
+    },
+    {
+       "mandatory_terms":["MONANGE","CREME"],
+       "ean":"7898919412211,7898919412181,7898919412204,7898919412143,7898919412174,7898919412150"
+    },
+    {
+       "mandatory_terms":["MONANGE"],
+       "ean":"7896235353331,7896235353355,7896235353324,7896235353447,7896235353379,7896235353348,7896235353409,7896235353416,7896235353393,7896235353454,7896235353362,7896235353423,7896235353430,7898919412211,7896235353386,7898919412181,7898919412204,7898919412143,7898919412174,7898919412150"
+    }
+]

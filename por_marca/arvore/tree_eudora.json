@@ -1,0 +1,322 @@
+[
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRECO","ESPECIAL","LISO","INTENSO"],
+       "ean": "7891033545964"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRECO","ESPECIAL","NUTRI","ROSE"],
+       "ean": "7891033551538"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRECO","ESPECIAL","GLOW","EXPERT"],
+       "ean": "7891033545995"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRECO","ESPECIAL","HAIR","PLASTIA"],
+       "ean": "7891033545957"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRECO","ESPECIAL","PRO","CRONOLOGY"],
+       "ean": "7891033557646"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRECO","ESPECIAL"],
+       "ean":"7891033545964,7891033551538,7891033545995,7891033545957,7891033557646"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","LISO","INTENSO","CONDICIONADOR","200"],
+       "ean": "7891033535057"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","LISO","INTENSO","SHAMPOO","250"],
+       "ean": "7891033535040,7891033926046"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","LISO","INTENSO","MASCARA","SELADORA"],
+       "ean": "7891033535002"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","LISO","INTENSO","SHAMPOO"],
+       "ean":"7891033535040,7891033926046"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","LISO","INTENSO","CONDICIONADOR"],
+       "ean":"7891033535057"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","LISO","INTENSO","MASCARA"],
+       "ean":"7891033535002"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","LISO","INTENSO"],
+       "ean":"7891033535057,7891033535040,7891033926046,7891033535002"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","HAIR-PLASTIA","MASCARA","CAPILAR","HIALURONICA"],
+       "ean": "7891033016440"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","HAIR-PLASTIA","CONDICIONADOR","200","CORRIGE"],
+       "ean": "7891033930470"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","HAIR-PLASTIA","SHAMPOO","CORRIGE","LESOES"],
+       "ean": "7891033016419"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","HAIR-PLASTIA","SHAMPOO"],
+       "ean":"7891033016419"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","HAIR-PLASTIA","CONDICIONADOR"],
+       "ean":"7891033930470"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","HAIR-PLASTIA"],
+       "ean":"7891033016440,7891033930470,7891033016419"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","GLOW","EXPERT","CONDICIONADOR","200"],
+       "ean": "7891033471768"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","GLOW","EXPERT","MASCARA","ULTRA"],
+       "ean": "7891033471775"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","GLOW","EXPERT","SHAMPOO","250"],
+       "ean": "7891033471751"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","GLOW","EXPERT","SHAMPOO"],
+       "ean":"7891033471751"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","GLOW","EXPERT","CONDICIONADOR"],
+       "ean":"7891033471768"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","GLOW","EXPERT","MASCARA"],
+       "ean":"7891033471775"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","GLOW","EXPERT"],
+       "ean":"7891033471768,7891033471775,7891033471751"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","NUTRI","OLEOS","PODEROSOS","MASCARA"],
+       "ean": "7891033534371,7891033931057"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","NUTRI","OLEOS","PODEROSOS","SHAMPOO"],
+       "ean": "7891033931033,7891033931064"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","NUTRI","OLEOS","PODEROSOS","CONDICIONADOR"],
+       "ean": "7891033931040"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","NUTRI","OLEOS","PODEROSOS"],
+       "ean":"7891033534371,7891033931057,7891033931033,7891033931064,7891033931040"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","NUTRI","ROSE","SHAMPOO","NUTRICAO"],
+       "ean": "7891033534357"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","NUTRI","ROSE","CONDICIONADOR","NUTRICAO"],
+       "ean": "7891033534364"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","NUTRI","ROSE"],
+       "ean":"7891033534357,7891033534364"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRO","CRONOLOGY","CONDICIONADOR","200"],
+       "ean": "7891033530953"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRO","CRONOLOGY","SHAMPOO","CRONOGRAMA"],
+       "ean": "7891033530946"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRO","CRONOLOGY","MASCARA","MASCARA"],
+       "ean": "7891033533558"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRO","CRONOLOGY","LEAVE","MEMORIZADOR"],
+       "ean": "7891033530960"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRO","CRONOLOGY","SHAMPOO"],
+       "ean":"7891033530946"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRO","CRONOLOGY","CONDICIONADOR"],
+       "ean":"7891033530953"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","PRO","CRONOLOGY"],
+       "ean":"7891033530953,7891033530946,7891033533558,7891033530960"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","RESGATE","IMEDIATO","CONDICIONADOR","PREENCHE"],
+       "ean": "7891033558032"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","RESGATE","IMEDIATO","SHAMPOO","PREENCHE"],
+       "ean": "7891033558025"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","RESGATE","IMEDIATO","MASCARA","PREENCHEDORA"],
+       "ean": "7891033558049"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","RESGATE","IMEDIATO"],
+       "ean":"7891033558032,7891033558025,7891033558049"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CAUTERIZACAO","LISOS","CONDICIONADOR","200"],
+       "ean": "7891033517459,7891033517466"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CAUTERIZACAO","LISOS","MASCARA","PRE"],
+       "ean": "7891033517497"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CAUTERIZACAO","FIOS","MASCARA","PRE"],
+       "ean": "7891033534333"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CAUTERIZACAO","FIOS","CONDICIONADOR","PREENCHE"],
+       "ean": "7891033534302"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CAUTERIZACAO","FIOS","SHAMPOO","AFFINITE"],
+       "ean": "7891033534289"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CAUTERIZACAO","FIOS","MASCARA","CAUTERIZACAO"],
+       "ean": "7891033930562"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CAUTERIZACAO","CONDICIONADOR"],
+       "ean":"7891033517459,7891033517466,7891033534302"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CAUTERIZACAO","MASCARA"],
+       "ean":"7891033517497,7891033534333,7891033930562"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CAUTERIZACAO"],
+       "ean":"7891033517459,7891033517466,7891033517497,7891033534333,7891033534302,7891033534289,7891033930562"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","LOIRO","EXPERT","CONDICIONADOR","PROTEGE"],
+       "ean": "7891033534999"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","LOIRO","EXPERT","MASCARA","MATIZADORA"],
+       "ean": "7891033534654"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","LOIRO","EXPERT"],
+       "ean":"7891033534999,7891033534654"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","ACELERA","CRESCIMENTO","MASCARA","ANTIQUEBRA"],
+       "ean": "7891033535064"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","ACELERA","CRESCIMENTO","CONDICIONADOR","FIOS"],
+       "ean": "7891033535019"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","ACELERA","CRESCIMENTO","SHAMPOO","250"],
+       "ean": "7891033535026"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","ACELERA","CRESCIMENTO"],
+       "ean":"7891033535064,7891033535019,7891033535026"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","MEN","CASPA","COMBATE","SHAMPOO"],
+       "ean": "7891033522125"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","MEN","COMBATE","SHAMPOO","ELIMINA"],
+       "ean": "7891033522040"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","MEN","CRESCIMENTO","SHAMPOO","ESTIMULA"],
+       "ean": "7891033522132"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","MEN"],
+       "ean":"7891033522125,7891033522040,7891033522132"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","RECONSTROI","FIOS","CONDICIONADOR","RECUPERACAO"],
+       "ean": "7891033535200"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","RECONSTROI","FIOS","SHAMPOO","RECUPERACAO"],
+       "ean": "7891033535194"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","RECONSTROI","FIOS"],
+       "ean":"7891033535200,7891033535194"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CICA","THERAPY","MASCARA","CAPILAR"],
+       "ean": "7891033473649"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CICA","THERAPY","SHAMPOO","CICATRIZA"],
+       "ean": "7891033198160"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","CICA","THERAPY"],
+       "ean":"7891033473649,7891033198160"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","REGENERACAO","POS","QUIMICA","SHAMPOO"],
+       "ean": "7891033534395"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","HIDRATACAO","MICELAR","CONDICIONADOR","HIDRATACAO"],
+       "ean": "7891033303021"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","HIDRATACAO","MICELAR","SHAMPOO","250"],
+       "ean": "7891033301997"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","HIDRATACAO","MICELAR"],
+       "ean":"7891033303021,7891033301997"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","NUTRI","DIAMOND","MASCARA","BRILHO"],
+       "ean": "7891033925582"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","COMBATE","FRIZZ","CONDICIONADOR","72"],
+       "ean": "7891033471683"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","COMBATE","FRIZZ","MASCARA","ANTIFRIZZ"],
+       "ean": "7891033471690"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE","COMBATE","FRIZZ"],
+       "ean":"7891033471683,7891033471690"
+    },
+    {
+       "mandatory_terms":["EUDORA","SIAGE"],
+       "ean":"7891033535057,7891033016440,7891033471768,7891033534371,7891033534357,7891033535040,7891033930470,7891033535002,7891033530953,7891033471775,7891033016419,7891033530946,7891033558032,7891033471751,7891033517459,7891033534364,7891033533558,7891033545964,7891033558025,7891033534999,7891033931033,7891033517466,7891033535064,7891033551538,7891033522125,7891033545995,7891033558049,7891033931040,7891033931057,7891033535019,7891033517497,7891033535026,7891033926046,7891033535200,7891033545957,7891033534333,7891033473649,7891033535194,7891033534302,7891033557646,7891033534395,7891033303021,7891033931064,7891033301997,7891033530960,7891033925582,7891033534289,7891033534654,7891033471683,7891033930562,7891033471690,7891033198160,7891033522040,7891033522132"
+    },
+    {
+       "mandatory_terms":["EUDORA"],
+       "ean":"7891033535057,7891033016440,7891033471768,7891033534371,7891033534357,7891033535040,7891033930470,7891033535002,7891033530953,7891033471775,7891033016419,7891033530946,7891033558032,7891033471751,7891033517459,7891033534364,7891033533558,7891033545964,7891033558025,7891033534999,7891033931033,7891033517466,7891033535064,7891033551538,7891033522125,7891033545995,7891033558049,7891033931040,7891033931057,7891033535019,7891033517497,7891033535026,7891033926046,7891033535200,7891033545957,7891033534333,7891033473649,7891033535194,7891033534302,7891033557646,7891033534395,7891033303021,7891033931064,7891033301997,7891033530960,7891033925582,7891033534289,7891033534654,7891033471683,7891033930562,7891033471690,7891033198160,7891033522040,7891033522132"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+       "mandatory_terms":["ABOVE","MEN","ANTICASPA","SHAMPOO"],
+       "optional_terms": ["HIDRATACAO","4","1","325"],
+       "ean": "7899674036063"
+    },
+    {
+       "mandatory_terms":["ABOVE","MEN","ANTICASPA","MENTOL"],
+       "optional_terms": ["SHAMPOO","HIDRATACAO","325"],
+       "ean": "7899674039392"
+    },
+    {
+       "mandatory_terms":["ABOVE", "MEN", "ANTI", "QUEDA", "SHAMPOO"],
+       "optional_terms": ["325", "ANTICASPA", "ANTIQUEDA"],
+       "ean": "7899674041609"
+    },
+    {
+       "mandatory_terms":["ABOVE","MEN","FRESH","SHAMPOO"],
+       "optional_terms": ["HIDRATACAO","325"],
+       "ean": "7899674037190"
+    },
+    {
+       "mandatory_terms":["ABOVE","SHAMPOO","SECO","NEUTRAL"],
+       "optional_terms": ["PERFUME","BRILHO","MACIEZ"],
+       "ean": "7899674027672"
+    },
+    {
+       "mandatory_terms":["ABOVE","KIT","RECONSTRUCAO"],
+       "optional_terms": ["RESULTADOS","RAPIDOS","SHAMPOO","CONDICIONADOR"],
+       "ean": "7899674038623"
+    },
+    {
+       "mandatory_terms":["ABOVE","GEL","FIXADOR"],
+       "optional_terms": ["MEN","300","MEDIA"],
+       "ean": "7899674037497"
+    },
+    {
+       "mandatory_terms":["ABOVE","ANTICASPA","SHAMPOO"],
+       "optional_terms": ["HIDRATACAO","220"],
+       "ean": "7899674042866"
+    }
+]
