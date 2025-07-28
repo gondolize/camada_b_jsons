@@ -1177,7 +1177,7 @@
        "ean": "7899706187480"
     },
     {
-       "mandatory_terms":["ELSEVE","HIDRA",,"CREME","TRATAMENTO"],
+       "mandatory_terms":["ELSEVE","HIDRA","CREME","TRATAMENTO"],
        "optional_terms": ["INTENSIVA","HIALURONICO","300"],
        "ean": "7899706187480"
     },
@@ -1275,8 +1275,8 @@
        "ean": "7899706170833"
     },
     {
-       "mandatory_terms":["ELSEVE","LONGO","SHAMPOO","SALVADOR","400"],
-       "optional_terms": ["SONHOS", "CONTROLA", "OLEOSIDADE", "SELA", "PONTAS"],
+       "mandatory_terms":["ELSEVE","SHAMPOO","SALVADOR","400"],
+       "optional_terms": ["SONHOS","LONGO","LONGOS","CONTROLA", "OLEOSIDADE", "SELA", "PONTAS"],
        "ean": "7899706170819"
     },
     {
@@ -1444,7 +1444,7 @@
        "ean": "7899026459748"
     },
     {
-       "mandatory_terms":["ELSEVE","COLOR","SHAMPOO","400"],
+       "mandatory_terms":["ELSEVE","LISO","SUPER","ALINHADOR","SHAMPOO","400"],
        "optional_terms": ["PROTETOR","DA","VIVE","COR"],
        "ean": "7899026417885"
     },
