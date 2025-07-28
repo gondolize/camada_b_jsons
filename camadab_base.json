@@ -1152,13 +1152,13 @@
        "ean": "7908615060347"
     },
     {
-       "mandatory_terms":["ELSEVE","HIDRA","CONDICIONADOR","SELADOR","400"],
-       "optional_terms": ["LEVE","SOLTO","SELADOR","HIALURONICO"],
+       "mandatory_terms":["ELSEVE","HIDRA","CONDICIONADOR","HIALURONICO","400"],
+       "optional_terms": ["LEVE","SOLTO","SELADOR"],
        "ean": "7899706187428"
     },
     {
-       "mandatory_terms":["ELSEVE","HIDRA","SHAMPOO","400"],
-       "optional_terms": ["PREENCHEDOR", "ACIDO", "HIALURONICO"],
+       "mandatory_terms":["ELSEVE","HIDRA","PREENCHEDOR","SHAMPOO","400"],
+       "optional_terms": ["ACIDO", "HIALURONICO"],
        "ean": "7899706187367"
     },
     {
@@ -1196,7 +1196,6 @@
        "optional_terms": ["72H","HIALURONICO","PELE"],
        "ean": "7899706187466"
     },
-  
     {
        "mandatory_terms":["ELSEVE","PURE","HIALURONICO","TRATAMENTO"],
        "optional_terms": ["300","HIDRATA","REEQUILIBRANTE"],
@@ -1213,8 +1212,8 @@
        "ean": "7899706244084"
     },
     {
-       "mandatory_terms":["ELSEVE","PURE","SHAMPOO","400"],
-       "optional_terms": ["PURIFICANTE", "HIALURONICO", ""],
+       "mandatory_terms":["ELSEVE","PURE","SHAMPOO","HIDRA","400"],
+       "optional_terms": ["PURIFICANTE", "HIALURONICO"],
        "ean": "7899706244107"
     },
     {
@@ -1224,7 +1223,7 @@
     },
     {
        "mandatory_terms":["ELSEVE","CACHOS","CONDICIONADOR","400"],
-       "optional_terms": ["SONHOS","LONGOS"],
+       "optional_terms": ["SONHOS","LONGOS","SELADOR"],
        "ean": "7899706197564"
     },
     {
@@ -1233,8 +1232,8 @@
        "ean": "7899706197489"
     },
     {
-       "mandatory_terms":["ELSEVE","SHAMPOO","200"],
-       "optional_terms": ["SONHOS","LONGOS"],
+       "mandatory_terms":["ELSEVE","SHAMPOO","LONGOS", "SONHOS","200"],
+       "optional_terms": ["NUTRI","PREENCHEDOR"],
        "ean": "7899706197601"
     },
     {
