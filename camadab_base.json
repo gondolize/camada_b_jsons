@@ -1222,7 +1222,7 @@
        "ean": "7899706244121"
     },
     {
-       "mandatory_terms":["ELSEVE","CACHOS","CONDICIONADOR","400"],
+       "mandatory_terms":["ELSEVE","CACHOS","CONDICIONADOR","200"],
        "optional_terms": ["SONHOS","LONGOS","SELADOR"],
        "ean": "7899706197564"
     },
@@ -1247,8 +1247,8 @@
        "ean": "7899706197663"
     },
     {
-       "mandatory_terms":["ELSEVE","CACHOS","CONDICIONADOR","200"],
-       "optional_terms": ["SONHOS","LONGOS"],
+       "mandatory_terms":["ELSEVE","SELADOR","CONDICIONADOR","400"],
+       "optional_terms": ["PREENCHE","CAPILAR", "SELA"],
        "ean": "7899706197588"
     },
     {
