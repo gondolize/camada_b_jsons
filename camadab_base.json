@@ -856,8 +856,8 @@
        "ean": "7891150099272"
     },
     {
-       "mandatory_terms":["CLEAR","QUEDA","CONTROL","200"],
-       "optional_terms": ["MEN"],
+       "mandatory_terms":["CLEAR","QUEDA","CONTROL","SHAMPOO"],
+       "optional_terms": ["MEN", "200", "ENERGIA"],
        "ean": "7891150001077"
     },
     {
@@ -891,8 +891,8 @@
        "ean": "7891150075276"
     },
     {
-       "mandatory_terms":["CLEAR","COCEIRA","200","CONTROLE","ALIVIO"],
-       "optional_terms": ["MEN"],
+       "mandatory_terms":["CLEAR","COCEIRA","CONTROLE","ALIVIO"],
+       "optional_terms": ["MEN", "200"],
        "ean": "7891150014107"
     },
     {
@@ -901,8 +901,8 @@
        "ean": "7891150055698"
     },
     {
-       "mandatory_terms":["CLEAR","BOTANIQUE","ANTICOCEIRA","200","SHAMPOO"],
-       "optional_terms": ["ANTICASPA"],
+       "mandatory_terms":["CLEAR","BOTANIQUE","200","SHAMPOO"],
+       "optional_terms": ["ANTICASPA", "OLEOS", "ESSENCIAIS", "ANTICOCEIRA"],
        "ean": "7891150081611"
     },
     {
@@ -932,7 +932,7 @@
     },
    {
        "mandatory_terms":["HEAD","SHOULDERS","LIMPEZA","EFICAZ"],
-       "optional_terms": ["200","200ML"],
+       "optional_terms": ["LIMPEZA","200","&","200ML"],
        "ean": "7500435242615"
     },
     {
@@ -952,11 +952,11 @@
     },
     {
        "mandatory_terms":["HEAD","SHOULDERS","MEN","3","1"],
-       "optional_terms": ["200", "200ML"],
+       "optional_terms": ["200", "200ML", "300", "LIMPEZA", "PROFUNDA"],
        "ean": "7506309865393"
     },
     {
-       "mandatory_terms":["HEAD","SHOULDERS","MEN","3","1","400"],
+       "mandatory_terms":["HEAD","SHOULDERS","MEN","3","1"],
        "optional_terms": ["LIMPA","PROFUNDAMENTE","LIMPEZA","PROFUNDA"],
        "ean": "7506309865409"
     },
@@ -965,8 +965,6 @@
        "optional_terms": ["REFRESCANTE","SENSACAO"],
        "ean": "7501001133627"
     },
-    
-    
     {
        "mandatory_terms":["HEAD","SHOULDERS","MEN","OLD","SPICE"],
        "optional_terms": ["200", "200ML"],
@@ -1192,8 +1190,8 @@
        "ean": "7908615060620"
     },
     {
-       "mandatory_terms":["ELSEVE","HIDRA","CREME","PREENCHEDOR"],
-       "optional_terms": ["72H","HIALURONICO","PELE"],
+       "mandatory_terms":["ELSEVE","HIDRA","HIALURONICO","72H"],
+       "optional_terms": ["REDUTOR","ANTI-OLEOSIDADE","DOSE"],
        "ean": "7899706187466"
     },
     {
@@ -1279,13 +1277,13 @@
        "ean": "7899706170819"
     },
     {
-       "mandatory_terms":["ELSEVE","LONGO","CONDICIONADOR","DESATA","400"],
-       "optional_terms": ["SONHOS"],
+       "mandatory_terms":["ELSEVE","CONDICIONADOR","DESATA","NOS","400"],
+       "optional_terms": ["SONHOS", "LONGOS", "PONTAS", "CABELOS"],
        "ean": "7899706170871"
     },
     {
-       "mandatory_terms":["ELSEVE","LONGO","CREME","PENTEAR","EXTERMINA"],
-       "optional_terms": ["SONHOS","250","FRIZZ"],
+       "mandatory_terms":["ELSEVE","CREME","PENTEAR","ANTI-CORTE"],
+       "optional_terms": ["SONHOS","250","FRIZZ","EXTERMINA", "CREME", "PARA", "PENTEAR", "3", "EM", "1"],
        "ean": "7899706170895"
     },
     {
@@ -1590,7 +1588,7 @@
     },
     {
        "mandatory_terms":["DOVE","RITUAL","REPARACAO","CONDICIONADOR","200"],
-       "optional_terms": ["INTENSE"],
+       "optional_terms": ["INTENSE","SECRETS","DE"],
        "ean": "7891150050129"
     },
     {
