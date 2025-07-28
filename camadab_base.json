@@ -1136,12 +1136,6 @@
        "optional_terms": ["SELA"],
        "ean": "7908615055169"
     },
-    
-    {
-       "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","CREME","SUPER"],
-       "optional_terms": ["250"],
-       "ean": "7908615059983"
-    },
     {
        "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","CONDICIONADOR","200"],
        "optional_terms": ["SELA"],
@@ -1157,25 +1151,34 @@
        "optional_terms": ["6","ULTRA"],
        "ean": "7908615060347"
     },
-   
     {
-       "mandatory_terms":["ELSEVE","HIDRA","HIALURONICO","CONDICIONADOR","SELADOR","400"],
-       "optional_terms": ["LEVE","SOLTO"],
+       "mandatory_terms":["ELSEVE","HIDRA","CONDICIONADOR","SELADOR","400"],
+       "optional_terms": ["LEVE","SOLTO","SELADOR","HIALURONICO"],
        "ean": "7899706187428"
     },
     {
-       "mandatory_terms":["ELSEVE","HIDRA","HIALURONICO","CONDICIONADOR","SELADOR","200"],
-       "optional_terms": ["LEVE","SOLTO"],
+       "mandatory_terms":["ELSEVE","HIDRA","SHAMPOO","400"],
+       "optional_terms": ["PREENCHEDOR", "ACIDO", "HIALURONICO"],
+       "ean": "7899706187367"
+    },
+    {
+       "mandatory_terms":["ELSEVE","HIDRA","CONDICIONADOR","SELADOR","200"],
+       "optional_terms": ["LEVE","SOLTO","HIALURONICO"],
        "ean": "7899706187404"
     },
     {
-       "mandatory_terms":["ELSEVE","HIDRA","HIALURONICO","CREME"],
-       "optional_terms": ["PREENCHEDOR","250"],
-       "ean": "7899706187466"
+       "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","CREME"],
+       "optional_terms": ["SUPER","GLOSS"],
+       "ean": "7908615059983"
     },
     {
        "mandatory_terms":["ELSEVE","HIDRA","HIALURONICO","MASCARA"],
        "optional_terms": ["INTENSIVA","300"],
+       "ean": "7899706187480"
+    },
+    {
+       "mandatory_terms":["ELSEVE","HIDRA",,"CREME","TRATAMENTO"],
+       "optional_terms": ["INTENSIVA","HIALURONICO","300"],
        "ean": "7899706187480"
     },
     {
@@ -1184,19 +1187,24 @@
        "ean": "7899706187541"
     },
     {
-       "mandatory_terms":["ELSEVE","HIDRA","HIALURONICO","3","CREME","MILAGROSO"],
-       "optional_terms": ["EM","1"],
+       "mandatory_terms":["ELSEVE","HIDRA","HIALURONICO","CREME","MILAGROSO"],
+       "optional_terms": ["EM","1","3"],
        "ean": "7908615060620"
+    },
+    {
+       "mandatory_terms":["ELSEVE","HIDRA","CREME","PREENCHEDOR"],
+       "optional_terms": ["72H","HIALURONICO","PELE"],
+       "ean": "7899706187466"
     },
   
     {
-       "mandatory_terms":["ELSEVE","PURE","HIALURONICO","TRATAMENTO","REEQUILIBRANTE"],
-       "optional_terms": ["300","HIDRATA"],
+       "mandatory_terms":["ELSEVE","PURE","HIALURONICO","TRATAMENTO"],
+       "optional_terms": ["300","HIDRATA","REEQUILIBRANTE"],
        "ean": "7899706244008"
     },
     {
-       "mandatory_terms":["ELSEVE","PURE","HIALURONICO","CONDICIONADOR","REIDRATANTE","400"],
-       "optional_terms": ["RAIZES","OLEOSAS"],
+       "mandatory_terms":["ELSEVE","PURE","CONDICIONADOR","REIDRATANTE","400"],
+       "optional_terms": ["RAIZES","OLEOSAS","HIALURONICO"],
        "ean": "7899706244060"
     },
     {
@@ -1205,8 +1213,8 @@
        "ean": "7899706244084"
     },
     {
-       "mandatory_terms":["ELSEVE","PURE","HIALURONICO","SHAMPOO","400"],
-       "optional_terms": ["PURIFICANTE"],
+       "mandatory_terms":["ELSEVE","PURE","SHAMPOO","400"],
+       "optional_terms": ["PURIFICANTE", "HIALURONICO", ""],
        "ean": "7899706244107"
     },
     {
@@ -1215,43 +1223,43 @@
        "ean": "7899706244121"
     },
     {
-       "mandatory_terms":["ELSEVE","LONGOS","CACHOS","CONDICIONADOR","400"],
-       "optional_terms": ["SONHOS"],
+       "mandatory_terms":["ELSEVE","CACHOS","CONDICIONADOR","400"],
+       "optional_terms": ["SONHOS","LONGOS"],
        "ean": "7899706197564"
     },
     {
-       "mandatory_terms":["ELSEVE","LONGOS","CACHOS","TRATAMENTO","300"],
-       "optional_terms": ["SONHOS"],
+       "mandatory_terms":["ELSEVE","CACHOS","TRATAMENTO","300"],
+       "optional_terms": ["SONHOS","LONGOS"],
        "ean": "7899706197489"
     },
     {
-       "mandatory_terms":["ELSEVE","LONGOS","SHAMPOO","200"],
-       "optional_terms": ["SONHOS"],
+       "mandatory_terms":["ELSEVE","SHAMPOO","200"],
+       "optional_terms": ["SONHOS","LONGOS"],
        "ean": "7899706197601"
     },
     {
-       "mandatory_terms":["ELSEVE","CACHOS","LONGOS","SHAMPOO","400"],
-       "optional_terms": ["SONHOS"],
+       "mandatory_terms":["ELSEVE","NUTRI","PREENCHEDOR","SHAMPOO","400"],
+       "optional_terms": ["CABELOS","CACHEADOS"],
        "ean": "7899706197649"
     },
     {
-       "mandatory_terms":["ELSEVE","CACHOS","LONGOS","CREME","NOTURNO"],
-       "optional_terms": ["SONHOS"],
+       "mandatory_terms":["ELSEVE","CREME","NOTURNO"],
+       "optional_terms": ["2X", "ANTI", "TRAVESSEIRO", "ANTI-TRAVESSEIRO","SONHOS","LONGOS"],
        "ean": "7899706197663"
     },
     {
-       "mandatory_terms":["ELSEVE","LONGOS","CACHOS","CONDICIONADOR","200"],
-       "optional_terms": ["SONHOS"],
+       "mandatory_terms":["ELSEVE","CACHOS","CONDICIONADOR","200"],
+       "optional_terms": ["SONHOS","LONGOS"],
        "ean": "7899706197588"
     },
     {
-       "mandatory_terms":["ELSEVE","LONGOS","CACHOS","CREME","250"],
-       "optional_terms": ["SONHOS"],
+       "mandatory_terms":["ELSEVE","CACHOS","CREME","250"],
+       "optional_terms": ["SONHOS","LONGOS"],
        "ean": "7899706197502"
     },
     {
-       "mandatory_terms":["ELSEVE","LONGOS","3","1","CREME","MILAGROSO"],
-       "optional_terms": ["SONHOS"],
+       "mandatory_terms":["ELSEVE","CREME","MILAGROSO","TRATAMENTO", "INTENSIVO"],
+       "optional_terms": ["CACHOS","CONDICIONADOR","SUPER","3 EM 1", "3","1"],
        "ean": "7899706197526"
     },
 
@@ -1277,9 +1285,14 @@
        "ean": "7899706170871"
     },
     {
+       "mandatory_terms":["ELSEVE","LONGO","CREME","PENTEAR","EXTERMINA"],
+       "optional_terms": ["SONHOS","250","FRIZZ"],
+       "ean": "7899706170895"
+    },
+    {
        "mandatory_terms":["ELSEVE","LONGO","CREME","PENTEAR","250"],
        "optional_terms": ["SONHOS"],
-       "ean": "7899706170895"
+       "ean": "7908785461500"
     },
     {
        "mandatory_terms":["ELSEVE","LONGO","TRATAMENTO","MILAGROSO","300"],
@@ -1293,8 +1306,8 @@
        "ean": "7899026420571"
     },
     {
-       "mandatory_terms":["ELSEVE","REPARACAO","5","SHAMPOO","400"],
-       "optional_terms": ["TOTAL"],
+       "mandatory_terms":["ELSEVE","REPARACAO","TOTAL","SHAMPOO","400"],
+       "optional_terms": ["5","FORMULA"],
        "ean": "7899026420564"
     },
     {
@@ -1344,8 +1357,8 @@
        "ean": "7908785461609"
     },
     {
-       "mandatory_terms":["ELSEVE","LISO","SONHOS","SHAMPOO","400"],
-       "optional_terms": ["ALINHADOR"],
+       "mandatory_terms":["ELSEVE","SUPER", "SHAMPOO","400"],
+       "optional_terms": ["ALINHADOR","LISO","SONHOS"],
        "ean": "7908785461708"
     },
     {
@@ -1421,23 +1434,23 @@
     },
     
     {
-       "mandatory_terms":["ELSEVE","COLOR","VIVE","CONDICIONADOR","200"],
-       "optional_terms": ["PROTETOR", "DA", "COR"],
+       "mandatory_terms":["ELSEVE","COLOR","CONDICIONADOR","200"],
+       "optional_terms": ["PROTETOR", "DA","VIVE", "COR"],
        "ean": "7896014123902"
     },
     {
-       "mandatory_terms":["ELSEVE","COLOR","VIVE","SHAMPOO","200"],
-       "optional_terms": ["PROTETOR","DA","COR"],
+       "mandatory_terms":["ELSEVE","COLOR","SHAMPOO","200"],
+       "optional_terms": ["PROTETOR","DA","VIVE","COR"],
        "ean": "7899026459748"
     },
     {
-       "mandatory_terms":["ELSEVE","COLOR","VIVE","SHAMPOO","400"],
-       "optional_terms": ["PROTETOR","DA","COR"],
+       "mandatory_terms":["ELSEVE","COLOR","SHAMPOO","400"],
+       "optional_terms": ["PROTETOR","DA","VIVE","COR"],
        "ean": "7899026417885"
     },
     {
-       "mandatory_terms":["ELSEVE","COLOR","VIVE","CONDICIONADOR","400"],
-       "optional_terms": ["PROTETOR","DA","COR"],
+       "mandatory_terms":["ELSEVE","COLOR","CONDICIONADOR","400"],
+       "optional_terms": ["PROTETOR","DA","VIVE","COR"],
        "ean": "7899026459649"
     },
     
