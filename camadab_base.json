@@ -1412,7 +1412,7 @@
        "ean": "7898587774314"
     },
     {
-       "mandatory_terms":["ELSEVE","OLEO","EXTRAORDINARIO","SHAMPOO","400"],
+       "mandatory_terms":["ELSEVE","OLEO","EXTRAORDINARIO","SHAMPOO"],
        "optional_terms": ["NUTRICAO"],
        "ean": "7898587774338"
     },
