@@ -1155,14 +1155,14 @@
        "ean": "7899706187428"
     },
     {
-       "mandatory_terms":["ELSEVE","HIDRA","PREENCHEDOR","SHAMPOO","400"],
-       "optional_terms": ["ACIDO", "HIALURONICO"],
-       "ean": "7899706187367"
-    },
-    {
        "mandatory_terms":["ELSEVE","HIDRA","PREENCHEDOR","SHAMPOO","200"],
        "optional_terms": ["ACIDO", "HIALURONICO"],
        "ean": "7899706187343"
+    },
+    {
+       "mandatory_terms":["ELSEVE","HIDRA","PREENCHEDOR","SHAMPOO","400"],
+       "optional_terms": ["ACIDO", "HIALURONICO"],
+       "ean": "7899706187367"
     },
     {
        "mandatory_terms":["ELSEVE","HIDRA","CONDICIONADOR","SELADOR","200"],
