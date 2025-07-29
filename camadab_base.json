@@ -2,7 +2,7 @@
     {
        "mandatory_terms":["EUDORA","SIAGE","LISO","INTENSO","CONDICIONADOR"],
        "optional_terms": ["200","200ML", "LISOS"],
-       "ean": "7891033535057"
+       "ean": "7891033535057" 
     },
     {
        "mandatory_terms":["EUDORA","SIAGE","HAIR-PLASTIA"],
@@ -1110,11 +1110,6 @@
        "ean": "7908615053110"
     },
     {
-       "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","SHAMPOO","EXTRA","200"],
-       "optional_terms": ["ACIDO","COMPLEXO"],
-       "ean": "7908615060385"
-    },
-    {
        "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","SHAMPOO","EXTRA","400"],
        "optional_terms": ["ACIDO","COMPLEXO"],
        "ean": "7908615060606"
@@ -1123,6 +1118,11 @@
        "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","SHAMPOO","EXTRA"],
        "optional_terms": ["ACIDO","COMPLEXO","400"],
        "ean": "7908615060606"
+    },
+    {
+       "mandatory_terms":["ELSEVE","GLYCOLIC","SHAMPOO","EXTRA","200"],
+       "optional_terms": ["ACIDO","GLOSS","COMPLEXO"],
+       "ean": "7908615060385"
     },
     {
        "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","SHAMPOO","EXTRA"],
@@ -1136,7 +1136,12 @@
     },
     {
        "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","CONDICIONADOR","200"],
-       "optional_terms": ["SELA"],
+       "optional_terms": ["SELA","ACIDO","COMPLEXO"],
+       "ean": "7908615055145"
+    },
+    {
+       "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","CONDICIONADOR"],
+       "optional_terms": ["SELA","200","ACIDO"],
        "ean": "7908615055145"
     },
     {
@@ -1220,8 +1225,13 @@
        "ean": "7899706244107"
     },
     {
-       "mandatory_terms":["ELSEVE","PURE","HIALURONICO","SHAMPOO","200"],
-       "optional_terms": ["PURIFICANTE"],
+       "mandatory_terms":["ELSEVE","HIDRA","HIALURONICO","SHAMPOO","200"],
+       "optional_terms": ["PURIFICANTE", "HIDRA"],
+       "ean": "7899706244121"
+    }, 
+    {
+       "mandatory_terms":["ELSEVE","HIDRA","PURIFICANTE","SHAMPOO","200"],
+       "optional_terms": ["PURE", "HIALURONICO", "HYALURON", "HYALURONIC", "HYALURONICACID", "ALURONICO"],
        "ean": "7899706244121"
     },
     {
@@ -1233,6 +1243,11 @@
        "mandatory_terms":["ELSEVE","CACHOS","TRATAMENTO","300"],
        "optional_terms": ["SONHOS","LONGOS"],
        "ean": "7899706197489"
+    },
+    {
+       "mandatory_terms":["ELSEVE","SHAMPOO","CACHOS", "200"],
+       "optional_terms": ["NUTRI","PREENCHEDOR","SONHOS"],
+       "ean": "7899706197601"
     },
     {
        "mandatory_terms":["ELSEVE","SHAMPOO","LONGOS", "SONHOS","200"],
@@ -1416,7 +1431,7 @@
     },
     {
        "mandatory_terms":["ELSEVE","OLEO","EXTRAORDINARIO","SHAMPOO"],
-       "optional_terms": ["NUTRICAO"],
+       "optional_terms": ["NUTRICAO","400"],
        "ean": "7898587774338"
     },
     {
@@ -1470,6 +1485,11 @@
        "mandatory_terms":["ELSEVE","DETOX","ANTICASPA","SHAMPOO","400"],
        "optional_terms": ["HYDRA","REEQUILIBRANTE"],
        "ean": "7899706134170"
+    },
+    {
+       "mandatory_terms":["ELSEVE","HYDRA","DETOX","CONDICIONADOR"],
+       "optional_terms": ["HIDRATANTE","200","48H","ALGA"],
+       "ean": "7899706133418"
     },
     {
        "mandatory_terms":["ELSEVE","QUERA-LISO", "CONDICIONADOR", "REVIGORANTE", "200"],
