@@ -1080,12 +1080,12 @@
     },
     {
        "mandatory_terms":["PRECO","ESPECIAL","ELSEVE","HIDRA","HIALURONICO"],
-       "optional_terms": ["PREENCHEDOR","SELADOR"],
+       "optional_terms": ["PREENCHEDOR","SELADOR","PURIFICACAO","ACIDO"],
        "ean": "7899706188302"
     },
     {
        "mandatory_terms":["PRECO","ESPECIAL","ELSEVE","PURE","HIALURONICO"],
-       "optional_terms": ["PURIFICANTE","REIDRATANTE"],
+       "optional_terms": ["PURIFICANTE","REIDRATANTE","LIMPEZA","HIDRATACAO","ACIDO"],
        "ean": "7908615017211"
     },
     {
@@ -1170,6 +1170,11 @@
        "ean": "7899706187367"
     },
     {
+       "mandatory_terms":["ELSEVE","HIDRA","PREENCHEDOR","SHAMPOO"],
+       "optional_terms": ["ACIDO", "HIALURONICO","200"],
+       "ean": "7899706187343"
+    },
+    {
        "mandatory_terms":["ELSEVE","HIDRA","CONDICIONADOR","SELADOR","200"],
        "optional_terms": ["LEVE","SOLTO","HIALURONICO"],
        "ean": "7899706187404"
@@ -1180,8 +1185,8 @@
        "ean": "7908615059983"
     },
     {
-       "mandatory_terms":["ELSEVE","HIDRA","HIALURONICO","MASCARA"],
-       "optional_terms": ["INTENSIVA","300"],
+       "mandatory_terms":["ELSEVE","HIDRA","HIALURONICO","TRATAMENTO"],
+       "optional_terms": ["INTENSIVA","300","LIMPA","HIDRATA"],
        "ean": "7899706187480"
     },
     {
@@ -1201,7 +1206,7 @@
     },
     {
        "mandatory_terms":["ELSEVE","HIDRA","HIALURONICO","72H"],
-       "optional_terms": ["REDUTOR","ANTI-OLEOSIDADE","DOSE"],
+       "optional_terms": ["REDUTOR","ANTI-OLEOSIDADE","DOSE","CREME","PREENCHEDOR"],
        "ean": "7899706187466"
     },
     {
@@ -1282,13 +1287,23 @@
 
     
     {
-       "mandatory_terms":["ELSEVE","LONGO","CONDICIONADOR","DESATA","200"],
-       "optional_terms": ["SONHOS"],
+       "mandatory_terms":["ELSEVE","LONGO","CONDICIONADOR","SALVADOR","200"],
+       "optional_terms": ["SONHOS","DESATA"],
+       "ean": "7899706170857"
+    },
+    {
+       "mandatory_terms":["ELSEVE","LONGO","CONDICIONADOR","SALVADOR"],
+       "optional_terms": ["SONHOS","DESATA","200"],
        "ean": "7899706170857"
     },
     {
        "mandatory_terms":["ELSEVE","LONGO","SHAMPOO","SALVADOR","200"],
        "optional_terms": ["SONHOS", "CONTROLA", "OLEOSIDADE", "SELA", "PONTAS"],
+       "ean": "7899706170833"
+    },
+    {
+       "mandatory_terms":["ELSEVE","LONGO","SHAMPOO","SALVADOR"],
+       "optional_terms": ["SONHOS","LOREAL", "CONTROLA", "OLEOSIDADE","200", "SELA", "PONTAS"],
        "ean": "7899706170833"
     },
     {
@@ -1323,6 +1338,11 @@
        "ean": "7899026420571"
     },
     {
+       "mandatory_terms":["ELSEVE","REPARAÇAO","5","CONDICIONADOR","200"],
+       "optional_terms": ["TOTAL"],
+       "ean": "7899026420571"
+    },
+    {
        "mandatory_terms":["ELSEVE","REPARACAO","TOTAL","SHAMPOO","400"],
        "optional_terms": ["5","FORMULA"],
        "ean": "7899026420564"
@@ -1333,8 +1353,8 @@
        "ean": "7899026420595"
     },
     {
-       "mandatory_terms":["ELSEVE","REPARACAO","5","SHAMPOO","200"],
-       "optional_terms": ["TOTAL"],
+       "mandatory_terms":["ELSEVE","REPARACAO","TOTAL","SHAMPOO"],
+       "optional_terms": ["REPARADOR", "5", "200", "REPARA", "UNIFORMIZA", "MENOS", "QUEBRA"],
        "ean": "7899026459960"
     },
     {
@@ -1435,8 +1455,8 @@
        "ean": "7898587774338"
     },
     {
-       "mandatory_terms":["ELSEVE","OLEO","EXTRAORDINARIO","CREME","250"],
-       "optional_terms": ["PENTEAR", "NUTRITIVO", "24H"],
+       "mandatory_terms":["ELSEVE","OLEO","EXTRAORDINARIO","CREME","PENTEAR"],
+       "optional_terms": ["PENTEAR", "NUTRITIVO", "24H","250"],
        "ean": "7899706111621"
     },
     {
