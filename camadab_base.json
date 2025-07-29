@@ -1125,8 +1125,8 @@
        "ean": "7908615060385"
     },
     {
-       "mandatory_terms":["ELSEVE","GLYCOLIC","GLOSS","SHAMPOO","EXTRA"],
-       "optional_terms": ["ACIDO","COMPLEXO","200"],
+       "mandatory_terms":["ELSEVE","GLYCOLIC","SHAMPOO","EXTRA"],
+       "optional_terms": ["ACIDO","COMPLEXO","GLOSS","200"],
        "ean": "7908615060385"
     },
     {
@@ -1230,8 +1230,8 @@
        "ean": "7899706244121"
     }, 
     {
-       "mandatory_terms":["ELSEVE","HIDRA","PURIFICANTE","SHAMPOO","200"],
-       "optional_terms": ["PURE", "HIALURONICO", "HYALURON", "HYALURONIC", "HYALURONICACID", "ALURONICO"],
+       "mandatory_terms":["ELSEVE","HIDRA","PURIFICANTE","SHAMPOO"],
+       "optional_terms": ["PURE", "200","HIALURONICO", "HYALURON", "HYALURONIC", "HYALURONICACID", "ALURONICO"],
        "ean": "7899706244121"
     },
     {
