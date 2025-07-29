@@ -1,7 +1,7 @@
 import json
 
 # Lê o JSON(escolha se quer ver da tree_base ou camadab_base)
-with open('produtos_com_brand.json', 'r', encoding='utf-8') as f:
+with open('camadab_base.json', 'r', encoding='utf-8') as f:
     dados = json.load(f)
 
 # Usa set para armazenar EANs únicos
