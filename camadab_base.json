@@ -1,5 +1,30 @@
 [  
-     {
+    {
+        "mandatory_terms": ["JAY"],
+        "optional_terms": ["JAY"],
+        "brand": "JAYLUC",
+        "ean_brand": "7190000000019",
+        "ean": "7190000000019"
+    },{
+        "mandatory_terms": ["JAY'LUC"],
+        "optional_terms": ["JAY'LUC"],
+        "brand": "JAYLUC",
+        "ean_brand": "7190000000019",
+        "ean": "7190000000019"
+    },{
+        "mandatory_terms": ["JAYLUC"],
+        "optional_terms": ["JAYLUC"],
+        "brand": "JAYLUC",
+        "ean_brand": "7190000000019",
+        "ean": "7190000000019"
+    },{
+        "mandatory_terms": ["JAY LUC"],
+        "optional_terms": ["JAY LUC"],
+        "brand": "JAYLUC",
+        "ean_brand": "7190000000019",
+        "ean": "7190000000019"
+    },
+    {
         "mandatory_terms": ["ORIGEM"],
         "optional_terms": ["ORIGEM"],
         "brand": "ORIGEM",
