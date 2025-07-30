@@ -3,2107 +3,1895 @@
         "mandatory_terms": ["EUDORA", "SIAGE", "LISO", "INTENSO", "CONDICIONADOR"],
         "optional_terms": ["200", "200ML", "LISOS"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033535057"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "HAIR-PLASTIA"],
         "optional_terms": ["MASCARA", "CAPILAR", "HIALURONICA"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033016440"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "GLOW", "EXPERT", "CONDICIONADOR"],
         "optional_terms": ["200", "BRILHO", "ESPELHADO"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033471768"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "NUTRI", "OLEOS", "PODEROSOS"],
         "optional_terms": ["MASCARA", "RESGATE", "250"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033534371"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "NUTRI", "ROSE"],
         "optional_terms": ["SHAMPOO", "NUTRICAO", "250"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033534357"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "LISO", "INTENSO", "SHAMPOO"],
         "optional_terms": ["250", "MAIS", "LISOS"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033535040"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "HAIR-PLASTIA", "CONDICIONADOR"],
         "optional_terms": ["200", "CORRIGE", "LESOES"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033930470"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "LISO", "INTENSO", "MASCARA"],
         "optional_terms": ["SELADORA", "250"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033535002"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "PRO", "CRONOLOGY", "CONDICIONADOR"],
         "optional_terms": ["200", "CAPILAR", "ACELERADO"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033530953"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "GLOW", "EXPERT", "MASCARA"],
         "optional_terms": ["ULTRA", "BRILHO", "250"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033471775"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "HAIR-PLASTIA", "SHAMPOO"],
         "optional_terms": ["CORRIGE", "LESOES", "250"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033016419"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "PRO", "CRONOLOGY", "SHAMPOO"],
         "optional_terms": ["CRONOGRAMA", "CAPILAR", "ACELERADO"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033530946"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "RESGATE", "IMEDIATO", "CONDICIONADOR"],
         "optional_terms": ["PREENCHE", "SELA", "200"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033558032"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "GLOW", "EXPERT", "SHAMPOO"],
         "optional_terms": ["250", "BRILHO", "ESPELHADO"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033471751"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "CAUTERIZAÇÃO", "LISOS", "CONDICIONADOR"],
         "optional_terms": ["200", "DANOS", "ALISAMENTO"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033517459"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "NUTRI", "ROSE", "CONDICIONADOR"],
         "optional_terms": ["NUTRICAO", "PROFUNDA", "200"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033534364"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "PRO", "CRONOLOGY", "MASCARA"],
         "optional_terms": ["MASCARA", "HIDRATACAO", "250"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033533558"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "PRECO", "ESPECIAL", "LISO", "INTENSO"],
         "optional_terms": ["SHAMPOO", "CONDICIONADOR", "BLOQUEIO", "FRIZZ"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033545964"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "RESGATE", "IMEDIATO", "SHAMPOO"],
         "optional_terms": ["PREENCHE", "SELA", "250"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033558025"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "LOIRO", "EXPERT", "CONDICIONADOR"],
         "optional_terms": ["PROTEGE", "PROLONGA", "200"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033534999"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "NUTRI", "OLEOS", "PODEROSOS", "SHAMPOO"],
         "optional_terms": ["NUTRICAO", "PROFUNDA", "250"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033931033"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "CAUTERIZAÇÃO", "LISOS", "CONDICIONADOR"],
         "optional_terms": ["TRATA", "DANOS", "200"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033517466"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "ACELERA", "CRESCIMENTO", "MASCARA"],
         "optional_terms": ["ANTIQUEBRA", "LONGOS", "250"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033535064"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "PRECO", "ESPECIAL", "NUTRI", "ROSE"],
         "optional_terms": ["EFEITO", "ANTI", "TESOURA"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033551538"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "MEN", "CASPA"],
         "optional_terms": ["COMBATE", "SHAMPOO", "250"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033522125"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "PRECO", "ESPECIAL", "GLOW", "EXPERT"],
         "optional_terms": ["FIOS", "BRILHANTES", "72"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033545995"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "RESGATE", "IMEDIATO", "MASCARA"],
         "optional_terms": ["PREENCHEDORA", "BALM", "250"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033558049"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "NUTRI", "OLEOS", "PODEROSOS"],
         "optional_terms": ["CONDICIONADOR", "NUTRICAO", "PROFUNDA", "200"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033931040"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "NUTRI", "OLEOS", "PODEROSOS", "MASCARA"],
         "optional_terms": ["RESGATE", "MILENARES", "250"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033931057"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "ACELERA", "CRESCIMENTO", "CONDICIONADOR"],
         "optional_terms": ["FIOS", "LONGOS", "200"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033535019"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "CAUTERIZAÇÃO", "LISOS", "MASCARA"],
         "optional_terms": ["PRE", "POS", "ALISAMENTO", "250"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033517497"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "ACELERA", "CRESCIMENTO", "SHAMPOO"],
         "optional_terms": ["250", "FIOS", "LONGOS"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033535026"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "LISO", "INTENSO", "SHAMPOO"],
         "optional_terms": ["MAIS", "LISOS", "250", "FRIZZ"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033926046"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "RECONSTROI", "FIOS", "CONDICIONADOR"],
         "optional_terms": ["RECUPERACAO", "TOTAL", "CABELOS", "200"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033535200"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "PRECO", "ESPECIAL", "HAIR", "PLASTIA"],
         "optional_terms": ["HIDRATA", "DEVOLVE", "DENSIDADE"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033545957"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "CAUTERIZACAO", "FIOS", "MASCARA"],
         "optional_terms": ["PRE", "POS", "ALISAMENTO", "250"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033534333"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "CICA", "THERAPY", "MASCARA"],
         "optional_terms": ["CAPILAR", "CICATRIZANTE"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033473649"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "RECONSTROI", "FIOS", "SHAMPOO"],
         "optional_terms": ["RECUPERACAO", "TOTAL", "250"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033535194"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "CAUTERIZACAO", "FIOS", "CONDICIONADOR"],
         "optional_terms": ["PREENCHE", "PROTEGE", "200"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033534302"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "PRECO", "ESPECIAL", "PRO", "CRONOLOGY"],
         "optional_terms": ["CRONOGRAMA", "CAPILAR", "ACELERADO"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033557646"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "REGENERACAO", "POS", "QUIMICA", "SHAMPOO"],
         "optional_terms": ["COMBATE", "PREVINE", "250"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033534395"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "HIDRATACAO", "MICELAR", "CONDICIONADOR"],
         "optional_terms": ["HIDRATACAO", "INTELIGENTE", "200"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033303021"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "NUTRI", "OLEOS", "PODEROSOS", "SHAMPOO"],
         "optional_terms": ["NUTRICAO", "PROFUNDA", "250"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033931064"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "HIDRATACAO", "MICELAR", "SHAMPOO"],
         "optional_terms": ["250", "AFFINITE"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033301997"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "PRO", "CRONOLOGY", "LEAVE"],
         "optional_terms": ["MEMORIZADOR", "CRONOGRAMA"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033530960"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "NUTRI", "DIAMOND", "MASCARA"],
         "optional_terms": ["BRILHO", "AFFINITE"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033925582"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "CAUTERIZACAO", "FIOS", "SHAMPOO"],
         "optional_terms": ["AFFINITE", "250"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033534289"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "LOIRO", "EXPERT", "MASCARA"],
         "optional_terms": ["MATIZADORA", "PROTEGE"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033534654"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "COMBATE", "FRIZZ", "CONDICIONADOR"],
         "optional_terms": ["72", "AFFINITE"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033471683"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "CAUTERIZACAO", "FIOS", "MASCARA"],
         "optional_terms": ["CAUTERIZACAO", "IMEDIATA"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033930562"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "COMBATE", "FRIZZ", "MASCARA"],
         "optional_terms": ["ANTIFRIZZ", "AFFINITE"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033471690"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "CICA", "THERAPY", "SHAMPOO"],
         "optional_terms": ["CICATRIZA", "RESTAURA"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033198160"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "MEN", "COMBATE", "SHAMPOO"],
         "optional_terms": ["ELIMINA", "100", "CASPA"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033522040"
     },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "MEN", "CRESCIMENTO", "SHAMPOO"],
         "optional_terms": ["ESTIMULA", "MENOS", "QUEDA"],
         "brand": "EUDORA",
-        "ean_brand": "7200000000002",
         "ean": "7891033522132"
     },
     {
         "mandatory_terms": ["ABOVE", "MEN", "ANTICASPA", "SHAMPOO"],
         "optional_terms": ["HIDRATACAO", "4", "1", "325"],
         "brand": "ABOVE",
-        "ean_brand": "7300000000003",
         "ean": "7899674036063"
     },
     {
         "mandatory_terms": ["ABOVE", "MEN", "ANTICASPA", "MENTOL"],
         "optional_terms": ["SHAMPOO", "HIDRATACAO", "325"],
         "brand": "ABOVE",
-        "ean_brand": "7300000000003",
         "ean": "7899674039392"
     },
     {
         "mandatory_terms": ["ABOVE", "MEN", "ANTI", "QUEDA", "SHAMPOO"],
         "optional_terms": ["325", "ANTICASPA", "ANTIQUEDA"],
         "brand": "ABOVE",
-        "ean_brand": "7300000000003",
         "ean": "7899674041609"
     },
     {
         "mandatory_terms": ["ABOVE", "MEN", "FRESH", "SHAMPOO"],
         "optional_terms": ["HIDRATACAO", "325"],
         "brand": "ABOVE",
-        "ean_brand": "7300000000003",
         "ean": "7899674037190"
     },
     {
         "mandatory_terms": ["ABOVE", "SHAMPOO", "SECO", "NEUTRAL"],
         "optional_terms": ["PERFUME", "BRILHO", "MACIEZ"],
         "brand": "ABOVE",
-        "ean_brand": "7300000000003",
         "ean": "7899674027672"
     },
     {
         "mandatory_terms": ["ABOVE", "KIT", "RECONSTRUCAO"],
         "optional_terms": ["RESULTADOS", "RAPIDOS", "SHAMPOO", "CONDICIONADOR"],
         "brand": "ABOVE",
-        "ean_brand": "7300000000003",
         "ean": "7899674038623"
     },
     {
         "mandatory_terms": ["ABOVE", "GEL", "FIXADOR"],
         "optional_terms": ["MEN", "300", "MEDIA"],
         "brand": "ABOVE",
-        "ean_brand": "7300000000003",
         "ean": "7899674037497"
     },
     {
         "mandatory_terms": ["ABOVE", "ANTICASPA", "SHAMPOO"],
         "optional_terms": ["HIDRATACAO", "220"],
         "brand": "ABOVE",
-        "ean_brand": "7300000000003",
         "ean": "7899674042866"
     },
     {
         "mandatory_terms": ["VULT", "LISO", "PROFUNDO", "SHAMPOO"],
         "optional_terms": ["FIOS", "MAIS", "350"],
         "brand": "VULT",
-        "ean_brand": "7400000000004",
         "ean": "7899852025452"
     },
     {
         "mandatory_terms": ["VULT", "RECARGA", "HIDRATACAO", "CONDICIONADOR"],
         "optional_terms": ["INTENSIVO", "HIDRATA", "325"],
         "brand": "VULT",
-        "ean_brand": "7400000000004",
         "ean": "7899852025407"
     },
     {
         "mandatory_terms": ["VULT", "RECARGA", "HIDRATACAO", "SHAMPOO"],
         "optional_terms": ["HIDRATA", "350"],
         "brand": "VULT",
-        "ean_brand": "7400000000004",
         "ean": "7899852025063"
     },
     {
         "mandatory_terms": ["VULT", "RECARGA", "HIDRATACAO", "MASCARA"],
         "optional_terms": ["HIDRA-TURBINADA", "REDUZ", "250"],
         "brand": "VULT",
-        "ean_brand": "7400000000004",
         "ean": "7899852025438"
     },
     {
         "mandatory_terms": ["VULT", "CHOQUE", "RECONSTRUCAO", "CONDICIONADOR"],
         "optional_terms": ["INTENSIVO", "SELA", "REPARA", "325"],
         "brand": "VULT",
-        "ean_brand": "7400000000004",
         "ean": "7899852025506"
     },
     {
         "mandatory_terms": ["VULT", "ONDULADOS", "SHAMPOO"],
         "optional_terms": ["REALCA", "2A", "2C", "350"],
         "brand": "VULT",
-        "ean_brand": "7400000000004",
         "ean": "7899852025551"
     },
     {
         "mandatory_terms": ["VULT", "NUTRICAO", "MASCARA"],
         "optional_terms": ["HIPER-NUTRITIVA", "250"],
         "brand": "VULT",
-        "ean_brand": "7400000000004",
         "ean": "7899852023687"
     },
     {
         "mandatory_terms": ["VULT", "EXPLOSAO", "FORCA", "SHAMPOO"],
         "optional_terms": ["FORTALECE", "CRESCIMENTO", "350"],
         "brand": "VULT",
-        "ean_brand": "7400000000004",
         "ean": "7899852025049"
     },
     {
         "mandatory_terms": ["VULT", "EXPLOSAO", "FORCA", "MASCARA"],
         "optional_terms": ["FORTALECEDORA", "250"],
         "brand": "VULT",
-        "ean_brand": "7400000000004",
         "ean": "7899852024936"
     },
     {
         "mandatory_terms": ["VULT", "ONDULADOS", "CONDICIONADOR"],
         "optional_terms": ["INTENSIVO", "REALCA", "2A", "2C", "325"],
         "brand": "VULT",
-        "ean_brand": "7400000000004",
         "ean": "7899852025568"
     },
     {
         "mandatory_terms": ["VULT", "LISO", "PROFUNDO", "MASCARA"],
         "optional_terms": ["ULTRA-ALINHADORA", "FIOS", "MAIS", "250"],
         "brand": "VULT",
-        "ean_brand": "7400000000004",
         "ean": "7899852023588"
     },
     {
         "mandatory_terms": ["VULT", "OLEOS", "PODEROSOS", "SHAMPOO"],
         "optional_terms": ["NUTRE", "BRILHO", "350"],
         "brand": "VULT",
-        "ean_brand": "7400000000004",
         "ean": "7899852023144"
     },
     {
         "mandatory_terms": ["VULT", "LISO", "PROFUNDO", "CREME"],
         "optional_terms": ["DEFRIZANTE", "TERMOPROTETOR", "100"],
         "brand": "VULT",
-        "ean_brand": "7400000000004",
         "ean": "7899852023571"
     },
     {
         "mandatory_terms": ["VULT", "OLEOS", "PODEROSOS", "CONDICIONADOR"],
         "optional_terms": ["INTENSIVO", "SELA", "NUTRE", "325"],
         "brand": "VULT",
-        "ean_brand": "7400000000004",
         "ean": "7899852025896"
     },
     {
         "mandatory_terms": ["VULT", "EXPLOSAO", "FORCA", "CONDICIONADOR"],
         "optional_terms": ["INTENSIVO", "FORTALECE", "325"],
         "brand": "VULT",
-        "ean_brand": "7400000000004",
         "ean": "7899852025056"
     },
     {
         "mandatory_terms": ["VULT", "CREOGEL", "3", "EM", "1"],
         "optional_terms": ["ONDULADOS", "CACHOS"],
         "brand": "VULT",
-        "ean_brand": "7400000000004",
         "ean": "7899852023519"
     },
     {
         "mandatory_terms": ["VULT", "CACHOS", "3A", "3C", "SHAMPOO"],
         "optional_terms": ["MEMORIZA", "350"],
         "brand": "VULT",
-        "ean_brand": "7400000000004",
         "ean": "7899852025513"
     },
     {
         "mandatory_terms": ["VULT", "CACHOS", "3A", "3C", "CONDICIONADOR"],
         "optional_terms": ["INTENSIVO", "325"],
         "brand": "VULT",
-        "ean_brand": "7400000000004",
         "ean": "7899852025520"
     },
     {
         "mandatory_terms": ["VULT", "ONDULADOS", "2A", "2C", "300"],
         "optional_terms": ["CREME", "PENTEAR"],
         "brand": "VULT",
-        "ean_brand": "7400000000004",
         "ean": "7899852023632"
     },
     {
         "mandatory_terms": ["VULT", "ONDULADOS", "2A", "2C", "500"],
         "optional_terms": ["MASCARA", "REALCA"],
         "brand": "VULT",
-        "ean_brand": "7400000000004",
         "ean": "7899852023625"
     },
     {
         "mandatory_terms": ["MONANGE", "SHAMPOO", "LISOS"],
         "optional_terms": ["QUERO", "VINAGRE", "MACA", "325"],
         "brand": "MONANGE",
-        "ean_brand": "7500000000005",
         "ean": "7896235353331"
     },
     {
         "mandatory_terms": ["MONANGE", "SHAMPOO", "QUIMICA"],
         "optional_terms": ["SEM", "DRAMA", "325"],
         "brand": "MONANGE",
-        "ean_brand": "7500000000005",
         "ean": "7896235353355"
     },
     {
         "mandatory_terms": ["MONANGE", "HIDRATA", "SHAMPOO"],
         "optional_terms": ["COM", "PODER", "325"],
         "brand": "MONANGE",
-        "ean_brand": "7500000000005",
         "ean": "7896235353324"
     },
     {
         "mandatory_terms": ["MONANGE", "CONDICIONADOR", "BOOST"],
         "optional_terms": ["CRESCIMENTO", "325"],
         "brand": "MONANGE",
-        "ean_brand": "7500000000005",
         "ean": "7896235353447"
     },
     {
         "mandatory_terms": ["MONANGE", "SHAMPOO", "BOOST"],
         "optional_terms": ["CRESCIMENTO", "325"],
         "brand": "MONANGE",
-        "ean_brand": "7500000000005",
         "ean": "7896235353379"
     },
     {
         "mandatory_terms": ["MONANGE", "SHAMPOO", "CACHOS"],
         "optional_terms": ["QUE", "TAL", "325"],
         "brand": "MONANGE",
-        "ean_brand": "7500000000005",
         "ean": "7896235353348"
     },
     {
         "mandatory_terms": ["MONANGE", "CONDICIONADOR", "LISOS"],
         "optional_terms": ["TE", "QUERO", "325"],
         "brand": "MONANGE",
-        "ean_brand": "7500000000005",
         "ean": "7896235353409"
     },
     {
         "mandatory_terms": ["MONANGE", "CONDICIONADOR", "CACHOS"],
         "optional_terms": ["QUE", "TAL", "325"],
         "brand": "MONANGE",
-        "ean_brand": "7500000000005",
         "ean": "7896235353416"
     },
     {
         "mandatory_terms": ["MONANGE", "CONDICIONADOR", "HIDRATA"],
         "optional_terms": ["COM", "PODER", "325"],
         "brand": "MONANGE",
-        "ean_brand": "7500000000005",
         "ean": "7896235353393"
     },
     {
         "mandatory_terms": ["MONANGE", "CONDICIONADOR", "DETOX"],
         "optional_terms": ["TERAPIA", "ACAO", "ANTIPOLUICAO", "325"],
         "brand": "MONANGE",
-        "ean_brand": "7500000000005",
         "ean": "7896235353454"
     },
     {
         "mandatory_terms": ["MONANGE", "SHAMPOO", "RESTAURA"],
         "optional_terms": ["QUE", "EU", "GOSTO", "325"],
         "brand": "MONANGE",
-        "ean_brand": "7500000000005",
         "ean": "7896235353362"
     },
     {
         "mandatory_terms": ["MONANGE", "CONDICIONADOR", "QUIMICA"],
         "optional_terms": ["SEM", "DRAMA", "325"],
         "brand": "MONANGE",
-        "ean_brand": "7500000000005",
         "ean": "7896235353423"
     },
     {
         "mandatory_terms": ["MONANGE", "CONDICIONADOR", "RESTAURA", "PROFUNDAMENTE", "325"],
         "optional_terms": ["ARGININA", "AMINOACIDOS"],
         "brand": "MONANGE",
-        "ean_brand": "7500000000005",
         "ean": "7896235353430"
     },
     {
         "mandatory_terms": ["MONANGE", "REPARACAO", "CREME", "PENTEAR", "300"],
         "optional_terms": ["POS", "QUIMICA", "7", "OLEOS", "PODEROSOS"],
         "brand": "MONANGE",
-        "ean_brand": "7500000000005",
         "ean": "7898919412211"
     },
     {
         "mandatory_terms": ["MONANGE", "SHAMPOO", "DETOX", "ACAO", "325"],
         "optional_terms": ["ANTIPOLUICAO", "DETOX"],
         "brand": "MONANGE",
-        "ean_brand": "7500000000005",
         "ean": "7896235353386"
     },
     {
         "mandatory_terms": ["MONANGE", "CREME", "PENTEAR", "LISOS", "300"],
         "optional_terms": ["TE", "QUERO"],
         "brand": "MONANGE",
-        "ean_brand": "7500000000005",
         "ean": "7898919412181"
     },
     {
         "mandatory_terms": ["MONANGE", "CREME", "PENTEAR", "HIDRATA", "300"],
         "optional_terms": ["EXTRATO", "OLIVA"],
         "brand": "MONANGE",
-        "ean_brand": "7500000000005",
         "ean": "7898919412204"
     },
     {
         "mandatory_terms": ["MONANGE", "CREME", "TRATAMENTO", "CACHOS", "300"],
         "optional_terms": ["QUE", "TAL", "HIDRATA", "DEFINE"],
         "brand": "MONANGE",
-        "ean_brand": "7500000000005",
         "ean": "7898919412143"
     },
     {
         "mandatory_terms": ["MONANGE", "CREME", "PENTEAR", "CACHOS", "300"],
         "optional_terms": ["QUE", "TAL", "OLEO", "COCO"],
         "brand": "MONANGE",
-        "ean_brand": "7500000000005",
         "ean": "7898919412174"
     },
     {
         "mandatory_terms": ["MONANGE", "CREME", "TRATAMENTO", "LISOS"],
         "optional_terms": ["EFEITO", "LISO", "30"],
         "brand": "MONANGE",
-        "ean_brand": "7500000000005",
         "ean": "7898919412150"
     },
     {
         "mandatory_terms": ["TRESEMME", "HIDRATACAO", "PROFUNDA", "CONDICIONADOR", "400"],
         "optional_terms": ["PANTENOL", "NIACINAMIDA"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150018754"
     },
     {
         "mandatory_terms": ["TRESEMME", "HIDRATACAO", "PROFUNDA", "SHAMPOO", "400"],
         "optional_terms": ["PANTENOL", "NIACINAMIDA"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150018846"
     },
     {
         "mandatory_terms": ["TRESEMME", "PRECO", "ESPECIAL"],
         "optional_terms": ["HIDRATACAO", "PROFUNDA"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150094499"
     },
     {
         "mandatory_terms": ["TRESEMME", "DETOX", "CAPILAR", "CONDICIONADOR", "400"],
         "optional_terms": ["MATCHA", "EXTRATO", "GENGIBRE"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150041646"
     },
     {
         "mandatory_terms": ["TRESEMME", "BRILHO", "LAMELAR", "SHAMPOO", "400"],
         "optional_terms": ["TECNOLOGIA", "OLEOS"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150091214"
     },
     {
         "mandatory_terms": ["TRESEMME", "DETOX", "CAPILAR", "SHAMPOO", "400"],
         "optional_terms": ["MATCHA", "EXTRATO", "GENGIBRE"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150041714"
     },
     {
         "mandatory_terms": ["TRESEMME", "BRILHO", "LAMELAR", "SHAMPOO", "650"],
         "optional_terms": ["TECNOLOGIA", "OLEOS"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150091207"
     },
     {
         "mandatory_terms": ["TRESEMME", "BRILHO", "LAMELAR", "MASCARA", "400"],
         "optional_terms": ["TECNOLOGIA", "OLEOS"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150091245"
     },
     {
         "mandatory_terms": ["TRESEMME", "PRECO", "ESPECIAL"],
         "optional_terms": ["RECONSTRUCAO", "FORCA"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150094512"
     },
     {
         "mandatory_terms": ["TRESEMME", "RECONSTRUCAO", "FORCA", "SHAMPOO", "400"],
         "optional_terms": ["COLAGENO", "ARGININA"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150018877"
     },
     {
         "mandatory_terms": ["TRESEMME", "PRECO", "ESPECIAL"],
         "optional_terms": ["BRILHO", "LAMELAR"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150094529"
     },
     {
         "mandatory_terms": ["TRESEMME", "BRILHO", "LAMELAR", "CONDICIONADOR", "650"],
         "optional_terms": ["TECNOLOGIA", "OLEOS"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150091221"
     },
     {
         "mandatory_terms": ["TRESEMME", "BRILHO", "LAMELAR", "CONDICIONADOR", "400"],
         "optional_terms": ["TECNOLOGIA", "OLEOS"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150091115"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "TRESEMME", "CABELOS", "RESISTENTES"],
         "optional_terms": ["AO", "FRIZZ"],
-        "brand": "PRECO",
-        "ean_brand": "0",
+        "brand": "TRESEMME",
         "ean": "7891150094505"
     },
     {
         "mandatory_terms": ["TRESEMME", "REGENERACAO", "TRESPLEX", "CONDICIONADOR", "400"],
         "optional_terms": ["QUERATINA", "LIQUIDA"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150029538"
     },
     {
         "mandatory_terms": ["TRESEMME", "HIDRATACAO", "PROFUNDA", "CONDICIONADOR", "650"],
         "optional_terms": ["PANTENOL", "NIACINAMIDA"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150091160"
     },
     {
         "mandatory_terms": ["TRESEMME", "RECONSTRUCAO", "FORCA", "CONDICIONADOR", "400"],
         "optional_terms": ["COLAGENO", "ARGININA"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150018785"
     },
     {
         "mandatory_terms": ["TRESEMME", "HIDRATACAO", "PROFUNDA", "CREME", "200"],
         "optional_terms": ["PANTENOL", "NIACINAMIDA", "LEAVE", "IN"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150058965"
     },
     {
         "mandatory_terms": ["TRESEMME", "BLINDAGEM", "ANTIUMIDADE", "SHAMPOO", "650"],
         "optional_terms": ["QUERATINA", "HIDROLISADA", "ACIDO", "HIALURONICO"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150100312"
     },
     {
         "mandatory_terms": ["TRESEMME", "PRO", "HIDRATACAO", "ATIVA"],
         "optional_terms": ["MASCARA", "400"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150023338"
     },
     {
         "mandatory_terms": ["TRESEMME", "RECONSTRUCAO", "FORCA", "CONDICIONADOR", "650"],
         "optional_terms": ["COLAGENO", "ARGININA"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150091238"
     },
     {
         "mandatory_terms": ["TRESEMME", "REGENERACAO", "TRESPLEX", "SHAMPOO", "400"],
         "optional_terms": ["QUERATINA", "LIQUIDA"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150029606"
     },
     {
         "mandatory_terms": ["TRESEMME", "BLINDAGEM", "ANTIUMIDADE", "MASCARA", "400"],
         "optional_terms": ["QUERATINA", "HIDROLISADA", "ACIDO", "HIALURONICO"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150100350"
     },
     {
         "mandatory_terms": ["TRESEMME", "BLINDAGEM", "ANTIUMIDADE", "CONDICIONADOR", "650"],
         "optional_terms": ["QUERATINA", "HIDROLISADA", "ACIDO", "HIALURONICO"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150100367"
     },
     {
         "mandatory_terms": ["TRESEMME", "HIDRATACAO", "PROFUNDA", "SHAMPOO", "400"],
         "optional_terms": ["PANTENOL", "NIACINAMIDA"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150091184"
     },
     {
         "mandatory_terms": ["TRESEMME", "BLINDAGEM", "ANTIFRIZZ", "SHAMPOO", "400"],
         "optional_terms": ["QUERATINA", "HIDROLISADA", "ACIDO", "HIALURONICO"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150079793"
     },
     {
         "mandatory_terms": ["TRESEMME", "SELAGEM", "ACABAMENTO", "PROFISSIONAL", "180"],
         "optional_terms": ["180", "TRATAMENTO"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150100107"
     },
     {
         "mandatory_terms": ["TRESEMME", "RECONSTRUCAO", "ULTRA", "INTENSA", "400"],
         "optional_terms": ["RECONSTRUCAO", "INTENSA"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150023321"
     },
     {
         "mandatory_terms": ["TRESEMME", "RECONSTRUCAO", "FORCA", "SHAMPOO", "650"],
         "optional_terms": ["COLAGENO", "ARGININA"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150091122"
     },
     {
         "mandatory_terms": ["TRESEMME", "PROTETOR", "TERMICO", "SPRAY", "110"],
         "optional_terms": ["TERMICO", "CABELOS"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150100343"
     },
     {
         "mandatory_terms": ["TRESEMME", "BLINDAGEM", "ANTIUMIDADE", "SHAMPOO", "400"],
         "optional_terms": ["QUERATINA", "HIDROLISADA", "ACIDO", "HIALURONICO"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150100336"
     },
     {
         "mandatory_terms": ["TRESEMME", "BLINDAGEM", "ANTIUMIDADE", "CONDICIONADOR", "400"],
         "optional_terms": ["QUERATINA", "HIDROLISADA", "ACIDO", "HIALURONICO"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150100329"
     },
     {
         "mandatory_terms": ["TRESEMME", "CACHOS", "DEFINIDOS", "SHAMPOO", "400"],
         "optional_terms": ["ELASTINA", "OLEO", "DE", "MACADAMIA"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150018853"
     },
     {
         "mandatory_terms": ["TRESEMME", "BLINDAGEM", "ANTIFRIZZ", "CONDICIONADOR", "400"],
         "optional_terms": ["QUERATINA", "HIDROLISADA", "ACIDO", "HIALURONICO"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150079755"
     },
     {
         "mandatory_terms": ["TRESEMME", "REGENERACAO", "TRESPLEX", "CONDICIONADOR", "650"],
         "optional_terms": ["QUERATINA", "LIQUIDA"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150093096"
     },
     {
         "mandatory_terms": ["TRESEMME", "BLINDAGEM", "ANTIUMIDADE", "SERUM", "170"],
         "optional_terms": ["QUERATINA", "HIDROLISADA", "ACIDO", "HIALURONICO"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150100046"
     },
     {
         "mandatory_terms": ["TRESEMME", "REGENERACAO", "TRESPLEX", "SHAMPOO", "650"],
         "optional_terms": ["QUERATINA", "LIQUIDA"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150093034"
     },
     {
         "mandatory_terms": ["TRESEMME", "BLINDAGEM", "ANTIFRIZZ", "CREME", "200"],
         "optional_terms": ["QUERATINA", "HIDROLISADA", "ACIDO", "HIALURONICO"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150058972"
     },
     {
         "mandatory_terms": ["TRESEMME", "BRILHO", "LAMELAR", "SERUM", "TRATAMENTO"],
         "optional_terms": ["TECNOLOGIA", "LAMELAR", "BLEND", "OLEOS"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150091276"
     },
     {
         "mandatory_terms": ["TRESEMME", "RECONSTRUCAO", "FORCA", "CREME", "200"],
         "optional_terms": ["LEAVE", "IN", "COLAGENO", "ARGININA"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150091153"
     },
     {
         "mandatory_terms": ["TRESEMME", "DETOX", "CAPILAR"],
         "optional_terms": ["PARABENOS", "CORANTES"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150041639"
     },
     {
         "mandatory_terms": ["TRESEMME", "BLINDAGEM", "ANTIFRIZZ", "CONDICIONADOR"],
         "optional_terms": ["650", "ACIDO", "QUERATINA"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150093089"
     },
     {
         "mandatory_terms": ["TRESEMME", "BRILHO", "LAMELAR"],
         "optional_terms": ["OLEO", "FINALIZADOR"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150094406"
     },
     {
         "mandatory_terms": ["TRESEMME", "BLINDAGEM", "ANTIFRIZZ", "SHAMPOO", "650"],
         "optional_terms": ["ACIDO", "QUERATINA", "HIDROLISADA"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150093058"
     },
     {
         "mandatory_terms": ["TRESEMME", "DETOX", "CAPILAR", "SHAMPOO", "650"],
         "optional_terms": ["EXTRATO", "GENGIBRE"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150091191"
     },
     {
         "mandatory_terms": ["TRESEMME", "DETOX", "CAPILAR"],
         "optional_terms": ["MASCARA", "EXTRATO", "GENGIBRE"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150091252"
     },
     {
         "mandatory_terms": ["TRESEMME", "CACHOS", "DEFINIDOS", "CONDICIONADOR", "400"],
         "optional_terms": ["OLEO", "MACADAMIA"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150018761"
     },
     {
         "mandatory_terms": ["TRESEMME", "ULTRA", "MATIZADOR", "SHAMPOO", "400"],
         "optional_terms": ["PIGMENTO", "VIOLETA", "COMPLEXO"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150093843"
     },
     {
         "mandatory_terms": ["TRESEMME", "SUPER", "CONDICIONADOR", "LONGOS", "FORTES"],
         "optional_terms": ["EFEITO", "PRIMER"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150070868"
     },
     {
         "mandatory_terms": ["TRESEMME", "NUTRICAO", "CONDICIONADOR", "400"],
         "optional_terms": ["OLEO", "COCO"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150051911"
     },
     {
         "mandatory_terms": ["TRESEMME", "DETOX", "CAPILAR", "CONDICIONADOR", "650"],
         "optional_terms": ["EXTRATO", "GENGIBRE"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150091146"
     },
     {
         "mandatory_terms": ["TRESEMME", "ULTRA", "VIOLETA", "MATIZADOR", "CONDICIONADOR", "400"],
         "optional_terms": ["PIGMENTO", "COMPLEXO", "VITAMINICO"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150093850"
     },
     {
         "mandatory_terms": ["TRESEMME", "DETOX", "CAPILAR", "GENGIBRE"],
         "optional_terms": ["LEAVE-IN", "FINALIZADOR"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150094734"
     },
     {
         "mandatory_terms": ["TRESEMME", "REGENERACAO", "TRESPLEX"],
         "optional_terms": ["MASCARA", "TRATAMENTO", "PROFISSIONAL"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150029583"
     },
     {
         "mandatory_terms": ["TRESEMME", "SUPER", "CONDICIONADOR", "PRIMER"],
         "optional_terms": ["EFEITO", "170"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150080706"
     },
     {
         "mandatory_terms": ["TRESEMME", "ACABAMENTO", "PROFISSIONAL", "400"],
         "optional_terms": ["CREME", "PENTEAR"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150058996"
     },
     {
         "mandatory_terms": ["TRESEMME", "CRESCIMENTO", "MAXIMO", "CONDICIONADOR", "400"],
         "optional_terms": ["OLEO", "RICINO", "CAFEINA"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150070851"
     },
     {
         "mandatory_terms": ["TRESEMME", "CACHOS", "DEFINIDOS", "CREME", "380"],
         "optional_terms": ["LEAVE-IN", "ELASTINA", "MACADAMIA"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150093898"
     },
     {
         "mandatory_terms": ["TRESEMME", "BLINDAGEM", "ANTIFRIZZ", "170"],
         "optional_terms": ["SERUM", "TRATAMENTO", "ML"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150093836"
     },
     {
         "mandatory_terms": ["TRESEMME", "OLEO", "COCO", "400"],
         "optional_terms": ["BAIXO", "NUTRICAO"],
         "brand": "TRESEMME",
-        "ean_brand": "7600000000006",
         "ean": "7891150051898"
     },
     {
         "mandatory_terms": ["CLEAR", "HAALAND", "CONTROLE", "ALIVIO"],
         "optional_terms": ["400", "400ML", "COCEIRA", "MEN"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7891150014121"
     },
     {
         "mandatory_terms": ["CLEAR", "MEN", "DIARIA", "LIMPEZA", "200"],
         "optional_terms": ["ANTICASPA", "2", "EM", "1"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7898422746216"
     },
     {
         "mandatory_terms": ["CLEAR", "MENTHOL", "GRATIS", "ICE", "70"],
         "optional_terms": ["MEN"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7891150060968"
     },
     {
         "mandatory_terms": ["CLEAR", "DIARIA", "GRATIS", "LIMPEZA", "70"],
         "optional_terms": ["MEN"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7891150060975"
     },
     {
         "mandatory_terms": ["CLEAR", "LIMPEZA", "PROFUNDA", "400"],
         "optional_terms": ["SPORTS", "DIARIO", "CARVAO"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7891150019416"
     },
     {
         "mandatory_terms": ["CLEAR", "LIMPEZA", "PROFUNDA"],
         "optional_terms": ["SPORTS", "200", "200ML"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7891150019508"
     },
     {
         "mandatory_terms": ["CLEAR", "MENTHOL", "COOL", "ICE", "400"],
         "optional_terms": ["MEN"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7891150001183"
     },
     {
         "mandatory_terms": ["CLEAR", "MEN", "LIMPEZA", "DIARIA"],
         "optional_terms": ["400", "400ML"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7891150014138"
     },
     {
         "mandatory_terms": ["CLEAR", "CAMPEA", "HIDRATACAO"],
         "optional_terms": ["400", "400ML", "VINI", "CABELOS", "LIMPOS"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7891150099272"
     },
     {
         "mandatory_terms": ["CLEAR", "QUEDA", "CONTROL", "SHAMPOO"],
         "optional_terms": ["MEN", "200", "ENERGIA"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7891150001077"
     },
     {
         "mandatory_terms": ["CLEAR", "QUEDA", "CONTROL", "400"],
         "optional_terms": ["MEN"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7891150001268"
     },
     {
         "mandatory_terms": ["CLEAR", "MENTHOL", "200", "COOL", "ICE"],
         "optional_terms": ["MEN"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7891150007406"
     },
     {
         "mandatory_terms": ["CLEAR", "GRATIS", "30", "MENTHOL", "ANTICASPA"],
         "optional_terms": ["MEN"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7891150095267"
     },
     {
         "mandatory_terms": ["CLEAR", "MEN", "CAMPEA", "HIDRATACAO"],
         "optional_terms": ["200", "200ML"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7891150099289"
     },
     {
         "mandatory_terms": ["CLEAR", "SHAMPOO", "HIDRATACAO", "ANTI", "200"],
         "optional_terms": ["CASPA"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7891150008151"
     },
     {
         "mandatory_terms": ["CLEAR", "MEN", "CABELO", "BARBA", "200"],
         "optional_terms": ["ANTICASPA"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7891150075276"
     },
     {
         "mandatory_terms": ["CLEAR", "COCEIRA", "CONTROLE", "ALIVIO"],
         "optional_terms": ["MEN", "200"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7891150014107"
     },
     {
         "mandatory_terms": ["CLEAR", "BOTANIQUE", "DETOX", "DIARIO"],
         "optional_terms": ["200"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7891150055698"
     },
     {
         "mandatory_terms": ["CLEAR", "BOTANIQUE", "200", "SHAMPOO"],
         "optional_terms": ["ANTICASPA", "OLEOS", "ESSENCIAIS", "ANTICOCEIRA"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7891150081611"
     },
     {
         "mandatory_terms": ["CLEAR", "GRATIS", "HIDRATACAO", "SHAMPOO", "70"],
         "optional_terms": ["ANTI"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7891150067578"
     },
     {
         "mandatory_terms": ["CLEAR", "BOTANIQUE", "ANTICOCEIRA", "400", "SHAMPOO"],
         "optional_terms": ["ANTICASPA"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7891150081628"
     },
     {
         "mandatory_terms": ["CLEAR", "HIDRATACAO", "INTENSA", "SHAMPOO"],
         "optional_terms": ["400", "400ML", "LIMPA"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7891150008137"
     },
     {
         "mandatory_terms": ["CLEAR", "SHAMPOO", "FLOR", "CEREJEIRA", "200"],
         "optional_terms": ["ANTI"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7891150055704"
     },
     {
         "mandatory_terms": ["CLEAR", "DETOX", "DIARIO", "GRATIS", "400"],
         "optional_terms": ["DETOX"],
         "brand": "CLEAR",
-        "ean_brand": "7700000000007",
         "ean": "7891150067561"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "LIMPEZA", "EFICAZ"],
         "optional_terms": ["LIMPEZA", "200", "&", "200ML"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7500435242615"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "LIMPEZA", "EFICAZ"],
         "optional_terms": ["400", "400ML"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7500435242622"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "LIMPEZA", "EFICAZ"],
         "optional_terms": ["650", "650ML"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7500435248914"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "ANTICOCEIRA", "200"],
         "optional_terms": ["ALIVIO", "200ML", "&"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7506195142035"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "3", "1"],
         "optional_terms": ["200", "200ML", "300", "LIMPEZA", "PROFUNDA"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7506309865393"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "3", "1"],
         "optional_terms": ["LIMPA", "PROFUNDAMENTE", "LIMPEZA", "PROFUNDA"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7506309865409"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "MENTROL", "SPORT"],
         "optional_terms": ["REFRESCANTE", "SENSACAO"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7501001133627"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "OLD", "SPICE"],
         "optional_terms": ["200", "200ML"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7500435187879"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "OLD", "SPICE"],
         "optional_terms": ["400", "400ML"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7500435187886"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "ANTICOCEIRA", "400"],
         "optional_terms": ["SHAMPOO", "ANTICASPA", "ALIVIO", "&"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7506195142042"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "REMOCAO", "OLEOSIDADE"],
         "optional_terms": ["200", "200ML"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7500435112123"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "MENTHOL", "SPORT"],
         "optional_terms": ["REFRESCANTE"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7501001133627"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "MENTA", "ICE", "200"],
         "optional_terms": ["200ML", "CASPA"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7501001133627"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "MENTA", "ICE", "400"],
         "optional_terms": ["SENSACAO", "REFRESCANCIA"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7501001133290"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "MENTA", "ICE", "650"],
         "optional_terms": ["SHAMPOO", "ANTICASPA"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7500435238670"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "CRESCIMENTO", "200"],
         "optional_terms": ["FORTE", "RAIZ"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7500435176866"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "REMOCAO", "OLEOSIDADE", "400"],
         "optional_terms": ["REMOVE", "&"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7500435112130"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "ANTIQUEDA"],
         "optional_terms": ["200", "200ML"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7501006707687"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "3", "1", "650"],
         "optional_terms": ["SHAMPOO", "ANTICASPA"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7500435240376"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "HIDRATACAO", "400"],
         "optional_terms": ["COURO", "CABELUDO", "RESSECADO"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7501001133306"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "HIDRATACAO", "200"],
         "optional_terms": ["COURO", "CABELUDO", "RESSECADO"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7501001133306"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "FRAGRANCIA", "PODEROSA", "650"],
         "optional_terms": ["OLD", "SPICE"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7500435238687"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "CRESCIMENTO", "400"],
         "optional_terms": ["FORTE", "RAIZ"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7500435176880"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "ANTICOCEIRA", "650"],
         "optional_terms": ["SHAMPOO", "ANTICASPA", "LEVE", "MAIS"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7500435240369"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "ANTIQUEDA", "400"],
         "optional_terms": ["REDUZIR", "QUEDA"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7501006707694"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "DETOX", "RAIZ"],
         "optional_terms": ["200"],
-        "brand": "HEAD",
-        "ean_brand": "0",
+        "brand": "SHOULDERS",
         "ean": "7500435128742"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "ELSEVE", "GLYCOLIC", "GLOSS"],
         "optional_terms": ["BRILHO", "ULTRA"],
-        "brand": "PRECO",
-        "ean_brand": "0",
+        "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908615085418"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "ELSEVE", "CACHOS", "LONGOS", "SONHOS"],
         "optional_terms": ["PREENCHEDOR", "SELADOR"],
-        "brand": "PRECO",
-        "ean_brand": "0",
+        "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706197687"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "ELSEVE", "LONGO", "SONHOS"],
         "optional_terms": ["SALVADOR", "DESATA", "NOS"],
-        "brand": "PRECO",
-        "ean_brand": "0",
+        "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706175951"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "ELSEVE", "HIDRA", "HIALURONICO"],
         "optional_terms": ["PREENCHEDOR", "SELADOR", "PURIFICACAO", "ACIDO"],
-        "brand": "PRECO",
-        "ean_brand": "0",
+        "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706188302"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "ELSEVE", "PURE", "HIALURONICO"],
         "optional_terms": ["PURIFICANTE", "REIDRATANTE", "LIMPEZA", "HIDRATACAO", "ACIDO"],
-        "brand": "PRECO",
-        "ean_brand": "0",
+        "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908615017211"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "ELSEVE", "REPARACAO", "TOTAL", "5"],
         "optional_terms": ["REPARADOR", "RESTAURADOR"],
-        "brand": "PRECO",
-        "ean_brand": "0",
+        "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706164337"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "ELSEVE", "OLEO", "EXTRAORDINARIO"],
         "optional_terms": ["NUTRICAO"],
-        "brand": "PRECO",
-        "ean_brand": "0",
+        "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706164375"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "ELSEVE", "LISO", "SONHOS"],
         "optional_terms": ["LIQUID", "HAIR"],
-        "brand": "PRECO",
-        "ean_brand": "0",
+        "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908785476825"
     },
     {
         "mandatory_terms": ["ELSEVE", "GLYCOLIC", "GLOSS", "TRATAMENTO", "ANTIPOROSIDADE"],
         "optional_terms": ["300", "POROSO"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7908615053110"
     },
     {
         "mandatory_terms": ["ELSEVE", "GLYCOLIC", "GLOSS", "SHAMPOO", "EXTRA", "400"],
         "optional_terms": ["ACIDO", "COMPLEXO"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7908615060606"
     },
     {
         "mandatory_terms": ["ELSEVE", "GLYCOLIC", "GLOSS", "SHAMPOO", "EXTRA"],
         "optional_terms": ["ACIDO", "COMPLEXO", "400"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7908615060606"
     },
     {
         "mandatory_terms": ["ELSEVE", "GLYCOLIC", "SHAMPOO", "EXTRA", "200"],
         "optional_terms": ["ACIDO", "GLOSS", "COMPLEXO"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7908615060385"
     },
     {
         "mandatory_terms": ["ELSEVE", "GLYCOLIC", "SHAMPOO", "EXTRA"],
         "optional_terms": ["ACIDO", "COMPLEXO", "GLOSS", "200"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7908615060385"
     },
     {
         "mandatory_terms": ["ELSEVE", "GLYCOLIC", "GLOSS", "CONDICIONADOR", "400"],
         "optional_terms": ["SELA"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7908615055169"
     },
     {
         "mandatory_terms": ["ELSEVE", "GLYCOLIC", "GLOSS", "CONDICIONADOR", "200"],
         "optional_terms": ["SELA", "ACIDO", "COMPLEXO"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7908615055145"
     },
     {
         "mandatory_terms": ["ELSEVE", "GLYCOLIC", "GLOSS", "CONDICIONADOR"],
         "optional_terms": ["SELA", "200", "ACIDO"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7908615055145"
     },
     {
         "mandatory_terms": ["ELSEVE", "GLYCOLIC", "GLOSS", "3", "PROLONGADOR"],
         "optional_terms": ["100", "ELIXIR", "PROLONGADOR"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7908615055183"
     },
     {
         "mandatory_terms": ["ELSEVE", "GLYCOLIC", "GLOSS", "ACIDIFICANTE"],
         "optional_terms": ["6", "ULTRA"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7908615060347"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "CONDICIONADOR", "HIALURONICO", "400"],
         "optional_terms": ["LEVE", "SOLTO", "SELADOR"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706187428"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "PREENCHEDOR", "SHAMPOO", "200"],
         "optional_terms": ["ACIDO", "HIALURONICO"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706187343"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "PREENCHEDOR", "SHAMPOO", "400"],
         "optional_terms": ["ACIDO", "HIALURONICO"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706187367"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "PREENCHEDOR", "SHAMPOO"],
         "optional_terms": ["ACIDO", "HIALURONICO", "200"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706187343"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "CONDICIONADOR", "SELADOR", "200"],
         "optional_terms": ["LEVE", "SOLTO", "HIALURONICO"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706187404"
     },
     {
         "mandatory_terms": ["ELSEVE", "GLYCOLIC", "GLOSS", "CREME"],
         "optional_terms": ["SUPER", "GLOSS"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7908615059983"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "HIALURONICO", "TRATAMENTO"],
         "optional_terms": ["INTENSIVA", "300", "LIMPA", "HIDRATA"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706187480"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "CREME", "TRATAMENTO"],
         "optional_terms": ["INTENSIVA", "HIALURONICO", "300"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706187480"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "HIALURONICO", "HIDRATACAO", "NOTURNA"],
         "optional_terms": ["200", "DESIDRATADOS"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706187541"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "HIALURONICO", "CREME", "MILAGROSO"],
         "optional_terms": ["EM", "1", "3"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7908615060620"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "HIALURONICO", "72H"],
         "optional_terms": ["REDUTOR", "ANTI-OLEOSIDADE", "DOSE", "CREME", "PREENCHEDOR"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706187466"
     },
     {
         "mandatory_terms": ["ELSEVE", "PURE", "HIALURONICO", "TRATAMENTO"],
         "optional_terms": ["300", "HIDRATA", "REEQUILIBRANTE"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706244008"
     },
     {
         "mandatory_terms": ["ELSEVE", "PURE", "CONDICIONADOR", "REIDRATANTE", "400"],
         "optional_terms": ["RAIZES", "OLEOSAS", "HIALURONICO"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706244060"
     },
     {
         "mandatory_terms": ["ELSEVE", "PURE", "HIALURONICO", "CONDICIONADOR", "REIDRATANTE", "200"],
         "optional_terms": ["RAIZES", "OLEOSAS", "ACIDO", "HIDRATA"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706244084"
     },
     {
         "mandatory_terms": ["ELSEVE", "PURE", "SHAMPOO", "HIDRA", "400"],
         "optional_terms": ["PURIFICANTE", "HIALURONICO"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706244107"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "HIALURONICO", "SHAMPOO", "200"],
         "optional_terms": ["PURIFICANTE", "HIDRA"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706244121"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "PURIFICANTE", "SHAMPOO"],
         "optional_terms": ["PURE", "200", "HIALURONICO", "HYALURON", "HYALURONIC", "HYALURONICACID", "ALURONICO"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706244121"
     },
     {
         "mandatory_terms": ["ELSEVE", "CACHOS", "CONDICIONADOR", "200"],
         "optional_terms": ["SONHOS", "LONGOS", "SELADOR"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706197564"
     },
     {
         "mandatory_terms": ["ELSEVE", "CACHOS", "TRATAMENTO", "300"],
         "optional_terms": ["SONHOS", "LONGOS"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706197489"
     },
     {
         "mandatory_terms": ["ELSEVE", "SHAMPOO", "CACHOS", "200"],
         "optional_terms": ["NUTRI", "PREENCHEDOR", "SONHOS"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706197601"
     },
     {
         "mandatory_terms": ["ELSEVE", "SHAMPOO", "LONGOS", "SONHOS", "200"],
         "optional_terms": ["NUTRI", "PREENCHEDOR"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706197601"
     },
     {
         "mandatory_terms": ["ELSEVE", "NUTRI", "PREENCHEDOR", "SHAMPOO", "400"],
         "optional_terms": ["CABELOS", "CACHEADOS"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706197649"
     },
     {
         "mandatory_terms": ["ELSEVE", "CREME", "NOTURNO"],
         "optional_terms": ["2X", "ANTI", "TRAVESSEIRO", "ANTI-TRAVESSEIRO", "SONHOS", "LONGOS"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706197663"
     },
     {
         "mandatory_terms": ["ELSEVE", "SELADOR", "CONDICIONADOR", "400"],
         "optional_terms": ["PREENCHE", "CAPILAR", "SELA"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706197588"
     },
     {
         "mandatory_terms": ["ELSEVE", "CACHOS", "CREME", "250"],
         "optional_terms": ["SONHOS", "LONGOS"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706197502"
     },
     {
         "mandatory_terms": ["ELSEVE", "CREME", "MILAGROSO", "TRATAMENTO", "INTENSIVO"],
         "optional_terms": ["CACHOS", "CONDICIONADOR", "SUPER", "3 EM 1", "3", "1"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706197526"
     },
     {
         "mandatory_terms": ["ELSEVE", "LONGO", "CONDICIONADOR", "SALVADOR", "200"],
         "optional_terms": ["SONHOS", "DESATA"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706170857"
     },
     {
         "mandatory_terms": ["ELSEVE", "LONGO", "CONDICIONADOR", "SONHOS"],
         "optional_terms": ["NOS", "DESATA", "200"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706170857"
     },
     {
         "mandatory_terms": ["ELSEVE", "LONGO", "SHAMPOO", "SALVADOR", "200"],
         "optional_terms": ["SONHOS", "CONTROLA", "OLEOSIDADE", "SELA", "PONTAS"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706170833"
     },
     {
         "mandatory_terms": ["ELSEVE", "LONGO", "SHAMPOO", "SALVADOR"],
         "optional_terms": ["SONHOS", "LOREAL", "CONTROLA", "OLEOSIDADE", "200", "SELA", "PONTAS"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706170833"
     },
     {
         "mandatory_terms": ["ELSEVE", "SHAMPOO", "SALVADOR", "400"],
         "optional_terms": ["SONHOS", "LONGO", "LONGOS", "CONTROLA", "OLEOSIDADE", "SELA", "PONTAS"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706170819"
     },
     {
         "mandatory_terms": ["ELSEVE", "CONDICIONADOR", "DESATA", "NOS", "400"],
         "optional_terms": ["SONHOS", "LONGOS", "PONTAS", "CABELOS"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706170871"
     },
     {
         "mandatory_terms": ["ELSEVE", "CREME", "PENTEAR", "ANTI-CORTE"],
         "optional_terms": ["SONHOS", "250", "FRIZZ", "EXTERMINA", "CREME", "PARA", "PENTEAR", "3", "EM", "1"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706170895"
     },
     {
         "mandatory_terms": ["ELSEVE", "LONGO", "CREME", "PENTEAR", "250"],
         "optional_terms": ["SONHOS"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7908785461500"
     },
     {
         "mandatory_terms": ["ELSEVE", "LONGO", "TRATAMENTO", "MILAGROSO", "300"],
         "optional_terms": ["SONHOS"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706170918"
     },
     {
         "mandatory_terms": ["ELSEVE", "REPARACAO", "5", "CONDICIONADOR", "200"],
         "optional_terms": ["TOTAL"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899026420571"
     },
     {
         "mandatory_terms": ["ELSEVE", "REPARAÇAO", "5", "CONDICIONADOR", "200"],
         "optional_terms": ["TOTAL"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899026420571"
     },
     {
         "mandatory_terms": ["ELSEVE", "REPARACAO", "TOTAL", "SHAMPOO", "400"],
         "optional_terms": ["5", "FORMULA"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899026420564"
     },
     {
         "mandatory_terms": ["ELSEVE", "REPARACAO", "5", "CREME", "250"],
         "optional_terms": ["TOTAL"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899026420595"
     },
     {
         "mandatory_terms": ["ELSEVE", "REPARACAO", "TOTAL", "SHAMPOO"],
         "optional_terms": ["REPARADOR", "5", "200", "REPARA", "UNIFORMIZA", "MENOS", "QUEBRA"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899026459960"
     },
     {
         "mandatory_terms": ["ELSEVE", "REPARACAO", "5", "CONDICIONADOR", "400"],
         "optional_terms": ["TOTAL"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899026459908"
     },
     {
         "mandatory_terms": ["ELSEVE", "REPARACAO", "5", "TRATAMENTO", "300"],
         "optional_terms": ["TOTAL"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899026457645"
     },
     {
         "mandatory_terms": ["ELSEVE", "REPARACAO", "5", "CICACTRI", "RENOV"],
         "optional_terms": ["TOTAL"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706149822"
     },
     {
         "mandatory_terms": ["ELSEVE", "REPARACAO", "5", "3", "CREME", "MILAGROSO"],
         "optional_terms": ["TOTAL"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7908615060668"
     },
     {
         "mandatory_terms": ["ELSEVE", "LISO", "SHAMPOO", "SUPER", "200"],
         "optional_terms": ["SONHOS", "ALINHADOR"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7908785461753"
     },
     {
         "mandatory_terms": ["ELSEVE", "LISO", "SONHOS", "CONDICIONADOR", "200"],
         "optional_terms": ["HAIR"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7908785461654"
     },
     {
         "mandatory_terms": ["ELSEVE", "LISO", "SONHOS", "CONDICIONADOR", "400"],
         "optional_terms": ["HAIR"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7908785461609"
     },
     {
         "mandatory_terms": ["ELSEVE", "SUPER", "SHAMPOO", "400"],
         "optional_terms": ["ALINHADOR", "LISO", "SONHOS"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7908785461708"
     },
     {
         "mandatory_terms": ["ELSEVE", "LISO", "SONHOS", "SHAMPOO", "400"],
         "optional_terms": ["ALINHAOOR"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706180948"
     },
     {
         "mandatory_terms": ["ELSEVE", "LISO", "SONHOS", "CONDICIONADOR", "200"],
         "optional_terms": ["FIOS"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706180962"
     },
     {
         "mandatory_terms": ["ELSEVE", "LISO", "SONHOS", "SHAMPOO", "200"],
         "optional_terms": ["ALINHADOR"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706180924"
     },
     {
         "mandatory_terms": ["ELSEVE", "LISO", "SONHOS", "CONDICIONADOR", "400"],
         "optional_terms": ["FIOS"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706180986"
     },
     {
         "mandatory_terms": ["ELSEVE", "LISO", "SONHOS", "TRATAMENTO", "300"],
         "optional_terms": ["14"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7908785461456"
     },
     {
         "mandatory_terms": ["ELSEVE", "LISO", "SONHOS", "SHAMPOO", "200"],
         "optional_terms": ["LOREAL"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7908785461777"
     },
     {
         "mandatory_terms": ["ELSEVE", "OLEO", "EXTRAORDINARIO", "TRATAMENTO", "SUBLIME"],
         "optional_terms": ["100"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899026478909"
     },
     {
         "mandatory_terms": ["ELSEVE", "OLEO", "EXTRAORDINARIO", "CONDICIONADOR", "200"],
         "optional_terms": ["NUTRICAO"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7898587774352"
     },
     {
         "mandatory_terms": ["ELSEVE", "OLEO", "EXTRAORDINARIO", "CONDICIONADOR", "400"],
         "optional_terms": ["NUTRICAO"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7898587774376"
     },
     {
         "mandatory_terms": ["ELSEVE", "OLEO", "EXTRAORDINARIO", "SHAMPOO", "200"],
         "optional_terms": ["NUTRICAO"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7898587774314"
     },
     {
         "mandatory_terms": ["ELSEVE", "OLEO", "EXTRAORDINARIO", "SHAMPOO"],
         "optional_terms": ["NUTRICAO", "400"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7898587774338"
     },
     {
         "mandatory_terms": ["ELSEVE", "OLEO", "EXTRAORDINARIO", "CREME", "PENTEAR"],
         "optional_terms": ["PENTEAR", "NUTRITIVO", "24H", "250"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706111621"
     },
     {
         "mandatory_terms": ["ELSEVE", "OLEO", "EXTRAORDINARIO", "3", "CREME"],
         "optional_terms": ["EM", "1", "MILAGROSO"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7908615060644"
     },
     {
         "mandatory_terms": ["ELSEVE", "OLEO", "EXTRAORDINARIO", "TRATAMENTO", "300"],
         "optional_terms": ["NUTRITIVO", "SECOS"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7898587774475"
     },
     {
         "mandatory_terms": ["ELSEVE", "COLOR", "CONDICIONADOR", "200"],
         "optional_terms": ["PROTETOR", "DA", "VIVE", "COR"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7896014123902"
     },
     {
         "mandatory_terms": ["ELSEVE", "COLOR", "SHAMPOO", "200"],
         "optional_terms": ["PROTETOR", "DA", "VIVE", "COR"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899026459748"
     },
     {
         "mandatory_terms": ["ELSEVE", "LISO", "SUPER", "ALINHADOR", "SHAMPOO", "400"],
         "optional_terms": ["PROTETOR", "DA", "VIVE", "COR"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899026417885"
     },
     {
         "mandatory_terms": ["ELSEVE", "COLOR", "CONDICIONADOR", "400"],
         "optional_terms": ["PROTETOR", "DA", "VIVE", "COR"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899026459649"
     },
     {
         "mandatory_terms": ["ELSEVE", "DETOX", "ANTICASPA", "CONDICIONADOR", "200"],
         "optional_terms": ["HIDRATANTE", "PONTAS", "SECAS"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706139038"
     },
     {
         "mandatory_terms": ["ELSEVE", "HYDRA", "DETOX", "CONDICIONADOR", "200"],
         "optional_terms": ["HIDRATANTE"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706133418"
     },
     {
         "mandatory_terms": ["ELSEVE", "DETOX", "ANTICASPA", "SHAMPOO", "400"],
         "optional_terms": ["HYDRA", "REEQUILIBRANTE"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706134170"
     },
     {
         "mandatory_terms": ["ELSEVE", "HYDRA", "DETOX", "CONDICIONADOR"],
         "optional_terms": ["HIDRATANTE", "200", "48H", "ALGA"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899706133418"
     },
     {
         "mandatory_terms": ["ELSEVE", "QUERA-LISO", "CONDICIONADOR", "REVIGORANTE", "200"],
         "optional_terms": ["LOREAL"],
         "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
+        "ean_brand":"7600000000002",
         "ean": "7899026487208"
     },
     {
@@ -2158,8 +1946,8 @@
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "DOVE", "RECONSTRUCAO", "QUERATINA"],
         "optional_terms": ["KIT"],
-        "brand": "PRECO",
-        "ean_brand": "0",
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150093263"
     },
     {
@@ -2382,8 +2170,8 @@
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "DOVE", "NUTRICAO"],
         "optional_terms": ["FUSAO", "NUTRE"],
-        "brand": "PRECO",
-        "ean_brand": "0",
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150093256"
     },
     {
@@ -2396,8 +2184,8 @@
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "DOVE", "BOND", "REPAIR"],
         "optional_terms": ["INTENSE"],
-        "brand": "PRECO",
-        "ean_brand": "0",
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150097643"
     },
     {
@@ -2410,8 +2198,8 @@
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "DOVE", "RITUAL", "REPARACAO"],
         "optional_terms": ["SECRETS"],
-        "brand": "PRECO",
-        "ean_brand": "0",
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150095250"
     },
     {
@@ -2445,8 +2233,8 @@
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "DOVE", "HIDRATACAO", "POTENTE"],
         "optional_terms": ["VITAMINAS"],
-        "brand": "PRECO",
-        "ean_brand": "0",
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150095533"
     },
     {
@@ -2508,8 +2296,8 @@
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "DOVE", "REAIS", "CACHEADOS"],
         "optional_terms": ["TEXTURAS"],
-        "brand": "PRECO",
-        "ean_brand": "0",
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150090088"
     },
     {
@@ -2607,1386 +2395,1188 @@
         "mandatory_terms": ["SEDA", "CERAMIDAS", "SHAMPOO", "325"],
         "optional_terms": ["COCRIACOES"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150037397"
     },
     {
         "mandatory_terms": ["SEDA", "CACHOS", "DEFINIDOS", "SHAMPOO", "325"],
         "optional_terms": ["COCRIACOES", "JUNTAS"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150037595"
     },
     {
         "mandatory_terms": ["SEDA", "6", "GLYCOL", "VITA", "MASCARA"],
         "optional_terms": ["C", "LUMINOUS", "UV"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150099883"
     },
     {
         "mandatory_terms": ["SEDA", "LISO", "PERFEITO", "SHAMPOO", "325"],
         "optional_terms": ["COCRIACOES", "JUNTAS"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150037519"
     },
     {
         "mandatory_terms": ["SEDA", "ANTI", "CASPA", "SHAMPOO", "325"],
         "optional_terms": ["COCRIACOES", "JUNTAS"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150037458"
     },
     {
         "mandatory_terms": ["SEDA", "6", "GLYCOL", "VITA", "300"],
         "optional_terms": ["C", "LUMINOUS", "UV"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150099852"
     },
     {
         "mandatory_terms": ["SEDA", "2", "GLYCOL", "VITA", "300"],
         "optional_terms": ["C", "LUMINOUS", "UV"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150099845"
     },
     {
         "mandatory_terms": ["SEDA", "CERAMIDAS", "CREME", "PENTEAR", "300"],
         "optional_terms": ["BRILHO", "CABELOS"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891037144705"
     },
     {
         "mandatory_terms": ["SEDA", "PRETOS", "LUMINOSOS", "SHAMPOO", "325"],
         "optional_terms": ["COCRIACOES", "INFUSAO"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150037526"
     },
     {
         "mandatory_terms": ["SEDA", "CERAMIDAS", "TRATAMENTO", "CONDICIONADOR", "325"],
         "optional_terms": ["COCRIACOES"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150037250"
     },
     {
         "mandatory_terms": ["SEDA", "4", "GLYCOL", "VITA", "300"],
         "optional_terms": ["LUMINOUS", "UV", "CONDICIONADOR"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150099838"
     },
     {
         "mandatory_terms": ["SEDA", "LISO", "CREME", "300"],
         "optional_terms": ["PERFEITO", "PENTEAR"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891037010048"
     },
     {
         "mandatory_terms": ["SEDA", "LISO", "PERFEITO", "TRATAMENTO", "325"],
         "optional_terms": ["CONDICIONADOR"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150037328"
     },
     {
         "mandatory_terms": ["SEDA", "JOIAS", "GENGIBRE", "SHAMPOO", "325"],
         "optional_terms": ["HIDRATACAO", "ANTI-NOS"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150037601"
     },
     {
         "mandatory_terms": ["SEDA", "BOOM", "HIDRATACAO", "SHAMPOO", "250"],
         "optional_terms": ["DURADOURA", "HIGIENIZADOR"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150096288"
     },
     {
         "mandatory_terms": ["SEDA", "CACHOS", "DEFINIDOS", "TRATAMENTO", "325"],
         "optional_terms": ["CONDICIONADOR"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150037465"
     },
     {
         "mandatory_terms": ["SEDA", "PREBIOTICOS", "BIOTINA", "CRESCIMENTO", "SHAMPOO", "325"],
         "optional_terms": ["FORCA"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150091467"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "SEDA", "CACHOS", "DEFINIDOS"],
         "optional_terms": ["NOVO"],
-        "brand": "PRECO",
-        "ean_brand": "0",
+        "brand": "SEDA",
         "ean": "7891150097353"
     },
     {
         "mandatory_terms": ["SEDA", "COLAGENO", "VITAMINA", "SHAMPOO", "325"],
         "optional_terms": ["C", "NIINA", "SECRETS"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150080089"
     },
     {
         "mandatory_terms": ["SEDA", "LISO", "EXTREMO", "SHAMPOO", "325"],
         "optional_terms": ["INFUSAO"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150037502"
     },
     {
         "mandatory_terms": ["SEDA", "BABOSA", "OLEOS", "SHAMPOO", "325"],
         "optional_terms": ["RAYZA"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150060685"
     },
     {
         "mandatory_terms": ["SEDA", "PRETOS", "LUMINOSOS", "CONDICIONADOR", "325"],
         "optional_terms": ["COCRIACOES"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150037342"
     },
     {
         "mandatory_terms": ["SEDA", "JOIAS", "CITRICOS", "PURIFICACAO", "SHAMPOO", "325"],
         "optional_terms": ["PURIFICACAO", "DETOX"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150037564"
     },
     {
         "mandatory_terms": ["SEDA", "BOOM", "HIDRATACAO", "DURADOURA", "CONDICIONADOR", "250"],
         "optional_terms": ["HIDRATANTE"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150096257"
     },
     {
         "mandatory_terms": ["SEDA", "CACHOS", "CREME", "PENTEAR", "300"],
         "optional_terms": ["DEFINIDOS", "CONTROLA", "FRIZZ"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891037000322"
     },
     {
         "mandatory_terms": ["SEDA", "BABOSA", "OLEOS", "300"],
         "optional_terms": ["RAYZA", "CREME", "PARA", "PENTEAR"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150060883"
     },
     {
         "mandatory_terms": ["SEDA", "BOOM", "DEFINICAO", "INTENSA", "350"],
         "optional_terms": ["LIBERADO"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150096387"
     },
     {
         "mandatory_terms": ["SEDA", "BOOM", "HIDRATACAO", "DURADOURA", "500"],
         "optional_terms": ["TRATAMENTO", "INTENSIVO"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150088573"
     },
     {
         "mandatory_terms": ["SEDA", "COLAGENO", "VITAMINA", "CONDICIONADOR", "325"],
         "optional_terms": ["C"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150080096"
     },
     {
         "mandatory_terms": ["SEDA", "PREBIOTICOS", "BIOTINA"],
         "optional_terms": ["FORCA", "CRESCIMENTO", "MASCARA"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150091474"
     },
     {
         "mandatory_terms": ["SEDA", "OLEO", "HIDRATACAO", "SHAMPOO", "325"],
         "optional_terms": ["INFUSAO", "ATIVA"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150037540"
     },
     {
         "mandatory_terms": ["SEDA", "BOOM", "NUTRICAO", "INTENSA", "CONDICIONADOR", "250"],
         "optional_terms": ["OLEO-NUTRITIVO"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150096271"
     },
     {
         "mandatory_terms": ["SEDA", "GLYCOL", "VITA"],
         "optional_terms": ["6", "C", "110"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150099821"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "SEDA", "CERAMIDAS"],
         "optional_terms": ["COLAGENO"],
-        "brand": "PRECO",
-        "ean_brand": "0",
+        "brand": "SEDA",
         "ean": "7891150097377"
     },
     {
         "mandatory_terms": ["SEDA", "BABOSA", "OLEOS", "CONDICIONADOR", "325"],
         "optional_terms": ["RAYZA"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150060722"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "SEDA", "LISO", "PERFEITO"],
         "optional_terms": ["FORTE"],
-        "brand": "PRECO",
-        "ean_brand": "0",
+        "brand": "SEDA",
         "ean": "7891150097384"
     },
     {
         "mandatory_terms": ["SEDA", "PRETOS", "LUMINOSOS", "CREME", "300"],
         "optional_terms": ["COCRIACOES", "PARA", "PENTEAR"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7898422745301"
     },
     {
         "mandatory_terms": ["SEDA", "RECARGA", "NATURAL", "COCO", "CONDICIONADOR", "325"],
         "optional_terms": ["BOMBA"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150067516"
     },
     {
         "mandatory_terms": ["SEDA", "ARGAN", "TRATAMENTO", "CONDICIONADOR", "325"],
         "optional_terms": ["COCRIACOES"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150056589"
     },
     {
         "mandatory_terms": ["SEDA", "LISO", "EXTREMO", "CONDICIONADOR", "325"],
         "optional_terms": ["COCRIACOES"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150037632"
     },
     {
         "mandatory_terms": ["SEDA", "ANTINOS", "HIDRATACAO", "CONDICIONADOR", "325"],
         "optional_terms": ["NATURAL"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150037489"
     },
     {
         "mandatory_terms": ["SEDA", "MICELAR", "HIALURONICO", "CONDICIONADOR", "325"],
         "optional_terms": ["NOVA"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150063457"
     },
     {
         "mandatory_terms": ["SEDA", "HIDRATACAO", "PRO", "SHAMPOO", "300"],
         "optional_terms": ["BOOM"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150088467"
     },
     {
         "mandatory_terms": ["SEDA", "2", "AMINO-SILK", "SHAMPOO", "300"],
         "optional_terms": ["TOQUE"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150101616"
     },
     {
         "mandatory_terms": ["SEDA", "PRO", "CURVATURA", "CREME", "350"],
         "optional_terms": ["BOOM"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150088375"
     },
     {
         "mandatory_terms": ["SEDA", "RECARGA", "COCO", "SHAMPOO", "325"],
         "optional_terms": ["NATURAL"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150067509"
     },
     {
         "mandatory_terms": ["SEDA", "RESTAURACAO", "CONDICIONADOR", "325", "INSTANTANEA"],
         "optional_terms": ["TRATAMENTO"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150037427"
     },
     {
         "mandatory_terms": ["SEDA", "COLAGENO", "VITAMINA", "C", "MASCARA", "300"],
         "optional_terms": ["+"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150080119"
     },
     {
         "mandatory_terms": ["SEDA", "PREBIOTICOS", "BIOTINA", "CONDICIONADOR", "325"],
         "optional_terms": ["CRESCIMENTO"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150091429"
     },
     {
         "mandatory_terms": ["SEDA", "DEFINICAO", "FLEXIVEL", "CREME", "350"],
         "optional_terms": ["BOOM"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150095915"
     },
     {
         "mandatory_terms": ["SEDA", "NUTRICAO", "INTENSA", "SHAMPOO", "250"],
         "optional_terms": ["BOOM"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150096318"
     },
     {
         "mandatory_terms": ["SEDA", "AMINO-SILK", "CONDICIONADOR", "250"],
         "optional_terms": ["4"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150101586"
     },
     {
         "mandatory_terms": ["TAMANHO", "ESPECIAL", "SEDA", "GLYCOL", "425"],
         "optional_terms": ["VITA"],
-        "brand": "TAMANHO",
-        "ean_brand": "0",
+        "brand": "SEDA",
         "ean": "7891150099869"
     },
     {
         "mandatory_terms": ["CONDICIONADOR", "SEDA", "LISO", "PERFEITO", "425"],
         "optional_terms": ["SEDA"],
-        "brand": "CONDICIONADOR",
-        "ean_brand": "0",
+        "brand": "SEDA",
         "ean": "7891150065635"
     },
     {
         "mandatory_terms": ["SHAMPOO", "670", "SEDA", "CERAMIDAS", "SHAMPOO"],
         "optional_terms": ["TAMANHO"],
-        "brand": "SHAMPOO",
-        "ean_brand": "0",
+        "brand": "SEDA",
         "ean": "7891150078253"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "SEDA", "GLYCOL", "VITA", "C"],
         "optional_terms": ["+"],
-        "brand": "PRECO",
-        "ean_brand": "0",
+        "brand": "SEDA",
         "ean": "7891150099982"
     },
     {
         "mandatory_terms": ["SEDA", "RECARGA", "BIOTINA", "SHAMPOO", "325"],
         "optional_terms": ["NATURAL"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150070301"
     },
     {
         "mandatory_terms": ["SEDA", "RESTAURACAO", "INSTANTANEA", "SHAMPOO", "325"],
         "optional_terms": ["INFUSAO"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150037571"
     },
     {
         "mandatory_terms": ["SEDA", "BOOM", "DEFINICAO", "HIDRATACAO", "CREME"],
         "optional_terms": ["PENTEAR"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150091788"
     },
     {
         "mandatory_terms": ["SEDA", "COCRIACOES", "ARGAN", "SHAMPOO", "325"],
         "optional_terms": ["BOMBA"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150056572"
     },
     {
         "mandatory_terms": ["SEDA", "CACHOS", "DEFINIDOS", "CONDICIONADOR", "425"],
         "optional_terms": ["TAMANHO"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150065659"
     },
     {
         "mandatory_terms": ["SEDA", "PREBIOTICOS", "BIOTINA", "CREME", "300"],
         "optional_terms": ["CRESCIMENTO"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150091436"
     },
     {
         "mandatory_terms": ["SEDA", "5", "AMINO", "SILK", "CREME", "300"],
         "optional_terms": ["AMINO-SILK"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150101593"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "SEDA", "CERAMIDAS"],
         "optional_terms": ["CONJUNTO"],
-        "brand": "PRECO",
-        "ean_brand": "0",
+        "brand": "SEDA",
         "ean": "7891150043084"
     },
     {
         "mandatory_terms": ["SEDA", "BOOM", "NUTRICAO", "INTENSA", "500"],
         "optional_terms": ["TRATAMENTO"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150095939"
     },
     {
         "mandatory_terms": ["SEDA", "MICELAR", "HIALURONICO", "SHAMPOO", "325"],
         "optional_terms": ["+"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150063440"
     },
     {
         "mandatory_terms": ["SEDA", "RECARGA", "BIOTINA", "CONDICIONADOR", "325"],
         "optional_terms": ["NATURAL"],
         "brand": "SEDA",
-        "ean_brand": "7900000000009",
         "ean": "7891150070295"
     },
     {
         "mandatory_terms": ["TAMANHO", "SEDA", "CERAMIDAS", "SHAMPOO", "425"],
         "optional_terms": ["ECONOMICO"],
-        "brand": "TAMANHO",
-        "ean_brand": "0",
+        "brand": "SEDA",
         "ean": "7891150065550"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "NEUTRO", "LIMPEZA", "BALANCEADA", "SHAMPOO"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7891024172230"
     },
     {
         "mandatory_terms": ["PALMOLIVE", ", NUTRICAO", "EXTRAORDINARIA", "SHAMPOO"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7891024171639"
     },
     {
         "mandatory_terms": ["PALMOLIVE", ", ANTICASPA", "ANTIQUEDA", "SHAMPOO"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7891024160718"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "CERAMIDAS", "FORCE", "SHAMPOO"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7891024174210"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "DETOX", "ENERGIZANTE", "SHAMPOO"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7891024042908"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "CUIDADO", ", ANTICASPA", "SHAMPOO"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7891024171233"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "LISOS", "RADIANTES", "SHAMPOO"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7891024161913"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "PRETOS", "VIBRANTES", "SHAMPOO"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7891024158609"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "CERAMIDAS", "FORCE", "CONDICIONADOR"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7891024174715"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "ANTICOCEIRA", "SHAMPOO"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7509546686202"
     },
     {
         "mandatory_terms": ["PALMOLIVE", ", NUTRICAO", "EXTRAORDINARIA", "CONDICIONADOR"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7891024172339"
     },
     {
         "mandatory_terms": ["PALMOLIVE", ", NEUTRO", "LIMPEZA", "BALANCEADA", "CONDICIONADOR"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7891024172537"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "PRETOS", "VIBRANTES", "CONDICIONADOR"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7891024158708"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "BOOM", "HIDRATACAO", "SHAMPOO"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7891024034064"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "LISOS", "RADIANTES", "CONDICIONADOR"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7891024170335"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "DETOX", "ENERGIZANTE", "CONDICIONADOR"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7891024042915"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "FORTALECE", "PROTEGE", "SHAMPOO"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7509546689913"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "BOOM", "HIDRATACAO", "CONDICIONADOR"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7891024034156"
     },
     {
         "mandatory_terms": ["PALMOLIVE", ", NEUTRO", "LIMPEZA", "BALANCEADA", "SHAMPOO", "650"],
         "optional_terms": [],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7509546673851"
     },
     {
         "mandatory_terms": ["PALMOLIVE", ", NUTRICAO", "EXTRAORDINARIA", "SHAMPOO", "650"],
         "optional_terms": [],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7509546674940"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "NUTRE", "HIDRATA", "CONDICIONADOR"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7509546689890"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "CERAMIDAS", "FORCE", "SHAMPOO", "650"],
         "optional_terms": [],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7509546674957"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "HYDRATE", "SHAMPOO"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7509546681153"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "HYDRATE", "SHAMPOO", "650"],
         "optional_terms": [],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7509546683041"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "CUIDADO", "ANTICASPA", "650"],
         "optional_terms": [],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7509546687544"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "FRIZZ", "RESIST", "SHAMPOO"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7891024174036"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "FORCE", "SHAMPOO"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7509546681139"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "NUTRE", "HIDRATA", "CONDICIONADOR"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7509546689937"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "NUTRE", "HIDRATA", "SHAMPOO"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7509546689944"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "HYDRATE", "CONDICIONADOR"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7509546681146"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "CACHOS", "LIVRES", "CONDICIONADOR"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7891024042328"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "FORCE", "CONDICIONADOR"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7509546681054"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "CACHOS", "LIVRES", "SHAMPOO"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7891024042311"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "HIDRATACAO", "BRILHOS", "RADIANTES", "CONDICIONADOR"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7891024160923"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "FORCA", "ANTI-DANO", "CONDICIONADOR"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7891024171295"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "SEMPRE", "LONGO", "SHAMPOO"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7509546659435"
     },
     {
         "mandatory_terms": ["PALMOLIVE", "SEMPRE", "LONGO", "CONDICIONADOR"],
         "optional_terms": ["350"],
         "brand": "PALMOLIVE",
-        "ean_brand": "7100000000001",
         "ean": "7509546659442"
     },
     {
         "mandatory_terms": ["SHAMPOO", "DARLING", "CERAMIDAS"],
         "optional_terms": ["FORCA", "BRILHO"],
-        "brand": "SHAMPOO",
-        "ean_brand": "0",
+        "brand": "DARLING",
         "ean": "7891024181072"
     },
     {
         "mandatory_terms": ["SHAMPOO", "CONDICIONADOR", "DARLING", "2", "1"],
         "optional_terms": ["PROTECAO", "MACIEZ"],
-        "brand": "SHAMPOO",
-        "ean_brand": "0",
+        "brand": "DARLING",
         "ean": "7891024182475"
     },
     {
         "mandatory_terms": ["SHAMPOO", "DARLING", "TILIA"],
         "optional_terms": ["REPARA", "HIDRATA"],
-        "brand": "SHAMPOO",
-        "ean_brand": "0",
+        "brand": "DARLING",
         "ean": "7891024180877"
     },
     {
         "mandatory_terms": ["CONDICIONADOR", "DARLING", "CERAMIDAS"],
         "optional_terms": ["FORCA", "BRILHO"],
-        "brand": "CONDICIONADOR",
-        "ean_brand": "0",
+        "brand": "DARLING",
         "ean": "7891024184271"
     },
     {
         "mandatory_terms": ["CONDICIONADOR", "DARLING", "TILIA"],
         "optional_terms": ["REPARA", "HIDRATA"],
-        "brand": "CONDICIONADOR",
-        "ean_brand": "0",
+        "brand": "DARLING",
         "ean": "7891024182970"
     },
     {
         "mandatory_terms": ["SHAMPOO", "DARLING", "DETOX"],
         "optional_terms": ["BRILHO", "LEVEZA"],
-        "brand": "SHAMPOO",
-        "ean_brand": "0",
+        "brand": "DARLING",
         "ean": "7509546682600"
     },
     {
         "mandatory_terms": ["CONDICIONADOR", "DARLING", "DETOX"],
         "optional_terms": ["BRILHO", "LEVEZA"],
-        "brand": "CONDICIONADOR",
-        "ean_brand": "0",
+        "brand": "DARLING",
         "ean": "7509546682617"
     },
     {
         "mandatory_terms": ["FAMILIA", "DARLING", "2", "1"],
         "optional_terms": ["PROTECAO", "MACIEZ", "650"],
-        "brand": "FAMILIA",
-        "ean_brand": "0",
+        "brand": "DARLING",
         "ean": "7509546673844"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "DARLING", "TILIA"],
         "optional_terms": ["REPARA", "HIDRATA"],
-        "brand": "PRECO",
-        "ean_brand": "0",
+        "brand": "DARLING",
         "ean": "7509546696393"
     },
     {
         "mandatory_terms": ["FAMILIA", "SHAMPOO", "DARLING", "CERAMIDAS"],
         "optional_terms": ["FORCA", "BRILHO", "650"],
-        "brand": "FAMILIA",
-        "ean_brand": "0",
+        "brand": "DARLING",
         "ean": "7509546696300"
     },
     {
         "mandatory_terms": ["KIT", "PROMOCIONAL", "PANTENE", "ANTIQUEDA", "BIOTINAMINA", "300"],
         "optional_terms": ["ANTIQUEDA", "NUTRICAO", "B3"],
-        "brand": "KIT",
-        "ean_brand": "0",
+        "brand": "PANTENE",
         "ean": "7500435253598"
     },
     {
         "mandatory_terms": ["KIT", "PANTENE", "QUERATINA", "MIRACLES"],
         "optional_terms": ["PREENCHE", "BLINDA", "PRO-V", "PROMOCIONAL"],
-        "brand": "KIT",
-        "ean_brand": "0",
+        "brand": "PANTENE",
         "ean": "7500435233644"
     },
     {
         "mandatory_terms": ["KIT", "PANTENE", "COLAGENO", "MIRACLES"],
         "optional_terms": ["HIRATA", "RESGATA", "PROMOCIONAL", "PRO-V"],
-        "brand": "KIT",
-        "ean_brand": "0",
+        "brand": "PANTENE",
         "ean": "7500435200301"
     },
     {
         "mandatory_terms": ["KIT", "PANTENE", "EQUILIBRIO", "MIRACLES"],
         "optional_terms": ["RAIZ", "PONTAS", "PRO-V", "PROMOCIONAL"],
-        "brand": "KIT",
-        "ean_brand": "0",
+        "brand": "PANTENE",
         "ean": "7500435215565"
     },
     {
         "mandatory_terms": ["KIT", "PANTENE", "BRILHO", "400"],
         "optional_terms": ["DESCONTO", "CABELO", "LONGO", "FORTE"],
-        "brand": "KIT",
-        "ean_brand": "0",
+        "brand": "PANTENE",
         "ean": "7500435199780"
     },
     {
         "mandatory_terms": ["KIT", "PANTENE", "BAMBU", "400"],
         "optional_terms": ["DESCONTO", "CABELO", "LONGO", "FORTE"],
-        "brand": "KIT",
-        "ean_brand": "0",
+        "brand": "PANTENE",
         "ean": "7500435188227"
     },
     {
         "mandatory_terms": ["KIT", "PANTENE", "HIRO", "CAUTERIZACAO", "350"],
         "optional_terms": ["DESCONTO", "CABELO", "LONGO", "FORTE"],
-        "brand": "KIT",
-        "ean_brand": "0",
+        "brand": "PANTENE",
         "ean": "7500435169387"
     },
     {
         "mandatory_terms": ["KIT", "PANTENE", "HIDRO", "CAUTERIZACAO", "175"],
         "optional_terms": ["DESCONTO", "CABELO", "LONGO", "FORTE"],
-        "brand": "KIT",
-        "ean_brand": "0",
+        "brand": "PANTENE",
         "ean": "7500435128384"
     },
     {
         "mandatory_terms": ["KIT", "PANTENE", "LISO", "350"],
         "optional_terms": ["DESCONTO", "CABELO", "LONGO", "FORTE"],
-        "brand": "KIT",
-        "ean_brand": "0",
+        "brand": "PANTENE",
         "ean": "7500435169363"
     },
     {
         "mandatory_terms": ["KIT", "PANTENE", "HIDRATACAO", "350"],
         "optional_terms": ["DESCONTO", "CABELO", "LONGO", "FORTE"],
-        "brand": "KIT",
-        "ean_brand": "0",
+        "brand": "PANTENE",
         "ean": "7500435169370"
     },
     {
         "mandatory_terms": ["KIT", "PANTENE", "CACHOS", "175"],
         "optional_terms": ["DESCONTO", "CABELO", "LONGO", "FORTE"],
-        "brand": "KIT",
-        "ean_brand": "0",
+        "brand": "PANTENE",
         "ean": "7500435128391"
     },
     {
         "mandatory_terms": ["KIT", "PANTENE", "HIDRATACAO", "175"],
         "optional_terms": ["DESCONTO", "CABELO", "LONGO", "FORTE"],
-        "brand": "KIT",
-        "ean_brand": "0",
+        "brand": "PANTENE",
         "ean": "7500435128360"
     },
     {
         "mandatory_terms": ["KIT", "PANTENE", "LISO", "175"],
         "optional_terms": ["DESCONTO", "CABELO", "LONGO", "FORTE"],
-        "brand": "KIT",
-        "ean_brand": "0",
+        "brand": "PANTENE",
         "ean": "7500435128353"
     },
     {
         "mandatory_terms": ["KIT", "PANTENE", "RESTAURACAO", "175"],
         "optional_terms": ["DESCONTO", "CABELO", "LONGO", "FORTE"],
-        "brand": "KIT",
-        "ean_brand": "0",
+        "brand": "PANTENE",
         "ean": "7500435128346"
     },
     {
         "mandatory_terms": ["PANTENE", "BIOTINAMINA", "SHAMPOO", "510"],
         "optional_terms": ["PRO-V", "MIRACLES", "B3", "ANTIQUEDA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435248068"
     },
     {
         "mandatory_terms": ["PANTENE", "BIOTINAMINA", "SHAMPOO", "300"],
         "optional_terms": ["PRO-V", "MIRACLES", "B3", "ANTIQUEDA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435248143"
     },
     {
         "mandatory_terms": ["PANTENE", "BIOTINAMINA", "SHAMPOO", "175"],
         "optional_terms": ["PRO-V", "MIRACLES", "B3", "ANTIQUEDA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435248136"
     },
     {
         "mandatory_terms": ["PANTENE", "BIOTINAMINA", "CONDICIONADOR", "510"],
         "optional_terms": ["PRO-V", "MIRACLES", "B3", "ANTIQUEDA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435248051"
     },
     {
         "mandatory_terms": ["PANTENE", "BIOTINAMINA", "CONDICIONADOR", "250"],
         "optional_terms": ["PRO-V", "MIRACLES", "B3", "ANTIQUEDA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435248167"
     },
     {
         "mandatory_terms": ["PANTENE", "BIOTINAMINA", "CONDICIONADOR", "150"],
         "optional_terms": ["PRO-V", "MIRACLES", "B3", "ANTIQUEDA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435248174"
     },
     {
         "mandatory_terms": ["PANTENE", "BIOTINAMINA", "CREME", "DE", "PENTEAR", "240"],
         "optional_terms": ["PRO-V", "MIRACLES", "B3", "ANTIQUEBRA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435248181"
     },
     {
         "mandatory_terms": ["PANTENE", "BIOTINAMINA", "ANTIQUEDA", "TONICO", "CAPILAR"],
         "optional_terms": ["B3", "52"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435247917"
     },
     {
         "mandatory_terms": ["PANTENE", "RESTAURACAO", "SHAMPOO", "400"],
         "optional_terms": ["PRO-V"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7501006721133"
     },
     {
         "mandatory_terms": ["PANTENE", "RESTAURACAO", "SHAMPOO", "175"],
         "optional_terms": ["PRO-V"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435125468"
     },
     {
         "mandatory_terms": ["PANTENE", "RESTAURACAO", "CONDICIONADOR", "400"],
         "optional_terms": ["PRO-V"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7501006721317"
     },
     {
         "mandatory_terms": ["PANTENE", "RESTAURACAO", "CONDICIONADOR", "175"],
         "optional_terms": ["PRO-V"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435125451"
     },
     {
         "mandatory_terms": ["PANTENE", "RESTAURACAO", "MASCARA", "INTENSIVA", "270"],
         "optional_terms": ["PRO-V"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435142243"
     },
     {
         "mandatory_terms": ["PANTENE", "3", "MINUTOS", "MILAGROSOS", "RESTAURACAO", "170"],
         "optional_terms": ["PRO-V", "CONDICIONADOR", "FORTALECEDOR", "DIARIO"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435106382"
     },
     {
         "mandatory_terms": ["PANTENE", "QUERATINA", "SHAMPOO", "510"],
         "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "BLINDA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435232838"
     },
     {
         "mandatory_terms": ["PANTENE", "QUERATINA", "SHAMPOO", "300"],
         "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "BLINDA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435232814"
     },
     {
         "mandatory_terms": ["PANTENE", "QUERATINA", "SHAMPOO", "175"],
         "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "BLINDA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435232777"
     },
     {
         "mandatory_terms": ["PANTENE", "QUERATINA", "SHAMPOO", "1"],
         "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "BLINDA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435243124"
     },
     {
         "mandatory_terms": ["PANTENE", "QUERATINA", "CONDICIONADOR", "510"],
         "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "BLINDA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435232821"
     },
     {
         "mandatory_terms": ["PANTENE", "QUERATINA", "CONDICIONADOR", "250"],
         "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "BLINDA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435232807"
     },
     {
         "mandatory_terms": ["PANTENE", "QUERATINA", "CONDICIONADOR", "150"],
         "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "BLINDA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435232784"
     },
     {
         "mandatory_terms": ["PANTENE", "QUERATINA", "CONDICIONADOR", "1"],
         "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "BLINDA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435243513"
     },
     {
         "mandatory_terms": ["PANTENE", "QUERATINA", "SPRAY", "160"],
         "optional_terms": ["PRO-V", "MIRACLES", "MULTIBENEFICIOS"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435240529"
     },
     {
         "mandatory_terms": ["PANTENE", "HIDRATACAO", "SHAMPOO", "400"],
         "optional_terms": ["PRO-V"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7501007413921"
     },
     {
         "mandatory_terms": ["PANTENE", "HIDRATACAO", "SHAMPOO", "175"],
         "optional_terms": ["PRO-V"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435125383"
     },
     {
         "mandatory_terms": ["PANTENE", "HIDRATACAO", "CONDICIONADOR", "400"],
         "optional_terms": ["PRO-V"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7501007413105"
     },
     {
         "mandatory_terms": ["PANTENE", "HIDRATACAO", "CONDICIONADOR", "175"],
         "optional_terms": ["PRO-V"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435125376"
     },
     {
         "mandatory_terms": ["PANTENE", "HIDRATACAO", "MASCARA", "INTENSIVA", "270"],
         "optional_terms": ["PRO-V"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435142229"
     },
     {
         "mandatory_terms": ["PANTENE", "3", "MINUTOS", "MILAGROSOS", "HIDRATACAO", "170"],
         "optional_terms": ["PRO-V"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435116305"
     },
     {
         "mandatory_terms": ["PANTENE", "LISO", "EXTREMO", "SHAMPOO", "400"],
         "optional_terms": ["PRO-V"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7501001165246"
     },
     {
         "mandatory_terms": ["PANTENE", "LISO", "EXTREMO", "SHAMPOO", "175"],
         "optional_terms": ["PRO-V"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435125420"
     },
     {
         "mandatory_terms": ["PANTENE", "LISO", "EXTREMO", "CONDICIONADOR", "400"],
         "optional_terms": ["PRO-V"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7501001165253"
     },
     {
         "mandatory_terms": ["PANTENE", "LISO", "EXTREMO", "CONDICIONADOR", "175"],
         "optional_terms": ["PRO-V"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435125413"
     },
     {
         "mandatory_terms": ["PANTENE", "LISO", "CREME", "PARA", "PENTEAR", "240"],
         "optional_terms": ["PRO-V"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7506195167281"
     },
     {
         "mandatory_terms": ["PANTENE", "BAMBU", "SHAMPOO", "400"],
         "optional_terms": ["PRO-V", "NUTRE", "CRESCE"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435154239"
     },
     {
         "mandatory_terms": ["PANTENE", "BAMBU", "SHAMPOO", "200"],
         "optional_terms": ["PRO-V", "NUTRE", "CRESCE"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435154222"
     },
     {
         "mandatory_terms": ["PANTENE", "BAMBU", "CONDICIONADOR", "150"],
         "optional_terms": ["PRO-V", "NUTRE", "CRESCE"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435154260"
     },
     {
         "mandatory_terms": ["PANTENE", "BAMBU", "CONDICIONADOR", "250"],
         "optional_terms": ["PRO-V", "NUTRE", "CRESCE"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435154277"
     },
     {
         "mandatory_terms": ["PANTENE", "BAMBU", "MASCARA", "NUTRITIVA", "600"],
         "optional_terms": ["PRO-V", "NUTRE", "CRESCE"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435154291"
     },
     {
         "mandatory_terms": ["PANTENE", "BAMBU", "CREME", "PARA", "PENTEAR", "240"],
         "optional_terms": ["PRO-V"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435154307"
     },
     {
         "mandatory_terms": ["PANTENE", "COLAGENO", "SHAMPOO", "510"],
         "optional_terms": ["PRO-V", "MIRACLES", "HIDRATA", "RESGATA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435151498"
     },
     {
         "mandatory_terms": ["PANTENE", "COLAGENO", "SHAMPOO", "300"],
         "optional_terms": ["PRO-V", "MIRACLES", "HIDRATA", "RESGATA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435196987"
     },
     {
         "mandatory_terms": ["PANTENE", "COLAGENO", "SHAMPOO", "175"],
         "optional_terms": ["PRO-V", "MIRACLES", "HIDRATA", "RESGATA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435196970"
     },
     {
         "mandatory_terms": ["PANTENE", "COLAGENO", "SHAMPOO", "1"],
         "optional_terms": ["PRO-V", "MIRACLES", "HIDRATA", "RESGATA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435243117"
     },
     {
         "mandatory_terms": ["PANTENE", "COLAGENO", "CONDICIONADOR", "510"],
         "optional_terms": ["PRO-V", "MIRACLES", "HIDRATA", "RESGATA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435151504"
     },
     {
         "mandatory_terms": ["PANTENE", "COLAGENO", "CONDICIONADOR", "250"],
         "optional_terms": ["PRO-V", "MIRACLES", "HIDRATA", "RESGATA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435197007"
     },
     {
         "mandatory_terms": ["PANTENE", "COLAGENO", "CONDICIONADOR", "150"],
         "optional_terms": ["PRO-V", "MIRACLES", "HIDRATA", "RESGATA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435196994"
     },
     {
         "mandatory_terms": ["PANTENE", "COLAGENO", "CONDICIONADOR", "1"],
         "optional_terms": ["PRO-V", "MIRACLES", "HIDRATA", "RESGATA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435243490"
     },
     {
         "mandatory_terms": ["PANTENE", "COLAGENO", "MASCARA", "HIDRATANTE", "550"],
         "optional_terms": ["PRO-V", "MIRACLES", "HIDRATA", "RESGATA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435197014"
     },
     {
         "mandatory_terms": ["PANTENE", "SHAMPOO", "LIBERADO", "270"],
         "optional_terms": ["PRO-V", "CACHOS", "LIMPA", "HIDRATA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435136952"
     },
     {
         "mandatory_terms": ["PANTENE", "OLEO", "MILAGROSO", "QUERATINA", "95"],
         "optional_terms": ["PRO-V", "MIRACLES"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435240512"
     },
     {
         "mandatory_terms": ["PANTENE", "QUERATINA", "CREME", "PARA", "PENTEAR", "240"],
         "optional_terms": ["PRO-V", "MIRACLES"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435251969"
     },
     {
         "mandatory_terms": ["PANTENE", "EQUILIBRIO", "SHAMPOO", "510"],
         "optional_terms": ["PRO-V", "MIRACLES", "RAIZ", "PONTAS"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435209748"
     },
     {
         "mandatory_terms": ["PANTENE", "EQUILIBRIO", "SHAMPOO", "300"],
         "optional_terms": ["PRO-V", "MIRACLES", "RAIZ", "PONTAS"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435209304"
     },
     {
         "mandatory_terms": ["PANTENE", "EQUILIBRIO", "SHAMPOO", "175"],
         "optional_terms": ["PRO-V", "MIRACLES", "RAIZ", "PONTAS"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435209342"
     },
     {
         "mandatory_terms": ["PANTENE", "EQUILIBRIO", "SHAMPOO", "1"],
         "optional_terms": ["PRO-V", "MIRACLES", "RAIZ", "PONTAS"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435243100"
     },
     {
         "mandatory_terms": ["PANTENE", "EQUILIBRIO", "CONDICIONADOR", "510"],
         "optional_terms": ["PRO-V", "MIRACLES", "RAIZ", "PONTAS"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435209755"
     },
     {
         "mandatory_terms": ["PANTENE", "EQUILIBRIO", "CONDICIONADOR", "250"],
         "optional_terms": ["PRO-V", "MIRACLES", "RAIZ", "PONTAS"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435209311"
     },
     {
         "mandatory_terms": ["PANTENE", "EQUILIBRIO", "CONDICIONADOR", "150"],
         "optional_terms": ["PRO-V", "MIRACLES", "RAIZ", "PONTAS"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435209335"
     },
     {
         "mandatory_terms": ["PANTENE", "EQUILIBRIO", "CONDICIONADOR", "1"],
         "optional_terms": ["PRO-V", "MIRACLES", "RAIZ", "PONTAS"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435243506"
     },
     {
         "mandatory_terms": ["PANTENE", "EQUILIBRIO", "SERUM", "95"],
         "optional_terms": ["PRO-V", "MIRACLES", "REVITALIZADOR"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435212335"
     },
     {
         "mandatory_terms": ["PANTENE", "3", "MINUTOS", "NUTRICAO", "170"],
         "optional_terms": ["PRO-V", "MILAGROSOS"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435106405"
     },
     {
         "mandatory_terms": ["PANTENE", "CACHOS", "SHAMPOO", "400"],
         "optional_terms": ["PRO-V", "HIDRA-VITAMINADOS"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7501001164645"
     },
     {
         "mandatory_terms": ["PANTENE", "CACHOS", "SHAMPOO", "175"],
         "optional_terms": ["PRO-V", "HIDRA-VITAMINADOS"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435125475"
     },
     {
         "mandatory_terms": ["PANTENE", "CACHOS", "CONDICIONADOR", "400"],
         "optional_terms": ["PRO-V", "HIDRA-VITAMINADOS"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7501001165321"
     },
     {
         "mandatory_terms": ["PANTENE", "CACHOS", "CONDICIONADOR", "175"],
         "optional_terms": ["PRO-V", "HIDRA-VITAMINADOS"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435125482"
     },
     {
         "mandatory_terms": ["PANTENE", "MICELAR", "SHAMPOO", "400"],
         "optional_terms": ["PRO-V", "PURIFICA", "HIDRATA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435128933"
     },
     {
         "mandatory_terms": ["PANTENE", "MICELAR", "SHAMPOO", "200"],
         "optional_terms": ["PRO-V", "PURIFICA", "HIDRATA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435128926"
     },
     {
         "mandatory_terms": ["PANTENE", "MICELAR", "CONDICIONADOR", "400"],
         "optional_terms": ["PRO-V", "PURIFICA", "HIDRATA"],
         "brand": "PANTENE",
-        "ean_brand": "7500000000001",
         "ean": "7500435128957"
     }
 ]
