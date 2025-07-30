@@ -7,7 +7,7 @@
         "ean": "7190000000019"
     },{
         "mandatory_terms": ["JAY'LUC"],
-        "optional_terms": ["JAY'LUC"],
+        "optional_terms": ["JAY'LUC", "'", "'", "JAY"],
         "brand": "JAYLUC",
         "ean_brand": "7190000000019",
         "ean": "7190000000019"
@@ -18,8 +18,8 @@
         "ean_brand": "7190000000019",
         "ean": "7190000000019"
     },{
-        "mandatory_terms": ["JAY LUC"],
-        "optional_terms": ["JAY LUC"],
+        "mandatory_terms": ["JAY", "LUC"],
+        "optional_terms": ["JAY", "LUC"],
         "brand": "JAYLUC",
         "ean_brand": "7190000000019",
         "ean": "7190000000019"
