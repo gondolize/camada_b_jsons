@@ -1275,534 +1275,623 @@
         "mandatory_terms": ["PRECO", "ESPECIAL", "ELSEVE", "GLYCOLIC", "GLOSS"],
         "optional_terms": ["BRILHO", "ULTRA"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908615085418"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "ELSEVE", "CACHOS", "LONGOS", "SONHOS"],
         "optional_terms": ["PREENCHEDOR", "SELADOR"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706197687"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "ELSEVE", "LONGO", "SONHOS"],
         "optional_terms": ["SALVADOR", "DESATA", "NOS"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706175951"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "ELSEVE", "HIDRA", "HIALURONICO"],
         "optional_terms": ["PREENCHEDOR", "SELADOR", "PURIFICACAO", "ACIDO"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706188302"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "ELSEVE", "PURE", "HIALURONICO"],
         "optional_terms": ["PURIFICANTE", "REIDRATANTE", "LIMPEZA", "HIDRATACAO", "ACIDO"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908615017211"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "ELSEVE", "REPARACAO", "TOTAL", "5"],
         "optional_terms": ["REPARADOR", "RESTAURADOR"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706164337"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "ELSEVE", "OLEO", "EXTRAORDINARIO"],
         "optional_terms": ["NUTRICAO"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706164375"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "ELSEVE", "LISO", "SONHOS"],
         "optional_terms": ["LIQUID", "HAIR"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908785476825"
     },
     {
         "mandatory_terms": ["ELSEVE", "GLYCOLIC", "GLOSS", "TRATAMENTO", "ANTIPOROSIDADE"],
         "optional_terms": ["300", "POROSO"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908615053110"
     },
     {
         "mandatory_terms": ["ELSEVE", "GLYCOLIC", "GLOSS", "SHAMPOO", "EXTRA", "400"],
         "optional_terms": ["ACIDO", "COMPLEXO"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908615060606"
     },
     {
         "mandatory_terms": ["ELSEVE", "GLYCOLIC", "GLOSS", "SHAMPOO", "EXTRA"],
         "optional_terms": ["ACIDO", "COMPLEXO", "400"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908615060606"
     },
     {
         "mandatory_terms": ["ELSEVE", "GLYCOLIC", "SHAMPOO", "EXTRA", "200"],
         "optional_terms": ["ACIDO", "GLOSS", "COMPLEXO"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908615060385"
     },
     {
         "mandatory_terms": ["ELSEVE", "GLYCOLIC", "SHAMPOO", "EXTRA"],
         "optional_terms": ["ACIDO", "COMPLEXO", "GLOSS", "200"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908615060385"
     },
     {
         "mandatory_terms": ["ELSEVE", "GLYCOLIC", "GLOSS", "CONDICIONADOR", "400"],
         "optional_terms": ["SELA"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908615055169"
     },
     {
         "mandatory_terms": ["ELSEVE", "GLYCOLIC", "GLOSS", "CONDICIONADOR", "200"],
         "optional_terms": ["SELA", "ACIDO", "COMPLEXO"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908615055145"
     },
     {
         "mandatory_terms": ["ELSEVE", "GLYCOLIC", "GLOSS", "CONDICIONADOR"],
         "optional_terms": ["SELA", "200", "ACIDO"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908615055145"
     },
     {
         "mandatory_terms": ["ELSEVE", "GLYCOLIC", "GLOSS", "3", "PROLONGADOR"],
         "optional_terms": ["100", "ELIXIR", "PROLONGADOR"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908615055183"
     },
     {
         "mandatory_terms": ["ELSEVE", "GLYCOLIC", "GLOSS", "ACIDIFICANTE"],
         "optional_terms": ["6", "ULTRA"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908615060347"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "CONDICIONADOR", "HIALURONICO", "400"],
         "optional_terms": ["LEVE", "SOLTO", "SELADOR"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706187428"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "PREENCHEDOR", "SHAMPOO", "200"],
         "optional_terms": ["ACIDO", "HIALURONICO"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706187343"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "PREENCHEDOR", "SHAMPOO", "400"],
         "optional_terms": ["ACIDO", "HIALURONICO"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706187367"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "PREENCHEDOR", "SHAMPOO"],
         "optional_terms": ["ACIDO", "HIALURONICO", "200"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706187343"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "CONDICIONADOR", "SELADOR", "200"],
         "optional_terms": ["LEVE", "SOLTO", "HIALURONICO"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706187404"
     },
     {
         "mandatory_terms": ["ELSEVE", "GLYCOLIC", "GLOSS", "CREME"],
         "optional_terms": ["SUPER", "GLOSS"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908615059983"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "HIALURONICO", "TRATAMENTO"],
         "optional_terms": ["INTENSIVA", "300", "LIMPA", "HIDRATA"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706187480"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "CREME", "TRATAMENTO"],
         "optional_terms": ["INTENSIVA", "HIALURONICO", "300"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706187480"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "HIALURONICO", "HIDRATACAO", "NOTURNA"],
         "optional_terms": ["200", "DESIDRATADOS"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706187541"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "HIALURONICO", "CREME", "MILAGROSO"],
         "optional_terms": ["EM", "1", "3"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908615060620"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "HIALURONICO", "72H"],
         "optional_terms": ["REDUTOR", "ANTI-OLEOSIDADE", "DOSE", "CREME", "PREENCHEDOR"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706187466"
     },
     {
         "mandatory_terms": ["ELSEVE", "PURE", "HIALURONICO", "TRATAMENTO"],
         "optional_terms": ["300", "HIDRATA", "REEQUILIBRANTE"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706244008"
     },
     {
         "mandatory_terms": ["ELSEVE", "PURE", "CONDICIONADOR", "REIDRATANTE", "400"],
         "optional_terms": ["RAIZES", "OLEOSAS", "HIALURONICO"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706244060"
     },
     {
         "mandatory_terms": ["ELSEVE", "PURE", "HIALURONICO", "CONDICIONADOR", "REIDRATANTE", "200"],
         "optional_terms": ["RAIZES", "OLEOSAS", "ACIDO", "HIDRATA"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706244084"
     },
     {
         "mandatory_terms": ["ELSEVE", "PURE", "SHAMPOO", "HIDRA", "400"],
         "optional_terms": ["PURIFICANTE", "HIALURONICO"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706244107"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "HIALURONICO", "SHAMPOO", "200"],
         "optional_terms": ["PURIFICANTE", "HIDRA"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706244121"
     },
     {
         "mandatory_terms": ["ELSEVE", "HIDRA", "PURIFICANTE", "SHAMPOO"],
         "optional_terms": ["PURE", "200", "HIALURONICO", "HYALURON", "HYALURONIC", "HYALURONICACID", "ALURONICO"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706244121"
     },
     {
         "mandatory_terms": ["ELSEVE", "CACHOS", "CONDICIONADOR", "200"],
         "optional_terms": ["SONHOS", "LONGOS", "SELADOR"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706197564"
     },
     {
         "mandatory_terms": ["ELSEVE", "CACHOS", "TRATAMENTO", "300"],
         "optional_terms": ["SONHOS", "LONGOS"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706197489"
     },
     {
         "mandatory_terms": ["ELSEVE", "SHAMPOO", "CACHOS", "200"],
         "optional_terms": ["NUTRI", "PREENCHEDOR", "SONHOS"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706197601"
     },
     {
         "mandatory_terms": ["ELSEVE", "SHAMPOO", "LONGOS", "SONHOS", "200"],
         "optional_terms": ["NUTRI", "PREENCHEDOR"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706197601"
     },
     {
         "mandatory_terms": ["ELSEVE", "NUTRI", "PREENCHEDOR", "SHAMPOO", "400"],
         "optional_terms": ["CABELOS", "CACHEADOS"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706197649"
     },
     {
         "mandatory_terms": ["ELSEVE", "CREME", "NOTURNO"],
         "optional_terms": ["2X", "ANTI", "TRAVESSEIRO", "ANTI-TRAVESSEIRO", "SONHOS", "LONGOS"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706197663"
     },
     {
         "mandatory_terms": ["ELSEVE", "SELADOR", "CONDICIONADOR", "400"],
         "optional_terms": ["PREENCHE", "CAPILAR", "SELA"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706197588"
     },
     {
         "mandatory_terms": ["ELSEVE", "CACHOS", "CREME", "250"],
         "optional_terms": ["SONHOS", "LONGOS"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706197502"
     },
     {
         "mandatory_terms": ["ELSEVE", "CREME", "MILAGROSO", "TRATAMENTO", "INTENSIVO"],
         "optional_terms": ["CACHOS", "CONDICIONADOR", "SUPER", "3 EM 1", "3", "1"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706197526"
     },
     {
         "mandatory_terms": ["ELSEVE", "LONGO", "CONDICIONADOR", "SALVADOR", "200"],
         "optional_terms": ["SONHOS", "DESATA"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706170857"
     },
     {
         "mandatory_terms": ["ELSEVE", "LONGO", "CONDICIONADOR", "SONHOS"],
         "optional_terms": ["NOS", "DESATA", "200"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706170857"
     },
     {
         "mandatory_terms": ["ELSEVE", "LONGO", "SHAMPOO", "SALVADOR", "200"],
         "optional_terms": ["SONHOS", "CONTROLA", "OLEOSIDADE", "SELA", "PONTAS"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706170833"
     },
     {
         "mandatory_terms": ["ELSEVE", "LONGO", "SHAMPOO", "SALVADOR"],
         "optional_terms": ["SONHOS", "LOREAL", "CONTROLA", "OLEOSIDADE", "200", "SELA", "PONTAS"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706170833"
     },
     {
         "mandatory_terms": ["ELSEVE", "SHAMPOO", "SALVADOR", "400"],
         "optional_terms": ["SONHOS", "LONGO", "LONGOS", "CONTROLA", "OLEOSIDADE", "SELA", "PONTAS"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706170819"
     },
     {
         "mandatory_terms": ["ELSEVE", "CONDICIONADOR", "DESATA", "NOS", "400"],
         "optional_terms": ["SONHOS", "LONGOS", "PONTAS", "CABELOS"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706170871"
     },
     {
         "mandatory_terms": ["ELSEVE", "CREME", "PENTEAR", "ANTI-CORTE"],
         "optional_terms": ["SONHOS", "250", "FRIZZ", "EXTERMINA", "CREME", "PARA", "PENTEAR", "3", "EM", "1"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706170895"
     },
     {
         "mandatory_terms": ["ELSEVE", "LONGO", "CREME", "PENTEAR", "250"],
         "optional_terms": ["SONHOS"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908785461500"
     },
     {
         "mandatory_terms": ["ELSEVE", "LONGO", "TRATAMENTO", "MILAGROSO", "300"],
         "optional_terms": ["SONHOS"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706170918"
     },
     {
         "mandatory_terms": ["ELSEVE", "REPARACAO", "5", "CONDICIONADOR", "200"],
         "optional_terms": ["TOTAL"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899026420571"
     },
     {
         "mandatory_terms": ["ELSEVE", "REPARAÇAO", "5", "CONDICIONADOR", "200"],
         "optional_terms": ["TOTAL"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899026420571"
     },
     {
         "mandatory_terms": ["ELSEVE", "REPARACAO", "TOTAL", "SHAMPOO", "400"],
         "optional_terms": ["5", "FORMULA"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899026420564"
     },
     {
         "mandatory_terms": ["ELSEVE", "REPARACAO", "5", "CREME", "250"],
         "optional_terms": ["TOTAL"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899026420595"
     },
     {
         "mandatory_terms": ["ELSEVE", "REPARACAO", "TOTAL", "SHAMPOO"],
         "optional_terms": ["REPARADOR", "5", "200", "REPARA", "UNIFORMIZA", "MENOS", "QUEBRA"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899026459960"
     },
     {
         "mandatory_terms": ["ELSEVE", "REPARACAO", "5", "CONDICIONADOR", "400"],
         "optional_terms": ["TOTAL"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899026459908"
     },
     {
         "mandatory_terms": ["ELSEVE", "REPARACAO", "5", "TRATAMENTO", "300"],
         "optional_terms": ["TOTAL"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899026457645"
     },
     {
         "mandatory_terms": ["ELSEVE", "REPARACAO", "5", "CICACTRI", "RENOV"],
         "optional_terms": ["TOTAL"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706149822"
     },
     {
         "mandatory_terms": ["ELSEVE", "REPARACAO", "5", "3", "CREME", "MILAGROSO"],
         "optional_terms": ["TOTAL"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908615060668"
     },
     {
         "mandatory_terms": ["ELSEVE", "LISO", "SHAMPOO", "SUPER", "200"],
         "optional_terms": ["SONHOS", "ALINHADOR"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908785461753"
     },
     {
         "mandatory_terms": ["ELSEVE", "LISO", "SONHOS", "CONDICIONADOR", "200"],
         "optional_terms": ["HAIR"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908785461654"
     },
     {
         "mandatory_terms": ["ELSEVE", "LISO", "SONHOS", "CONDICIONADOR", "400"],
         "optional_terms": ["HAIR"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908785461609"
     },
     {
         "mandatory_terms": ["ELSEVE", "SUPER", "SHAMPOO", "400"],
         "optional_terms": ["ALINHADOR", "LISO", "SONHOS"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908785461708"
     },
     {
         "mandatory_terms": ["ELSEVE", "LISO", "SONHOS", "SHAMPOO", "400"],
         "optional_terms": ["ALINHAOOR"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706180948"
     },
     {
         "mandatory_terms": ["ELSEVE", "LISO", "SONHOS", "CONDICIONADOR", "200"],
         "optional_terms": ["FIOS"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706180962"
     },
     {
         "mandatory_terms": ["ELSEVE", "LISO", "SONHOS", "SHAMPOO", "200"],
         "optional_terms": ["ALINHADOR"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706180924"
     },
     {
         "mandatory_terms": ["ELSEVE", "LISO", "SONHOS", "CONDICIONADOR", "400"],
         "optional_terms": ["FIOS"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706180986"
     },
     {
         "mandatory_terms": ["ELSEVE", "LISO", "SONHOS", "TRATAMENTO", "300"],
         "optional_terms": ["14"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908785461456"
     },
     {
         "mandatory_terms": ["ELSEVE", "LISO", "SONHOS", "SHAMPOO", "200"],
         "optional_terms": ["LOREAL"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908785461777"
     },
     {
         "mandatory_terms": ["ELSEVE", "OLEO", "EXTRAORDINARIO", "TRATAMENTO", "SUBLIME"],
         "optional_terms": ["100"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899026478909"
     },
     {
         "mandatory_terms": ["ELSEVE", "OLEO", "EXTRAORDINARIO", "CONDICIONADOR", "200"],
         "optional_terms": ["NUTRICAO"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7898587774352"
     },
     {
         "mandatory_terms": ["ELSEVE", "OLEO", "EXTRAORDINARIO", "CONDICIONADOR", "400"],
         "optional_terms": ["NUTRICAO"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7898587774376"
     },
     {
         "mandatory_terms": ["ELSEVE", "OLEO", "EXTRAORDINARIO", "SHAMPOO", "200"],
         "optional_terms": ["NUTRICAO"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7898587774314"
     },
     {
         "mandatory_terms": ["ELSEVE", "OLEO", "EXTRAORDINARIO", "SHAMPOO"],
         "optional_terms": ["NUTRICAO", "400"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7898587774338"
     },
     {
         "mandatory_terms": ["ELSEVE", "OLEO", "EXTRAORDINARIO", "CREME", "PENTEAR"],
         "optional_terms": ["PENTEAR", "NUTRITIVO", "24H", "250"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706111621"
     },
     {
         "mandatory_terms": ["ELSEVE", "OLEO", "EXTRAORDINARIO", "3", "CREME"],
         "optional_terms": ["EM", "1", "MILAGROSO"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7908615060644"
     },
     {
         "mandatory_terms": ["ELSEVE", "OLEO", "EXTRAORDINARIO", "TRATAMENTO", "300"],
         "optional_terms": ["NUTRITIVO", "SECOS"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7898587774475"
     },
     {
         "mandatory_terms": ["ELSEVE", "COLOR", "CONDICIONADOR", "200"],
         "optional_terms": ["PROTETOR", "DA", "VIVE", "COR"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7896014123902"
     },
     {
         "mandatory_terms": ["ELSEVE", "COLOR", "SHAMPOO", "200"],
         "optional_terms": ["PROTETOR", "DA", "VIVE", "COR"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899026459748"
     },
     {
         "mandatory_terms": ["ELSEVE", "LISO", "SUPER", "ALINHADOR", "SHAMPOO", "400"],
         "optional_terms": ["PROTETOR", "DA", "VIVE", "COR"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899026417885"
     },
     {
         "mandatory_terms": ["ELSEVE", "COLOR", "CONDICIONADOR", "400"],
         "optional_terms": ["PROTETOR", "DA", "VIVE", "COR"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899026459649"
     },
     {
         "mandatory_terms": ["ELSEVE", "DETOX", "ANTICASPA", "CONDICIONADOR", "200"],
         "optional_terms": ["HIDRATANTE", "PONTAS", "SECAS"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706139038"
     },
     {
         "mandatory_terms": ["ELSEVE", "HYDRA", "DETOX", "CONDICIONADOR", "200"],
         "optional_terms": ["HIDRATANTE"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706133418"
     },
     {
         "mandatory_terms": ["ELSEVE", "DETOX", "ANTICASPA", "SHAMPOO", "400"],
         "optional_terms": ["HYDRA", "REEQUILIBRANTE"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706134170"
     },
     {
         "mandatory_terms": ["ELSEVE", "HYDRA", "DETOX", "CONDICIONADOR"],
         "optional_terms": ["HIDRATANTE", "200", "48H", "ALGA"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899706133418"
     },
     {
         "mandatory_terms": ["ELSEVE", "QUERA-LISO", "CONDICIONADOR", "REVIGORANTE", "200"],
         "optional_terms": ["LOREAL"],
         "brand": "ELSEVE",
+        "ean_brand":"7600000000002",
         "ean": "7899026487208"
     },
     {
