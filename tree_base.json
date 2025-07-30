@@ -1,5 +1,10 @@
 [
     {
+        "mandatory_terms": ["OX"],
+        "brand": "OX",
+        "ean": "7140000000014"
+    },
+    {
         "mandatory_terms": ["MONANGE", "SHAMPOO", "LISOS", "QUERO", "VINAGRE", "MACA"],
         "brand": "MONANGE",
         "ean": "7896235353331"
