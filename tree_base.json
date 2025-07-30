@@ -1,4 +1,25 @@
 [
+
+    {
+        "mandatory_terms": ["ORIGEM"],
+        "brand": "ORIGEM",
+        "ean": "7180000000018"
+    },
+    {
+        "mandatory_terms": ["NOVEX"],
+        "brand": "NOVEX",
+        "ean": "7170000000017"
+    },
+    {
+        "mandatory_terms": ["RAVOR"],
+        "brand": "RAVOR",
+        "ean": "7160000000016"
+    },
+    {
+        "mandatory_terms": ["SALON"],
+        "brand": "SALON",
+        "ean": "7150000000015"
+    },
     {
         "mandatory_terms": ["OX"],
         "brand": "OX",
