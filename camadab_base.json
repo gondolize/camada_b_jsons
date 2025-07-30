@@ -1898,426 +1898,497 @@
         "mandatory_terms": ["DOVE", "BRILHO", "MICELAR", "CONDICIONADOR", "200"],
         "optional_terms": ["OLEO"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150055193"
     },
     {
         "mandatory_terms": ["DOVE", "TEXTURAS", "CRESPOS", "SHAMPOO", "355"],
         "optional_terms": ["REAIS"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150087309"
     },
     {
         "mandatory_terms": ["DOVE", "HIDRATACAO", "INTENSA", "SHAMPOO", "200"],
         "optional_terms": ["NUTRITIVE"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150054462"
     },
     {
         "mandatory_terms": ["DOVE", "BOND", "REPAIR", "SHAMPOO", "175"],
         "optional_terms": ["INTENSE"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150095571"
     },
     {
         "mandatory_terms": ["DOVE", "OLEO-MICELAR", "SHAMPOO", "200"],
         "optional_terms": ["NUTRICAO"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150055186"
     },
     {
         "mandatory_terms": ["DOVE", "OLEO-MICELAR", "SHAMPOO", "400"],
         "optional_terms": ["NUTRICAO"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150055162"
     },
     {
         "mandatory_terms": ["DOVE", "FUSAO", "OLEO", "SHAMPOO", "400"],
         "optional_terms": ["NUTRICAO"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150017368"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "DOVE", "RECONSTRUCAO", "QUERATINA"],
         "optional_terms": ["KIT"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150093263"
     },
     {
         "mandatory_terms": ["DOVE", "BOND", "REPAIR", "CONDICIONADOR", "150"],
         "optional_terms": ["INTENSE"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150095564"
     },
     {
         "mandatory_terms": ["DOVE", "HIDRATACAO", "INTENSA", "SHAMPOO", "400"],
         "optional_terms": ["NUTRITIVE"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150054455"
     },
     {
         "mandatory_terms": ["DOVE", "BOND", "REPAIR", "SHAMPOO", "350"],
         "optional_terms": ["INTENSE"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150095588"
     },
     {
         "mandatory_terms": ["DOVE", "RITUAL", "REPARACAO", "SHAMPOO", "200"],
         "optional_terms": ["SECRETS"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150050082"
     },
     {
         "mandatory_terms": ["DOVE", "HIDRA", "LISO", "SHAMPOO", "400"],
         "optional_terms": ["NUTRITIVE"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150075283"
     },
     {
         "mandatory_terms": ["DOVE", "BOND", "REPAIR", "CONDICIONADOR", "250"],
         "optional_terms": ["INTENSE"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150095595"
     },
     {
         "mandatory_terms": ["DOVE", "REAIS", "CACHEADOS", "SHAMPOO", "400"],
         "optional_terms": ["TEXTURAS"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150084483"
     },
     {
         "mandatory_terms": ["DOVE", "BRILHO", "MICELAR", "CONDICIONADOR", "400"],
         "optional_terms": ["OLEO"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150055179"
     },
     {
         "mandatory_terms": ["DOVE", "HIDRATACAO", "INTENSA", "CONDICIONADOR", "200"],
         "optional_terms": ["NUTRITIVE"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150054479"
     },
     {
         "mandatory_terms": ["DOVE", "RECONSTRUCAO", "COMPLETA", "SHAMPOO", "200"],
         "optional_terms": ["NUTRITIVE"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150008953"
     },
     {
         "mandatory_terms": ["DOVE", "OLEO", "NUTRICAO", "SHAMPOO", "200"],
         "optional_terms": [],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150017351"
     },
     {
         "mandatory_terms": ["DOVE", "RECONSTRUCAO", "QUERATINA", "SHAMPOO", "400"],
         "optional_terms": ["+"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7791293005010"
     },
     {
         "mandatory_terms": ["DOVE", "OLEO", "NUTRICAO", "SHAMPOO", "670"],
         "optional_terms": ["GRATIS"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150078017"
     },
     {
         "mandatory_terms": ["DOVE", "HIDRATACAO", "INTENSA", "CONDICIONADOR", "400"],
         "optional_terms": ["NUTRITIVE"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150054448"
     },
     {
         "mandatory_terms": ["DOVE", "10", "1", "BOND", "INTENSE", "MASCARA"],
         "optional_terms": ["REPAIR"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150095557"
     },
     {
         "mandatory_terms": ["DOVE", "RITUAL", "REPARACAO", "CONDICIONADOR", "200"],
         "optional_terms": ["INTENSE", "SECRETS", "DE"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150050129"
     },
     {
         "mandatory_terms": ["DOVE", "REAIS", "CACHEADOS", "CONDICIONADOR", "400"],
         "optional_terms": ["TEXTURAS"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150084490"
     },
     {
         "mandatory_terms": ["DOVE", "RECONSTRUCAO", "COMPLETA", "SHAMPOO", "670"],
         "optional_terms": ["GRATIS"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150077997"
     },
     {
         "mandatory_terms": ["DOVE", "RECONSTRUCAO", "QUERATINA", "2", "1", "MASCARA"],
         "optional_terms": ["+"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150096745"
     },
     {
         "mandatory_terms": ["DOVE", "OLEO", "NUTRICAO", "CONDICIONADOR", "400"],
         "optional_terms": ["CABELOS"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150017337"
     },
     {
         "mandatory_terms": ["DOVE", "REAIS", "CRESPOS", "CONDICIONADOR", "400"],
         "optional_terms": ["TEXTURAS"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150084506"
     },
     {
         "mandatory_terms": ["DOVE", "RECONSTRUCAO", "QUERATINA", "CONDICIONADOR", "200"],
         "optional_terms": ["+"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150008816"
     },
     {
         "mandatory_terms": ["DOVE", "RECONSTRUCAO", "QUERATINA", "CONDICIONADOR", "400"],
         "optional_terms": ["+"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7791293004976"
     },
     {
         "mandatory_terms": ["DOVE", "FUSAO", "OLEOS", "CONDICIONADOR", "200"],
         "optional_terms": ["NUTRICAO"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150017375"
     },
     {
         "mandatory_terms": ["DOVE", "FUSAO", "OLEOS", "2", "1"],
         "optional_terms": ["NUTRICAO"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150096752"
     },
     {
         "mandatory_terms": ["DOVE", "REAIS", "CACHEADOS", "CREME", "PENTEAR"],
         "optional_terms": ["TEXTURAS"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150087286"
     },
     {
         "mandatory_terms": ["DOVE", "TEXTURAS", "REAIS", "CRESPOS", "CREME", "PENTEAR"],
         "optional_terms": ["TEXTURAS"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150087293"
     },
     {
         "mandatory_terms": ["DOVE", "RECONSTRUCAO", "QUERATINA", "2", "1", "MASCARA"],
         "optional_terms": ["+"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150096738"
     },
     {
         "mandatory_terms": ["DOVE", "RITUAL", "REPARACAO", "CONDICIONADOR", "400"],
         "optional_terms": ["SECRETS"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150050112"
     },
     {
         "mandatory_terms": ["DOVE", "MASCARA", "ALTA", "POTENCIA", "500"],
         "optional_terms": ["ULTRA"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150084803"
     },
     {
         "mandatory_terms": ["DOVE", "BOND", "INTENSE", "REPAIR", "50"],
         "optional_terms": ["CREME"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150095601"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "DOVE", "NUTRICAO"],
         "optional_terms": ["FUSAO", "NUTRE"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150093256"
     },
     {
         "mandatory_terms": ["DOVE", "HIDRA", "LISO", "CONDICIONADOR", "400"],
         "optional_terms": ["NUTRITIVE"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150075306"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "DOVE", "BOND", "REPAIR"],
         "optional_terms": ["INTENSE"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150097643"
     },
     {
         "mandatory_terms": ["DOVE", "RITUAL", "REPARACAO", "MASCARA", "1", "MINUTO"],
         "optional_terms": ["500"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150080744"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "DOVE", "RITUAL", "REPARACAO"],
         "optional_terms": ["SECRETS"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150095250"
     },
     {
         "mandatory_terms": ["DOVE", "RECONSTRUCAO", "CREME", "PENTEAR", "200"],
         "optional_terms": ["QUERATINA"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150094963"
     },
     {
         "mandatory_terms": ["DOVE", "BOND", "INTENSE", "REPAIR", "110"],
         "optional_terms": ["SERUM"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150095540"
     },
     {
         "mandatory_terms": ["DOVE", "SECRETS", "RITUAL", "CRESCIMENTO", "SHAMPOO", "400"],
         "optional_terms": ["SECRETS"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150050105"
     },
     {
         "mandatory_terms": ["DOVE", "REAIS", "CACHEADOS", "SHAMPOO", "200"],
         "optional_terms": ["TEXTURAS"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150086975"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "DOVE", "HIDRATACAO", "POTENTE"],
         "optional_terms": ["VITAMINAS"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150095533"
     },
     {
         "mandatory_terms": ["DOVE", "10", "1", "RECONSTRUCAO", "MASCARA"],
         "optional_terms": ["TRATAMENTO"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150094918"
     },
     {
         "mandatory_terms": ["DOVE", "MEN", "SHAMPOO", "FORCA", "400"],
         "optional_terms": ["CARE"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150021679"
     },
     {
         "mandatory_terms": ["DOVE", "RITUAL", "CRESCIMENTO", "CONDICIONADOR", "400"],
         "optional_terms": ["SECRETS"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150050143"
     },
     {
         "mandatory_terms": ["DOVE", "10", "1", "MASCARA", "TRATAMENTO"],
         "optional_terms": ["NUTRICAO"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150094895"
     },
     {
         "mandatory_terms": ["DOVE", "RITUAL", "CRESCIMENTO", "500", "MASCARA"],
         "optional_terms": ["NUTRICAO"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150080768"
     },
     {
         "mandatory_terms": ["DOVE", "RITUAL", "REPARACAO", "SHAMPOO", "200"],
         "optional_terms": ["SECRETS"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150050075"
     },
     {
         "mandatory_terms": ["DOVE", "10", "1", "HIDRATACAO", "MASCARA"],
         "optional_terms": ["TRATAMENTO"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150094949"
     },
     {
         "mandatory_terms": ["DOVE", "10", "1", "BRILHO", "MASCARA"],
         "optional_terms": ["TRATAMENTO"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150094932"
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "DOVE", "REAIS", "CACHEADOS"],
         "optional_terms": ["TEXTURAS"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150090088"
     },
     {
         "mandatory_terms": ["DOVE", "MEN", "SHAMPOO", "REFRESCANTE", "200"],
         "optional_terms": ["CARE"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150021686"
     },
     {
         "mandatory_terms": ["DOVE", "MEN", "SHAMPOO", "ALIVIO", "400"],
         "optional_terms": ["CARE"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150062528"
     },
     {
         "mandatory_terms": ["DOVE", "RECONSTRUCAO", "5", "1", "MULTIFUNCIONAL", "175"],
         "optional_terms": [],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150095243"
     },
     {
         "mandatory_terms": ["DOVE", "VITAMINAS", "SERUM", "FLUIDO", "110"],
         "optional_terms": ["HIDRATACAO"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150094345"
     },
     {
         "mandatory_terms": ["DOVE", "NUTRICAO", "TRATAMENTO", "NOTURNO", "175"],
         "optional_terms": ["COMPLEX"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150095236"
     },
     {
         "mandatory_terms": ["DOVE", "MEN", "CARE", "SHAMPOO", "LIMPEZA", "400"],
         "optional_terms": ["CARE"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150021693"
     },
     {
         "mandatory_terms": ["DOVE", "MEN", "SHAMPOO", "SPORTS", "200"],
         "optional_terms": ["CARE"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150068926"
     },
     {
         "mandatory_terms": ["DOVE", "MEN", "SHAMPOO", "PROTECAO", "400"],
         "optional_terms": ["CARE"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150021716"
     },
     {
         "mandatory_terms": ["DOVE", "MEN", "CARE", "SHAMPOO", "PROTECAO", "200"],
         "optional_terms": ["CARE"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150021709"
     },
     {
         "mandatory_terms": ["DOVE", "DETOX", "PURIFICANTE", "CONDICIONADOR", "400"],
         "optional_terms": ["NUTRITIVE"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150062498"
     },
     {
         "mandatory_terms": ["DOVE", "REGENERACAO", "EXTREMA", "CONDICIONADOR", "400"],
         "optional_terms": ["DANIFICADOS"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150043237"
     },
     {
         "mandatory_terms": ["DOVE", "REGENERACAO", "EXTREMA", "CONDICIONADOR", "200"],
         "optional_terms": ["DANIFICADOS"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150043282"
     },
     {
         "mandatory_terms": ["DOVE", "HIALURONICO", "DERMO", "RENOVADOR", "380"],
         "optional_terms": ["CORPORAL"],
         "brand": "DOVE",
+        "ean_brand": "7891150000000",
         "ean": "7891150095830"
     },
     {
