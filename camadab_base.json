@@ -27,7 +27,13 @@
         "ean_brand": "7150000000015",
         "ean": "7150000000015"
     },
-   
+   {
+        "mandatory_terms": ["OX"],
+        "optional_terms": ["OX"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7140000000014"
+    },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "LISO", "INTENSO", "CONDICIONADOR"],
         "optional_terms": ["200", "200ML", "LISOS"],
