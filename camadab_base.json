@@ -1118,157 +1118,157 @@
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "LIMPEZA", "EFICAZ"],
         "optional_terms": ["LIMPEZA", "200", "&", "200ML"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7500435242615"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "LIMPEZA", "EFICAZ"],
         "optional_terms": ["400", "400ML"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7500435242622"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "LIMPEZA", "EFICAZ"],
         "optional_terms": ["650", "650ML"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7500435248914"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "ANTICOCEIRA", "200"],
         "optional_terms": ["ALIVIO", "200ML", "&"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7506195142035"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "3", "1"],
         "optional_terms": ["200", "200ML", "300", "LIMPEZA", "PROFUNDA"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7506309865393"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "3", "1"],
         "optional_terms": ["LIMPA", "PROFUNDAMENTE", "LIMPEZA", "PROFUNDA"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7506309865409"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "MENTROL", "SPORT"],
         "optional_terms": ["REFRESCANTE", "SENSACAO"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7501001133627"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "OLD", "SPICE"],
         "optional_terms": ["200", "200ML"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7500435187879"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "OLD", "SPICE"],
         "optional_terms": ["400", "400ML"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7500435187886"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "ANTICOCEIRA", "400"],
         "optional_terms": ["SHAMPOO", "ANTICASPA", "ALIVIO", "&"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7506195142042"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "REMOCAO", "OLEOSIDADE"],
         "optional_terms": ["200", "200ML"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7500435112123"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "MENTHOL", "SPORT"],
         "optional_terms": ["REFRESCANTE"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7501001133627"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "MENTA", "ICE", "200"],
         "optional_terms": ["200ML", "CASPA"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7501001133627"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "MENTA", "ICE", "400"],
         "optional_terms": ["SENSACAO", "REFRESCANCIA"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7501001133290"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "MENTA", "ICE", "650"],
         "optional_terms": ["SHAMPOO", "ANTICASPA"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7500435238670"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "CRESCIMENTO", "200"],
         "optional_terms": ["FORTE", "RAIZ"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7500435176866"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "REMOCAO", "OLEOSIDADE", "400"],
         "optional_terms": ["REMOVE", "&"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7500435112130"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "ANTIQUEDA"],
         "optional_terms": ["200", "200ML"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7501006707687"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "3", "1", "650"],
         "optional_terms": ["SHAMPOO", "ANTICASPA"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7500435240376"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "HIDRATACAO", "400"],
         "optional_terms": ["COURO", "CABELUDO", "RESSECADO"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7501001133306"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "HIDRATACAO", "200"],
         "optional_terms": ["COURO", "CABELUDO", "RESSECADO"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7501001133306"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "FRAGRANCIA", "PODEROSA", "650"],
         "optional_terms": ["OLD", "SPICE"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7500435238687"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "CRESCIMENTO", "400"],
         "optional_terms": ["FORTE", "RAIZ"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7500435176880"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "ANTICOCEIRA", "650"],
         "optional_terms": ["SHAMPOO", "ANTICASPA", "LEVE", "MAIS"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7500435240369"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "ANTIQUEDA", "400"],
         "optional_terms": ["REDUZIR", "QUEDA"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7501006707694"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "DETOX", "RAIZ"],
         "optional_terms": ["200"],
-        "brand": "HEAD_SHOULDERS",
+        "brand": "SHOULDERS",
         "ean": "7500435128742"
     },
     {
