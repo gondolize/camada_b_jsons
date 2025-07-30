@@ -18,6 +18,7 @@ brand_ean_map = {
     "PALMOLIVE": "7100000000001",
     "DARLING": "7130000000013"
 }
+brands =["PANTENE","EUDORA","ABOVE","VULT","MONANGE","TRESEMME","CLEAR","SHOULDERS","ELSEVE","DOVE","SEDA","PALMOLIVE","DARLING"]
 
 # Lê o arquivo original
 with open('camadab_base.json', 'r', encoding='utf-8') as f:
@@ -27,7 +28,11 @@ novo_dados = []
 
 # Reorganiza os campos para garantir que "ean" fique por último
 for item in dados:
-    brand = item["mandatory_terms"][0] if item["mandatory_terms"] else ""
+    mandatory_items=item["mandatory_terms"]
+    for manditm in mandatory_items:
+        if brands.__contains__(manditm):
+            brand=manditm
+        
     ean_brand = brand_ean_map.get(brand, "0")
 
     
