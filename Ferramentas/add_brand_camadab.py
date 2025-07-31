@@ -24,7 +24,7 @@ brand_ean_map = {
     "ORIGEM":"7180000000018",
     "JAYLUC":"7190000000019"
 }
-brands =["PANTENE","EUDORA","ABOVE","VULT","MONANGE","TRESEMME","CLEAR","SHOULDERS","ELSEVE","DOVE","SEDA","PALMOLIVE","DARLING"]
+brands =["PANTENE","EUDORA","ABOVE","VULT","MONANGE","TRESEMME","CLEAR","SHOULDERS","ELSEVE","DOVE","SEDA","PALMOLIVE","DARLING","OX","SALON","RAVOR","NOVEX","ORIGEM","JAYLUC"]
 
 # Lê o arquivo original
 with open('camadab_base.json', 'r', encoding='utf-8') as f:
