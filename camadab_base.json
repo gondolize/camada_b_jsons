@@ -1,57 +1,5 @@
 [  
-    {
-        "mandatory_terms": ["JAY"],
-        "optional_terms": ["JAY"],
-        "brand": "JAYLUC",
-        "ean_brand": "7190000000019",
-        "ean": "7190000000019"
-    },{
-        "mandatory_terms": ["JAY'LUC"],
-        "optional_terms": ["JAY'LUC", "'", "'", "JAY"],
-        "brand": "JAYLUC",
-        "ean_brand": "7190000000019",
-        "ean": "7190000000019"
-    },{
-        "mandatory_terms": ["JAYLUC"],
-        "optional_terms": ["JAYLUC"],
-        "brand": "JAYLUC",
-        "ean_brand": "7190000000019",
-        "ean": "7190000000019"
-    },{
-        "mandatory_terms": ["JAY", "LUC"],
-        "optional_terms": ["JAY", "LUC"],
-        "brand": "JAYLUC",
-        "ean_brand": "7190000000019",
-        "ean": "7190000000019"
-    },
-    {
-        "mandatory_terms": ["ORIGEM"],
-        "optional_terms": ["ORIGEM"],
-        "brand": "ORIGEM",
-        "ean_brand": "7180000000018",
-        "ean": "7180000000018"
-    },
-    {
-        "mandatory_terms": ["NOVEX"],
-        "optional_terms": ["NOVEX"],
-        "brand": "NOVEX",
-        "ean_brand": "7170000000017",
-        "ean": "7170000000017"
-    },
-    {
-        "mandatory_terms": ["RAVOR"],
-        "optional_terms": ["RAVOR"],
-        "brand": "RAVOR",
-        "ean_brand": "7160000000016",
-        "ean": "7160000000016"
-    },
-    {
-        "mandatory_terms": ["SALON"],
-        "optional_terms": ["SALON"],
-        "brand": "SALON",
-        "ean_brand": "7150000000015",
-        "ean": "7150000000015"
-    },
+    
    
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "LISO", "INTENSO", "CONDICIONADOR"],
@@ -4049,5 +3997,58 @@
         "brand": "OX",
         "ean_brand": "7140000000014",
         "ean": "7140000000014"
+    },
+    {
+        "mandatory_terms": ["JAY"],
+        "optional_terms": ["JAY"],
+        "brand": "JAYLUC",
+        "ean_brand": "7190000000019",
+        "ean": "7190000000019"
+    },{
+        "mandatory_terms": ["JAY'LUC"],
+        "optional_terms": ["JAY'LUC", "'", "'", "JAY"],
+        "brand": "JAYLUC",
+        "ean_brand": "7190000000019",
+        "ean": "7190000000019"
+    },{
+        "mandatory_terms": ["JAYLUC"],
+        "optional_terms": ["JAYLUC"],
+        "brand": "JAYLUC",
+        "ean_brand": "7190000000019",
+        "ean": "7190000000019"
+    },{
+        "mandatory_terms": ["JAY", "LUC"],
+        "optional_terms": ["JAY", "LUC"],
+        "brand": "JAYLUC",
+        "ean_brand": "7190000000019",
+        "ean": "7190000000019"
+    },
+    {
+        "mandatory_terms": ["ORIGEM"],
+        "optional_terms": ["ORIGEM"],
+        "brand": "ORIGEM",
+        "ean_brand": "7180000000018",
+        "ean": "7180000000018"
+    },
+    {
+        "mandatory_terms": ["NOVEX"],
+        "optional_terms": ["NOVEX"],
+        "brand": "NOVEX",
+        "ean_brand": "7170000000017",
+        "ean": "7170000000017"
+    },
+    {
+        "mandatory_terms": ["RAVOR"],
+        "optional_terms": ["RAVOR"],
+        "brand": "RAVOR",
+        "ean_brand": "7160000000016",
+        "ean": "7160000000016"
+    },
+    {
+        "mandatory_terms": ["SALON"],
+        "optional_terms": ["SALON"],
+        "brand": "SALON",
+        "ean_brand": "7150000000015",
+        "ean": "7150000000015"
     }
 ]
