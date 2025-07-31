@@ -3991,13 +3991,7 @@
         "ean_brand": "7500000000001",
         "ean": "7500435128957"
     },
-    {
-        "mandatory_terms": ["OX"],
-        "optional_terms": ["OX"],
-        "brand": "OX",
-        "ean_brand": "7140000000014",
-        "ean": "7140000000014"
-    },
+   
     {
         "mandatory_terms": ["JAY"],
         "optional_terms": ["JAY"],
@@ -4155,5 +4149,12 @@
         "brand": "SKALA",
         "ean_brand": "7360000000036",
         "ean": "7360000000036"
-    }
+    },
+     {
+        "mandatory_terms": ["OX"],
+        "optional_terms": ["OX"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7140000000014"
+    },
 ]
