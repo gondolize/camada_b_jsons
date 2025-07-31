@@ -4050,5 +4050,110 @@
         "brand": "SALON",
         "ean_brand": "7150000000015",
         "ean": "7150000000015"
+    },
+    {
+        "mandatory_terms": ["ALFAPARF"],
+        "optional_terms": ["ALFAPARF"],
+        "brand": "ALFAPARF",
+        "ean_brand": "7200000000020",
+        "ean": "7200000000020"
+    },
+    {
+        "mandatory_terms": ["AMEND"],
+        "optional_terms": ["AMEND"],
+        "brand": "AMEND",
+        "ean_brand": "7210000000021",
+        "ean": "7210000000021"
+    },
+    {
+        "mandatory_terms": ["AUSSIE"],
+        "optional_terms": ["AUSSIE"],
+        "brand": "AUSSIE",
+        "ean_brand": "7220000000022",
+        "ean": "7220000000022"
+    },
+    {
+        "mandatory_terms": ["BEAUTYCOLOR"],
+        "optional_terms": ["BEAUTYCOLOR"],
+        "brand": "BEAUTYCOLOR",
+        "ean_brand": "7230000000023",
+        "ean": "7230000000023"
+    },
+    {
+        "mandatory_terms": ["BOZZANO"],
+        "optional_terms": ["BOZZANO"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7240000000024"
+    },
+    {
+        "mandatory_terms": ["GOLD"],
+        "optional_terms": ["GOLD"],
+        "brand": "GOLD",
+        "ean_brand": "7250000000025",
+        "ean": "7250000000025"
+    },
+    {
+        "mandatory_terms": ["GOTA"],
+        "optional_terms": ["GOTA"],
+        "brand": "GOTA",
+        "ean_brand": "7260000000026",
+        "ean": "7260000000026"
+    },
+    {
+        "mandatory_terms": ["HEDERA"],
+        "optional_terms": ["HEDERA"],
+        "brand": "HEDERA",
+        "ean_brand": "7280000000028",
+        "ean": "7280000000028"
+    },
+    {
+        "mandatory_terms": ["INOAR"],
+        "optional_terms": ["INOAR"],
+        "brand": "INOAR",
+        "ean_brand": "7290000000029",
+        "ean": "7290000000029"
+    },
+    {
+        "mandatory_terms": ["NAZCA"],
+        "optional_terms": ["NAZCA"],
+        "brand": "NAZCA",
+        "ean_brand": "7300000000030",
+        "ean": "7300000000030"
+    },
+    {
+        "mandatory_terms": ["NEUTROX"],
+        "optional_terms": ["NEUTROX"],
+        "brand": "NEUTROX",
+        "ean_brand": "7310000000031",
+        "ean": "7310000000031"
+    },
+    {
+        "mandatory_terms": ["NIVEA"],
+        "optional_terms": ["NIVEA"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "7320000000032"
+    },
+    {
+        "mandatory_terms": ["QOD"],
+        "optional_terms": ["QOD"],
+        "brand": "QOD",
+        "ean_brand": "7330000000033",
+        "ean": "7330000000033"
+    },
+    {
+        "mandatory_terms": ["VINILADY"],
+        "optional_terms": ["VINILADY"],
+        "brand": "VINILADY",
+        "ean_brand": "7350000000035",
+        "ean": "7350000000035"
+    },
+    {
+        "mandatory_terms": ["SKALA"],
+        "optional_terms": ["SKALA"],
+        "brand": "SKALA",
+        "ean_brand": "7360000000036",
+        "ean": "7360000000036"
     }
 ]
