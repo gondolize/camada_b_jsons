@@ -4102,6 +4102,20 @@
         "ean": "7280000000028"
     },
     {
+        "mandatory_terms": ["JACQUES"],
+        "optional_terms": ["JACQUES"],
+        "brand": "JACQUES",
+        "ean_brand": "7370000000037",
+        "ean": "7370000000037"
+    },
+    {
+        "mandatory_terms": ["JANINE"],
+        "optional_terms": ["JANINE"],
+        "brand": "JANINE",
+        "ean_brand": "7370000000037",
+        "ean": "7370000000037"
+    },
+    {
         "mandatory_terms": ["INOAR"],
         "optional_terms": ["INOAR"],
         "brand": "INOAR",
