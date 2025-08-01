@@ -4156,5 +4156,12 @@
         "brand": "OX",
         "ean_brand": "7140000000014",
         "ean": "7140000000014"
+    },
+    {
+        "mandatory_terms": ["PANVEL"],
+        "optional_terms": ["PANVEL"],
+        "brand": "PANVEL",
+        "ean_brand": "7990000000099",
+        "ean": "7990000000099"
     }
 ]
