@@ -4109,6 +4109,20 @@
         "ean": "7280000000028"
     },
     {
+        "mandatory_terms": ["JACQUES"],
+        "optional_terms": ["JACQUES"],
+        "brand": "JACQUES",
+        "ean_brand": "7370000000037",
+        "ean": "7370000000037"
+    },
+    {
+        "mandatory_terms": ["JANINE"],
+        "optional_terms": ["JANINE"],
+        "brand": "JANINE",
+        "ean_brand": "7370000000037",
+        "ean": "7370000000037"
+    },
+    {
         "mandatory_terms": ["INOAR"],
         "optional_terms": ["INOAR"],
         "brand": "INOAR",
@@ -4163,5 +4177,12 @@
         "brand": "OX",
         "ean_brand": "7140000000014",
         "ean": "7140000000014"
+    },
+    {
+        "mandatory_terms": ["PANVEL"],
+        "optional_terms": ["PANVEL"],
+        "brand": "PANVEL",
+        "ean_brand": "7990000000099",
+        "ean": "7990000000099"
     }
 ]
