@@ -3803,6 +3803,13 @@
         "ean": "7500435151498"
     },
     {
+        "mandatory_terms": ["PANTENE", "COLAGENO", "SHAMPOO", "500"],
+        "optional_terms": ["PRO-V", "MIRACLES", "HIDRATA", "RESGATA"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435151498"
+    },
+    {
         "mandatory_terms": ["PANTENE", "COLAGENO", "SHAMPOO", "300"],
         "optional_terms": ["PRO-V", "MIRACLES", "HIDRATA", "RESGATA"],
         "brand": "PANTENE",
