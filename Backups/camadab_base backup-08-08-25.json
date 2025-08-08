@@ -3593,8 +3593,8 @@
         "ean": "7500435125451"
     },
     {
-        "mandatory_terms": ["PANTENE", "RESTAURACAO", "HIDRATACAO", "NUTRITIVA"],
-        "optional_terms": ["PRO-V","PROTEINAS", "270"],
+        "mandatory_terms": ["PANTENE", "RESTAURACAO", "MASCARA", "INTENSIVA", "270"],
+        "optional_terms": ["PRO-V"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435142243"
@@ -3608,13 +3608,6 @@
     },
     {
         "mandatory_terms": ["PANTENE", "QUERATINA", "SHAMPOO", "510"],
-        "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "BLINDA"],
-        "brand": "PANTENE",
-        "ean_brand": "7500000000001",
-        "ean": "7500435232838"
-    },
-    {
-        "mandatory_terms": ["PANTENE", "QUERATINA", "SHAMPOO", "500"],
         "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "BLINDA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
@@ -3705,8 +3698,8 @@
         "ean": "7500435125376"
     },
     {
-        "mandatory_terms": ["PANTENE", "HIDRATACAO"],
-        "optional_terms": ["PRO-V", "270", "CREME", "TRATAMENTO"],
+        "mandatory_terms": ["PANTENE", "HIDRATACAO", "MASCARA", "INTENSIVA", "270"],
+        "optional_terms": ["PRO-V"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435142229"
@@ -3936,13 +3929,6 @@
         "ean": "7500435243506"
     },
     {
-        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "CONDICIONADOR", "1L"],
-        "optional_terms": ["PRO-V", "MIRACLES", "RAIZ", "PONTAS"],
-        "brand": "PANTENE",
-        "ean_brand": "7500000000001",
-        "ean": "7500435243506"
-    },
-    {
         "mandatory_terms": ["PANTENE", "EQUILIBRIO", "SERUM", "95"],
         "optional_terms": ["PRO-V", "MIRACLES", "REVITALIZADOR"],
         "brand": "PANTENE",
@@ -3950,25 +3936,11 @@
         "ean": "7500435212335"
     },
     {
-        "mandatory_terms": ["PANTENE", "3", "MINUTOS", "NUTRICAO"],
-        "optional_terms": ["PRO-V", "MILAGROSOS","170"],
+        "mandatory_terms": ["PANTENE", "3", "MINUTOS", "NUTRICAO", "170"],
+        "optional_terms": ["PRO-V", "MILAGROSOS"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435106405"
-    },
-    {
-        "mandatory_terms": ["PANTENE","NUTRICAO","UMECTANTE"],
-        "optional_terms": ["PRO-V", "AMPOLAS", "3", "UNIDADES", "15"],
-        "brand": "PANTENE",
-        "ean_brand": "7500000000001",
-        "ean": "7500435020442"
-    },
-    {
-        "mandatory_terms": ["PANTENE","RECONSTRUCAO"],
-        "optional_terms": ["PRO-V", "AMPOLAS", "3","REVITALIZADORA" ,"UNIDADES", "15"],
-        "brand": "PANTENE",
-        "ean_brand": "7500000000001",
-        "ean": "7506309889375"
     },
     {
         "mandatory_terms": ["PANTENE", "CACHOS", "SHAMPOO", "400"],
