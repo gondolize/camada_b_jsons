@@ -4193,6 +4193,13 @@
         "ean": "7330000000033"
     },
     {
+        "mandatory_terms": ["TRESEMME"],
+        "optional_terms": ["TRESEMME"],
+        "brand": "TRESEMME",
+        "ean_brand": "7600000000006",
+        "ean": "7600000000006"
+    },
+    {
         "mandatory_terms": ["VUMEN"],
         "optional_terms": ["VUMEN"],
         "brand": "VINILADY",
