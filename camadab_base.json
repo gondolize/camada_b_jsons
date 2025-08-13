@@ -4026,7 +4026,13 @@
         "ean_brand": "7500000000001",
         "ean": "7500435128957"
     },
-   
+     {
+        "mandatory_terms": ["SHAMPOO","OCTOPIROX","200ML"],
+        "optional_terms": ["VUMEN", "VLMEN", "ULMEN"],
+        "brand": "VINILADY",
+        "ean_brand": "7350000000035",
+        "ean": "7350000000035"
+    },
     {
         "mandatory_terms": ["JAY"],
         "optional_terms": ["JAY"],
@@ -4191,13 +4197,6 @@
         "brand": "TRESEMME",
         "ean_brand": "7600000000006",
         "ean": "7600000000006"
-    },
-    {
-        "mandatory_terms": ["SHAMPOO","OCTOPIROX","200ML"],
-        "optional_terms": ["VUMEN", "VLMEN", "ULMEN"],
-        "brand": "VINILADY",
-        "ean_brand": "7350000000035",
-        "ean": "7350000000035"
     },
     {
         "mandatory_terms": ["VINILADY"],
