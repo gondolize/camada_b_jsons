@@ -4059,13 +4059,6 @@
         "ean": "7190000000019"
     },
     {
-        "mandatory_terms": ["ORIGEM"],
-        "optional_terms": ["ORIGEM"],
-        "brand": "ORIGEM",
-        "ean_brand": "7180000000018",
-        "ean": "7180000000018"
-    },
-    {
         "mandatory_terms": ["NOVEX"],
         "optional_terms": ["NOVEX"],
         "brand": "NOVEX",
@@ -4211,6 +4204,13 @@
         "brand": "SKALA",
         "ean_brand": "7360000000036",
         "ean": "7360000000036"
+    },
+    {
+        "mandatory_terms": ["ORIGEM"],
+        "optional_terms": ["ORIGEM"],
+        "brand": "ORIGEM",
+        "ean_brand": "7180000000018",
+        "ean": "7180000000018"
     },
     {
         "mandatory_terms": ["SEDA"],
