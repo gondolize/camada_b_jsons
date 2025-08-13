@@ -4193,6 +4193,20 @@
         "ean": "7330000000033"
     },
     {
+        "mandatory_terms": ["VUMEN"],
+        "optional_terms": ["VUMEN"],
+        "brand": "VINILADY",
+        "ean_brand": "7350000000035",
+        "ean": "7350000000035"
+    },
+    {
+        "mandatory_terms": ["VLMEN"],
+        "optional_terms": ["VLMEN"],
+        "brand": "VINILADY",
+        "ean_brand": "7350000000035",
+        "ean": "7350000000035"
+    },
+    {
         "mandatory_terms": ["VINILADY"],
         "optional_terms": ["VINILADY"],
         "brand": "VINILADY",
