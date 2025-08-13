@@ -4214,6 +4214,13 @@
         "ean": "7350000000035"
     },
     {
+        "mandatory_terms": ["ULMEN"],
+        "optional_terms": ["ULMEN"],
+        "brand": "VINILADY",
+        "ean_brand": "7350000000035",
+        "ean": "7350000000035"
+    },
+    {
         "mandatory_terms": ["VINILADY"],
         "optional_terms": ["VINILADY"],
         "brand": "VINILADY",
