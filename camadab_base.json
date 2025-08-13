@@ -4033,7 +4033,13 @@
         "ean_brand": "7500000000001",
         "ean": "7500435128957"
     },
-   
+     {
+        "mandatory_terms": ["SHAMPOO","OCTOPIROX","200ML"],
+        "optional_terms": ["VUMEN", "VLMEN", "ULMEN"],
+        "brand": "VINILADY",
+        "ean_brand": "7350000000035",
+        "ean": "7350000000035"
+    },
     {
         "mandatory_terms": ["JAY"],
         "optional_terms": ["JAY"],
@@ -4137,13 +4143,6 @@
         "ean": "7260000000026"
     },
     {
-        "mandatory_terms": ["SEDA"],
-        "optional_terms": ["SEDA"],
-        "brand": "SEDA",
-        "ean_brand": "7900000000009",
-        "ean": "7900000000009"
-    },
-    {
         "mandatory_terms": ["HEDERA"],
         "optional_terms": ["HEDERA"],
         "brand": "HEDERA",
@@ -4207,13 +4206,6 @@
         "ean": "7600000000006"
     },
     {
-        "mandatory_terms": ["SHAMPOO","OCTOPIROX","200ML"],
-        "optional_terms": ["VUMEN", "VLMEN", "ULMEN"],
-        "brand": "VINILADY",
-        "ean_brand": "7350000000035",
-        "ean": "7350000000035"
-    },
-    {
         "mandatory_terms": ["VINILADY"],
         "optional_terms": ["VINILADY"],
         "brand": "VINILADY",
@@ -4226,6 +4218,13 @@
         "brand": "SKALA",
         "ean_brand": "7360000000036",
         "ean": "7360000000036"
+    },
+    {
+        "mandatory_terms": ["SEDA"],
+        "optional_terms": ["SEDA"],
+        "brand": "SEDA",
+        "ean_brand": "7900000000009",
+        "ean": "7900000000009"
     },
      {
         "mandatory_terms": [" OX "],
