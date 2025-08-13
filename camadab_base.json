@@ -3649,6 +3649,13 @@
         "ean": "7500435232821"
     },
     {
+        "mandatory_terms": ["PANTENE", "BOOSTER","PROTECAO"],
+        "optional_terms": ["PRO-V", "MIRACLES","COLAGENO","HIDRATA"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435197021"
+    },
+    {
         "mandatory_terms": ["PANTENE", "QUERATINA", "CONDICIONADOR", "250"],
         "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "BLINDA"],
         "brand": "PANTENE",
