@@ -3111,7 +3111,7 @@
     },
     {
         "mandatory_terms": ["PALMOLIVE", "DETOX", "ENERGIZANTE", "SHAMPOO"],
-        "optional_terms": ["350"],
+        "optional_terms": ["350", "NATURALS", "CERAMIDE", "SERUM"],
         "brand": "PALMOLIVE",
         "ean_brand": "7100000000001",
         "ean": "7891024042908"
