@@ -4221,8 +4221,8 @@
         "ean": "7360000000036"
     },
      {
-        "mandatory_terms": ["OX "],
-        "optional_terms": ["OX "],
+        "mandatory_terms": [" OX "],
+        "optional_terms": [" OX "],
         "brand": "OX",
         "ean_brand": "7140000000014",
         "ean": "7140000000014"
