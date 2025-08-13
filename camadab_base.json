@@ -4130,13 +4130,6 @@
         "ean": "7260000000026"
     },
     {
-        "mandatory_terms": ["SEDA"],
-        "optional_terms": ["SEDA"],
-        "brand": "SEDA",
-        "ean_brand": "7900000000009",
-        "ean": "7900000000009"
-    },
-    {
         "mandatory_terms": ["HEDERA"],
         "optional_terms": ["HEDERA"],
         "brand": "HEDERA",
@@ -4219,6 +4212,13 @@
         "brand": "SKALA",
         "ean_brand": "7360000000036",
         "ean": "7360000000036"
+    },
+    {
+        "mandatory_terms": ["SEDA"],
+        "optional_terms": ["SEDA"],
+        "brand": "SEDA",
+        "ean_brand": "7900000000009",
+        "ean": "7900000000009"
     },
      {
         "mandatory_terms": [" OX "],
