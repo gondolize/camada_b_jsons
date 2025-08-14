@@ -3411,7 +3411,7 @@
         "ean": "7509546696300"
     },
     {
-        "mandatory_terms": ["KIT", "PROMOCIONAL", "PANTENE", "ANTIQUEDA", "BIOTINAMINA", "300"],
+        "mandatory_terms": ["KIT", "PROMOCIONAL", "PANTENE", "BIOTINAMINA"],
         "optional_terms": ["ANTIQUEDA", "NUTRICAO", "B3"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
@@ -3439,8 +3439,8 @@
         "ean": "7500435215565"
     },
     {
-        "mandatory_terms": ["KIT", "PANTENE", "BRILHO", "400"],
-        "optional_terms": ["DESCONTO", "CABELO", "LONGO", "FORTE"],
+        "mandatory_terms": ["KIT", "PANTENE", "BRILHO"],
+        "optional_terms": ["DESCONTO", "CABELO", "LONGO","400", "FORTE"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435199780"
@@ -3516,6 +3516,13 @@
         "ean": "7500435128346"
     },
     {
+        "mandatory_terms": ["KIT", "PANTENE", "MICELAR"],
+        "optional_terms": ["DESCONTO", "CABELO", "LONGO", "FORTE"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435128346"
+    },
+    {
         "mandatory_terms": ["PANTENE", "NUTRICAO", "MASCARA"],
         "optional_terms": ["PRO-V", "INTENSIVA", "NUTRI","270"],
         "brand": "PANTENE",
@@ -3572,15 +3579,15 @@
         "ean": "7500435248174"
     },
     {
-        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "CREME", "DE", "PENTEAR", "240"],
-        "optional_terms": ["PRO-V", "MIRACLES", "B3", "ANTIQUEBRA"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "CREME", "PENTEAR"],
+        "optional_terms": ["PRO-V", "MIRACLES", "B3",  "DE","ANTIQUEBRA","240"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435248181"
     },
     {
-        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "ANTIQUEDA", "TONICO", "CAPILAR"],
-        "optional_terms": ["B3", "52"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "TONICO" ],
+        "optional_terms": ["B3", "52","CAPILAR","ANTIQUEDA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435247917"
@@ -3620,7 +3627,21 @@
         "ean_brand": "7500000000001",
         "ean": "7500435142243"
     },
-     {
+    {
+        "mandatory_terms": ["PANTENE", "HIDRO-CAUTERIZACAO", "SHAMPOO","175"],
+        "optional_terms": ["PRO-V","ML", "CONTROLA", "FRIZZ"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435125406"
+    },
+    {
+        "mandatory_terms": ["PANTENE", "HIDRO-CAUTERIZACAO", "SHAMPOO","400"],
+        "optional_terms": ["PRO-V","ML", "CONTROLA", "FRIZZ"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435125406"
+    },
+    {
         "mandatory_terms": ["PANTENE", "HIDRO-CAUTERIZACAO", "CONDICIONADOR","175"],
         "optional_terms": ["PRO-V","ML", "CONTROLA", "FRIZZ"],
         "brand": "PANTENE",
@@ -3632,7 +3653,7 @@
         "optional_terms": ["PRO-V","ML", "CONTROLA", "FRIZZ"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
-        "ean": "7500435125390"
+        "ean": "7506309840581"
     },
     {
         "mandatory_terms": ["PANTENE", "3", "MINUTOS","RESTAURACAO"],
@@ -3747,6 +3768,27 @@
         "ean": "7500435125376"
     },
     {
+        "mandatory_terms": ["PANTENE", "MASCARA","CACHOS"],
+        "optional_terms": ["PRO-V", "550","EM", "3", "1","NUTRITIVO"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435142229"
+    },
+    {
+        "mandatory_terms": ["PANTENE", "MASCARA","MANUTENCAO"],
+        "optional_terms": ["PRO-V", "550","EM", "3", "1","FIOS","DANIFICADOS"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435241731"
+    },
+    {
+        "mandatory_terms": ["PANTENE", "MASCARA","CONDICIONANTE"],
+        "optional_terms": ["PRO-V", "550","EM", "3", "1","RESSECADOS"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435241724"
+    },
+    {
         "mandatory_terms": ["PANTENE", "HIDRATACAO", "MASCARA"],
         "optional_terms": ["PRO-V", "270", "INTENSIVA", "NUTRI"],
         "brand": "PANTENE",
@@ -3789,11 +3831,60 @@
         "ean": "7500435125413"
     },
     {
-        "mandatory_terms": ["PANTENE", "LISO", "CREME", "PARA", "PENTEAR", "240"],
-        "optional_terms": ["PRO-V"],
+        "mandatory_terms": ["PANTENE", "ONDULADOS", "CREME",  "PENTEAR"],
+        "optional_terms": ["PRO-V","PARA","240","HIDRA-VITAMINADOS"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7506195167304"
+    },
+    {
+        "mandatory_terms": ["PANTENE", "CACHOS", "CREME",  "PENTEAR"],
+        "optional_terms": ["PRO-V","PARA","240","HIDRA-VITAMINADOS"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7506195167304"
+    },
+    {
+        "mandatory_terms": ["PANTENE", "CACHOS", "CREME",  "PENTEAR","600"],
+        "optional_terms": ["PRO-V","PARA","240","HIDRA-VITAMINADOS"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435159937"
+    },
+    {
+        "mandatory_terms": ["PANTENE", "ANTI-FRIZZ", "CREME",  "PENTEAR"],
+        "optional_terms": ["PRO-V","PARA","240","HIDRO-CAUTERIZACAO"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7506309841816"
+    },
+    {
+        "mandatory_terms": ["PANTENE", "LISO", "CREME",  "PENTEAR"],
+        "optional_terms": ["PRO-V","PARA","240"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7506195167281"
+    },
+    {
+        "mandatory_terms": ["PANTENE", "COLAGENO", "CREME",  "PENTEAR"],
+        "optional_terms": ["PRO-V","PARA","240","HIDRATA","RESGATA"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7506195167281"
+    },
+    {
+        "mandatory_terms": ["PANTENE", "CRESPO", "CREME",  "PENTEAR"],
+        "optional_terms": ["PRO-V","PARA","240"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435118514"
+    },
+    {
+        "mandatory_terms": ["PANTENE", "REPARA", "CREME",  "PENTEAR"],
+        "optional_terms": ["PRO-V","PARA","240","RESTAURACAO"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7506309841823"
     },
     {
         "mandatory_terms": ["PANTENE", "BRILHO", "SHAMPOO", "400"],
@@ -3836,6 +3927,13 @@
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435154277"
+    },
+    {
+        "mandatory_terms": ["PANTENE", "BAMBU", "MASCARA","270" ],
+        "optional_terms": ["PRO-V", "NUTRE", "CRESCE","NUTRITIVA"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435154284"
     },
     {
         "mandatory_terms": ["PANTENE", "BAMBU", "MASCARA" ],
@@ -3915,6 +4013,13 @@
         "ean": "7500435243490"
     },
     {
+        "mandatory_terms": ["PANTENE", "BOOSTER","COLAGENO"],
+        "optional_terms": ["PRO-V", "MIRACLES", "RESGATE","HIDRATA", "RESGATA"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435197038"
+    },
+    {
         "mandatory_terms": ["PANTENE", "COLAGENO", "MASCARA"],
         "optional_terms": ["PRO-V", "MIRACLES", "HIDRATA", "HIDRATANTE","RESGATA", "550"],
         "brand": "PANTENE",
@@ -3922,8 +4027,8 @@
         "ean": "7500435197014"
     },
     {
-        "mandatory_terms": ["PANTENE", "SHAMPOO", "LIBERADO", "270"],
-        "optional_terms": ["PRO-V", "CACHOS", "LIMPA", "HIDRATA"],
+        "mandatory_terms": ["PANTENE", "SHAMPOO", "LIBERADO"],
+        "optional_terms": ["PRO-V", "CACHOS", "LIMPA", "HIDRATA","270"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435136952"
@@ -3936,11 +4041,18 @@
         "ean": "7500435240512"
     },
     {
-        "mandatory_terms": ["PANTENE", "QUERATINA", "CREME", "PARA", "PENTEAR", "240"],
-        "optional_terms": ["PRO-V", "MIRACLES"],
+        "mandatory_terms": ["PANTENE", "QUERATINA", "CREME",  "PENTEAR"],
+        "optional_terms": ["PRO-V", "MIRACLES", "PARA","240"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435251969"
+    },
+    {
+        "mandatory_terms": ["PANTENE", "HIDRATACAO", "CREME",  "PENTEAR"],
+        "optional_terms": ["PRO-V", "INTENSA", "PARA","240"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435118583"
     },
     {
         "mandatory_terms": ["PANTENE", "EQUILIBRIO", "SHAMPOO", "510"],
@@ -4006,8 +4118,8 @@
         "ean": "7500435243506"
     },
     {
-        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "SERUM", "95"],
-        "optional_terms": ["PRO-V", "MIRACLES", "REVITALIZADOR"],
+        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "SERUM" ],
+        "optional_terms": ["PRO-V", "MIRACLES", "REVITALIZADOR","95"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435212335"
@@ -4020,6 +4132,34 @@
         "ean": "7500435106405"
     },
     {
+        "mandatory_terms": ["PANTENE","RECONSTRUCAO", "AMPOLA","3"],
+        "optional_terms": ["PRO-V", "POTENCIALIZADOR", "RECONSTROI"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7506309889375"
+    },
+    {
+        "mandatory_terms": ["PANTENE","VOLUME", "MULTIPLIER"],
+        "optional_terms": ["PRO-V", "COLAGENO","PANTENOL", "BAMBU"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7506309889375"
+    },
+    {
+        "mandatory_terms": ["PANTENE","SHOT", "AMPOLA"],
+        "optional_terms": ["PRO-V", "AMPOLAS", "3","PODEROSA" , "15"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435146906"
+    },
+    {
+        "mandatory_terms": ["PANTENE","HIDRATACAO", "3"],
+        "optional_terms": ["PRO-V", "AMPOLAS", "3","REVITALIZADORA" ,"UNIDADES", "15"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7506309889399"
+    },
+    {
         "mandatory_terms": ["PANTENE","NUTRICAO","UMECTANTE"],
         "optional_terms": ["PRO-V", "AMPOLAS", "3", "UNIDADES", "15"],
         "brand": "PANTENE",
@@ -4028,10 +4168,10 @@
     },
     {
         "mandatory_terms": ["PANTENE","RECONSTRUCAO"],
-        "optional_terms": ["PRO-V", "AMPOLAS", "3","REVITALIZADORA" ,"UNIDADES", "15"],
+        "optional_terms": ["PRO-V","NUTRI" ,"UNIDADES", "15"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
-        "ean": "7506309889375"
+        "ean": "7506309889368"
     },
     {
         "mandatory_terms": ["PANTENE", "CACHOS", "SHAMPOO", "400"],
@@ -4049,7 +4189,7 @@
     },
     {
         "mandatory_terms": ["PANTENE", "CACHOS", "CONDICIONADOR", "400"],
-        "optional_terms": ["PRO-V", "HIDRA-VITAMINADOS"],
+        "optional_terms": ["PRO-V", "HIDRA-VITAMINADOS","DEFINIDOS","OLEO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7501001165321"
@@ -4076,6 +4216,13 @@
         "ean": "7500435128926"
     },
     {
+        "mandatory_terms": ["PANTENE", "MICELAR", "CONDICIONADOR", "175"],
+        "optional_terms": ["PRO-V", "PURIFICA", "HIDRATA"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435128940"
+    },
+    {
         "mandatory_terms": ["PANTENE", "MICELAR", "CONDICIONADOR", "400"],
         "optional_terms": ["PRO-V", "PURIFICA", "HIDRATA"],
         "brand": "PANTENE",
@@ -4095,6 +4242,13 @@
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435125307"
+    },
+    {
+        "mandatory_terms": ["PANTENE", "MISTURINHA"],
+        "optional_terms": ["PRO-V", "BASE", "MISTURAS","270"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435146937"
     },
      {
         "mandatory_terms": ["SHAMPOO","OCTOPIROX","200ML"],
