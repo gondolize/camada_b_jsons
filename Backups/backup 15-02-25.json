@@ -4283,13 +4283,6 @@
         "ean": "7190000000019"
     },
     {
-        "mandatory_terms": ["ORIGEM"],
-        "optional_terms": ["ORIGEM"],
-        "brand": "ORIGEM",
-        "ean_brand": "7180000000018",
-        "ean": "7180000000018"
-    },
-    {
         "mandatory_terms": ["NOVEX"],
         "optional_terms": ["NOVEX"],
         "brand": "NOVEX",
@@ -4358,13 +4351,6 @@
         "brand": "GOTA",
         "ean_brand": "7260000000026",
         "ean": "7260000000026"
-    },
-    {
-        "mandatory_terms": ["SEDA"],
-        "optional_terms": ["SEDA"],
-        "brand": "SEDA",
-        "ean_brand": "7900000000009",
-        "ean": "7900000000009"
     },
     {
         "mandatory_terms": ["HEDERA"],
@@ -4444,22 +4430,22 @@
         "ean": "7360000000036"
     },
     {
-        "mandatory_terms": ["OX", "HIDRATA"],
-        "optional_terms": ["DESIDRATADOS"],
-        "brand": "OX",
-        "ean_brand": "7140000000014",
-        "ean": "7140000000014"
+        "mandatory_terms": ["ORIGEM"],
+        "optional_terms": ["ORIGEM"],
+        "brand": "ORIGEM",
+        "ean_brand": "7180000000018",
+        "ean": "7180000000018"
     },
     {
-        "mandatory_terms": ["OX", "RESTAURA"],
-        "optional_terms": ["QUEBRADICOS"],
-        "brand": "OX",
-        "ean_brand": "7140000000014",
-        "ean": "7140000000014"
+        "mandatory_terms": ["SEDA"],
+        "optional_terms": ["SEDA"],
+        "brand": "SEDA",
+        "ean_brand": "7900000000009",
+        "ean": "7900000000009"
     },
-    {
-        "mandatory_terms": ["OX", "LISOS"],
-        "optional_terms": ["CABELOS"],
+     {
+        "mandatory_terms": [" OX "],
+        "optional_terms": [" OX "],
         "brand": "OX",
         "ean_brand": "7140000000014",
         "ean": "7140000000014"
