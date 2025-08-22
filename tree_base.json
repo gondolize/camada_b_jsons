@@ -205,7 +205,7 @@
         "ean": "7500435146937"
     },
     {
-        "mandatory_terms": ["KIT", "PROMOCIONAL", "PANTENE", "BIOTINAMINA", "ANTIQUEDA"],
+        "mandatory_terms": ["KIT", "PROMOCIONAL", "PANTENE", "BIOTINAMINA"],
         "brand": "PANTENE",
         "ean": "7500435253598"
     },
@@ -495,12 +495,12 @@
         "ean": "7500435212335"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "BIOTINAMINA B3", "SHAMPOO", "510"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "SHAMPOO", "510"],
         "brand": "PANTENE",
         "ean": "7500435248068"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "BIOTINAMINA", "SHAMPOO", "300"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "SHAMPOO", "300"],
         "brand": "PANTENE",
         "ean": "7500435248143"
     },
@@ -510,17 +510,17 @@
         "ean": "7500435248136"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "BIOTINAMINA", "CONDICIONADOR", "510"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "CONDICIONADOR", "510"],
         "brand": "PANTENE",
         "ean": "7500435248051"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "BIOTINAMINA", "CONDICIONADOR", "250"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "CONDICIONADOR", "250"],
         "brand": "PANTENE",
         "ean": "7500435248167"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "BIOTINAMINA", "CONDICIONADOR", "150"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "CONDICIONADOR", "150"],
         "brand": "PANTENE",
         "ean": "7500435248174"
     },
@@ -530,7 +530,7 @@
         "ean": "7500435248181"
     },
     {
-        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "ANTIQUEDA", "TONICO", "CAPILAR"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "TONICO", "CAPILAR"],
         "brand": "PANTENE",
         "ean": "7500435247917"
     },
@@ -593,11 +593,7 @@
         "brand": "PANTENE",
         "ean": "7506309889375,7506309889368"
     },
-    {
-        "mandatory_terms": ["KIT", "PROMOCIONAL", "PANTENE"],
-        "brand": "PANTENE",
-        "ean": "7500435233644,7500435200301,7500435215565"
-    },
+    
     {
         "mandatory_terms": ["KIT", "DESCONTO", "PANTENE", "LONGO", "FORTE", "175"],
         "brand": "PANTENE",
@@ -606,12 +602,12 @@
     {
         "mandatory_terms": ["KIT", "PROMOCIONAL", "PANTENE"],
         "brand": "PANTENE",
-        "ean": "7500435253598,7500435233644,7500435200301,7500435215565"
+        "ean": "7500435253598,7500435233644,7500435200301,7500435215565,7500435169363"
     },
     {
         "mandatory_terms": ["KIT", "DESCONTO", "PANTENE"],
         "brand": "PANTENE",
-        "ean": "7500435199780,7500435188227,7500435169387,7500435128384,7500435169363,7500435169370,7500435128391,7500435128360,7500435128353,7500435169356,7500435128346"
+        "ean": "7500435199780,7500435188227,7500435169387,7500435128384,7500435169370,7500435128391,7500435128360,7500435128353,7500435169356,7500435128346"
     },
     {
         "mandatory_terms": ["PANTENE", "RESTAURACAO", "SHAMPOO"],
@@ -714,7 +710,7 @@
         "ean": "7500435248051,7500435248167,7500435248174"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "BIOTINAMINA"],
+        "mandatory_terms": ["PANTENE","BIOTINAMINA"],
         "brand": "PANTENE",
         "ean": "7500435248068,7500435248143,7500435248136,7500435248051,7500435248167,7500435248174,7500435248181,7500435247917"
     },
