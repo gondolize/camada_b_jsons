@@ -345,42 +345,42 @@
         "ean": "7500435154307"
     },    
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "COLAGENO", "SHAMPOO", "510"],
+        "mandatory_terms": ["PANTENE", "COLAGENO", "SHAMPOO", "510"],
         "brand": "PANTENE",
         "ean": "7500435151498"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "COLAGENO", "SHAMPOO", "300"],
+        "mandatory_terms": ["PANTENE", "COLAGENO", "SHAMPOO", "300"],
         "brand": "PANTENE",
         "ean": "7500435196987"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "COLAGENO", "SHAMPOO", "175"],
+        "mandatory_terms": ["PANTENE", "COLAGENO", "SHAMPOO", "175"],
         "brand": "PANTENE",
         "ean": "7500435196970"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "COLAGENO", "SHAMPOO", "1"],
+        "mandatory_terms": ["PANTENE", "COLAGENO", "SHAMPOO", "1"],
         "brand": "PANTENE",
         "ean": "7500435243117"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "COLAGENO", "CONDICIONADOR", "510"],
+        "mandatory_terms": ["PANTENE", "COLAGENO", "CONDICIONADOR", "510"],
         "brand": "PANTENE",
         "ean": "7500435151504"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "COLAGENO", "CONDICIONADOR", "250"],
+        "mandatory_terms": ["PANTENE", "COLAGENO", "CONDICIONADOR", "250"],
         "brand": "PANTENE",
         "ean": "7500435197007"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "COLAGENO", "CONDICIONADOR", "150"],
+        "mandatory_terms": ["PANTENE", "COLAGENO", "CONDICIONADOR", "150"],
         "brand": "PANTENE",
         "ean": "7500435196994"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "COLAGENO", "CONDICIONADOR", "1"],
+        "mandatory_terms": ["PANTENE", "COLAGENO", "CONDICIONADOR", "1"],
         "brand": "PANTENE",
         "ean": "7500435243490"
     },
@@ -390,47 +390,47 @@
         "ean": "7500435197014"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "COLAGENO", "CREME", "PARA", "PENTEAR", "240"],
+        "mandatory_terms": ["PANTENE", "COLAGENO", "CREME", "PENTEAR"],
         "brand": "PANTENE",
-        "ean": "7500435136952"
+        "ean": "7500435251976"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "QUERATINA", "SHAMPOO", "510"],
+        "mandatory_terms": ["PANTENE", "QUERATINA", "SHAMPOO", "510"],
         "brand": "PANTENE",
         "ean": "7500435232838"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "QUERATINA", "SHAMPOO", "300"],
+        "mandatory_terms": ["PANTENE", "QUERATINA", "SHAMPOO", "300"],
         "brand": "PANTENE",
         "ean": "7500435232814"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "QUERATINA", "SHAMPOO", "175"],
+        "mandatory_terms": ["PANTENE", "QUERATINA", "SHAMPOO", "175"],
         "brand": "PANTENE",
         "ean": "7500435232777"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "QUERATINA", "SHAMPOO", "1"],
+        "mandatory_terms": ["PANTENE", "QUERATINA", "SHAMPOO", "1L"],
         "brand": "PANTENE",
         "ean": "7500435243124"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "QUERATINA", "CONDICIONADOR", "510"],
+        "mandatory_terms": ["PANTENE", "QUERATINA", "CONDICIONADOR", "510"],
         "brand": "PANTENE",
         "ean": "7500435232821"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "QUERATINA", "CONDICIONADOR", "250"],
+        "mandatory_terms": ["PANTENE", "QUERATINA", "CONDICIONADOR", "250"],
         "brand": "PANTENE",
         "ean": "7500435232807"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "QUERATINA", "CONDICIONADOR", "150"],
+        "mandatory_terms": ["PANTENE", "QUERATINA", "CONDICIONADOR", "150"],
         "brand": "PANTENE",
         "ean": "7500435232784"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "QUERATINA", "CONDICIONADOR", "1"],
+        "mandatory_terms": ["PANTENE", "QUERATINA", "CONDICIONADOR", "1"],
         "brand": "PANTENE",
         "ean": "7500435243513"
     },
@@ -445,47 +445,47 @@
         "ean": "7500435240512"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "QUERATINA", "CREME", "PARA", "PENTEAR", "240"],
+        "mandatory_terms": ["PANTENE", "QUERATINA", "CREME", "PENTEAR"],
         "brand": "PANTENE",
         "ean": "7500435251969"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "EQUILIBRIO", "SHAMPOO", "510"],
+        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "SHAMPOO", "510"],
         "brand": "PANTENE",
         "ean": "7500435209748"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "EQUILIBRIO", "SHAMPOO", "300"],
+        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "SHAMPOO", "300"],
         "brand": "PANTENE",
         "ean": "7500435209304"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "EQUILIBRIO", "SHAMPOO", "175"],
+        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "SHAMPOO", "175"],
         "brand": "PANTENE",
         "ean": "7500435209342"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "EQUILIBRIO", "SHAMPOO", "1"],
+        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "SHAMPOO", "1"],
         "brand": "PANTENE",
         "ean": "7500435243100"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "EQUILIBRIO", "CONDICIONADOR", "510"],
+        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "CONDICIONADOR", "510"],
         "brand": "PANTENE",
         "ean": "7500435209755"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "EQUILIBRIO", "CONDICIONADOR", "250"],
+        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "CONDICIONADOR", "250"],
         "brand": "PANTENE",
         "ean": "7500435209311"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "EQUILIBRIO", "CONDICIONADOR", "150"],
+        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "CONDICIONADOR", "150"],
         "brand": "PANTENE",
         "ean": "7500435209335"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "EQUILIBRIO", "CONDICIONADOR", "1"],
+        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "CONDICIONADOR", "1"],
         "brand": "PANTENE",
         "ean": "7500435243506"
     },
@@ -678,9 +678,9 @@
         "ean": "7500435151504,7500435197007,7500435196994,7500435243490"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "COLAGENO"],
+        "mandatory_terms": ["PANTENE", "COLAGENO"],
         "brand": "PANTENE",
-        "ean": "7500435151498,7500435196987,7500435196970,7500435243117,7500435151504,7500435197007,7500435196994,7500435243490,7500435197014,7500435136952"
+        "ean": "7500435151498,7500435251976,7500435196987,7500435196970,7500435243117,7500435151504,7500435197007,7500435196994,7500435243490,7500435197014,7500435136952"
     },
     {
         "mandatory_terms": ["PANTENE", "QUERATINA", "SHAMPOO"],
@@ -688,7 +688,7 @@
         "ean": "7500435232838,7500435232814,7500435232777,7500435243124"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "QUERATINA", "CONDICIONADOR"],
+        "mandatory_terms": ["PANTENE", "QUERATINA", "CONDICIONADOR"],
         "brand": "PANTENE",
         "ean": "7500435232821,7500435232807,7500435232784,7500435243513"
     },
@@ -703,12 +703,12 @@
         "ean": "7500435209748,7500435209304,7500435209342,7500435243100,7500435209755,7500435209311,7500435209335,7500435243506,7500435212335"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "BIOTINAMINA", "SHAMPOO"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "SHAMPOO"],
         "brand": "PANTENE",
         "ean": "7500435248068,7500435248143,7500435248136"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "BIOTINAMINA", "CONDICIONADOR"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "CONDICIONADOR"],
         "brand": "PANTENE",
         "ean": "7500435248051,7500435248167,7500435248174"
     },
