@@ -10,12 +10,12 @@
         "ean": "7500435188227"
     },
     {
-        "mandatory_terms": ["KIT", "PANTENE", "HIRO", "CAUTERIZACAO"],
+        "mandatory_terms": ["KIT", "PANTENE", "HIDRO-CAUTERIZACAO","350"],
         "brand": "PANTENE",
         "ean": "7500435169387"
     },
     {
-        "mandatory_terms": ["KIT", "PANTENE", "HIDRO", "CAUTERIZACAO"],
+        "mandatory_terms": ["KIT", "PANTENE", "HIDRO-CAUTERIZACAO","175"],
         "brand": "PANTENE",
         "ean": "7500435128384"
     },
@@ -45,12 +45,12 @@
         "ean": "7500435128353"
     },
     {
-        "mandatory_terms": ["KIT", "PANTENE", "RESTAURACAO"],
+        "mandatory_terms": ["KIT", "PANTENE", "RESTAURACAO","350"],
         "brand": "PANTENE",
         "ean": "7500435169356"
     },
     {
-        "mandatory_terms": ["KIT", "PANTENE", "RESTAURACAO"],
+        "mandatory_terms": ["KIT", "PANTENE", "RESTAURACAO","175"],
         "brand": "PANTENE",
         "ean": "7500435128346"
     },
@@ -435,7 +435,7 @@
         "ean": "7500435243513"
     },
     {
-        "mandatory_terms": ["PANTENE", "MIRACLES", "QUERATINA", "MULTIBENEFICIOS", "160"],
+        "mandatory_terms": ["PANTENE", "QUERATINA", "SPRAY"],
         "brand": "PANTENE",
         "ean": "7500435240529"
     },
@@ -586,7 +586,7 @@
     {
         "mandatory_terms": ["PANTENE", "HIDRO-CAUTERIZACAO"],
         "brand": "PANTENE",
-        "ean": "7506309840581,7500435125390,7500435125406,7506309840024"
+        "ean": "7506309840581,7500435125390,7500435125406,7506309840024,7500435169387"
     },
     {
         "mandatory_terms": ["PANTENE", "RECONSTRUCAO"],
