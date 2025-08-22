@@ -659,6 +659,16 @@
         "ean": "7500435154239,7500435154222"
     },
     {
+        "mandatory_terms": ["PANTENE", "BAMBU", "CONDICIONADOR"],
+        "brand": "PANTENE",
+        "ean": "7500435154260,7500435154277"
+    },
+    {
+        "mandatory_terms": ["PANTENE", "BAMBU"],
+        "brand": "PANTENE",
+        "ean": "7500435188227,7500435154284,7500435154291,7500435154307,7500435154260,7500435154277,7500435154222,7500435154239"
+    },
+    {
         "mandatory_terms": ["PANTENE", "COLAGENO", "SHAMPOO"],
         "brand": "PANTENE",
         "ean": "7500435151498,7500435196987,7500435196970,7500435243117"
