@@ -1,6 +1,327 @@
 [  
     
-   
+    {
+        "mandatory_terms": ["OX","VITA","GLOW", "SHAMPOO","500"],
+        "optional_terms": ["CABELOS", "RESSECADOS","ENFRAQUECIDOS"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324405149"
+    },
+    {
+        "mandatory_terms": ["OX","MICELAR","CONDICIONADOR","500"],
+        "optional_terms": ["CABELOS", "RESSECADOS","RAIZ", "OLEOSA"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324404791"
+    },
+    {
+        "mandatory_terms": ["OX","MICELAR","SHAMPOO","500"],
+        "optional_terms": ["CABELOS", "RESSECADOS","RAIZ", "OLEOSA"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324404807"
+    },
+    {
+        "mandatory_terms": ["OX","LISOS", "CONDICIONADOR","400"],
+        "optional_terms": ["CABELOS","FRIZZ","INDISCIPLINADOS"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7897664168268"
+    },
+    {
+        "mandatory_terms": ["OX","LISOS", "SHAMPOO","400"],
+        "optional_terms": ["CABELOS","FRIZZ","INDISCIPLINADOS"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7897664168237"
+    },
+    {
+        "mandatory_terms": ["OX","COLAGENO","SHAMPOO","500"],
+        "optional_terms": ["CABELOS","POROSOS","QUEBRADICOS"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324404746"
+    },
+    {
+        "mandatory_terms": ["OX","NUTRE","SHAMPOO","400"],
+        "optional_terms": ["CABELOS","RESSECADOS","BRILHO"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7897664168213"
+    },
+    {
+        "mandatory_terms": ["OX","VITA","GLOW", "MASCARA"],
+        "optional_terms": ["TRATAMENTO","CABELOS", "RESSECADOS","ENFRAQUECIDOS"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324405163"
+    },
+    {
+        "mandatory_terms": ["OX","HIALURONICO","SHAMPOO","500"],
+        "optional_terms": ["FIOS", "DESITRATADOS","OPACOS"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324404784"
+    },
+    {
+        "mandatory_terms": ["OX","COLAGENO","CONDICIONADOR","500"],
+        "optional_terms": ["CABELOS","POROSOS","DANIFICADOS"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324404739"
+    },
+    {
+        "mandatory_terms": ["OX","HIALURONICO","CONDICIONADOR","500"],
+        "optional_terms": ["FIOS", "DESITRATADOS","OPACOS"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324404777"
+    },
+    {
+        "mandatory_terms": ["OX","RESTAURA","CONDICIONADOR","400"],
+        "optional_terms": ["CABELOS","FRACOS","QUEBRADICOS"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7897664168251"
+    },
+    {
+        "mandatory_terms": ["OX","RESTAURA","SHAMPOO","400"],
+        "optional_terms": ["CABELOS","FRACOS","QUEBRADICOS"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7897664168220"
+    },
+    {
+        "mandatory_terms": ["OX","RESTAURA","MASCARA"],
+        "optional_terms": ["TRATAMENTO","CABELOS","FRACOS","QUEBRADICOS"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7897664169692"
+    },
+    {
+        "mandatory_terms": ["OX","HIALURONICO","CONDICIONADOR","240"],
+        "optional_terms": ["FIOS", "DESITRATADOS","OPACOS"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324402490"
+    },
+    {
+        "mandatory_terms": ["OX","VITA","GLOW", "CONDICIONADOR","500"],
+        "optional_terms": ["CABELOS", "RESSECADOS","ENFRAQUECIDOS"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324405156"
+    },
+    {
+        "mandatory_terms": ["OX","GLICOLICO","MASCARA"],
+        "optional_terms": ["7","CABELOS","POROSOS","BRILHO"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324408720"
+    },
+    {
+        "mandatory_terms": ["OX","LONGOS","CONDICIONADOR","400"],
+        "optional_terms": ["FIOS","ENFRAQUECIDOS","LONGOS"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324404234"
+    },
+    {
+        "mandatory_terms": ["OX","GLICOLICO","SHAMPOO","500"],
+        "optional_terms": ["CABELOS","POROSOS","BRILHO","4"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324408706"
+    },
+    {
+        "mandatory_terms": ["OX","NUTRE","CONDICIONADOR","400"],
+        "optional_terms": ["CABELOS","RESSECADOS","BRILHO"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7897664168244"
+    },
+    {
+        "mandatory_terms": ["OX","TONICO"],
+        "optional_terms": ["FORTALECEDOR","BLEND","VITA","GLOW"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324405118"
+    },
+    {
+        "mandatory_terms": ["OX","COLAGENO","CONDICIONADOR","240"],
+        "optional_terms": ["CABELOS","POROSOS","DANIFICADOS"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324404135"
+    },
+    {
+        "mandatory_terms": ["OX","LONGOS","SHAMPOO","400"],
+        "optional_terms": ["FIOS","ENFRAQUECIDOS","LONGOS"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324404241"
+    },
+    {
+        "mandatory_terms": ["OX","NUTRE","SHAMPOO","200"],
+        "optional_terms": ["CABELOS","RESSECADOS","BRILHO"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7896916782337"
+    },
+    {
+        "mandatory_terms": ["OX","GLICOLICO","CONDICIONADOR","500"],
+        "optional_terms": ["CABELOS","POROSOS","BRILHO","5"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324408713"
+    },
+    {
+        "mandatory_terms": ["OX","LISOS", "CONDICIONADOR","200"],
+        "optional_terms": ["CABELOS","FRIZZ","INDISCIPLINADOS"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7896916782276"
+    },
+    {
+        "mandatory_terms": ["OX","PRECO","ESPECIAL","LISOS"],
+        "optional_terms": ["LISOS","SHAMPOO","CONDICIONADOR"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324400861"
+    },
+    {
+        "mandatory_terms": ["OX","NUTRE","CONDICIONADOR","200"],
+        "optional_terms": ["CABELOS","RESSECADOS","BRILHO"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7896916782344"
+    },
+    {
+        "mandatory_terms": ["OX","VITA","GLOW", "SERUM"],
+        "optional_terms": ["RECONSTRUTOR","PROTECAO","TERMICA"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324405101"
+    },
+    {
+        "mandatory_terms": ["OX","NUTRICAO","MASCARA"],
+        "optional_terms": ["TRATAMENTO","BRILHO","FIOS"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7896916782368"
+    },
+    {
+        "mandatory_terms": ["OX","COLAGENO","SERUM"],
+        "optional_terms": ["TRATAMENTO","NOTURNO","COLAGENO"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324408560"
+    },
+    {
+        "mandatory_terms": ["OX","HIDRATA","SHAMPOO", "400"],
+        "optional_terms": ["CABELOS","DESITRATADOS","MOVIMENTO"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324406160"
+    },
+    {
+        "mandatory_terms": ["OX","MICELAR","CONDICIONADOR","240"],
+        "optional_terms": ["CABELOS", "RESSECADOS","RAIZ", "OLEOSA"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324404166"
+    },
+    {
+        "mandatory_terms": ["OX","NUTRE"],
+        "optional_terms": ["OLEO","NUTRITIVO","ESSENCIAIS","120"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324406726"
+    },
+    {
+        "mandatory_terms": ["OX","MEN","ANTICASPA","SHAMPOO"],
+        "optional_terms": ["400","MENTOL","COMBATE"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324405576"
+    },
+    {
+        "mandatory_terms": ["OX","GLICOLICO","ACIDIFICANTE"],
+        "optional_terms": ["TRATAMENTO","CABELOS","POROSOS","BRILHO"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324408744"
+    },
+    {
+        "mandatory_terms": ["OX","HIDRATA","CONDICIONADOR", "400"],
+        "optional_terms": ["CABELOS","DESITRATADOS","MOVIMENTO"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324406184"
+    },
+    {
+        "mandatory_terms": ["OX","VITA","GLOW", "CONDICIONADOR","240"],
+        "optional_terms": ["CABELOS", "RESSECADOS","ENFRAQUECIDOS"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324405132"
+    },
+    {
+        "mandatory_terms": ["OX","PRECO","ESPECIAL","HIDRATA"],
+        "optional_terms": ["SHAMPOO","CONDICIONADOR","HIDRATA"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324406399"
+    },
+    {
+        "mandatory_terms": ["OX","HIALURONICO","MASCARA"],
+        "optional_terms": ["TRATAMENTO","FIOS","DESITRATADOS","OPACOS"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324402537"
+    },
+    {
+        "mandatory_terms": ["OX","PRECO","ESPECIAL","MICELAR"],
+        "optional_terms": ["SHAMPOO","CONDICIONADOR","MICELAR"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324404814"
+    },
+    {
+        "mandatory_terms": ["OX","HIDRATA", "MASCARA"],
+        "optional_terms": ["TRATAMENTO","CABELOS","DESITRATADOS","MOVIMENTO"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324406382"
+    },
+    {
+        "mandatory_terms": ["OX","MEN","ANTIQUEDA","SHAMPOO"],
+        "optional_terms": ["MENTOL","FORTALECENDO","NUTRE","400"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324405583"
+    },
+    {
+        "mandatory_terms": ["OX","MICELAR","SHAMPOO","240"],
+        "optional_terms": ["CABELOS", "RESSECADOS","RAIZ", "OLEOSA"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324404302"
+    },
+    {
+        "mandatory_terms": ["OX","NUTRE","MASCARA"],
+        "optional_terms": ["TRATAMENTO","CABELOS","RESSECADOS","BRILHO"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7897664169685"
+    },
+    {
+        "mandatory_terms": ["OX","VITA","GLOW", "REPARADOR"],
+        "optional_terms": ["OLEO","BLEND","60"],
+        "brand": "OX",
+        "ean_brand": "7140000000014",
+        "ean": "7908324405095"
+    },
     {
         "mandatory_terms": ["EUDORA", "SIAGE", "LISO", "INTENSO", "CONDICIONADOR"],
         "optional_terms": ["200", "200ML", "LISOS"],
