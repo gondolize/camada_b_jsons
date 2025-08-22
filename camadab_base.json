@@ -4785,6 +4785,34 @@
         "ean_brand": "7140000000014",
         "ean": "7140000000014"
     },
+     {
+        "mandatory_terms": ["GLADE"],
+        "optional_terms": ["GLADE"],
+        "brand": "GLADE",
+        "ean_brand": "7190000000111",
+        "ean": "7190000000111"
+    },
+    {
+        "mandatory_terms": ["COALA"],
+        "optional_terms": ["COALA"],
+        "brand": "COALA",
+        "ean_brand": "7190000000112",
+        "ean": "7190000000112"
+    },
+    {
+        "mandatory_terms": ["BOM","AR"],
+        "optional_terms": ["BOM", "AR"],
+        "brand": "BOM AR",
+        "ean_brand": "7190000000113",
+        "ean": "7190000000113"
+    },
+    {
+        "mandatory_terms": ["PURO","AR"],
+        "optional_terms": ["PURO", "AR"],
+        "brand": "PURO AR",
+        "ean_brand": "7190000000114",
+        "ean": "7190000000114"
+    },
     {
         "mandatory_terms": ["PANVEL"],
         "optional_terms": ["PANVEL"],
