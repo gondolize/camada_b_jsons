@@ -197,7 +197,7 @@
     {
         "mandatory_terms": ["PANTENE", "BRILHO", "CONDICIONADOR", "175"],
         "brand": "PANTENE",
-        "ean": "7500435125307"
+        "ean": "7501007457826"
     },
     {
         "mandatory_terms": ["PANTENE", "BRILHO", "CONDICIONADOR", "400"],
@@ -585,7 +585,11 @@
 
 
 
-
+    {
+        "mandatory_terms": ["PANTENE", "BRILHO"],
+        "brand": "PANTENE",
+        "ean": "7501007457796,7501007457789,7500435125307,7501007457826"
+    },
     {
         "mandatory_terms": ["PANTENE", "NUTRICAO"],
         "brand": "PANTENE",
@@ -723,7 +727,7 @@
         "ean": "7500435248068,7500435248143,7500435248136,7500435248051,7500435248167,7500435248174,7500435248181,7500435247917"
     },
     {
-        "mandatory_terms": ["PANTENE", "3 MINUTOS", "MILAGROSOS"],
+        "mandatory_terms": ["PANTENE", "3", "MINUTOS"],
         "brand": "PANTENE",
         "ean": "7500435106382,7500435116305,7500435106405"
     },
