@@ -97,6 +97,11 @@
     {
         "mandatory_terms": ["PANTENE", "MASCARA", "CONDICIONANTE"],
         "brand": "PANTENE",
+        "ean": "7500435241748"
+    },
+    {
+        "mandatory_terms": ["PANTENE", "MASCARA", "LIBERADA"],
+        "brand": "PANTENE",
         "ean": "7500435241724"
     },
     {
