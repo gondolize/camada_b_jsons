@@ -584,7 +584,11 @@
 
 
 
-
+    {
+        "mandatory_terms": ["PANTENE", "MASCARA"],
+        "brand": "PANTENE",
+        "ean": "7500435241724,7500435241748,7500435241731,7500435142236,7500435154284,7500435142243,7500435142229,7500435197014"
+    },
     {
         "mandatory_terms": ["PANTENE", "BRILHO"],
         "brand": "PANTENE",
