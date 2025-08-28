@@ -4754,6 +4754,17 @@
     },
     {
         "mandatory_terms": [
+            "CUP","NOODLES"
+        ],
+        "optional_terms": [
+            "CUP","NOODLES"
+        ],
+        "brand": "NISSIN",
+        "ean_brand": "7189999999989",
+        "ean": "7189999999989"
+    },
+    {
+        "mandatory_terms": [
             "NISSIN"
         ],
         "optional_terms": [
