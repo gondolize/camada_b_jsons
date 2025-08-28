@@ -4578,25 +4578,157 @@
         "ean_brand": "7350000000035",
         "ean": "7350000000035"
     },
+
+
+
+
+
+
+
+
+    {
+        "mandatory_terms": [
+            "NOVO FRESCOR"
+        ],
+        "optional_terms": [
+            "NOVO FRESCOR"
+        ],
+        "brand": "NOVO FRESCOR",
+        "ean_brand": "7189999999988",
+        "ean": "7189999999988"
+    },
+    {
+        "mandatory_terms": [
+            "GUIMARAES"
+        ],
+        "optional_terms": [
+            "GUIMARAES "
+        ],
+        "brand": "GUIMARAES",
+        "ean_brand": "7189999999990",
+        "ean": "7189999999990"
+    },
+    {
+        "mandatory_terms": [
+            "SORRISO"
+        ],
+        "optional_terms": [
+            "SORRISO"
+        ],
+        "brand": "SORRISO",
+        "ean_brand": "7189999999992",
+        "ean": "7189999999992"
+    },
+    {
+        "mandatory_terms": [
+            "LISTERINE"
+        ],
+        "optional_terms": [
+            "LISTERINE"
+        ],
+        "brand": "LISTERINE",
+        "ean_brand": "7189999999991",
+        "ean": "7189999999991"
+    },
+    {
+        "mandatory_terms": [
+            "NISSIN"
+        ],
+        "optional_terms": [
+            "NISSIN"
+        ],
+        "brand": "NISSIN",
+        "ean_brand": "7189999999989",
+        "ean": "7189999999989"
+    },
+    {
+        "mandatory_terms": [
+            "SENSODYNE"
+        ],
+        "optional_terms": [
+            "SENSODYNE"
+        ],
+        "brand": "SENSODYNE",
+        "ean_brand": "7189999999999",
+        "ean": "7189999999999"
+    },
+    {
+        "mandatory_terms": [
+            "BIC"
+        ],
+        "optional_terms": [
+            "BIC"
+        ],
+        "brand": "BIC",
+        "ean_brand": "7189999999998",
+        "ean": "7189999999998"
+    },
+    {
+        "mandatory_terms": [
+            "VANISH"
+        ],
+        "optional_terms": [
+            "VANISH"
+        ],
+        "brand": "VANISH",
+        "ean_brand": "7189999999997",
+        "ean": "7189999999997"
+    },
+    {
+        "mandatory_terms": [
+            "OLA"
+        ],
+        "optional_terms": [
+            "OLA"
+        ],
+        "brand": "OLA",
+        "ean_brand": "7189999999993",
+        "ean": "7189999999993"
+    },
+    {
+        "mandatory_terms": [
+            "SURF"
+        ],
+        "optional_terms": [
+            "SURF"
+        ],
+        "brand": "SURF",
+        "ean_brand": "7189999999995",
+        "ean": "7189999999995"
+    },
+    {
+        "mandatory_terms": [
+            "OMO"
+        ],
+        "optional_terms": [
+            "OMO"
+        ],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7189999999994"
+    },
     {
         "mandatory_terms": ["JAY"],
         "optional_terms": ["JAY"],
         "brand": "JAYLUC",
         "ean_brand": "7190000000019",
         "ean": "7190000000019"
-    },{
+    },
+    {
         "mandatory_terms": ["JAY'LUC"],
         "optional_terms": ["JAY'LUC", "'", "'", "JAY"],
         "brand": "JAYLUC",
         "ean_brand": "7190000000019",
         "ean": "7190000000019"
-    },{
+    },
+    {
         "mandatory_terms": ["JAYLUC"],
         "optional_terms": ["JAYLUC"],
         "brand": "JAYLUC",
         "ean_brand": "7190000000019",
         "ean": "7190000000019"
-    },{
+    },
+    {
         "mandatory_terms": ["JAY", "LUC"],
         "optional_terms": ["JAY", "LUC"],
         "brand": "JAYLUC",

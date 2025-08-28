@@ -1,0 +1,684 @@
+[
+    {
+        "mandatory_terms": [
+            "SENSODYNE"
+        ],
+        "optional_terms": [
+            "SENSODYNE"
+        ],
+        "brand": "SENSODYNE",
+        "ean_brand": "7189999999999",
+        "ean": "7189999999999"
+    },
+    {
+        "mandatory_terms": [
+            "BIC"
+        ],
+        "optional_terms": [
+            "BIC"
+        ],
+        "brand": "BIC",
+        "ean_brand": "7189999999998",
+        "ean": "7189999999998"
+    },
+    {
+        "mandatory_terms": [
+            "VANISH"
+        ],
+        "optional_terms": [
+            "VANISH"
+        ],
+        "brand": "VANISH",
+        "ean_brand": "7189999999997",
+        "ean": "7189999999997"
+    },
+    {
+        "mandatory_terms": [
+            "OLA"
+        ],
+        "optional_terms": [
+            "OLA"
+        ],
+        "brand": "OLA",
+        "ean_brand": "7189999999993",
+        "ean": "7189999999993"
+    },
+    {
+        "mandatory_terms": [
+            "SURF"
+        ],
+        "optional_terms": [
+            "SURF"
+        ],
+        "brand": "SURF",
+        "ean_brand": "7189999999995",
+        "ean": "7189999999995"
+    },
+    {
+        "mandatory_terms": [
+            "OMO"
+        ],
+        "optional_terms": [
+            "OMO"
+        ],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7189999999994"
+    },
+    {
+        "mandatory_terms": [
+            "SORRISO"
+        ],
+        "optional_terms": [
+            "SORRISO"
+        ],
+        "brand": "SORRISO",
+        "ean_brand": "7189999999992",
+        "ean": "7189999999992"
+    },
+    {
+        "mandatory_terms": [
+            "LISTERINE"
+        ],
+        "optional_terms": [
+            "LISTERINE"
+        ],
+        "brand": "LISTERINE",
+        "ean_brand": "7189999999991",
+        "ean": "7189999999991"
+    },
+    {
+        "mandatory_terms": [
+            "GUIMARAES"
+        ],
+        "optional_terms": [
+            "GUIMARAES "
+        ],
+        "brand": "GUIMARAES",
+        "ean_brand": "7189999999990",
+        "ean": "7189999999990"
+    },
+    {
+        "mandatory_terms": [
+            "NISSIN"
+        ],
+        "optional_terms": [
+            "NISSIN"
+        ],
+        "brand": "NISSIN",
+        "ean_brand": "7189999999989",
+        "ean": "7189999999989"
+    },
+    {
+        "mandatory_terms": [
+            "NOVO FRESCOR"
+        ],
+        "optional_terms": [
+            "NOVO FRESCOR"
+        ],
+        "brand": "NOVO FRESCOR",
+        "ean_brand": "7189999999988",
+        "ean": "7189999999988"
+    },
+    {
+        "mandatory_terms": [
+            "BRILHANTE"
+        ],
+        "optional_terms": [
+            "BRILHANTE"
+        ],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7189999999987"
+    },
+    {
+        "mandatory_terms": [
+            "BRILHA SUL"
+        ],
+        "optional_terms": [
+            "BRILHA SUL"
+        ],
+        "brand": "BRILHA SUL",
+        "ean_brand": "7189999999986",
+        "ean": "7189999999986"
+    },
+    {
+        "mandatory_terms": [
+            "ALVEX"
+        ],
+        "optional_terms": [
+            "ALVEX"
+        ],
+        "brand": "ALVEX",
+        "ean_brand": "7189999999985",
+        "ean": "7189999999985"
+    },
+    {
+        "mandatory_terms": [
+            "DYSSAN"
+        ],
+        "optional_terms": [
+            "DYSSAN"
+        ],
+        "brand": "DYSSAN",
+        "ean_brand": "7189999999984",
+        "ean": "7189999999984"
+    },
+    {
+        "mandatory_terms": [
+            "KLAREX"
+        ],
+        "optional_terms": [
+            "KLAREX"
+        ],
+        "brand": "KLAREX",
+        "ean_brand": "7189999999983",
+        "ean": "7189999999983"
+    },
+    {
+        "mandatory_terms": [
+            "MATACURA"
+        ],
+        "optional_terms": [
+            "MATACURA"
+        ],
+        "brand": "MATACURA",
+        "ean_brand": "7189999999982",
+        "ean": "7189999999982"
+    },
+    {
+        "mandatory_terms": [
+            "TACOLAC"
+        ],
+        "optional_terms": [
+            "TACOLAC"
+        ],
+        "brand": "TACOLAC",
+        "ean_brand": "7189999999981",
+        "ean": "7189999999981"
+    },
+    {
+        "mandatory_terms": [
+            "CASA KM"
+        ],
+        "optional_terms": [
+            "CASA KM"
+        ],
+        "brand": "CASA KM",
+        "ean_brand": "7189999999980",
+        "ean": "7189999999980"
+    },
+    {
+        "mandatory_terms": [
+            "PEROBA"
+        ],
+        "optional_terms": [
+            "PEROBA"
+        ],
+        "brand": "PEROBA",
+        "ean_brand": "7189999999979",
+        "ean": "7189999999979"
+    },
+    {
+        "mandatory_terms": [
+            "ZEPPELIN"
+        ],
+        "optional_terms": [
+            "ZEPPELIN"
+        ],
+        "brand": "ZEPPELIN",
+        "ean_brand": "7189999999978",
+        "ean": "7189999999978"
+    },
+    {
+        "mandatory_terms": [
+            "JIMO"
+        ],
+        "optional_terms": [
+            "JIMO"
+        ],
+        "brand": "JIMO",
+        "ean_brand": "7189999999977",
+        "ean": "7189999999977"
+    },
+    {
+        "mandatory_terms": [
+            "APLIK"
+        ],
+        "optional_terms": [
+            "APLIK"
+        ],
+        "brand": "APLIK",
+        "ean_brand": "7189999999976",
+        "ean": "7189999999976"
+    },
+    {
+        "mandatory_terms": [
+            "BEST LITE"
+        ],
+        "optional_terms": [
+            "BEST LITE"
+        ],
+        "brand": "BEST LITE",
+        "ean_brand": "7189999999975",
+        "ean": "7189999999975"
+    },
+    {
+        "mandatory_terms": [
+            "SULINO"
+        ],
+        "optional_terms": [
+            "SULINO"
+        ],
+        "brand": "SULINO",
+        "ean_brand": "7189999999974",
+        "ean": "7189999999974"
+    },
+    {
+        "mandatory_terms": [
+            "PERSONAL"
+        ],
+        "optional_terms": [
+            "PERSONAL"
+        ],
+        "brand": "PERSONAL",
+        "ean_brand": "7189999999973",
+        "ean": "7189999999973"
+    },
+    {
+        "mandatory_terms": [
+            "CLARA"
+        ],
+        "optional_terms": [
+            "CLARA"
+        ],
+        "brand": "CLARA",
+        "ean_brand": "7189999999972",
+        "ean": "7189999999972"
+    },
+    {
+        "mandatory_terms": [
+            "INSPIRA"
+        ],
+        "optional_terms": [
+            "INSPIRA"
+        ],
+        "brand": "INSPIRA",
+        "ean_brand": "7189999999971",
+        "ean": "7189999999971"
+    },
+    {
+        "mandatory_terms": [
+            "LYSOFORM"
+        ],
+        "optional_terms": [
+            "LYSOFORM"
+        ],
+        "brand": "LYSOFORM",
+        "ean_brand": "7189999999970",
+        "ean": "7189999999970"
+    },
+    {
+        "mandatory_terms": [
+            "FLORAX"
+        ],
+        "optional_terms": [
+            "FLORAX"
+        ],
+        "brand": "FLORAX",
+        "ean_brand": "7189999999969",
+        "ean": "7189999999969"
+    },
+    {
+        "mandatory_terms": [
+            "SANTO BRILHO"
+        ],
+        "optional_terms": [
+            "SANTO BRILHO"
+        ],
+        "brand": "SANTO BRILHO",
+        "ean_brand": "7189999999968",
+        "ean": "7189999999968"
+    },
+    {
+        "mandatory_terms": [
+            "BRILHOLAC"
+        ],
+        "optional_terms": [
+            "BRILHOLAC"
+        ],
+        "brand": "BRILHOLAC",
+        "ean_brand": "7189999999967",
+        "ean": "7189999999967"
+    },
+    {
+        "mandatory_terms": [
+            "GOTA LIMPA"
+        ],
+        "optional_terms": [
+            "GOTA LIMPA"
+        ],
+        "brand": "GOTA LIMPA",
+        "ean_brand": "7189999999966",
+        "ean": "7189999999966"
+    },
+    {
+        "mandatory_terms": [
+            "TAKLIM"
+        ],
+        "optional_terms": [
+            "TAKLIM"
+        ],
+        "brand": "TAKLIM",
+        "ean_brand": "7189999999965",
+        "ean": "7189999999965"
+    },
+    {
+        "mandatory_terms": [
+            "AQUAFAST"
+        ],
+        "optional_terms": [
+            "AQUAFAST"
+        ],
+        "brand": "AQUAFAST",
+        "ean_brand": "7189999999964",
+        "ean": "7189999999964"
+    },
+    {
+        "mandatory_terms": [
+            "COMFORT"
+        ],
+        "optional_terms": [
+            "COMFORT"
+        ],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7189999999963"
+    },
+    {
+        "mandatory_terms": [
+            "UAU"
+        ],
+        "optional_terms": [
+            "UAU"
+        ],
+        "brand": "UAU",
+        "ean_brand": "7189999999962",
+        "ean": "7189999999962"
+    },
+    {
+        "mandatory_terms": [
+            "RAMAR"
+        ],
+        "optional_terms": [
+            "RAMAR"
+        ],
+        "brand": "RAMAR",
+        "ean_brand": "7189999999961",
+        "ean": "7189999999961"
+    },
+    {
+        "mandatory_terms": [
+            "AR GRADÁVEL"
+        ],
+        "optional_terms": [
+            "AR GRADÁVEL"
+        ],
+        "brand": "AR GRADÁVEL",
+        "ean_brand": "7189999999960",
+        "ean": "7189999999960"
+    },
+    {
+        "mandatory_terms": [
+            "MILI"
+        ],
+        "optional_terms": [
+            "MILI"
+        ],
+        "brand": "MILI",
+        "ean_brand": "7189999999959",
+        "ean": "7189999999959"
+    },
+    {
+        "mandatory_terms": [
+            "DOBLE"
+        ],
+        "optional_terms": [
+            "DOBLE"
+        ],
+        "brand": "DOBLE",
+        "ean_brand": "7189999999958",
+        "ean": "7189999999958"
+    },
+    {
+        "mandatory_terms": [
+            "RAID"
+        ],
+        "optional_terms": [
+            "RAID"
+        ],
+        "brand": "RAID",
+        "ean_brand": "7189999999957",
+        "ean": "7189999999957"
+    },
+    {
+        "mandatory_terms": [
+            "MAT INSET"
+        ],
+        "optional_terms": [
+            "MAT INSET"
+        ],
+        "brand": "MAT INSET",
+        "ean_brand": "7189999999956",
+        "ean": "7189999999956"
+    },
+    {
+        "mandatory_terms": [
+            "MORTEIN"
+        ],
+        "optional_terms": [
+            "MORTEIN"
+        ],
+        "brand": "MORTEIN",
+        "ean_brand": "7189999999955",
+        "ean": "7189999999955"
+    },
+    {
+        "mandatory_terms": [
+            "SBP"
+        ],
+        "optional_terms": [
+            "SBP"
+        ],
+        "brand": "SBP",
+        "ean_brand": "7189999999954",
+        "ean": "7189999999954"
+    },
+    {
+        "mandatory_terms": [
+            "SAIF"
+        ],
+        "optional_terms": [
+            "SAIF"
+        ],
+        "brand": "SAIF",
+        "ean_brand": "7189999999953",
+        "ean": "7189999999953"
+    },
+    {
+        "mandatory_terms": [
+            "ESFREBOM"
+        ],
+        "optional_terms": [
+            "ESFREBOM"
+        ],
+        "brand": "ESFREBOM",
+        "ean_brand": "7189999999952",
+        "ean": "7189999999952"
+    },
+    {
+        "mandatory_terms": [
+            "SECAR"
+        ],
+        "optional_terms": [
+            "SECAR"
+        ],
+        "brand": "SECAR",
+        "ean_brand": "7189999999951",
+        "ean": "7189999999951"
+    },
+    {
+        "mandatory_terms": [
+            "YPÊ"
+        ],
+        "optional_terms": [
+            "YPÊ"
+        ],
+        "brand": "YPÊ",
+        "ean_brand": "7189999999950",
+        "ean": "7189999999950"
+    },
+    {
+        "mandatory_terms": [
+            "QBOA"
+        ],
+        "optional_terms": [
+            "QBOA"
+        ],
+        "brand": "QBOA",
+        "ean_brand": "7189999999949",
+        "ean": "7189999999949"
+    },
+    {
+        "mandatory_terms": [
+            "LADY PRIME"
+        ],
+        "optional_terms": [
+            "LADY PRIME"
+        ],
+        "brand": "LADY PRIME",
+        "ean_brand": "7189999999948",
+        "ean": "7189999999948"
+    },
+    {
+        "mandatory_terms": [
+            "WIDI CARE"
+        ],
+        "optional_terms": [
+            "WIDI CARE"
+        ],
+        "brand": "WIDI CARE",
+        "ean_brand": "7189999999947",
+        "ean": "7189999999947"
+    },
+    {
+        "mandatory_terms": [
+            "KAMALẼAO COLOR"
+        ],
+        "optional_terms": [
+            "KAMALẼAO COLOR"
+        ],
+        "brand": "KAMALẼAO COLOR",
+        "ean_brand": "7189999999946",
+        "ean": "7189999999946"
+    },
+    {
+        "mandatory_terms": [
+            "FELPS PROFESSIONAL"
+        ],
+        "optional_terms": [
+            "FELPS PROFESSIONAL"
+        ],
+        "brand": "FELPS PROFESSIONAL",
+        "ean_brand": "7189999999945",
+        "ean": "7189999999945"
+    },
+    {
+        "mandatory_terms": [
+            "BRAÉ"
+        ],
+        "optional_terms": [
+            "BRAÉ"
+        ],
+        "brand": "BRAÉ",
+        "ean_brand": "7189999999944",
+        "ean": "7189999999944"
+    },
+    {
+        "mandatory_terms": [
+            "FOREVER LISS PROFESSIONAL"
+        ],
+        "optional_terms": [
+            "FOREVER LISS PROFESSIONAL"
+        ],
+        "brand": "FOREVER LISS PROFESSIONAL",
+        "ean_brand": "7189999999943",
+        "ean": "7189999999943"
+    },
+    {
+        "mandatory_terms": [
+            "ALFAPARFT MILANO"
+        ],
+        "optional_terms": [
+            "ALFAPARFT MILANO"
+        ],
+        "brand": "ALFAPARFT MILANO",
+        "ean_brand": "7189999999942",
+        "ean": "7189999999942"
+    },
+    {
+        "mandatory_terms": [
+            "LOWELL PROFESSIONAL"
+        ],
+        "optional_terms": [
+            "LOWELL PROFESSIONAL"
+        ],
+        "brand": "LOWELL PROFESSIONAL",
+        "ean_brand": "7189999999941",
+        "ean": "7189999999941"
+    },
+    {
+        "mandatory_terms": [
+            "HASKELL COSMÉTICA NATURAL"
+        ],
+        "optional_terms": [
+            "HASKELL COSMÉTICA NATURAL"
+        ],
+        "brand": "HASKELL COSMÉTICA NATURAL",
+        "ean_brand": "7189999999940",
+        "ean": "7189999999940"
+    },
+    {
+        "mandatory_terms": [
+            "TRUSS PROFESSIONAL"
+        ],
+        "optional_terms": [
+            "TRUSS PROFESSIONAL"
+        ],
+        "brand": "TRUSS PROFESSIONAL",
+        "ean_brand": "7189999999939",
+        "ean": "7189999999939"
+    },
+    {
+        "mandatory_terms": [
+            "DIMENSION"
+        ],
+        "optional_terms": [
+            "DIMENSION"
+        ],
+        "brand": "DIMENSION",
+        "ean_brand": "7189999999938",
+        "ean": "7189999999938"
+    },
+    {
+        "mandatory_terms": [
+            "PLUSH"
+        ],
+        "optional_terms": [
+            "PLUSH"
+        ],
+        "brand": "PLUSH",
+        "ean_brand": "7189999999937",
+        "ean": "7189999999937"
+    }
+]
