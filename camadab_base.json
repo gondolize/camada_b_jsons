@@ -1,8 +1,8 @@
 [  
     
     {
-        "mandatory_terms": ["NISSIN","CUP","NOODLES","GALINHA", "CAIPIRA"],
-        "optional_terms": ["SABOR","GALINHA", "CAIPIRA"],
+        "mandatory_terms": ["CUP","NOODLES","GALINHA", "CAIPIRA"],
+        "optional_terms": ["SABOR","GALINHA", "CAIPIRA","NISSIN"],
         "brand": "NISSIN",
         "ean_brand": "7189999999989",
         "ean": "7891079013038"
@@ -15,15 +15,15 @@
         "ean": "7891079000229"
     },
     {
-        "mandatory_terms": ["NISSIN","CUP","NOODLES","COSTELA"],
-        "optional_terms": ["SABOR","COSTELA","CHURRASCO"],
+        "mandatory_terms": ["CUP","NOODLES","COSTELA"],
+        "optional_terms": ["SABOR","COSTELA","CHURRASCO","NISSIN"],
         "brand": "NISSIN",
         "ean_brand": "7189999999989",
         "ean": "7891079013083"
     },
     {
-        "mandatory_terms": ["NISSIN","CUP","NOODLES","CARNE"],
-        "optional_terms": ["SABOR","CARNE","DEFUMADA"],
+        "mandatory_terms": ["CUP","NOODLES","CARNE"],
+        "optional_terms": ["SABOR","CARNE","DEFUMADA","NISSIN"],
         "brand": "NISSIN",
         "ean_brand": "7189999999989",
         "ean": "7891079013052"
@@ -35,8 +35,8 @@
         "ean": "7891079000212"
     },
     {
-        "mandatory_terms": ["NISSIN","CUP","NOODLES","QUEIJO","NACHO"],
-        "optional_terms": ["SABOR","QUEIJO","NACHO"],
+        "mandatory_terms": ["CUP","NOODLES","QUEIJO","NACHO"],
+        "optional_terms": ["SABOR","QUEIJO","NACHO","NISSIN"],
         "brand": "NISSIN",
         "ean_brand": "7189999999989",
         "ean": "7891079013984"
@@ -54,8 +54,8 @@
         "ean_brand": "7189999999989",
         "ean": "7891079006009"
     },{
-        "mandatory_terms": ["NISSIN","CUP","NOODLES","PARMEGIANA"],
-        "optional_terms": ["SABOR","PARMEGIANA","CARNE"],
+        "mandatory_terms": ["CUP","NOODLES","PARMEGIANA"],
+        "optional_terms": ["SABOR","PARMEGIANA","CARNE","NISSIN"],
         "brand": "NISSIN",
         "ean_brand": "7189999999989",
         "ean": "7891079014233"
@@ -67,8 +67,8 @@
         "ean_brand": "7189999999989",
         "ean": "7891079013847"
     },{
-        "mandatory_terms": ["NISSIN","CUP","NOODLES","BOLONHESA"],
-        "optional_terms": ["SABOR","BOLONHESA"],
+        "mandatory_terms": ["CUP","NOODLES","BOLONHESA"],
+        "optional_terms": ["SABOR","BOLONHESA","NISSIN"],
         "brand": "NISSIN",
         "ean_brand": "7189999999989",
         "ean": "7891079013120"
