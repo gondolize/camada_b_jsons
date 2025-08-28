@@ -3,16 +3,16 @@ import os
 
 OUTPUT_FILE = "marcas.json"
 
-# Carrega lista existente se já houver
+# Carrega lista existente se já houver(OBS: NÃO EDITAR A LISTA EXISTENTE MARCAS.JSON)
 if os.path.exists(OUTPUT_FILE):
     with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
         marcas_data = json.load(f)
 else:
     marcas_data = []
 
-# Função para gerar um EAN fictício de 13 dígitos
+# Função para gerar um EAN fictício de 13 dígitos(NÃO MEXER)
 def gerar_ean(base=7190000000000, indice=1):
-    return str(base - indice)  # vai decrescendo (igual ao exemplo que você mandou)
+    return str(base - indice)  # Decrementa os eans para evitar duplicatas(NÃO MEXER)
 
 # Lista de novas marcas
 novas_marcas = ["Sorriso",

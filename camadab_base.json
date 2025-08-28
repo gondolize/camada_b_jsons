@@ -1,6 +1,118 @@
 [  
     
     {
+        "mandatory_terms": ["NISSIN","CUP","NOODLES","GALINHA", "CAIPIRA"],
+        "optional_terms": ["SABOR","GALINHA", "CAIPIRA"],
+        "brand": "NISSIN",
+        "ean_brand": "7189999999989",
+        "ean": "7891079013038"
+    },
+    {
+        "mandatory_terms": ["NISSIN","LAMEN","GALINHA", "CAIPIRA"],
+        "optional_terms": ["SABOR","GALINHA", "CAIPIRA"],
+        "brand": "NISSIN",
+        "ean_brand": "7189999999989",
+        "ean": "7891079000229"
+    },
+    {
+        "mandatory_terms": ["NISSIN","CUP","NOODLES","COSTELA"],
+        "optional_terms": ["SABOR","COSTELA","CHURRASCO"],
+        "brand": "NISSIN",
+        "ean_brand": "7189999999989",
+        "ean": "7891079013083"
+    },
+    {
+        "mandatory_terms": ["NISSIN","CUP","NOODLES","CARNE"],
+        "optional_terms": ["SABOR","CARNE","DEFUMADA"],
+        "brand": "NISSIN",
+        "ean_brand": "7189999999989",
+        "ean": "7891079013052"
+    },{
+        "mandatory_terms": ["NISSIN","LAMEN","GALINHA"],
+        "optional_terms": ["SABOR","GALINHA"],
+        "brand": "NISSIN",
+        "ean_brand": "7189999999989",
+        "ean": "7891079000212"
+    },
+    {
+        "mandatory_terms": ["NISSIN","CUP","NOODLES","QUEIJO","NACHO"],
+        "optional_terms": ["SABOR","QUEIJO","NACHO"],
+        "brand": "NISSIN",
+        "ean_brand": "7189999999989",
+        "ean": "7891079013984"
+    },{
+        "mandatory_terms": ["NISSIN","LAMEN","CARNE"],
+        "optional_terms": ["SABOR","CARNE"],
+        "brand": "NISSIN",
+        "ean_brand": "7189999999989",
+        "ean": "7891079000205"
+    },
+    {
+        "mandatory_terms": ["NISSIN","ESPAGUETE","INSTANTANEO"],
+        "optional_terms": ["PRONTO","EM","3","MINUTOS"],
+        "brand": "NISSIN",
+        "ean_brand": "7189999999989",
+        "ean": "7891079006009"
+    },{
+        "mandatory_terms": ["NISSIN","CUP","NOODLES","PARMEGIANA"],
+        "optional_terms": ["SABOR","PARMEGIANA","CARNE"],
+        "brand": "NISSIN",
+        "ean_brand": "7189999999989",
+        "ean": "7891079014233"
+    },
+    {
+        "mandatory_terms": ["NISSIN","YAKISSOBA","CARNE"],
+        "optional_terms": ["SABOR","CARNE","JAPONES"],
+        "brand": "NISSIN",
+        "ean_brand": "7189999999989",
+        "ean": "7891079013847"
+    },{
+        "mandatory_terms": ["NISSIN","CUP","NOODLES","BOLONHESA"],
+        "optional_terms": ["SABOR","BOLONHESA"],
+        "brand": "NISSIN",
+        "ean_brand": "7189999999989",
+        "ean": "7891079013120"
+    },
+    {
+        "mandatory_terms": ["NISSIN","MONICA","CARNE","SUAVE"],
+        "optional_terms": ["SABOR","CARNE","SUAVE"],
+        "brand": "NISSIN",
+        "ean_brand": "7189999999989",
+        "ean": "7891079001004"
+    },{
+        "mandatory_terms": ["NISSIN","YAKISSOBA","MACARRAO","INSTANTANEO"],
+        "optional_terms": ["PRONTO","EM","4","MINUTOS","500"],
+        "brand": "NISSIN",
+        "ean_brand": "7189999999989",
+        "ean": "7891079011515"
+    },
+    {
+        "mandatory_terms": ["NISSIN","ESPAGUETE","INSTANTANEO"],
+        "optional_terms": ["PRONTO","EM","5","MINUTOS","500"],
+        "brand": "NISSIN",
+        "ean_brand": "7189999999989",
+        "ean": "7891079006016"
+    },{
+        "mandatory_terms": ["NISSIN","LAMEN","CARNE","TOMATE"],
+        "optional_terms": ["SABOR","CARNE","TOMATE"],
+        "brand": "NISSIN",
+        "ean_brand": "7189999999989",
+        "ean": "7891079000311"
+    },
+    {
+        "mandatory_terms": ["NISSIN","LAMEN","BACON"],
+        "optional_terms": ["SABOR","BACON"],
+        "brand": "NISSIN",
+        "ean_brand": "7189999999989",
+        "ean": "7891079000250"
+    },{
+        "mandatory_terms": ["NISSIN","LAMEN","PICANHA"],
+        "optional_terms": ["SABOR","PICANHA"],
+        "brand": "NISSIN",
+        "ean_brand": "7189999999989",
+        "ean": "7891079011775"
+    },
+    {
         "mandatory_terms": ["OX","VITA","GLOW", "SHAMPOO","500"],
         "optional_terms": ["CABELOS", "RESSECADOS","ENFRAQUECIDOS"],
         "brand": "OX",
@@ -4585,7 +4697,17 @@
 
 
 
-
+    {
+        "mandatory_terms": [
+            "BRILHANTE"
+        ],
+        "optional_terms": [
+            "BRILHANTE"
+        ],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7189999999987"
+    },
     {
         "mandatory_terms": [
             "NOVO FRESCOR"
