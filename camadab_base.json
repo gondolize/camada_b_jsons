@@ -4710,10 +4710,10 @@
     },
     {
         "mandatory_terms": [
-            "NOVO FRESCOR"
+            "NOVO","FRESCOR"
         ],
         "optional_terms": [
-            "NOVO FRESCOR"
+            "NOVO","FRESCOR"
         ],
         "brand": "NOVO FRESCOR",
         "ean_brand": "7189999999988",
@@ -4809,17 +4809,6 @@
     },
     {
         "mandatory_terms": [
-            "OLA"
-        ],
-        "optional_terms": [
-            "OLA"
-        ],
-        "brand": "OLA",
-        "ean_brand": "7189999999993",
-        "ean": "7189999999993"
-    },
-    {
-        "mandatory_terms": [
             "SURF"
         ],
         "optional_terms": [
@@ -4828,17 +4817,6 @@
         "brand": "SURF",
         "ean_brand": "7189999999995",
         "ean": "7189999999995"
-    },
-    {
-        "mandatory_terms": [
-            "OMO"
-        ],
-        "optional_terms": [
-            "OMO"
-        ],
-        "brand": "OMO",
-        "ean_brand": "7189999999994",
-        "ean": "7189999999994"
     },
     {
         "mandatory_terms": ["JAY"],
@@ -5028,6 +5006,28 @@
         "brand": "SKALA",
         "ean_brand": "7360000000036",
         "ean": "7360000000036"
+    },
+    {
+        "mandatory_terms": [
+            "OMO"
+        ],
+        "optional_terms": [
+            "OMO"
+        ],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7189999999994"
+    },
+    {
+        "mandatory_terms": [
+            "OLA"
+        ],
+        "optional_terms": [
+            "OLA"
+        ],
+        "brand": "OLA",
+        "ean_brand": "7189999999993",
+        "ean": "7189999999993"
     },
     {
         "mandatory_terms": ["OX", "HIDRATA"],
