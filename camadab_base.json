@@ -4697,6 +4697,163 @@
 
 
 
+
+    
+
+    {
+        "mandatory_terms": [
+            "VULT"
+        ],
+        "optional_terms": [
+            "VULT"
+        ],
+        "brand": "VULT",
+        "ean_brand": "7400000000004",
+        "ean": "7400000000004"
+    },
+    {
+        "mandatory_terms": [
+            "PALMOLIVE"
+        ],
+        "optional_terms": [
+            "PALMOLIVE"
+        ],
+        "brand": "PALMOLIVE",
+        "ean_brand": "7100000000001",
+        "ean": "7100000000001"
+    },
+    {
+        "mandatory_terms": [
+            "HEAD","SHOULDERS"
+        ],
+        "optional_terms": [
+            "HEAD","SHOULDERS"
+        ],
+        "brand": "SHOULDERS",
+        "ean_brand": "7110000000008",
+        "ean": "7110000000008"
+    },
+    {
+        "mandatory_terms": [
+            "SHOULDERS"
+        ],
+        "optional_terms": [
+            "SHOULDERS"
+        ],
+        "brand": "SHOULDERS",
+        "ean_brand": "7110000000008",
+        "ean": "7110000000008"
+    },
+    {
+        "mandatory_terms": [
+            "EUDORA"
+        ],
+        "optional_terms": [
+            "EUDORA"
+        ],
+        "brand": "EUDORA",
+        "ean_brand": "7200000000002",
+        "ean": "7200000000002"
+    },
+    {
+        "mandatory_terms": [
+            "ELSEVE"
+        ],
+        "optional_terms": [
+            "ELSEVE"
+        ],
+        "brand": "ELSEVE",
+        "ean_brand": "7800000000002",
+        "ean": "7800000000002"
+    },
+    {
+        "mandatory_terms": [
+            "DOVE"
+        ],
+        "optional_terms": [
+            "DOVE"
+        ],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": "7891150000000"
+    },
+    {
+        "mandatory_terms": [
+            "DARLING"
+        ],
+        "optional_terms": [
+            "DARLING"
+        ],
+        "brand": "DARLING",
+        "ean_brand": "7130000000013",
+        "ean": "7130000000013"
+    },
+    {
+        "mandatory_terms": [
+            "DARLING"
+        ],
+        "optional_terms": [
+            "DARLING"
+        ],
+        "brand": "DARLING",
+        "ean_brand": "7130000000013",
+        "ean": "7130000000013"
+    },
+    {
+        "mandatory_terms": [
+            "CLEAR"
+        ],
+        "optional_terms": [
+            "CLEAR"
+        ],
+        "brand": "CLEAR",
+        "ean_brand": "7700000000007",
+        "ean": "7700000000007"
+    },
+    {
+        "mandatory_terms": [
+            "CLEAR"
+        ],
+        "optional_terms": [
+            "CLEAR"
+        ],
+        "brand": "CLEAR",
+        "ean_brand": "7700000000007",
+        "ean": "7700000000007"
+    },
+    {
+        "mandatory_terms": [
+            "ABOVE"
+        ],
+        "optional_terms": [
+            "ABOVE"
+        ],
+        "brand": "ABOVE",
+        "ean_brand": "7300000000003",
+        "ean": "7300000000003"
+    },
+    {
+        "mandatory_terms": [
+            "PANTENE"
+        ],
+        "optional_terms": [
+            "PANTENE"
+        ],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500000000001"
+    },
+    {
+        "mandatory_terms": [
+            "MONANGE"
+        ],
+        "optional_terms": [
+            "MONANGE"
+        ],
+        "brand": "MONANGE",
+        "ean_brand": "7500000000005",
+        "ean": "7500000000005"
+    },
     {
         "mandatory_terms": [
             "BRILHANTE"
