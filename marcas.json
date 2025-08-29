@@ -680,5 +680,16 @@
         "brand": "PLUSH",
         "ean_brand": "7189999999937",
         "ean": "7189999999937"
+    },
+    {
+        "mandatory_terms": [
+            "TESTE"
+        ],
+        "optional_terms": [
+            "TESTE"
+        ],
+        "brand": "TESTE",
+        "ean_brand": "7189999999937",
+        "ean": "7189999999937"
     }
 ]
