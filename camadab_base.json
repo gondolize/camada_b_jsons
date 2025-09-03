@@ -4700,6 +4700,45 @@
 
     
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "mandatory_terms": [
+            "DOWNY"
+        ],
+        "optional_terms": [
+            "DOWNY"
+        ],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7189999999936"
+    },
     {
         "mandatory_terms": [
             "VULT"

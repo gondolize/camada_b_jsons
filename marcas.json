@@ -691,6 +691,16 @@
         "brand": "TESTE",
         "ean_brand": "7189999999937",
         "ean": "7189999999937"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY"
+        ],
+        "optional_terms": [
+            "DOWNY"
+        ],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7189999999936"
     }
-    
 ]
