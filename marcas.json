@@ -529,12 +529,25 @@
     },
     {
         "mandatory_terms": [
-            "YPÊ"
+            "YPE",
+            "TYXAN"
         ],
         "optional_terms": [
-            "YPÊ"
+            "YPE",
+            "TYXAN"
         ],
-        "brand": "YPÊ",
+        "brand": "YPE",
+        "ean_brand": "7189999999950",
+        "ean": "7189999999950"
+    },
+    {
+        "mandatory_terms": [
+            "YPE"
+        ],
+        "optional_terms": [
+            "YPE"
+        ],
+        "brand": "YPE",
         "ean_brand": "7189999999950",
         "ean": "7189999999950"
     },
@@ -702,5 +715,93 @@
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7189999999936"
+    },
+    {
+        "mandatory_terms": [
+            "ARIEL"
+        ],
+        "optional_terms": [
+            "ARIEL"
+        ],
+        "brand": "ARIEL",
+        "ean_brand": "7189999999934",
+        "ean": "7189999999934"
+    },
+    {
+        "mandatory_terms": [
+            "GILLETE"
+        ],
+        "optional_terms": [
+            "GILLETE"
+        ],
+        "brand": "GILLETE",
+        "ean_brand": "7189999999933",
+        "ean": "7189999999933"
+    },
+    {
+        "mandatory_terms": [
+            "GIRANDOSOL"
+        ],
+        "optional_terms": [
+            "GIRANDOSOL"
+        ],
+        "brand": "GIRANDOSOL",
+        "ean_brand": "7189999999932",
+        "ean": "7189999999932"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS"
+        ],
+        "optional_terms": [
+            "PAMPERS"
+        ],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7189999999931"
+    },
+    {
+        "mandatory_terms": [
+            "OLDSPICE"
+        ],
+        "optional_terms": [
+            "OLDSPICE"
+        ],
+        "brand": "OLDSPICE",
+        "ean_brand": "7189999999930",
+        "ean": "7189999999930"
+    },
+    {
+        "mandatory_terms": [
+            "COLGATE"
+        ],
+        "optional_terms": [
+            "COLGATE"
+        ],
+        "brand": "COLGATE",
+        "ean_brand": "7189999999929",
+        "ean": "7189999999929"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS"
+        ],
+        "optional_terms": [
+            "ALWAYS"
+        ],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7189999999928"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B"
+        ],
+        "optional_terms": [
+            "ORAL-B"
+        ],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7189999999927"
     }
 ]
