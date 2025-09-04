@@ -5705,13 +5705,6 @@
         "ean": "7200000000020"
     },
     {
-        "mandatory_terms": ["AMEND"],
-        "optional_terms": ["AMEND"],
-        "brand": "AMEND",
-        "ean_brand": "7210000000021",
-        "ean": "7210000000021"
-    },
-    {
         "mandatory_terms": ["AUSSIE"],
         "optional_terms": ["AUSSIE"],
         "brand": "AUSSIE",
@@ -5872,6 +5865,13 @@
         "brand": "OX",
         "ean_brand": "7140000000014",
         "ean": "7140000000014"
+    },
+    {
+        "mandatory_terms": ["AMEND"],
+        "optional_terms": ["AMEND"],
+        "brand": "AMEND",
+        "ean_brand": "7210000000021",
+        "ean": "7210000000021"
     },
      {
         "mandatory_terms": ["GLADE"],
