@@ -12,7 +12,7 @@
         "optional_terms": ["CONCENTRADO","COMBATE","MANCHAS"],
         "brand": "ARIEL",
         "ean_brand": "7189999999934",
-        "ean": ""
+        "ean": "7500435115353"
     },
     {
         "mandatory_terms": ["ARIEL","DOWNY","1,2"],
@@ -5897,6 +5897,17 @@
         "brand": "LISTERINE",
         "ean_brand": "7189999999991",
         "ean": "7189999999991"
+    },
+    {
+        "mandatory_terms": [
+            "NOODLES"
+        ],
+        "optional_terms": [
+            "NOODLES"
+        ],
+        "brand": "NISSIN",
+        "ean_brand": "7189999999989",
+        "ean": "7189999999989"
     },
     {
         "mandatory_terms": [
