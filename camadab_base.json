@@ -1,4 +1,327 @@
 [  
+
+    {
+        "mandatory_terms": ["ARIEL","EXPERT","2"],
+        "optional_terms": ["CONCENTRADO","COMBATE","MANCHAS"],
+        "brand": "ARIEL",
+        "ean_brand": "7189999999934",
+        "ean": "7500435115315"
+    },
+    {
+        "mandatory_terms": ["ARIEL","EXPERT","1,2"],
+        "optional_terms": ["CONCENTRADO","COMBATE","MANCHAS"],
+        "brand": "ARIEL",
+        "ean_brand": "7189999999934",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["ARIEL","DOWNY","1,2"],
+        "optional_terms": ["TOQUE","SAEM","MANCHAS"],
+        "brand": "ARIEL",
+        "ean_brand": "7189999999934",
+        "ean": "7500435115827"
+    },
+    {
+        "mandatory_terms": ["ARIEL","DOWNY","2"],
+        "optional_terms": ["TOQUE","SAEM","MANCHAS"],
+        "brand": "ARIEL",
+        "ean_brand": "7189999999934",
+        "ean": "7500435115834"
+    },
+    {
+        "mandatory_terms": ["ARIEL","CORES","RADIANTES","700"],
+        "optional_terms": ["BRANCOS","COLORIDOS"],
+        "brand": "ARIEL",
+        "ean_brand": "7189999999934",
+        "ean": "7500435141987"
+    },
+    {
+        "mandatory_terms": ["ARIEL","CORES","RADIANTES","1,5"],
+        "optional_terms": ["BRANCOS","COLORIDOS"],
+        "brand": "ARIEL",
+        "ean_brand": "7189999999934",
+        "ean": "7500435141994"
+    },
+    {
+        "mandatory_terms": ["ARIEL","CORES","RADIANTES","3"],
+        "optional_terms": ["BRANCOS","COLORIDOS"],
+        "brand": "ARIEL",
+        "ean_brand": "7189999999934",
+        "ean": "7500435142014"
+    },
+    {
+        "mandatory_terms": ["ARIEL","HIPOALERGENICO","2"],
+        "optional_terms": ["SUAVE","GENTIL","PAMPERS"],
+        "brand": "ARIEL",
+        "ean_brand": "7189999999934",
+        "ean": "7500435156646"
+    },
+    {
+        "mandatory_terms": ["ARIEL","CORES","RADIANTES","DOWNY","3"],
+        "optional_terms": ["BRANCOS","COLORIDOS","CORES"],
+        "brand": "ARIEL",
+        "ean_brand": "7189999999934",
+        "ean": "7500435160636"
+    },
+
+    {
+        "mandatory_terms": ["DOWNY",""],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435140966"
+    },
+    {
+        "mandatory_terms": ["DOWNY","CONCENTRADO","PRIMAVERA","1"],
+        "optional_terms": ["ROUPAS","PERFUMADAS","TEMPO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435153850"
+    },
+    {
+        "mandatory_terms": ["DOWNY","PRIMAVERA","1,5"],
+        "optional_terms": ["ROUPAS","PERFUMADAS","TEMPO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435153867"
+    },
+    {
+        "mandatory_terms": ["DOWNY","AGUA","FRESCA","1"],
+        "optional_terms": ["PERFUME","SUAVE","TODO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435153881"
+    },
+    {
+        "mandatory_terms": ["DOWNY","AGUA","FRESCA","1,5"],
+        "optional_terms": ["PERFUME","SUAVE","TODO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435153898"
+    },
+    {
+        "mandatory_terms": ["DOWNY","SENSITIVE","HIPOALERGENICO","900"],
+        "optional_terms": ["SENSITIVE","CONCENTRADO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435156967"
+    },
+    {
+        "mandatory_terms": ["DOWNY","SENSITIVE","HIPOALERGENICO","1,35"],
+        "optional_terms": ["SENSITIVE","CONCENTRADO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435156974"
+    },
+    {
+        "mandatory_terms": ["DOWNY","PAIXAO","1,35"],
+        "optional_terms": ["PERFUME","COLLECTION"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435159951"
+    },
+    {
+        "mandatory_terms": ["DOWNY","MISTICO","900"],
+        "optional_terms": ["PERFUME","COLLECTION"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435160001"
+    },
+    {
+        "mandatory_terms": ["DOWNY","PERFUME","PAIXAO","900"],
+        "optional_terms": ["PERFUME","COLLECTION"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435160018"
+    },
+    {
+        "mandatory_terms": ["DOWNY","MISTICO","1,35"],
+        "optional_terms": ["PERFUMES","SOFISTICADOS","TODO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435160025"
+    },
+    {
+        "mandatory_terms": ["DOWNY","VERAO","450"],
+        "optional_terms": ["ROUPAS","PERFUMADAS","TEMPO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435198240"
+    },
+    {
+        "mandatory_terms": ["DOWNY","PERFUME","INTENSO","1,5"],
+        "optional_terms": ["CONCENTRADO","BRISA","INTENSO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435201278"
+    },
+    {
+        "mandatory_terms": ["DOWNY","CONCENTRADO","INTENSO","1"],
+        "optional_terms": ["PERFUME","BRISA"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435201285"
+    },
+    {
+        "mandatory_terms": ["DOWNY","CONCENTRADO", "INTENSO","500"],
+        "optional_terms": ["PERFUME", "RENDE", "2L"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435201292"
+    },
+    {
+        "mandatory_terms": ["DOWNY","CONCENTRADO","SUAVE","500"],
+        "optional_terms": ["PERFUME","BRISA","TEMPO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435243612"
+    },
+    {
+        "mandatory_terms": ["DOWNY","CONCENTRADO","SUAVE","1,5"],
+        "optional_terms": ["PERFUME","BRISA","TEMPO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435243643"
+    },
+    {
+        "mandatory_terms": ["DOWNY","CONCENTRADO","SUAVE","1"],
+        "optional_terms": ["PERFURME","MAIS","TEMPO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435243650"
+    },
+    {
+        "mandatory_terms": ["DOWNY","SUAVE","500"],
+        "optional_terms": ["PERFUME","MAIS","TEMPO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435244619"
+    },
+    {
+        "mandatory_terms": ["DOWNY","VERAO","1"],
+        "optional_terms": ["ROUPAS","PERFUMADAS","TEMPO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435250603"
+    },
+    {
+        "mandatory_terms": ["DOWNY","SUAVE","1"],
+        "optional_terms": ["BRISA","SUAVE"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435250610"
+    },
+    {
+        "mandatory_terms": ["DOWNY","CONCENTRADO","DURA","750"],
+        "optional_terms": ["BRISA","VERÃO", "SUAVIZANTE"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435251235"
+    },
+    {
+        "mandatory_terms": ["DOWNY","CONCENTRADO","SUAVE","750"],
+        "optional_terms": ["BRISA", "PROTEGE", "MAUS","CHEIROS"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435251242"
+    },
+    {
+        "mandatory_terms": ["DOWNY","PERFUME","INTENSO","750"],
+        "optional_terms": ["BRISA","INTENSO","CONCENTRADO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435251259"
+    },
+    {
+        "mandatory_terms": ["DOWNY","VERAO","1,5"],
+        "optional_terms": ["PERFUME","DURA","MAIS"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435251471"
+    },
+    {
+        "mandatory_terms": ["DOWNY","ALFAZEMA","500"],
+        "optional_terms": ["PERFUME","DURA","RENDE"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435252195"
+    },
+    {
+        "mandatory_terms": ["DOWNY","CONCENTRADO","LAVANDA","1,5"],
+        "optional_terms": ["PERFUME","QUE","DURA"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435252218"
+    },
+    {
+        "mandatory_terms": ["DOWNY","SUAVE","350"],
+        "optional_terms": ["PERFUME","MAIS","TEMPO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435252935"
+    },
+    {
+        "mandatory_terms": ["DOWNY","VERAO","350"],
+        "optional_terms": ["PERFUME","DURA","MAIS"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435252942"
+    },
+    {
+        "mandatory_terms": ["DOWNY","CONCENTRADO","VERÃO","500"],
+        "optional_terms": ["MAIS","PERFUME","RENDE","2L"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7506195143834"
+    },
+    {
+        "mandatory_terms": ["DOWNY","CONCENTRADO","LIRIOS","500"],
+        "optional_terms": ["4X","PERFUME","RENDE","2L"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7506195143858"
+    },
+    {
+        "mandatory_terms": ["DOWNY","CONCENTRADO","PRIMAVERA","500"],
+        "optional_terms": ["FRESCOR","PRIMAVERA","TEMPO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7506195143872"
+    },
+    {
+        "mandatory_terms": ["DOWNY","CONCENTRADO","VERÃO","1"],
+        "optional_terms": ["4X","PERFUME","BRISA"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7506339332643"
+    },
+    {
+        "mandatory_terms": ["DOWNY","CONCENTRADO","VERÃO","1,5"],
+        "optional_terms": ["ROUPAS","BRISA"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7506339332650"
+    },
+    {
+        "mandatory_terms": ["DOWNY","CONCENTRADO","LIRIOS","1"],
+        "optional_terms": ["PERFUME","QUE","DURA","CAMPO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7506339389876"
+    },
+    {
+        "mandatory_terms": ["DOWNY","CONCENTRADO","PERFUMADAS","1,5"],
+        "optional_terms": ["LIRIOS", "DO","CAMPO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7506339389883"
+    },
+
+
+
+
+
+
     
     {
         "mandatory_terms": ["CUP","NOODLES","GALINHA", "CAIPIRA"],
@@ -4719,6 +5042,17 @@
 
     {
         "mandatory_terms": [
+            "ARIEL"
+        ],
+        "optional_terms": [
+            "ARIEL"
+        ],
+        "brand": "ARIEL",
+        "ean_brand": "7189999999934",
+        "ean": "7189999999934"
+    },
+    {
+        "mandatory_terms": [
             "ALWAYS"
         ],
         "optional_terms": [
@@ -4793,17 +5127,6 @@
         "brand": "GIRANDO SOL",
         "ean_brand": "7189999999932",
         "ean": "7189999999932"
-    },
-    {
-        "mandatory_terms": [
-            "ARIEL"
-        ],
-        "optional_terms": [
-            "ARIEL"
-        ],
-        "brand": "ARIEL",
-        "ean_brand": "7189999999934",
-        "ean": "7189999999934"
     },
     {
         "mandatory_terms": [

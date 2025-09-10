@@ -1,0 +1,71 @@
+[
+    {
+        "mandatory_terms": ["ARIEL","EXPERT","2"],
+        "optional_terms": ["CONCENTRADO","COMBATE","MANCHAS"],
+        "brand": "ARIEL",
+        "ean_brand": "7189999999934",
+        "ean": "7500435115315"
+    },
+    {
+        "mandatory_terms": ["ARIEL","EXPERT","1,2"],
+        "optional_terms": ["CONCENTRADO","COMBATE","MANCHAS"],
+        "brand": "ARIEL",
+        "ean_brand": "7189999999934",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["ARIEL","DOWNY","1,2"],
+        "optional_terms": ["TOQUE","SAEM","MANCHAS"],
+        "brand": "ARIEL",
+        "ean_brand": "7189999999934",
+        "ean": "7500435115827"
+    },
+    {
+        "mandatory_terms": ["ARIEL","DOWNY","2"],
+        "optional_terms": ["TOQUE","SAEM","MANCHAS"],
+        "brand": "ARIEL",
+        "ean_brand": "7189999999934",
+        "ean": "7500435115834"
+    },
+    {
+        "mandatory_terms": ["ARIEL","CORES","RADIANTES","700"],
+        "optional_terms": ["BRANCOS","COLORIDOS"],
+        "brand": "ARIEL",
+        "ean_brand": "7189999999934",
+        "ean": "7500435141987"
+    },
+    {
+        "mandatory_terms": ["ARIEL","CORES","RADIANTES","1,5"],
+        "optional_terms": ["BRANCOS","COLORIDOS"],
+        "brand": "ARIEL",
+        "ean_brand": "7189999999934",
+        "ean": "7500435141994"
+    },
+    {
+        "mandatory_terms": ["ARIEL","CORES","RADIANTES","3"],
+        "optional_terms": ["BRANCOS","COLORIDOS"],
+        "brand": "ARIEL",
+        "ean_brand": "7189999999934",
+        "ean": "7500435142014"
+    },
+    {
+        "mandatory_terms": ["ARIEL","HIPOALERGENICO","2"],
+        "optional_terms": ["SUAVE","GENTIL","PAMPERS"],
+        "brand": "ARIEL",
+        "ean_brand": "7189999999934",
+        "ean": "7500435156646"
+    },
+    {
+        "mandatory_terms": ["ARIEL","CORES","RADIANTES","DOWNY","3"],
+        "optional_terms": ["BRANCOS","COLORIDOS","CORES"],
+        "brand": "ARIEL",
+        "ean_brand": "7189999999934",
+        "ean": "7500435160636"
+    }
+
+
+
+    
+
+]
+

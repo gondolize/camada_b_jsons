@@ -49,8 +49,8 @@
         "ean": "7506339332643"
     },
     {
-        "mandatory_terms": ["DOWNY"],
-        "optional_terms": [""],
+        "mandatory_terms": ["DOWNY","PERFUME","INTENSO","1,5"],
+        "optional_terms": ["CONCENTRADO","BRISA","INTENSO"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435201278"
@@ -105,13 +105,6 @@
         "ean": "7506339389876"
     },
     {
-        "mandatory_terms": ["DOWNY","CONCENTRADO","PERFURMADAS","450"],
-        "optional_terms": ["GRATIS","50", "ROUPAS"],
-        "brand": "DOWNY",
-        "ean_brand": "7189999999936",
-        "ean": "7500435198240"
-    },
-    {
         "mandatory_terms": ["DOWNY","CONCENTRADO","SUAVE","500"],
         "optional_terms": ["PERFUME","BRISA","TEMPO"],
         "brand": "DOWNY",
@@ -126,8 +119,8 @@
         "ean": "7500435244619"
     },
     {
-        "mandatory_terms": ["DOWNY","PERFUME","ADORAVEL"],
-        "optional_terms": ["450", "COLLECTION", "SOFISTICADOS"],
+        "mandatory_terms": ["DOWNY","PERFUME","ADORAVEL","450"],
+        "optional_terms": [ "COLLECTION", "SOFISTICADOS"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435159999"
@@ -155,10 +148,353 @@
     },
     {
         "mandatory_terms": ["DOWNY","CONCENTRADO","PRIMAVERA","500"],
-        "optional_terms": [""],
+        "optional_terms": ["FRESCOR","PRIMAVERA","TEMPO"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7506195143872"
+    },
+    {
+        "mandatory_terms": ["DOWNY","ALFAZEMA","500"],
+        "optional_terms": ["PERFUME","DURA","RENDE"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435252195"
+    },
+    {
+        "mandatory_terms": ["DOWNY","PERFUME","PAIXAO","900"],
+        "optional_terms": ["PERFUME","COLLECTION"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435160018"
+    },
+    {
+        "mandatory_terms": ["DOWNY","ALFAZEMA","1"],
+        "optional_terms": ["PERFUME","DURA","RENDE"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435252201"
+    },
+    {
+        "mandatory_terms": ["DOWNY","PRIMAVERA","1,5"],
+        "optional_terms": ["ROUPAS","PERFUMADAS","TEMPO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435153867"
+    },
+    {
+        "mandatory_terms": ["DOWNY","PERFUME","ADORAVEL","900"],
+        "optional_terms": ["PERFUME","COLLECTION"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435160070"
+    },
+    {
+        "mandatory_terms": ["DOWNY","SUAVE","1"],
+        "optional_terms": ["BRISA","SUAVE"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435250610"
+    },
+    {
+        "mandatory_terms": ["DOWNY","SENSITIVE","HIPOALERGENICO","1,35"],
+        "optional_terms": ["SENSITIVE","CONCENTRADO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435156974"
+    },
+    {
+        "mandatory_terms": ["DOWNY","SENSITIVE","HIPOALERGENICO","900"],
+        "optional_terms": ["SENSITIVE","CONCENTRADO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435156967"
+    },
+    {
+        "mandatory_terms": ["DOWNY","MISTICO","450"],
+        "optional_terms": ["PERFUME","COLLECTION"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435160087"
+    },
+    {
+        "mandatory_terms": ["DOWNY","MISTICO","900"],
+        "optional_terms": ["PERFUME","COLLECTION"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435160001"
+    },
+    {
+        "mandatory_terms": ["DOWNY","PAIXAO","450"],
+        "optional_terms": ["PERFUME","COLLECTION"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435160032"
+    },
+    {
+        "mandatory_terms": ["DOWNY","VERAO","450"],
+        "optional_terms": ["ROUPAS","PERFUMADAS","TEMPO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435198240"
+    },
+    {
+        "mandatory_terms": ["DOWNY","SUAVE","1,5"],
+        "optional_terms": ["PERFUME","MAIS","TEMPO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435244602"
+    },
+    {
+        "mandatory_terms": ["DOWNY","SUAVE","500"],
+        "optional_terms": ["PERFUME","MAIS","TEMPO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435244619"
+    },
+    {
+        "mandatory_terms": ["DOWNY","VERAO","1,5"],
+        "optional_terms": ["PERFUME","DURA","MAIS"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435251471"
+    },
+    {
+        "mandatory_terms": ["DOWNY","VERAO","3"],
+        "optional_terms": ["PERFUME","QUE","DURA"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435156547"
+    },
+    {
+        "mandatory_terms": ["DOWNY","VERAO","1"],
+        "optional_terms": ["ROUPAS","PERFUMADAS","TEMPO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435250603"
+    },
+    {
+        "mandatory_terms": ["DOWNY","AGUA","FRESCA","1"],
+        "optional_terms": ["PERFUME","SUAVE","TODO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435153881"
+    },
+    {
+        "mandatory_terms": ["DOWNY","AGUA","FRESCA","1,5"],
+        "optional_terms": ["PERFUME","SUAVE","TODO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435153898"
+    },
+    {
+        "mandatory_terms": ["DOWNY","PAIXAO","1,35"],
+        "optional_terms": ["PERFUME","COLLECTION"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435159951"
+    },
+    {
+        "mandatory_terms": ["DOWNY","MISTICO","1,35"],
+        "optional_terms": ["PERFUMES","SOFISTICADOS","TODO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435160025"
+    },
+    {
+        "mandatory_terms": ["DOWNY","MISTICO","1,45"],
+        "optional_terms": ["PERFUME","COLLECTION"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435177542"
+    },
+    {
+        "mandatory_terms": ["DOWNY","PERFUME","INTENSO","750"],
+        "optional_terms": ["BRISA","INTENSO","CONCENTRADO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435251259"
+    },
+    {
+        "mandatory_terms": ["DOWNY","SUAVE","350"],
+        "optional_terms": ["PERFUME","MAIS","TEMPO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435252935"
+    },
+    {
+        "mandatory_terms": ["DOWNY","VERAO","350"],
+        "optional_terms": ["PERFUME","DURA","MAIS"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435252942"
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOWNY"],
+        "optional_terms": [""],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": ""
     },
     {
         "mandatory_terms": ["DOWNY"],
@@ -216,6 +552,8 @@
         "ean_brand": "7189999999936",
         "ean": ""
     }
+
+
     
 
 ]
