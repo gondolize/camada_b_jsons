@@ -30,14 +30,14 @@
     },
     {
         "mandatory_terms": ["ARIEL","CORES","RADIANTES","700"],
-        "optional_terms": ["BRANCOS","COLORIDOS","EMBALAGEM","ECONOMICA"],
+        "optional_terms": ["BRANCOS","COLORIDOS","EMBALAGEM","ECONOMICA","NOVA","FORMULA"],
         "brand": "ARIEL",
         "ean_brand": "7189999999934",
         "ean": "7500435141987"
     },
     {
         "mandatory_terms": ["ARIEL","CORES","RADIANTES","1,5"],
-        "optional_terms": ["BRANCOS","COLORIDOS","EMBALAGEM","ECONOMICA"],
+        "optional_terms": ["BRANCOS","COLORIDOS","EMBALAGEM","ECONOMICA","NOVA","FORMULA"],
         "brand": "ARIEL",
         "ean_brand": "7189999999934",
         "ean": "7500435141994"
