@@ -1,0 +1,360 @@
+[
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","P","50"],
+        "optional_terms": ["12H","PROTECAO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435106610"
+    },
+    
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","M","44"],
+        "optional_terms": ["12H","PROTECAO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435106627"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","G","38"],
+        "optional_terms": ["12H","PROTECAO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435106634"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","XG","34"],
+        "optional_terms": ["12H","PROTECAO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435106641"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","XXG","30"],
+        "optional_terms": ["12H","PROTECAO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435106658"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","M","70"],
+        "optional_terms": ["12H","PROTECAO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435106665"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","G","60"],
+        "optional_terms": ["LEVE","MAIS","PAGUE","MENOS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435106672"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","M","80"],
+        "optional_terms": ["12H","PROTECAO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435106696"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","G","70"],
+        "optional_terms": ["LEVE","MAIS","PAGUE","MENOS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435106702"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PREMIUM","CARE","G","30"],
+        "optional_terms": ["MAXIMA","ABSORCAO","PREVENIR","ASSADURAS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435132374"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PREMIUM","CARE","G","68"],
+        "optional_terms": ["MAXIMA","ABSORCAO","PREVENIR","ASSADURAS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435132442"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PREMIUM","CARE","XG","60"],
+        "optional_terms": ["MAXIMA","ABSORCAO","PREVENIR","ASSADURAS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435132459"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PREMIUM","CARE","RN","20"],
+        "optional_terms": ["RECEM-NASCIDO","MARCA","MUNDO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435132503"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PREMIUM","CARE","RN","20"],
+        "optional_terms": ["RECEM-NASCIDO","MARCA","MUNDO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PREMIUM","CARE","RN","36"],
+        "optional_terms": ["RECEM-NASCIDO","MARCA","MUNDO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435132510"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PREMIUM","CARE","RN+","20"],
+        "optional_terms": ["RECEM-NASCIDO","MARCA","MUNDO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435132527"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PREMIUM","CARE","RN+","36"],
+        "optional_terms": ["RECEM-NASCIDO","MARCA","MUNDO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435132534"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","XG","58"],
+        "optional_terms": ["12H","PROTECAO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435132602"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","XXG","56"],
+        "optional_terms": ["LEVE","MAIS","PAGUE","MENOS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435132619"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","SUPERSEC","M","52"],
+        "optional_terms": ["SUPER","SECO","PRECO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435132794"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","SUPERSEC","M","90"],
+        "optional_terms": ["LEVE","MAIS","PAGUE","MENOS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435132824"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","SUPERSEC","G","80"],
+        "optional_terms": ["LEVE","MAIS","PAGUE","MENOS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435132831"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","SUPERSEC","XXG","64"],
+        "optional_terms": ["LEVE","MAIS","PAGUE","MENOS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435132855"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","AROMA","ALOE","VERA"],
+        "optional_terms": ["LENCOS", "UMIDECIDOS","AROMA"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435145244"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","AROMA","ALOE","VERA","4"],
+        "optional_terms": ["LEVE","PAGUE","3"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435145251"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PREMIUM","CARE","G","30"],
+        "optional_terms": ["PANTS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435145947"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PREMIUM","CARE","G","68"],
+        "optional_terms": ["PANTS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435145985"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PREMIUM","CARE","XG","64"],
+        "optional_terms": ["PANTS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435145992"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PANTS","XG","14"],
+        "optional_terms": [""],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435146166"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PANTS","G","16"],
+        "optional_terms": ["AJUSTE","TOTAL"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435146159"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PANTS","XG","32"],
+        "optional_terms": ["AJUSTE","TOTAL"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435146241"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PANTS","G","72"],
+        "optional_terms": ["AJUSTE","TOTAL"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435146487"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PANTS","XG","66"],
+        "optional_terms": ["AJUSTE","TOTAL"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435146494"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","AROMA","LAVANDA"],
+        "optional_terms": ["LENCOS","UMIDECIDOS","AROMA"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435148436"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","SUPERSEC","XXG","34"],
+        "optional_terms": ["SUPER","SECO","PRECO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435153379"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","P","72"],
+        "optional_terms": ["LEVE","MAIS","PAGUE","MENOS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435181297"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","SUPERSEC","M","18"],
+        "optional_terms": ["SUPER","SECO","PRECO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435200264"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","SUPERSEC","G","16"],
+        "optional_terms": ["SUPER","SECO","PRECO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435200271"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","SUPERSEC","XG","14"],
+        "optional_terms": ["SUPER","SECO","PRECO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435200288"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","SUPERSEC","XXG","14"],
+        "optional_terms": ["SUPER","SECO","PRECO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435200295"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","SUPERSEQUINHA","G","34"],
+        "optional_terms": ["12H","ABSORCAO","BABY","SHARK"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435226943"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","SUPERSEQUINHA","M","40"],
+        "optional_terms": ["12H","ABSORCAO","BABY","SHARK"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435226950"
+    },
+   {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","XXXG","44"],
+        "optional_terms": ["12H","PROTECAO","LEVE","MAIS","PAGUE","MENOS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435232944"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","XXXG","24"],
+        "optional_terms": ["12H","PROTECAO","LEVE","MAIS","PAGUE","MENOS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435239196"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","SUPERSEQUINHA","XXG","30"],
+        "optional_terms": ["12H","ABSORCAO","BABY","SHARK"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435244664"
+    },
+   {
+        "mandatory_terms": ["PAMPERS","SUPERSEQUINHA","XG","32"],
+        "optional_terms": ["12H","ABSORCAO","BABY","SHARK"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435244671"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","SUPERSEQUINHA","XXG","50"],
+        "optional_terms": ["12H","ABSORCAO","BABY","SHARK"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435250191"
+    },
+   {
+        "mandatory_terms": ["PAMPERS","SUPERSEQUINHA","G","60"],
+        "optional_terms": ["12H","ABSORCAO","BABY","SHARK"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435250207"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","SUPERSEQUINHA","XG","56"],
+        "optional_terms": ["12H","ABSORCAO","BABY","SHARK"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435250221"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","SUPERSEQUINHA","M","68"],
+        "optional_terms": ["12H","ABSORCAO","BABY","SHARK"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435250214"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","SUPERSEQUINHA","XG","70"],
+        "optional_terms": ["12H","ABSORCAO","BABY","SHARK"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435250238"
+    }
+]
