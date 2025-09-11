@@ -803,5 +803,16 @@
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7189999999927"
+    },
+    {
+        "mandatory_terms": [
+            "SECRET"
+        ],
+        "optional_terms": [
+            "SECRET"
+        ],
+        "brand": "SECRET",
+        "ean_brand": "7189999999926",
+        "ean": "7189999999926"
     }
 ]

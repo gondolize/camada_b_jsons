@@ -1,7 +1,252 @@
 [  
-
+    {
+        "mandatory_terms": [""],
+        "optional_terms": [""],
+        "brand": "",
+        "ean_brand": "",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["OLD","SPICE","AMADEIRADO","250"],
+        "optional_terms": ["72H","LEVE","PAGUE","MENOS"],
+        "brand": "OLD SPICE",
+        "ean_brand": "7189999999930",
+        "ean": "7500435249515"
+    },
+    {
+        "mandatory_terms": ["OLD","SPICE","AVENTURA","250"],
+        "optional_terms": ["72H","LEVE","PAGUE","MENOS"],
+        "brand": "OLD SPICE",
+        "ean_brand": "7189999999930",
+        "ean": "7500435249508"
+    },
+    {
+        "mandatory_terms": ["OLD","SPICE","REFRESCANTE","250"],
+        "optional_terms": ["LEVE","PAGUE","MENOS","72H"],
+        "brand": "OLD SPICE",
+        "ean_brand": "7189999999930",
+        "ean": "7500435249492"
+    },
+    {
+        "mandatory_terms": ["OLD","SPICE","BRISA","MAR","250"],
+        "optional_terms": ["72H","LEVE","PAGUE","MENOS"],
+        "brand": "OLD SPICE",
+        "ean_brand": "7189999999930",
+        "ean": "7500435249485"
+    },
+    {
+        "mandatory_terms": ["OLD","SPICE","VIP"],
+        "optional_terms": ["72H","LEVE","PAGUE","MENOS"],
+        "brand": "OLD SPICE",
+        "ean_brand": "7189999999930",
+        "ean": "7500435249478"
+    },
+    
+    {
+        "mandatory_terms": ["OLD","SPICE","AVENTURA"],
+        "optional_terms": ["72H","PROTECAO","PERFUME"],
+        "brand": "OLD SPICE",
+        "ean_brand": "7189999999930",
+        "ean": "7500435161411"
+    },
+    {
+        "mandatory_terms": ["OLD","SPICE","REFRESCANTE"],
+        "optional_terms": ["72H","PROTECAO","PERFUME"],
+        "brand": "OLD SPICE",
+        "ean_brand": "7189999999930",
+        "ean": "7500435158688"
+    },
+    {
+        "mandatory_terms": ["SECRET","ORANGE","BLOSSOM"],
+        "optional_terms": ["GEL","INVISIVEL"],
+        "brand": "SECRET",
+        "ean_brand": "7189999999930",
+        "ean": "7500435143875"
+    },
+    {
+        "mandatory_terms": ["OLD","SPICE","BRISA","MAR"],
+        "optional_terms": ["EMBALAGEM","ECONOMICA","72H","PROTECAO","PERFUME"],
+        "brand": "OLD SPICE",
+        "ean_brand": "7189999999930",
+        "ean": "7500435143370"
+    },
+    {
+        "mandatory_terms": ["OLD","SPICE","VIP"],
+        "optional_terms": ["72H","PROTECAO","PERFUME"],
+        "brand": "OLD SPICE",
+        "ean_brand": "7189999999930",
+        "ean": "7500435135061"
+    },
+    {
+        "mandatory_terms": ["OLD","SPICE","VIP"],
+        "optional_terms": ["72H","PROTECAO","PERFUME"],
+        "brand": "OLD SPICE",
+        "ean_brand": "7189999999930",
+        "ean": "7500435143233"
+    },
+    {
+        "mandatory_terms": ["OLD","SPICE","AMADEIRADO"],
+        "optional_terms": ["72H","PROTECAO","PERFUME"],
+        "brand": "OLD SPICE",
+        "ean_brand": "7189999999930",
+        "ean": "7500435143226"
+    },
+    {
+        "mandatory_terms": ["OLD","SPICE","AMADEIRADO"],
+        "optional_terms": ["72H","PROTECAO","PERFUME"],
+        "brand": "OLD SPICE",
+        "ean_brand": "7189999999930",
+        "ean": "7500435135047"
+    },
+    {
+        "mandatory_terms": ["OLD","SPICE","REFRESCANTE"],
+        "optional_terms": ["SPRAY","72H","PROTECAO"],
+        "brand": "OLD SPICE",
+        "ean_brand": "7189999999930",
+        "ean": "7500435135030"
+    },
+    {
+        "mandatory_terms": ["GILLETTE","COOL","WAVE"],
+        "optional_terms": ["CLEAR","GEL"],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7500435129947"
+    },
+    {
+        "mandatory_terms": ["OLD","SPICE","REFRESCANTE"],
+        "optional_terms": ["2X","PERFUMES","DURADOUROS"],
+        "brand": "OLD SPICE",
+        "ean_brand": "7189999999930",
+        "ean": "7500435241656"
+    },
+    {
+        "mandatory_terms": ["OLD","SPICE","VIP"],
+        "optional_terms": ["2X","PROTECAO","DURADOUROS"],
+        "brand": "OLD SPICE",
+        "ean_brand": "7189999999930",
+        "ean": "7500435241649"
+    },
+    {
+        "mandatory_terms": ["GILLETTE","VITAMINA"],
+        "optional_terms": ["HYDRA","GEL","E"],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7500435140607"
+    },
+    {
+        "mandatory_terms": ["GILLETTE","COOL","WAVE"],
+        "optional_terms": ["CLEAR","GEL"],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7702018913664"
+    },
+    {
+        "mandatory_terms": ["SECRET","POWDER","PROTECT"],
+        "optional_terms": ["GEL", "INVISIVEL"],
+        "brand": "SECRET",
+        "ean_brand": "7189999999926",
+        "ean": "7500435129374"
+    },
+    {
+        "mandatory_terms": ["SECRET","POWDER","PROTECT","COTTON"],
+        "optional_terms": ["LEVE","PAGUE","MENOS"],
+        "brand": "SECRET",
+        "ean_brand": "7189999999926",
+        "ean": "7500435251068"
+    },
+    {
+        "mandatory_terms": ["SECRET","BALANCED","LAVANDER"],
+        "optional_terms": ["LEVE","PAGUE","MENOS"],
+        "brand": "SECRET",
+        "ean_brand": "7189999999926",
+        "ean": "7500435251075"
+    },
+    {
+        "mandatory_terms": ["SECRET","JASMINE"],
+        "optional_terms": ["FRESH","DEFENSE","4X"],
+        "brand": "SECRET",
+        "ean_brand": "7189999999926",
+        "ean": "7500435170017"
+    },
+    {
+        "mandatory_terms": ["SECRET","BERRY"],
+        "optional_terms": ["FRESH","DEFENSE","5X"],
+        "brand": "SECRET",
+        "ean_brand": "7189999999926",
+        "ean": "7500435170024"
+    },
+    {
+        "mandatory_terms": ["SECRET","BALANCED"],
+        "optional_terms": ["GEL", "INVISIVEL"],
+        "brand": "SECRET",
+        "ean_brand": "7189999999926",
+        "ean": "7500435129367"
+    },
+    {
+        "mandatory_terms": ["SECRET","BALANCED"],
+        "optional_terms": ["GEL", "INVISIVEL"],
+        "brand": "SECRET",
+        "ean_brand": "7189999999926",
+        "ean": "7500435143196"
+    },
+    {
+        "mandatory_terms": ["SECRET","POWDER","PROTECT"],
+        "optional_terms": ["BARRA", "INVISIVEL"],
+        "brand": "SECRET",
+        "ean_brand": "7189999999926",
+        "ean": "7500435143189"
+    },
+    {
+        "mandatory_terms": ["SECRET","JASMINE"],
+        "optional_terms": ["FRESH","DEFENSE","5X"],
+        "brand": "SECRET",
+        "ean_brand": "7189999999926",
+        "ean": "7500435129350"
+    },
+    {
+        "mandatory_terms": ["GILLETTE","ANTIBACTERIAL"],
+        "optional_terms": ["SPECIALIAZED","ACTIVE","PROTECT"],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7500435113465"
+    },
+    {
+        "mandatory_terms": ["GILLETTE","ALOE"],
+        "optional_terms": ["HYDRA","GEL"],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7500435113465"
+    },
+    {
+        "mandatory_terms": ["GILLETTE","ALOE"],
+        "optional_terms": ["HYDRA","GEL"],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7500435140928"
+    },
+    {
+        "mandatory_terms": ["GILLETTE","PRESSURE","DEFENSE"],
+        "optional_terms": ["INVISIBLE","GEL","SPECIALIAZED","PRO"],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7500435011150"
+    },
+    {
+        "mandatory_terms": ["GILLETTE","COOL","WAVE"],
+        "optional_terms": ["CLEAR","GEL"],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "47400097728"
+    },
     {
         "mandatory_terms": ["ARIEL","EXPERT","2"],
+        "optional_terms": ["CONCENTRADO","COMBATE","MANCHAS"],
+        "brand": "ARIEL",
+        "ean_brand": "7189999999934",
+        "ean": "7500435115315"
+    },
+    {
+        "mandatory_terms": ["ARIEL","EXPERT","2L"],
         "optional_terms": ["CONCENTRADO","COMBATE","MANCHAS"],
         "brand": "ARIEL",
         "ean_brand": "7189999999934",

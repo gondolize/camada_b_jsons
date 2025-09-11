@@ -15,7 +15,7 @@ def gerar_ean(base=7190000000000, indice=1):
     return str(base - indice)  # Decrementa os eans para evitar duplicatas(NÃO MEXER)
 
 # Lista de novas marcas
-novas_marcas = ["ALWAYS", "ORAL-B"]
+novas_marcas = ["SECRET"]
 
 # Descobrir quantos já existem para não repetir
 ultimo_indice = len(marcas_data)
