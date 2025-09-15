@@ -1,4 +1,663 @@
-[  
+[   
+    {
+        "mandatory_terms": ["ORAL-B","BRILLIANT","FRESH","70"],
+        "optional_terms": ["LEVE","MAIS","3D","WHITE"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7506295388487"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","4","1","500"],
+        "optional_terms": ["COMPLETE","LEVE","300","PAGUE"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7506195129111"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","LIMPEZA","SUPERIOR"],
+        "optional_terms": ["2X1","2","1","COMPLETE"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "3014260014445"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","STAGES","SAUDE"],
+        "optional_terms": ["FROZEN"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "3014260278922"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","3+","ANOS"],
+        "optional_terms": ["STAGES","SUAVE","MACIA"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "3014260279264"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","CLEAN","MEDIO"],
+        "optional_terms": ["ESCOVA","DENTAL","ZIG","ZAG"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "3014260833176"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","ADVANCED","CLEAN"],
+        "optional_terms": ["PROSERIES","2","REMOCAO","PLACA"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "4210201038719"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","VITALITY","100"],
+        "optional_terms": ["100%","MAIS","REMOCAO","PLACA"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "4210201097891"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","SENSI","ULTRAFINO"],
+        "optional_terms": ["2", "CONTEM"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "4210201220411"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","PRINCESS","CABO"],
+        "optional_terms": ["REFIL","CARREGADOR", "FORTE"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "4210201408970"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","SPIDERMAN"],
+        "optional_terms": ["+3","ANOS","2024","MARVEL"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "4210201408994"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","POWER","PRECISION"],
+        "optional_terms": ["CLEAN","REMOCAO","PLACA"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "4210201826613"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","3X2","GRATIS"],
+        "optional_terms": ["1","2","3"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435014359"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","MICKEY"],
+        "optional_terms": ["SUAVE","MACIA","MICKEY"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "3014260019723"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","CLEAN","INDICATOR"],
+        "optional_terms": ["35","MACIA","SUAVE"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435024594"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","INDICATOR","2X1"],
+        "optional_terms": ["MARCA","USADA","MUNDO","2","1"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435107754"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","INDICATOR","2X1"],
+        "optional_terms": ["MARCA","USADA","MUNDO","2","1"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435107761"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","INDICATOR","ANUAL"],
+        "optional_terms": ["PACK","3","TROQUE"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435113823"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","FROZEN","STAGES"],
+        "optional_terms": ["PRO","SAUDE","TUTTI-FRUTTI"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435114776"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","4","1"],
+        "optional_terms": ["180","LEVE","PAGUE","GRATIS","ANTICARIES","DENTES"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435204781"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","4","1"],
+        "optional_terms": ["ANTICARIES","DENTES","BRANCOS","EM"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435122764"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","4","1","6"],
+        "optional_terms": ["LEVE","PAGUE","GRATIS","ANTICARIES","DENTES"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435122788"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","KIDS","MICKEY"],
+        "optional_terms": ["KIDS"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435127363"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","KIDS","2","PACK"],
+        "optional_terms": ["KIDS"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435127417"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","KIDS","PRINCESAS"],
+        "optional_terms": ["KIDS"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435137737"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","PURIFICATION","SENSITIVE"],
+        "optional_terms": ["ULTRAFINO","MACIA","EXTRA"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435143790"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","KIDS","SPIDERMAN"],
+        "optional_terms": ["KIDS"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435145152"
+    },
+    {
+        "mandatory_terms": ["ORAL-B"],
+        "optional_terms": [""],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435150255"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","EXTRA","BRANCO","12"],
+        "optional_terms": ["LEVE","PAGUE","GRATIS","CREMES","DENTAIS"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435150255"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","EXTRA","BRANCO"],
+        "optional_terms": ["BRANCO"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435150248"
+    },
+    
+    {
+        "mandatory_terms": ["ORAL-B","EXTRA","FRESH","PACK"],
+        "optional_terms": ["FAMILIA","3X"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435150293"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","EXTRA","FRESH"],
+        "optional_terms": ["EXTRA"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435150309"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","100%"],
+        "optional_terms": ["BOCA","CUIDADA","BRANQUEAMENTO","BACTERIAS"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435153164"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","CLEAN","PACK"],
+        "optional_terms": ["FAMILIA","INDICATOR","COLOR","COLLECTION"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435155540"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","ACOES","CARVAO"],
+        "optional_terms": ["5","COM","MACIA","POLIDORAS"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435171083"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","WHITE","MINERAL"],
+        "optional_terms": ["CARVAO","CLEAN","3D"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435176453"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","BRILLIANT","FRESH"],
+        "optional_terms": ["3D","WHITE","LEVE","MAIS"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435177054"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","100%","BOCA","CUIDADA"],
+        "optional_terms": ["MENTA","REFRESCANTE","BACTERIAS","ALCOOL"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435183499"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","100%","BOCA","CUIDADA","1L"],
+        "optional_terms": ["MENTA","REFRESCANTE","BACTERIAS","ALCOOL"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435184038"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","INDICATOR","BLACK"],
+        "optional_terms": ["2","ESCOVAS","DENTAIS"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435204415"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","INDICATOR","BLACK"],
+        "optional_terms": ["SENSITIVE"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435204422"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","MINERAL","CLEAN"],
+        "optional_terms": ["CARVAO","3D","WHITE"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435234719"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","KIDS","MICKEY"],
+        "optional_terms": ["SUAVE","MACIA"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435234795"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","CLEAN","COMPLETE"],
+        "optional_terms": ["COLOR","COLLECTION","ESCOVAS","DENTAIS","4"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435234818"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","4","1","12"],
+        "optional_terms": ["LEVE","PAGUE","GRATIS","ANTICARIES","DENTES"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435243834"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","BRILLIANT","FRESH","MAIS"],
+        "optional_terms": ["LEVE","PAGUE","MENOS","3D","WHITE"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435243841"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","EXTRA","BRANCO"],
+        "optional_terms": ["BICARBONATO"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435243858"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","BRILLIANT","FRESH","6"],
+        "optional_terms": ["53","3D","WHITE"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435249720"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","CLEAN","MEDIA","4"],
+        "optional_terms": ["1","2","3","CERDAS"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435250887"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","2X1","99%"],
+        "optional_terms": ["PLACA","REMOVE","SAUDE"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7501001100285"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","3X2","CLASSIC"],
+        "optional_terms": ["GRATIS","1","2","3"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7501001104191"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","COMPLETE","250"],
+        "optional_terms": ["SEM","ALCOOL","HORTELA"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7506195129104"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","STAGES","TOY"],
+        "optional_terms": ["STORY","FRUTAS","STAGES"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7506195183373"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","LIMPEZA","SUPERIOR","2X1"],
+        "optional_terms": ["ACOES","DIFERENTES","COMPLETE"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7506339358247"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","3D","WHITE","PERFECTION"],
+        "optional_terms": ["3D","WHITE","PERFECTION"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7506339396492"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","BRILLIANT","FRESH","53","3"],
+        "optional_terms": ["70","3D","WHITE"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7506339398236"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","FROZEN","STAGES"],
+        "optional_terms": ["TUTTI-FRUTTI","CREME","DENTAL"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7506339398434"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","ESSENTIAL","FLOSS","HORTELA"],
+        "optional_terms": ["FIO","DENTAL","LIMPA"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7800005082222"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","ESSENTIAL","FLOSS"],
+        "optional_terms": ["FIO","DENTAL","LIMPA"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7800005082024"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","CLASSIC","MACIA"],
+        "optional_terms": ["CLASSIC","MACIA"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7891051037014"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","SEM","PERFUME","40"],
+        "optional_terms": ["EQUILIBRIO","PROTECAO","LIMPEZA"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435125826"
+    },
+    {
+        "mandatory_terms": ["ALWAYS", "DIARIO" , "RESPIRAVEL","40"],
+        "optional_terms": ["IDEAL","PROTETORES", "USO"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435125840"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","SUAVE", "32"],
+        "optional_terms": ["ABSORVENTE", "PEQUENO"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435126199"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","SECA","8"],
+        "optional_terms": ["ABSORVENTE","PEQUENO"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435127226"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","SUPER","SECA","16"],
+        "optional_terms": ["CONFORTAVEL","PROTECAO", "LIMPA"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435127233"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","SUPER","SUAVE","8"],
+        "optional_terms": ["COBERTURA","SUAVE","ABSORVENTE"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435127240"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","SUPER","SUAVE","16"],
+        "optional_terms": ["COBERTURA","SUAVE","ABSORVENTE"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435127257"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","SUPER","SECA","32"],
+        "optional_terms": ["PROTECAO","GRATIS","ABSORVENTES"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435127288"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","SENSITIVE","40"],
+        "optional_terms": ["SEM","PERFUME","HIPOALERGICO","RESPIRAVEL"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435135771"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","RESPIRAVEL","80"],
+        "optional_terms": ["SEM","PERFUME","RESPIRAVEIS","DIARIO"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435167567"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","SENSITIVE","80"],
+        "optional_terms": ["HIPOALERGICO","SEM","PERFUME","RESPIRAVEL","VERAO"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435168373"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","SUPER","SUAVE","10"],
+        "optional_terms": ["PROTECAO","8","LEVE"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435190633"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","NOTURNO","SUAVE","48"],
+        "optional_terms": ["G","ABSORVENTE","GRANDE"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435190640"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","NOTURNO","SECA","48"],
+        "optional_terms": ["G","ABSORVENTE","GRANDE"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435190657"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","PROTECAO","80"],
+        "optional_terms": ["SEM","PERFUME","DIARIOS","PROTETORES"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435212618"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","NOITES","TRANQUILAS","XG","26"],
+        "optional_terms": ["ABSORVENTE","EXTRA","GRANDE"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435214650"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","NOITES","TRANQUILAS","XG","8"],
+        "optional_terms": ["ABSORVENTE","EXTRA","GRANDE"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435214667"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","DIARIOS","RESPIRAVEL","120"],
+        "optional_terms": ["SEM","PERFUME","GRATIS"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435233378"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","G","5X","10"],
+        "optional_terms": ["FLUXO","INTENSO","SUAVE","ABAS"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435233446"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","SUAVE","P","4X" ],
+        "optional_terms": ["MEDIO","ABSORVENTE","ABAS"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435248341"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","ULTRAFINO","M","8"],
+        "optional_terms": ["ABSORVENTES","4X","MEDIO","ABAS"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435250542"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","ULTRAFINO","G","8"],
+        "optional_terms": ["5X","FLUXO","INTENSO","ABAS"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435250559"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","PROTECAO","COM","PERFUME","80"],
+        "optional_terms": ["PROTETORES","DIARIOS","GRATIS"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7501001407506"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","COM","PERFUME","15"],
+        "optional_terms": ["DIARIOS","CONTROLAR","ODORES"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7501007499758"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","SUAVE","M","8"],
+        "optional_terms": ["ABSORVENTE","MEDIO","UNIDADES"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7506195129838"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","PROTECAO","COM","PERFUME","40"],
+        "optional_terms": ["DIFERENTES","TIPOS","FLUIDO"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7506295338901"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","NOITES","TRANQUILAS","XXG","10"],
+        "optional_terms": ["ABSORVENTE","EXTRA","GRANDE"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7506309805498"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","NOTURNO","SECA","G","16"],
+        "optional_terms": ["ABSORVENTE","GRANDE","GRATIS"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7506339325249"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","NOTURNO","SECA","G","32"],
+        "optional_terms": ["ABSORVENTE","GRANDE","GRATIS"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7506339325263"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","NOTURNO","SUAVE","G","16"],
+        "optional_terms": ["ABSORVENTE","GRANDE","GRATIS"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7506339326031"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","SUAVE","M","32"],
+        "optional_terms": ["ABSORVENTE","MEDIO","GRATIS"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7506339326048"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","NOTURNO","SUAVE","G","32"],
+        "optional_terms": ["ABSORVENTE","GRANDE","GRATIS"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7506339326055"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","NOTURNO","SECA","G","8"],
+        "optional_terms": ["ABSORVENTE","GRANDE"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7506339394535"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","NOTURNO","SUAVE","G","8"],
+        "optional_terms": ["ABSORVENTE","GRANDE"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7506339394603"
+    },
     {
         "mandatory_terms": ["PAMPERS","CONFORT","SEC","P","50"],
         "optional_terms": ["12H","PROTECAO"],
