@@ -1,5 +1,82 @@
 [   
     {
+        "mandatory_terms": ["PAMPERS","AROMA","VERA","4"],
+        "optional_terms": ["3","LEVE","PAGUE"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435145251"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","AROMA","VERA"],
+        "optional_terms": ["48","LENCOS","UMIDECIDOS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435145244"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","AROMA","LAVANDA"],
+        "optional_terms": ["48","LENCOS","UMIDECIDOS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435148436"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","SPLASH","BABY"],
+        "optional_terms": ["SHARK","LENCOS","UMIDECIDOS","48"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435158077"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","SPLASH","BABY","192"],
+        "optional_terms": ["SHARK","LENCOS","UMIDECIDOS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435169943"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","HIGIENE","COMPLETA","4"],
+        "optional_terms": ["192","LENCOS","UMIDECIDOS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435172721"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","HIGIENE","COMPLETA"],
+        "optional_terms": ["48","LENCOS","UMIDECIDOS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435172714"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","AROMA","CAMOMILA"],
+        "optional_terms": ["MANZANILA","LENCOS","UMIDECIDOS","48"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435180283"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CUIDADO","BEBE","192"],
+        "optional_terms": ["PAGUE","LENCOS","UMIDECIDOS","CARICIA"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435231701"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","AROMA","VERA","96"],
+        "optional_terms": ["LENCOS","UMIDECIDOS","ALOE"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435231695"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CHEIRINHO","BEBE"],
+        "optional_terms": ["LENCOS","UMIDECIDOS","BEBE"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "4015400763697"
+    },
+    {
         "mandatory_terms": ["ORAL-B","BRILLIANT","FRESH","70"],
         "optional_terms": ["LEVE","MAIS","3D","WHITE"],
         "brand": "ORAL-B",
