@@ -6277,7 +6277,7 @@
         "ean": "7500435020442"
     },
     {
-        "mandatory_terms": ["PANTENE","RECONSTRUCAO"],
+        "mandatory_terms": ["PANTENE","RECONSTRUCAO","1"],
         "optional_terms": ["PRO-V","NUTRI" ,"UNIDADES", "15"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
