@@ -266,13 +266,6 @@
         "ean": "7500435145152"
     },
     {
-        "mandatory_terms": ["ORAL-B"],
-        "optional_terms": [""],
-        "brand": "ORAL-B",
-        "ean_brand": "7189999999927",
-        "ean": "7500435150255"
-    },
-    {
         "mandatory_terms": ["ORAL-B","EXTRA","BRANCO","12"],
         "optional_terms": ["LEVE","PAGUE","GRATIS","CREMES","DENTAIS"],
         "brand": "ORAL-B",

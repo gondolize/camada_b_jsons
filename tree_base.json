@@ -1,12 +1,1671 @@
 [   
-
-
-
-
-
-
-
-
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "NOITES",
+            "TRANQUILAS",
+            "XG",
+            "26"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7500435214650"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "NOITES",
+            "TRANQUILAS",
+            "XXG",
+            "10"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7506309805498"
+    },
+    {
+        "mandatory_terms": [
+            "ARIEL",
+            "CORES",
+            "RADIANTES",
+            "DOWNY",
+            "3"
+        ],
+        "brand": "ARIEL",
+        "ean": "7500435160636"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "BRILLIANT",
+            "FRESH",
+            "53",
+            "3"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7506339398236"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "BRILLIANT",
+            "FRESH",
+            "MAIS"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435243841"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "AROMA",
+            "ALOE",
+            "VERA",
+            "4"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435145251"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "CONFORT",
+            "SEC",
+            "XXXG",
+            "24"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435239196"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "CONFORT",
+            "SEC",
+            "XXXG",
+            "44"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435232944"
+    },
+    {
+        "mandatory_terms": [
+            "SECRET",
+            "POWDER",
+            "PROTECT",
+            "COTTON"
+        ],
+        "brand": "SECRET",
+        "ean": "7500435251068"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "DIARIOS",
+            "RESPIRAVEL",
+            "120"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7500435233378"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "NOTURNO",
+            "SECA",
+            "G",
+            "16"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7506339325249"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "NOTURNO",
+            "SECA",
+            "G",
+            "32"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7506339325263"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "NOTURNO",
+            "SECA",
+            "G",
+            "8"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7506339394535"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "NOTURNO",
+            "SUAVE",
+            "G",
+            "16"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7506339326031"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "NOTURNO",
+            "SUAVE",
+            "G",
+            "32"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7506339326055"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "NOTURNO",
+            "SUAVE",
+            "G",
+            "8"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7506339394603"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "PROTECAO",
+            "COM",
+            "PERFUME"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7501001407506,7506295338901"
+    },
+    {
+        "mandatory_terms": [
+            "ARIEL",
+            "CORES",
+            "RADIANTE",
+            "1,5"
+        ],
+        "brand": "ARIEL",
+        "ean": "7500435141994"
+    },
+    {
+        "mandatory_terms": [
+            "ARIEL",
+            "CORES",
+            "RADIANTE",
+            "700"
+        ],
+        "brand": "ARIEL",
+        "ean": "7500435141987"
+    },
+    {
+        "mandatory_terms": [
+            "ARIEL",
+            "CORES",
+            "RADIANTES",
+            "1,5"
+        ],
+        "brand": "ARIEL",
+        "ean": "7500435141994"
+    },
+    {
+        "mandatory_terms": [
+            "ARIEL",
+            "CORES",
+            "RADIANTES",
+            "1,5L"
+        ],
+        "brand": "ARIEL",
+        "ean": "7500435141994"
+    },
+    {
+        "mandatory_terms": [
+            "ARIEL",
+            "CORES",
+            "RADIANTES",
+            "700"
+        ],
+        "brand": "ARIEL",
+        "ean": "7500435141987"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "CONCENTRADO",
+            "LAVANDA",
+            "1,5"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435252218"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "CONCENTRADO",
+            "PERFUMADAS",
+            "1,5"
+        ],
+        "brand": "DOWNY",
+        "ean": "7506339389883"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "CONCENTRADO",
+            "PRIMAVERA",
+            "1"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435153850"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "CONCENTRADO",
+            "PRIMAVERA",
+            "500"
+        ],
+        "brand": "DOWNY",
+        "ean": "7506195143872"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "CONCENTRADO",
+            "SUAVE",
+            "1"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435243650"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "CONCENTRADO",
+            "SUAVE",
+            "1,5"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435243643"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "CONCENTRADO",
+            "SUAVE",
+            "500"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435243612"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "CONCENTRADO",
+            "SUAVE",
+            "750"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435251242"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "CONCENTRADO",
+            "VERÃO",
+            "1"
+        ],
+        "brand": "DOWNY",
+        "ean": "7506339332643"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "CONCENTRADO",
+            "VERÃO",
+            "1,5"
+        ],
+        "brand": "DOWNY",
+        "ean": "7506339332650"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "CONCENTRADO",
+            "VERÃO",
+            "500"
+        ],
+        "brand": "DOWNY",
+        "ean": "7506195143834"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "SENSITIVE",
+            "HIPOALERGENICO",
+            "1,35"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435156974"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "SENSITIVE",
+            "HIPOALERGENICO",
+            "900"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435156967"
+    },
+    {
+        "mandatory_terms": [
+            "GILLETTE",
+            "PRESSURE",
+            "DEFENSE"
+        ],
+        "brand": "GILLETTE",
+        "ean": "7500435011150"
+    },
+    {
+        "mandatory_terms": [
+            "OLD",
+            "SPICE",
+            "BRISA",
+            "MAR"
+        ],
+        "brand": "OLD SPICE",
+        "ean": "7500435143370,7500435249485"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "100%",
+            "BOCA",
+            "CUIDADA"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435183499,7500435184038"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "3D",
+            "WHITE",
+            "PERFECTION"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7506339396492"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "ADVANCED",
+            "CLEAN"
+        ],
+        "brand": "ORAL-B",
+        "ean": "4210201038719"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "BRILLIANT",
+            "FRESH",
+            "6"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435249720"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "BRILLIANT",
+            "FRESH",
+            "70"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7506295388487"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "CLEAN",
+            "MEDIA",
+            "4"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435250887"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "EXTRA",
+            "BRANCO",
+            "12"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435150255"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "EXTRA",
+            "FRESH",
+            "PACK"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435150293"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "LIMPEZA",
+            "SUPERIOR",
+            "2X1"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7506339358247"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "POWER",
+            "PRECISION"
+        ],
+        "brand": "ORAL-B",
+        "ean": "4210201826613"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "PRINCESS",
+            "CABO"
+        ],
+        "brand": "ORAL-B",
+        "ean": "4210201408970"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "PURIFICATION",
+            "SENSITIVE"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435143790"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "AROMA",
+            "ALOE",
+            "VERA"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435145244,7500435145251"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "CUIDADO",
+            "BEBE",
+            "192"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435231701"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "HIGIENE",
+            "COMPLETA",
+            "4"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435172721"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "PREMIUM",
+            "CARE",
+            "G"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435132374,7500435132442,7500435145947,7500435145985"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "PREMIUM",
+            "CARE",
+            "RN"
+        ],
+        "brand": "PAMPERS",
+        "ean": ",7500435132503,7500435132510"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "PREMIUM",
+            "CARE",
+            "RN+"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435132527,7500435132534"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "PREMIUM",
+            "CARE",
+            "XG"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435132459,7500435145992"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "SPLASH",
+            "BABY",
+            "192"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435169943"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "DIARIO",
+            "RESPIRAVEL",
+            "40"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7500435125840"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "NOTURNO",
+            "SECA",
+            "48"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7500435190657"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "NOTURNO",
+            "SECA",
+            "G"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7506339325249,7506339325263,7506339394535"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "NOTURNO",
+            "SUAVE",
+            "48"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7500435190640"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "NOTURNO",
+            "SUAVE",
+            "G"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7506339326031,7506339326055,7506339394603"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "PROTECAO",
+            "COM",
+            "40"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7506295338901"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "PROTECAO",
+            "COM",
+            "80"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7501001407506"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "SENSITIVE",
+            "40"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7500435135771"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "SENSITIVE",
+            "80"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7500435168373"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "SUPER",
+            "SECA",
+            "16"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7500435127233"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "SUPER",
+            "SECA",
+            "32"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7500435127288"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "SUPER",
+            "SUAVE",
+            "10"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7500435190633"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "SUPER",
+            "SUAVE",
+            "16"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7500435127257"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "SUPER",
+            "SUAVE",
+            "8"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7500435127240"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "ULTRAFINO",
+            "G",
+            "8"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7500435250559"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "ULTRAFINO",
+            "M",
+            "8"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7500435250542"
+    },
+    {
+        "mandatory_terms": [
+            "ARIEL",
+            "CORES",
+            "RADIANTES",
+            "3"
+        ],
+        "brand": "ARIEL",
+        "ean": "7500435142014"
+    },
+    {
+        "mandatory_terms": [
+            "ARIEL",
+            "EXPERT",
+            "1,2"
+        ],
+        "brand": "ARIEL",
+        "ean": "7500435115353"
+    },
+    {
+        "mandatory_terms": [
+            "ARIEL",
+            "EXPERT",
+            "2"
+        ],
+        "brand": "ARIEL",
+        "ean": "7500435115315"
+    },
+    {
+        "mandatory_terms": [
+            "ARIEL",
+            "EXPERT",
+            "2L"
+        ],
+        "brand": "ARIEL",
+        "ean": "7500435115315"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "AGUA",
+            "FRESCA",
+            "1"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435153881"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "AGUA",
+            "FRESCA",
+            "1,5"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435153898"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "CONCENTRADO",
+            "DURA",
+            "750"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435251235"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "CONCENTRADO",
+            "INTENSO",
+            "1"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435201285"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "CONCENTRADO",
+            "INTENSO",
+            "500"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435201292"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "CONCENTRADO",
+            "LIRIOS",
+            "1"
+        ],
+        "brand": "DOWNY",
+        "ean": "7506339389876"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "CONCENTRADO",
+            "LIRIOS",
+            "500"
+        ],
+        "brand": "DOWNY",
+        "ean": "7506195143858"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "MISTICO",
+            "1,35"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435160025"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "MISTICO",
+            "900"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435160001"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "PAIXAO",
+            "1,35"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435159951"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "PERFUME",
+            "INTENSO",
+            "1,5"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435201278"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "PERFUME",
+            "INTENSO",
+            "750"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435251259"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "PERFUME",
+            "PAIXAO",
+            "900"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435160018"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "PRIMAVERA",
+            "1,5"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435153867"
+    },
+    {
+        "mandatory_terms": [
+            "GILLETTE",
+            "COOL",
+            "WAVE"
+        ],
+        "brand": "GILLETTE",
+        "ean": "47400097728,7500435129947,7702018913664"
+    },
+    {
+        "mandatory_terms": [
+            "OLD",
+            "SPICE",
+            "AMADEIRADO",
+            "250"
+        ],
+        "brand": "OLD SPICE",
+        "ean": "7500435249515"
+    },
+    {
+        "mandatory_terms": [
+            "OLD",
+            "SPICE",
+            "AVENTURA",
+            "250"
+        ],
+        "brand": "OLD SPICE",
+        "ean": "7500435249508"
+    },
+    {
+        "mandatory_terms": [
+            "OLD",
+            "SPICE",
+            "REFRESCANTE",
+            "250"
+        ],
+        "brand": "OLD SPICE",
+        "ean": "7500435249492"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "100%",
+            "BOCA",
+            "1L"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435184038"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "ACOES",
+            "CARVAO"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435171083"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "BRILLIANT",
+            "FRESH"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435177054,7500435243841,7500435249720,7506295388487,7506339398236"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "CLEAN",
+            "COMPLETE"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435234818"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "CLEAN",
+            "INDICATOR"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435024594"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "CLEAN",
+            "MEDIO"
+        ],
+        "brand": "ORAL-B",
+        "ean": "3014260833176"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "CLEAN",
+            "PACK"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435155540"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "COMPLETE",
+            "250"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7506195129104"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "ESSENTIAL",
+            "FLOSS"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7800005082024,7800005082222"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "EXTRA",
+            "BRANCO"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435150248,7500435150255,7500435243858"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "EXTRA",
+            "FRESH"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435150293,7500435150309"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "FROZEN",
+            "STAGES"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435114776,7506339398434"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "INDICATOR",
+            "2X1"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435107754,7500435107761"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "INDICATOR",
+            "ANUAL"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435113823"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "INDICATOR",
+            "BLACK"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435204415,7500435204422"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "KIDS",
+            "MICKEY"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435127363,7500435234795"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "KIDS",
+            "PRINCESAS"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435137737"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "KIDS",
+            "SPIDERMAN"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435145152"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "LIMPEZA",
+            "SUPERIOR"
+        ],
+        "brand": "ORAL-B",
+        "ean": "3014260014445,7506339358247"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "MINERAL",
+            "CLEAN"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435234719"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "SENSI",
+            "ULTRAFINO"
+        ],
+        "brand": "ORAL-B",
+        "ean": "4210201220411"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "STAGES",
+            "SAUDE"
+        ],
+        "brand": "ORAL-B",
+        "ean": "3014260278922"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "STAGES",
+            "TOY"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7506195183373"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "VITALITY",
+            "100"
+        ],
+        "brand": "ORAL-B",
+        "ean": "4210201097891"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "WHITE",
+            "MINERAL"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435176453"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "AROMA",
+            "CAMOMILA"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435180283"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "AROMA",
+            "LAVANDA"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435148436,7500435148436"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "AROMA",
+            "VERA"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435145244,7500435145251,7500435231695"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "CHEIRINHO",
+            "BEBE"
+        ],
+        "brand": "PAMPERS",
+        "ean": "4015400763697"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "CONFORT",
+            "SEC"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435106610,7500435106627,7500435106634,7500435106641,7500435106658,7500435106665,7500435106672,7500435106696,7500435106702,7500435132602,7500435132619,7500435181297,7500435232944,7500435239196"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "HIGIENE",
+            "COMPLETA"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435172714,7500435172721"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "PREMIUM",
+            "CARE"
+        ],
+        "brand": "PAMPERS",
+        "ean": ",7500435132374,7500435132442,7500435132459,7500435132503,7500435132510,7500435132527,7500435132534,7500435145947,7500435145985,7500435145992"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "SPLASH",
+            "BABY"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435158077,7500435169943"
+    },
+    {
+        "mandatory_terms": [
+            "SECRET",
+            "BALANCED",
+            "LAVANDER"
+        ],
+        "brand": "SECRET",
+        "ean": "7500435251075"
+    },
+    {
+        "mandatory_terms": [
+            "SECRET",
+            "ORANGE",
+            "BLOSSOM"
+        ],
+        "brand": "SECRET",
+        "ean": "7500435143875"
+    },
+    {
+        "mandatory_terms": [
+            "SECRET",
+            "POWDER",
+            "PROTECT"
+        ],
+        "brand": "SECRET",
+        "ean": "7500435129374,7500435143189,7500435251068"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "COM",
+            "PERFUME"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7501001407506,7501007499758,7506295338901"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "NOTURNO",
+            "SECA"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7500435190657,7506339325249,7506339325263,7506339394535"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "NOTURNO",
+            "SUAVE"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7500435190640,7506339326031,7506339326055,7506339394603"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "SENSITIVE"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7500435135771,7500435168373"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "SUPER",
+            "SECA"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7500435127233,7500435127288"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "SUPER",
+            "SUAVE"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7500435127240,7500435127257,7500435190633"
+    },
+    {
+        "mandatory_terms": [
+            "ARIEL",
+            "DOWNY",
+            "1,2"
+        ],
+        "brand": "ARIEL",
+        "ean": "7500435115827"
+    },
+    {
+        "mandatory_terms": [
+            "ARIEL",
+            "DOWNY",
+            "2"
+        ],
+        "brand": "ARIEL",
+        "ean": "7500435115834"
+    },
+    {
+        "mandatory_terms": [
+            "ARIEL",
+            "HIPOALERGENICO",
+            "2"
+        ],
+        "brand": "ARIEL",
+        "ean": "7500435156646"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "AGUA",
+            "FRESCA"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435153881,7500435153898"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "SENSITIVE",
+            "HIPOALERGENICO"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435156967,7500435156974"
+    },
+    {
+        "mandatory_terms": [
+            "GILLETTE",
+            "ALOE"
+        ],
+        "brand": "GILLETTE",
+        "ean": "7500435113465,7500435140928"
+    },
+    {
+        "mandatory_terms": [
+            "OLD",
+            "SPICE",
+            "AMADEIRADO"
+        ],
+        "brand": "OLD SPICE",
+        "ean": "7500435135047,7500435143226,7500435249515"
+    },
+    {
+        "mandatory_terms": [
+            "OLD",
+            "SPICE",
+            "AVENTURA"
+        ],
+        "brand": "OLD SPICE",
+        "ean": "7500435161411,7500435249508"
+    },
+    {
+        "mandatory_terms": [
+            "OLD",
+            "SPICE",
+            "REFRESCANTE"
+        ],
+        "brand": "OLD SPICE",
+        "ean": "7500435135030,7500435158688,7500435241656,7500435249492"
+    },
+    {
+        "mandatory_terms": [
+            "OLD",
+            "SPICE",
+            "VIP"
+        ],
+        "brand": "OLD SPICE",
+        "ean": "7500435135061,7500435143233,7500435241649,7500435249478"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "KIDS",
+            "2"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435127417"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "SPIDERMAN"
+        ],
+        "brand": "ORAL-B",
+        "ean": "4210201408994,7500435145152"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "AROMA",
+            "4"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435145251,7500435145251"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "PANTS",
+            "G"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435146159,7500435146487"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "PANTS",
+            "XG"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435146166,7500435146241,7500435146494"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "SUPERSEC",
+            "G"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435132831,7500435200271"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "SUPERSEC",
+            "M"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435132794,7500435132824,7500435200264"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "SUPERSEC",
+            "XG"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435200288"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "SUPERSEC",
+            "XXG"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435132855,7500435153379,7500435200295"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "SUPERSEQUINHA",
+            "G"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435226943,7500435250207"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "SUPERSEQUINHA",
+            "M"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435226950,7500435250214"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "SUPERSEQUINHA",
+            "XG"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435244671,7500435250221,7500435250238"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "SUPERSEQUINHA",
+            "XXG"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435244664,7500435250191"
+    },
+    {
+        "mandatory_terms": [
+            "SECRET",
+            "BALANCED"
+        ],
+        "brand": "SECRET",
+        "ean": "7500435129367,7500435143196,7500435251075"
+    },
+    {
+        "mandatory_terms": [
+            "SECRET",
+            "JASMINE"
+        ],
+        "brand": "SECRET",
+        "ean": "7500435129350,7500435170017"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "80"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7500435167567,7500435168373,7500435212618,7501001407506"
+    },
+    {
+        "mandatory_terms": [
+            "ALWAYS",
+            "G"
+        ],
+        "brand": "ALWAYS",
+        "ean": "7500435190640,7500435190657,7500435233446,7500435250559,7506339325249,7506339325263,7506339326031,7506339326055,7506339394535,7506339394603"
+    },
+    {
+        "mandatory_terms": [
+            "ARIEL",
+            "DOWNY"
+        ],
+        "brand": "ARIEL",
+        "ean": "7500435115827,7500435115834,7500435160636"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "1"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435153850,7500435153881,7500435201285,7500435243650,7500435250603,7500435250610,7506339332643,7506339389876"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "1,5"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435153867,7500435153898,7500435201278,7500435243643,7500435251471,7500435252218,7506339332650,7506339389883"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "500"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435201292,7500435243612,7500435244619,7500435252195,7506195143834,7506195143858,7506195143872"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "SUAVE"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435243612,7500435243643,7500435243650,7500435244619,7500435250610,7500435251242,7500435252935"
+    },
+    {
+        "mandatory_terms": [
+            "DOWNY",
+            "VERAO"
+        ],
+        "brand": "DOWNY",
+        "ean": "7500435140966,7500435198240,7500435250603,7500435251471,7500435252942"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "1"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435122764,7500435122788,7500435204781,7506195129111"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "4"
+        ],
+        "brand": "ORAL-B",
+        "ean": "7500435122764,7500435122788,7500435204781,7500435243834,7500435250887,7506195129111"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "CLEAN"
+        ],
+        "brand": "ORAL-B",
+        "ean": "3014260833176,4210201038719,7500435024594,7500435155540,7500435234719,7500435234818,7500435250887"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "G"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435106634,7500435106672,7500435106702,7500435132374,7500435132442,7500435132831,7500435145947,7500435145985,7500435146159,7500435146487,7500435200271,7500435226943,7500435250207"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "M"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435106627,7500435106665,7500435106696,7500435132794,7500435132824,7500435200264,7500435226950,7500435250214"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "XG"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435106641,7500435132459,7500435132602,7500435145992,7500435146166,7500435146241,7500435146494,7500435200288,7500435244671,7500435250221,7500435250238"
+    },
+    {
+        "mandatory_terms": [
+            "PAMPERS",
+            "XXG"
+        ],
+        "brand": "PAMPERS",
+        "ean": "7500435106658,7500435132619,7500435132855,7500435153379,7500435200295,7500435244664,7500435250191"
+    },
 
     {
         "mandatory_terms": ["KIT", "PANTENE", "BRILHO"],
@@ -765,27 +2424,6 @@
         "brand": "PANTENE",
         "ean": "7500435128933,7500435128926,7500435128957,7500435128940"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
