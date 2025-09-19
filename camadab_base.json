@@ -1,6 +1,6 @@
 [   
     {
-        "mandatory_terms": ["PAMPERS","AROMA","VERATESTE","4"],
+        "mandatory_terms": ["PAMPERS","AROMA","VERA","4"],
         "optional_terms": ["3","LEVE","PAGUE"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
