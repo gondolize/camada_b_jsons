@@ -3444,7 +3444,7 @@
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "ANTICOCEIRA", "200"],
-        "optional_terms": ["ALIVIO", "200ML", "&"],
+        "optional_terms": ["ALIVIO", "200ML", "OLEO"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
         "ean": "7506195142035"
@@ -3486,7 +3486,7 @@
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "ANTICOCEIRA", "400"],
-        "optional_terms": ["SHAMPOO", "ANTICASPA", "ALIVIO", "&"],
+        "optional_terms": ["SHAMPOO", "ANTICASPA", "ALIVIO"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
         "ean": "7506195142042"
@@ -3549,14 +3549,14 @@
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "3", "1", "650"],
-        "optional_terms": ["SHAMPOO", "ANTICASPA"],
+        "optional_terms": ["PROTEGE","CASPA","CABELO","ML"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
         "ean": "7500435240376"
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "HIDRATACAO", "400"],
-        "optional_terms": ["COURO", "CABELUDO", "RESSECADO"],
+        "optional_terms": ["COURO", "CABELUDO", "RESSECADO", "OLEO","AMENDOAS"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
         "ean": "7501001133306"
