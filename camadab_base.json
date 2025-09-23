@@ -84,8 +84,8 @@
         "ean": "4015400763697"
     },
     {
-        "mandatory_terms": ["ORAL-B","BRILLIANT","FRESH","70"],
-        "optional_terms": ["LEVE","MAIS","3D","WHITE"],
+        "mandatory_terms": ["ORAL-B","3D","WHITE"],
+        "optional_terms": ["MANCHAS","CLAREIA","80%","70"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7506295388487"
@@ -461,6 +461,13 @@
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7506339396492"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","ANTI","CARIES"],
+        "optional_terms": ["ESCUDO","ANTI","PROTETOR"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7506339363883"
     },
     {
         "mandatory_terms": ["ORAL-B","BRILLIANT","FRESH","53","3"],
@@ -1094,6 +1101,27 @@
         "ean": "7500435250238"
     },
     {
+        "mandatory_terms": ["OLD","SPICE","AMADEIRADO"],
+        "optional_terms": ["72H","PROTECAO","PERFUME"],
+        "brand": "OLD SPICE",
+        "ean_brand": "7189999999930",
+        "ean": "7500435135047"
+    },
+    {
+        "mandatory_terms": ["OLD","SPICE","REFRESCANTE"],
+        "optional_terms": ["SPRAY","72H","PROTECAO"],
+        "brand": "OLD SPICE",
+        "ean_brand": "7189999999930",
+        "ean": "7500435135030"
+    },
+    {
+        "mandatory_terms": ["OLD","SPICE","REFRESCANTE","200"],
+        "optional_terms": ["72H","PROTECAO","PERFUME"],
+        "brand": "OLD SPICE",
+        "ean_brand": "7189999999930",
+        "ean": "7500435158688"
+    },
+    {
         "mandatory_terms": ["OLD","SPICE","AMADEIRADO","250"],
         "optional_terms": ["72H","LEVE","PAGUE","MENOS"],
         "brand": "OLD SPICE",
@@ -1137,13 +1165,6 @@
         "ean": "7500435161411"
     },
     {
-        "mandatory_terms": ["OLD","SPICE","REFRESCANTE"],
-        "optional_terms": ["72H","PROTECAO","PERFUME"],
-        "brand": "OLD SPICE",
-        "ean_brand": "7189999999930",
-        "ean": "7500435158688"
-    },
-    {
         "mandatory_terms": ["SECRET","ORANGE","BLOSSOM"],
         "optional_terms": ["GEL","INVISIVEL"],
         "brand": "SECRET",
@@ -1178,20 +1199,7 @@
         "ean_brand": "7189999999930",
         "ean": "7500435143226"
     },
-    {
-        "mandatory_terms": ["OLD","SPICE","AMADEIRADO"],
-        "optional_terms": ["72H","PROTECAO","PERFUME"],
-        "brand": "OLD SPICE",
-        "ean_brand": "7189999999930",
-        "ean": "7500435135047"
-    },
-    {
-        "mandatory_terms": ["OLD","SPICE","REFRESCANTE"],
-        "optional_terms": ["SPRAY","72H","PROTECAO"],
-        "brand": "OLD SPICE",
-        "ean_brand": "7189999999930",
-        "ean": "7500435135030"
-    },
+    
     {
         "mandatory_terms": ["GILLETTE","COOL","WAVE"],
         "optional_terms": ["CLEAR","GEL"],
@@ -3415,7 +3423,7 @@
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "LIMPEZA", "EFICAZ"],
-        "optional_terms": ["LIMPEZA", "200", "&", "200ML"],
+        "optional_terms": ["200", "200ML"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
         "ean": "7500435242615"
@@ -3442,14 +3450,14 @@
         "ean": "7506195142035"
     },
     {
-        "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "3", "1"],
+        "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "3", "1","200"],
         "optional_terms": ["200", "200ML", "300", "LIMPEZA", "PROFUNDA"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
         "ean": "7506309865393"
     },
     {
-        "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "3", "1"],
+        "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "3", "1","400"],
         "optional_terms": ["LIMPA", "PROFUNDAMENTE", "LIMPEZA", "PROFUNDA"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
@@ -3513,7 +3521,7 @@
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "MENTA", "ICE", "650"],
-        "optional_terms": ["SHAMPOO", "ANTICASPA"],
+        "optional_terms": ["SHAMPOO", "ANTICASPA","PAGUE","MENOS"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
         "ean": "7500435238670"
