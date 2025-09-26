@@ -1425,7 +1425,13 @@
         "ean_brand": "7189999999934",
         "ean": "7500435160636"
     },
-
+    {
+        "mandatory_terms": ["DOWNY","VERAO","1,2"],
+        "optional_terms": ["4X","PERFUME","BRISA"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435177566"
+    },
     {
         "mandatory_terms": ["DOWNY","VERAO","400"],
         "optional_terms": ["4X","PERFUME","BRISA"],
