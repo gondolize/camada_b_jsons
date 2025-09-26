@@ -735,6 +735,13 @@
         "ean_brand": "7189999999928",
         "ean": "7506339394603"
     },
+     {
+        "mandatory_terms": ["ALWAYS","SUAVE","4X","M","8"],
+        "optional_terms": ["ABSORVENTE","MEDIO","UNIDADES"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7506195129838"
+    },
     {
         "mandatory_terms": ["PAMPERS","CONFORT","SEC","P","50"],
         "optional_terms": ["12H","PROTECAO"],
@@ -889,13 +896,6 @@
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435132831"
-    },
-    {
-        "mandatory_terms": ["ALWAYS","SUAVE","M","8"],
-        "optional_terms": ["ABSORVENTE","MEDIO","UNIDADES"],
-        "brand": "ALWAYS",
-        "ean_brand": "7189999999928",
-        "ean": "7506195129838"
     },
     {
         "mandatory_terms": ["PAMPERS","SUPERSEC","XXG","64"],
