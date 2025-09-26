@@ -10,4 +10,4 @@ jobs:
 
     steps:
       - name: Disparar atualização na VM do painel
-        run: ssh -i ~/.ssh/id_ed25519_runner felipe@192.168.2.8 'bash /home/felipe/script-cicd.sh'
+        run: ssh -i ~/.ssh/id_ed25519_runner felipe@192.168.2.8 'bash /home/felipe/script-cicd/script-cicd.sh'
