@@ -512,6 +512,13 @@
         "ean": "7500435214650"
     },
     {
+        "mandatory_terms": ["ALWAYS","SUAVE","M","32"],
+        "optional_terms": ["ABSORVENTE","MEDIO","GRATIS"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7506339326048"
+    },
+    {
         "mandatory_terms": ["ALWAYS","SUAVE","P","4X" ],
         "optional_terms": ["MEDIO","ABSORVENTE","ABAS"],
         "brand": "ALWAYS",
@@ -706,13 +713,6 @@
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7506339326031"
-    },
-    {
-        "mandatory_terms": ["ALWAYS","SUAVE","M","32"],
-        "optional_terms": ["ABSORVENTE","MEDIO","GRATIS"],
-        "brand": "ALWAYS",
-        "ean_brand": "7189999999928",
-        "ean": "7506339326048"
     },
     {
         "mandatory_terms": ["ALWAYS","NOTURNO","SUAVE","G","32"],
