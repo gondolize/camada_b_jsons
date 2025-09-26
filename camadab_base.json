@@ -505,6 +505,13 @@
         "ean": "7891051037014"
     },
     {
+        "mandatory_terms": ["ALWAYS","NOITES","TRANQUILAS","XG","26"],
+        "optional_terms": ["ABSORVENTE","EXTRA","GRANDE"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435214650"
+    },
+    {
         "mandatory_terms": ["ALWAYS","SUAVE","P","4X" ],
         "optional_terms": ["MEDIO","ABSORVENTE","ABAS"],
         "brand": "ALWAYS",
@@ -608,13 +615,6 @@
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435212618"
-    },
-    {
-        "mandatory_terms": ["ALWAYS","NOITES","TRANQUILAS","XG","26"],
-        "optional_terms": ["ABSORVENTE","EXTRA","GRANDE"],
-        "brand": "ALWAYS",
-        "ean_brand": "7189999999928",
-        "ean": "7500435214650"
     },
     {
         "mandatory_terms": ["ALWAYS","NOITES","TRANQUILAS","XG","8"],
@@ -1427,6 +1427,13 @@
     },
     {
         "mandatory_terms": ["DOWNY","VERAO","1,2"],
+        "optional_terms": ["4X","PERFUME","BRISA"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435177566"
+    },
+    {
+        "mandatory_terms": ["DOWNY","VERAO","12"],
         "optional_terms": ["4X","PERFUME","BRISA"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
