@@ -3556,7 +3556,7 @@
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "HIDRATACAO", "400"],
-        "optional_terms": ["COURO", "CABELUDO", "RESSECADO", "OLEO","AMENDOAS"],
+        "optional_terms": ["COURO", "CABELUDO", "RESSECADO", "RAIZ","OLEO","AMENDOAS"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
         "ean": "7501001133306"
