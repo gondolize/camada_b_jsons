@@ -1,0 +1,14 @@
+name: Atualizar Painel HML
+
+on:
+  push:
+    branches: [ "main" ] # ou branch que você usar
+
+jobs:
+  update_panel:
+    runs-on: self-hosted
+
+    steps:
+      - name: Disparar atualização na VM do painel
+        run: |
+          run: ssh felipe@192.168.2.8 'bash script-cicd/script-cicd.sh'
