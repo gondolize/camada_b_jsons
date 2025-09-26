@@ -673,13 +673,6 @@
         "ean": "7501007499758"
     },
     {
-        "mandatory_terms": ["ALWAYS","SUAVE","M","8"],
-        "optional_terms": ["ABSORVENTE","MEDIO","UNIDADES"],
-        "brand": "ALWAYS",
-        "ean_brand": "7189999999928",
-        "ean": "7506195129838"
-    },
-    {
         "mandatory_terms": ["ALWAYS","PROTECAO","COM","PERFUME","40"],
         "optional_terms": ["DIFERENTES","TIPOS","FLUIDO"],
         "brand": "ALWAYS",
@@ -896,6 +889,13 @@
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435132831"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","SUAVE","M","8"],
+        "optional_terms": ["ABSORVENTE","MEDIO","UNIDADES"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7506195129838"
     },
     {
         "mandatory_terms": ["PAMPERS","SUPERSEC","XXG","64"],
