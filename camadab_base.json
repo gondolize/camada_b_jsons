@@ -505,6 +505,13 @@
         "ean": "7891051037014"
     },
     {
+        "mandatory_terms": ["ALWAYS","SUAVE","P","4X" ],
+        "optional_terms": ["MEDIO","ABSORVENTE","ABAS"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435127240"
+    },
+    {
         "mandatory_terms": ["ALWAYS","SEM","PERFUME","40"],
         "optional_terms": ["EQUILIBRIO","PROTECAO","LIMPEZA"],
         "brand": "ALWAYS",
@@ -538,13 +545,6 @@
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435127233"
-    },
-    {
-        "mandatory_terms": ["ALWAYS","SUPER","SUAVE","8"],
-        "optional_terms": ["COBERTURA","SUAVE","ABSORVENTE"],
-        "brand": "ALWAYS",
-        "ean_brand": "7189999999928",
-        "ean": "7500435127240"
     },
     {
         "mandatory_terms": ["ALWAYS","SUPER","SUAVE","16"],
@@ -636,13 +636,6 @@
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435233446"
-    },
-    {
-        "mandatory_terms": ["ALWAYS","SUAVE","P","4X" ],
-        "optional_terms": ["MEDIO","ABSORVENTE","ABAS"],
-        "brand": "ALWAYS",
-        "ean_brand": "7189999999928",
-        "ean": "7506339326048"
     },
     {
         "mandatory_terms": ["ALWAYS","ULTRAFINO","M","8"],
@@ -737,6 +730,13 @@
     },
     {
         "mandatory_terms": ["ALWAYS","NOTURNO","SUAVE","G","8"],
+        "optional_terms": ["ABSORVENTE","GRANDE"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7506339394603"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","5X","SUAVE","G","8"],
         "optional_terms": ["ABSORVENTE","GRANDE"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
