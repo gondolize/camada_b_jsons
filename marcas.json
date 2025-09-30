@@ -814,5 +814,16 @@
         "brand": "SECRET",
         "ean_brand": "7189999999926",
         "ean": "7189999999926"
+    },
+    {
+        "mandatory_terms": [
+            "FOFO"
+        ],
+        "optional_terms": [
+            "FOFO"
+        ],
+        "brand": "FOFO",
+        "ean_brand": "7189999999925",
+        "ean": "7189999999925"
     }
 ]

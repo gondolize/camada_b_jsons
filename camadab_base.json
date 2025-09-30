@@ -6599,17 +6599,6 @@
     },
     {
         "mandatory_terms": [
-            "CLARA"
-        ],
-        "optional_terms": [
-            "CLARA"
-        ],
-        "brand": "CLARA",
-        "ean_brand": "7189999999972",
-        "ean": "7189999999972"
-    },
-    {
-        "mandatory_terms": [
             "INSPIRA"
         ],
         "optional_terms": [
@@ -7611,8 +7600,18 @@
         "brand": "PANVEL",
         "ean_brand": "7990000000099",
         "ean": "7990000000099"
+    },
+    {
+        "mandatory_terms": [
+            "FOFO"
+        ],
+        "optional_terms": [
+            "FOFO"
+        ],
+        "brand": "FOFO",
+        "ean_brand": "7189999999925",
+        "ean": "7189999999925"
     }
-
 
 
 
