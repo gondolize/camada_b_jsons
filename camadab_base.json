@@ -6731,17 +6731,6 @@
     },
     {
         "mandatory_terms": [
-            "MILI"
-        ],
-        "optional_terms": [
-            "MILI"
-        ],
-        "brand": "MILI",
-        "ean_brand": "7189999999959",
-        "ean": "7189999999959"
-    },
-    {
-        "mandatory_terms": [
             "DOBLE"
         ],
         "optional_terms": [
