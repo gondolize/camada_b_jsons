@@ -1524,7 +1524,7 @@
         "ean": "7500435198240"
     },
     {
-        "mandatory_terms": ["DOWNY","PERFUME","INTENSO","1,5"],
+        "mandatory_terms": ["DOWNY","CONCENTRADO","INTENSO","1,5"],
         "optional_terms": ["CONCENTRADO","BRISA","INTENSO"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
@@ -7515,28 +7515,6 @@
         "brand": "SKALA",
         "ean_brand": "7360000000036",
         "ean": "7360000000036"
-    },
-    {
-        "mandatory_terms": [
-            "OMO"
-        ],
-        "optional_terms": [
-            "OMO"
-        ],
-        "brand": "OMO",
-        "ean_brand": "7189999999994",
-        "ean": "7189999999994"
-    },
-    {
-        "mandatory_terms": [
-            "OLA"
-        ],
-        "optional_terms": [
-            "OLA"
-        ],
-        "brand": "OLA",
-        "ean_brand": "7189999999993",
-        "ean": "7189999999993"
     },
     {
         "mandatory_terms": ["AMEND"],
