@@ -7539,27 +7539,6 @@
         "ean": "7189999999993"
     },
     {
-        "mandatory_terms": ["OX", "HIDRATA"],
-        "optional_terms": ["DESIDRATADOS"],
-        "brand": "OX",
-        "ean_brand": "7140000000014",
-        "ean": "7140000000014"
-    },
-    {
-        "mandatory_terms": ["OX", "RESTAURA"],
-        "optional_terms": ["QUEBRADICOS"],
-        "brand": "OX",
-        "ean_brand": "7140000000014",
-        "ean": "7140000000014"
-    },
-    {
-        "mandatory_terms": ["OX", "LISOS"],
-        "optional_terms": ["CABELOS"],
-        "brand": "OX",
-        "ean_brand": "7140000000014",
-        "ean": "7140000000014"
-    },
-    {
         "mandatory_terms": ["AMEND"],
         "optional_terms": ["AMEND"],
         "brand": "AMEND",
