@@ -3792,14 +3792,14 @@
         "ean": "7908615060620"
     },
     {
-        "mandatory_terms": ["ELSEVE", "HIDRA", "HIALURONICO", "TRATAMENTO"],
-        "optional_terms": ["INTENSIVA", "300", "LIMPA", "HIDRATA"],
+        "mandatory_terms": ["ELSEVE", "HIDRA", "HIALURONICO", "TRATAMENTO","300"],
+        "optional_terms": ["INTENSIVA", "LIMPA", "HIDRATA"],
         "brand": "ELSEVE",
         "ean_brand": "7800000000002",
         "ean": "7899706187480"
     },
     {
-        "mandatory_terms": ["ELSEVE", "HIDRA", "CREME", "TRATAMENTO"],
+        "mandatory_terms": ["ELSEVE", "HIDRA", "CREME", "TRATAMENTO","300"],
         "optional_terms": ["INTENSIVA", "HIALURONICO", "300"],
         "brand": "ELSEVE",
         "ean_brand": "7800000000002",
