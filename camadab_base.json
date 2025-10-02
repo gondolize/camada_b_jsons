@@ -1,12 +1,5 @@
 [   
     {
-        "mandatory_terms": ["ORAL-B","ANTI","CARIES"],
-        "optional_terms": ["MENTA","SUAVE","ESCUDO"],
-        "brand": "ORAL-B",
-        "ean_brand": "7189999999927",
-        "ean": "3014260014445"
-    },
-    {
         "mandatory_terms": ["PAMPERS","AROMA","VERA","4"],
         "optional_terms": ["3","LEVE","PAGUE"],
         "brand": "PAMPERS",
