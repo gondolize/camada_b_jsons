@@ -7557,6 +7557,105 @@
         "brand": "FOFO",
         "ean_brand": "7189999999925",
         "ean": "7189999999925"
+    },
+    {
+        "mandatory_terms": [
+            "INTIMUS"
+        ],
+        "optional_terms": [
+            "INTIMUS"
+        ],
+        "brand": "INTIMUS",
+        "ean_brand": "7189999999924",
+        "ean": "7189999999924"
+    },
+    {
+        "mandatory_terms": [
+            "SEMPRE LIVRE"
+        ],
+        "optional_terms": [
+            "SEMPRE LIVRE"
+        ],
+        "brand": "SEMPRE LIVRE",
+        "ean_brand": "7189999999923",
+        "ean": "7189999999923"
+    },
+    {
+        "mandatory_terms": [
+            "CAREFREE"
+        ],
+        "optional_terms": [
+            "CAREFREE"
+        ],
+        "brand": "CAREFREE",
+        "ean_brand": "7189999999922",
+        "ean": "7189999999922"
+    },
+    {
+        "mandatory_terms": [
+            "SYM"
+        ],
+        "optional_terms": [
+            "SYM"
+        ],
+        "brand": "SYM",
+        "ean_brand": "7189999999921",
+        "ean": "7189999999921"
+    },
+    {
+        "mandatory_terms": [
+            "POISE"
+        ],
+        "optional_terms": [
+            "POISE"
+        ],
+        "brand": "POISE",
+        "ean_brand": "7189999999920",
+        "ean": "7189999999920"
+    },
+    {
+        "mandatory_terms": [
+            "REXONA"
+        ],
+        "optional_terms": [
+            "REXONA"
+        ],
+        "brand": "REXONA",
+        "ean_brand": "7189999999919",
+        "ean": "7189999999919"
+    },
+    {
+        "mandatory_terms": [
+            "AXE"
+        ],
+        "optional_terms": [
+            "AXE"
+        ],
+        "brand": "AXE",
+        "ean_brand": "7189999999918",
+        "ean": "7189999999918"
+    },
+    {
+        "mandatory_terms": [
+            "SENADOR"
+        ],
+        "optional_terms": [
+            "SENADOR"
+        ],
+        "brand": "SENADOR",
+        "ean_brand": "7189999999917",
+        "ean": "7189999999917"
+    },
+    {
+        "mandatory_terms": [
+            "HERBISSIMO"
+        ],
+        "optional_terms": [
+            "HERBISSIMO"
+        ],
+        "brand": "HERBISSIMO",
+        "ean_brand": "7189999999916",
+        "ean": "7189999999916"
     }
 
 
