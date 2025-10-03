@@ -3646,7 +3646,7 @@
     },
     {
         "mandatory_terms": ["PRECO", "ESPECIAL", "ELSEVE", "REPARACAO", "TOTAL", "5"],
-        "optional_terms": ["REPARADOR", "RESTAURADOR"],
+        "optional_terms": ["REPARADOR", "RESTAURADOR","REPARA","REFORCA"],
         "brand": "ELSEVE",
         "ean_brand": "7800000000002",
         "ean": "7899706164337"
@@ -4009,8 +4009,8 @@
         "ean": "7899026420595"
     },
     {
-        "mandatory_terms": ["ELSEVE", "REPARACAO", "TOTAL", "SHAMPOO"],
-        "optional_terms": ["REPARADOR", "5", "200", "REPARA", "UNIFORMIZA", "MENOS", "QUEBRA"],
+        "mandatory_terms": ["ELSEVE", "REPARACAO", "TOTAL", "SHAMPOO", "200"],
+        "optional_terms": ["REPARADOR", "5", "REPARA", "UNIFORMIZA", "MENOS", "QUEBRA"],
         "brand": "ELSEVE",
         "ean_brand": "7800000000002",
         "ean": "7899026459960"
