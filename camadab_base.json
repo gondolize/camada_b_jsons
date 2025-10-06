@@ -3155,7 +3155,7 @@
         "ean": "7891150091191"
     },
     {
-        "mandatory_terms": ["TRESEMME", "DETOX", "CAPILAR"],
+        "mandatory_terms": ["TRESEMME", "DETOX", "CAPILAR","400"],
         "optional_terms": ["MASCARA", "EXTRATO", "GENGIBRE"],
         "brand": "TRESEMME",
         "ean_brand": "7600000000006",
