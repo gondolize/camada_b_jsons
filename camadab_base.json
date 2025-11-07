@@ -1,5 +1,98 @@
 [   
     {
+        "mandatory_terms": ["GILLETTE", "VENUS", "SPA"],
+        "optional_terms": ["HOJAS", "LAMINADAS", "3"],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7500435121002"
+    },
+   {
+        "mandatory_terms": ["DOWNY","PERFUME","INTENSO","1.5"],
+        "optional_terms": ["ALTA","FIXACAO","GRATIS"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435259538"
+    },
+
+    {
+        "mandatory_terms": ["GILLETTE","VENUS","PELE","SENSIVEL","3"],
+        "optional_terms": ["KIT", "ESPECIAL", "GEL"],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7500435255981"
+    },
+
+    {
+        "mandatory_terms": ["GILLETTE", "PRESTOBARBA", "FRESH"],
+        "optional_terms": ["EUCALIPTO", "2"],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7702018983872"
+    },
+        {
+        "mandatory_terms": ["PROBAK", "II", "PRESTOBARBA", "GILLETTE"],
+        "optional_terms": ["AGORA", "28", "2", "UNIDADES"],
+        "brand": "PROBAK",
+        "ean_brand": "",
+        "ean": "7500435187350"
+    },
+        {
+        "mandatory_terms": ["ORAL-B", "ANTICARIES","COMBATE","CARIES"],
+        "optional_terms": [ "ESCUDO", "PROTETOR", "DENTES", "RAIZES"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435228992"
+    },
+        {
+        "mandatory_terms": ["GILLETTE", "PRESTOBARBA", "3", "CARVAO"],
+        "optional_terms": ["1"],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7500435245845"
+    },
+
+        {
+        "mandatory_terms": ["GILLETTE", "PRESTOBARBA", "3", "SUAVE"],
+        "optional_terms": ["BARBEAR", "DURADOURO", "6", "APARELHOS"],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7500435253666"
+    },
+
+        {
+        "mandatory_terms": ["PAMPERS", "PANTS", "XXXG", "54", "NOVA" ],
+        "optional_terms": ["AJUSTE", "TOTAL", "FACIL", "VESTIR"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435246637"
+    },
+
+         {
+        "mandatory_terms": ["DOWNY", "BRISA", "VERAO", "400"],
+        "optional_terms": ["4X", "RENDE", "PROTEGE", "BRISA"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435140966"
+    },
+
+         {
+        "mandatory_terms": ["DOWNY", "2", "BRISA", "500"],
+        "optional_terms": ["MAIS", "RENDE", "VERAO"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7506195143834"
+    },
+
+
+
+         {
+        "mandatory_terms": ["PANTENE", "HIDRO-CAUTERIZACAO", "175", "CONDICIONADOR"],
+        "optional_terms": ["PRO-V", "CONTROLA","FRIZZ","GLICERINA"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435125390"
+    },
+    {
         "mandatory_terms": ["PAMPERS","AROMA","VERA","4"],
         "optional_terms": ["3","LEVE","PAGUE"],
         "brand": "PAMPERS",
@@ -6374,19 +6467,166 @@
         "ean_brand": "7500000000001",
         "ean": "7500435146937"
     },
-     {
+    {
         "mandatory_terms": ["SHAMPOO","OCTOPIROX","200ML"],
         "optional_terms": ["VUMEN", "VLMEN", "ULMEN"],
         "brand": "VINILADY",
         "ean_brand": "7350000000035",
         "ean": "7350000000035"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","XG","92"],
+        "optional_terms": ["PACOTE","ECONOMICO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435249379"
+    },
+
+        {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","XXG","88"],
+        "optional_terms": ["PACOTE","ECONOMICO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435249386"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","G","98"],
+        "optional_terms": ["PACOTE","ECONOMICO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435209199"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","M","112"],
+        "optional_terms": ["PACCOTE","ECONOMICO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435205245"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","M","148"],
+        "optional_terms": ["MES","CONSUMO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435130233"
+        
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","G","128"],
+        "optional_terms": ["MES","CONSUMO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435130240"
+        
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PANTS","G","94"],
+        "optional_terms": ["PACOTE","ECONOMICO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435209021"
+        
+    },
+    {
+        "mandatory_terms": ["PAMPRES","PANTS","XG","86"],
+        "optional_terms": ["PACOTE","ECONOMICO"],
+        "brand": "PAMPRES",
+        "ean_brand": "7189999999931",
+        "ean": "7500435205795"
+        
+    },
+    {
+        "mandatory_terms": ["ORAL-B","PACK","FAMILIA","CARVAO","SENSITIVE"],
+        "optional_terms": ["INDICATOR","BLACK","7"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435234399"
+        
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","XXXG","74"],
+        "optional_terms": ["PACOTE","ECONOMICO"],
+        "brand": "PAMPRES",
+        "ean_brand": "7189999999931",
+        "ean": "7500435232937"
+        
+    },
+        {
+        "mandatory_terms": ["PAMPERS","12","AROMA","ALOE","VERA"],
+        "optional_terms": ["AROMA","ALOE","VERA"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435231718"
+        
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","XXG","84"],
+        "optional_terms": ["PACOTE","ECONOMICO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435209212"
+        
+    },
+        {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","XG","88"],
+        "optional_terms": ["PACOTE","ECONOMICO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435209205"
+        
+    },
+    {
+        "mandatory_terms": ["GILLETTE","MACH","SENSITIVE","3"],
+        "optional_terms": ["ESTILO"],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7500435205856"
+        
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PANTS","XXG","78","FRALDAS"],
+        "optional_terms": ["AJUSTE","TOTAL"],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7500435205801"
+        
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","XG","54"],
+        "optional_terms": ["FRALDAS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435205269"
+        
+    },
+    {
+        "mandatory_terms":["PAMPERS","CONFORT","SEC","XXG","112"],
+        "optional_terms":["MES","CONSUMO"],
+        "brand":"PAMPERS",
+        "ean_brand":"7189999999931",
+        "ean":"7500435200240"
+    },
+    {
+        "mandatory_terms":["PAMPERS","CONFORT","SEC","XG","116"],
+        "optional_terms":["MES","CONSUMO"],
+        "brand":"PAMPERS",
+        "ean_brand":"7189999999931",
+        "ean":"7500435130257"
+    },
+    {
+        "mandatory_terms":["PAMPERS","CONFORT","SEC","XXG","52"],
+        "optional_terms":["FRALDAS"],
+        "brand":"PAMPERS",
+        "ean_brand":"7189999999931",
+        "ean":"7500435205238"
+    },
+    {
+        "mandatory_terms":["GILLETTE","CORPO","4"],
+        "optional_terms":["BARREIRA","PROTETORA"],
+        "brand":"GILLETTE",
+        "ean_brand":"7189999999933",
+        "ean":"7500435173018"
     }
-
-
-
-
-
-
 
 
 
