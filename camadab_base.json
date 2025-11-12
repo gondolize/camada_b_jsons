@@ -8359,6 +8359,639 @@
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435167246"
+    },
+        {
+        "mandatory_terms":["PROBAK","II","DUAS","LAMINAS"],
+        "optional_terms":["CABO","ANTIDESLIZANTE"],
+        "brand":"PROBAK",
+        "ean_brand":"7189999999915",
+        "ean":"7891051028807"
+    },
+    {
+        "mandatory_terms":["GILLETTE","MACH","3"],
+        "optional_terms":["2","UNIDADES"],
+        "brand":"GILLETTE",
+        "ean_brand":"7189999999933",
+        "ean":"47400179240"
+    },
+    {
+        "mandatory_terms":["GILLETTE","VENUS","SKIN","COMFORT"],
+        "optional_terms":["SPA"],
+        "brand":"GILLETTE VENUS",
+        "ean_brand":"7189999999914",
+        "ean":"7500435120920"
+    },
+    {
+        "mandatory_terms":["HERBAL","ESSENCES","REAL","BOTANICALS","CONDICIONADOR"],
+        "optional_terms":["400","ROSEMARY","HERBS"],
+        "brand":"HERBAL",
+        "ean_brand":"7189999999913",
+        "ean":"190679000194"
+    },
+    {
+        "mandatory_terms":["HERBAL","ESSENCES","GOLDEN","MORINGA","OIL"],
+        "optional_terms":["SMOOTH","CONDICIONADOR"],
+        "brand":"HERBAL",
+        "ean_brand":"7189999999913",
+        "ean":"190679000163"
+    },
+    {
+        "mandatory_terms":["AUSSIE","BYE","BYE","FRIZZ"],
+        "optional_terms":["CONDITIONER","360"],
+        "brand":"AUSSIE",
+        "ean_brand":"7189999999912",
+        "ean":"7500435130752"
+    },
+    {
+        "mandatory_terms":["AUSSIE","BTX","EFFECT","360"],
+        "optional_terms":["CONDITIONER"],
+        "brand":"AUSSIE",
+        "ean_brand":"7189999999912",
+        "ean":"7500435184960"
+    },
+        {
+        "mandatory_terms":["GILLETTE","VENUS","PELE","SENSIVEL"],
+        "optional_terms":["1"],
+        "brand":"GILLETTE VENUS",
+        "ean_brand":"7189999999914",
+        "ean":"7500435248419"
+    },
+    {
+        "mandatory_terms":["ASSUIE","CACHOS","CRESPOS","ATIVADOS","236"],
+        "optional_terms":["3","MINUTE","MIRACLE"],
+        "brand":"ASSUIE",
+        "ean_brand":"7189999999912",
+        "ean":"7500435184922"
+    },
+    {
+        "mandatory_terms":["AUSSIE","CACHOS","CRESPOS","ATIVADOS","CONDITIONER"],
+        "optional_terms":["360","LOW","POO"],
+        "brand":"AUSSIE",
+        "ean_brand":"7189999999912",
+        "ean":"7500435135566"
+    },
+    {
+        "mandatory_terms":["GILLETTE","SKIN","GUARD"],
+        "optional_terms":["SENSITIVE"],
+        "brand":"GILLETTE",
+        "ean_brand":"7189999999933",
+        "ean":"7500435148092"
+    },
+    {
+        "mandatory_terms":["GILLETTE","VENUS","INTIMA","AREA","VIRILHA"],
+        "optional_terms":["NOVA","2","BARREIRA","PROTETORA"],
+        "brand":"GILLETTE VENUS",
+        "ean_brand":"7189999999914",
+        "ean":"7500435204002"
+    },
+    {
+        "mandatory_terms":["AUSSIE","BYE","BYE","FRIZZ","SHAMPOO"],
+        "optional_terms":["OLEO","JOJOBA","ALGA","MARINH","AUSTRALIANA"],
+        "brand":"AUSSIE",
+        "ean_brand":"7189999999912",
+        "ean":"7500435130745"
+    },
+    {
+        "mandatory_terms":["AUSSIE","BYE","BYE","FRIZZ","SHAMPOO"],
+        "optional_terms":["180"],
+        "brand":"AUSSIE",
+        "ean_brand":"7189999999912",
+        "ean":"7500435130806"
+    },
+    {
+        "mandatory_terms":["GILLETTE","MACH","3","8"],
+        "optional_terms":["PACK","ANUAL"],
+        "brand":"GILLETTE",
+        "ean_brand":"7189999999933",
+        "ean":"7500435110013"
+    },
+    {
+        "mandatory_terms":["AUSSIE","MEGA","MOIST","SHAMPOO"],
+        "optional_terms":["180","CABELOS","PROCURA","HIDRATACAO","LEVEZA"],
+        "brand":"AUSSIE",
+        "ean_brand":"7189999999912",
+        "ean":"7500435130721"
+    },
+    {
+        "mandatory_terms":["HERBAL","ESSENCES","ARGAN","OIL","MOROCCO"],
+        "optional_terms":["REAL","BOTANICALS","CONDICIONADOR","400"],
+        "brand":"HERBAL",
+        "ean_brand":"7189999999913",
+        "ean":"190679000187"
+    },
+    {
+        "mandatory_terms":["AUSSIE","BTX","EFFECT","SHAMPOO"],
+        "optional_terms":["360","ABRACO","NUTRICAO","MACIEZ"],
+        "brand":"AUSSIE",
+        "ean_brand":"7189999999912",
+        "ean":"7500435184953"
+    },
+    {
+        "mandatory_terms":["AUSSIE","BYE","BYE","FRIZZ","236"],
+        "optional_terms":["3","MINUTE","MIRACLE"],
+        "brand":"AUSSIE",
+        "ean_brand":"7189999999912",
+        "ean":"7500435184939"
+    },
+    {
+        "mandatory_terms":["AUSSIE","BYE","BYE","FRIZZ","KIT"],
+        "optional_terms":["MOSTRE","FRIZZ","MANDA","AQUI","DESCONTO"],
+        "brand":"AUSSIE",
+        "ean_brand":"7189999999912",
+        "ean":"7500435188333"
+    },
+    {
+        "mandatory_terms":["GILLETTE","VENUS","SUAVE","SENSITIVE"],
+        "optional_terms":["CONTEM","4","LAMINAS","MOVEIS"],
+        "brand":"GILLETTE VENUS",
+        "ean_brand":"7189999999914",
+        "ean":"7500435172561"
+    },
+    {
+        "mandatory_terms":["HERBAL","ESSENCES","ROMEMARY","HERBS","SHAMPOO"],
+        "optional_terms":["MOISTURE","BIO","RENEW"],
+        "brand":"HERBAL",
+        "ean_brand":"7189999999913",
+        "ean":"190679000095"
+    },
+    {
+        "mandatory_terms":["GILLETTE","VENUS","ESPECIAL"],
+        "optional_terms":["AREA","INTIMA"],
+        "brand":"GILLETTE VENUS",
+        "ean_brand":"7189999999914",
+        "ean":"7500435204026"
+    },
+    {
+        "mandatory_terms":["HERBAL","ESSENCES","GOLDEN","MORINGA","OIL"],
+        "optional_terms":["SHAMPOO","SMOOTH","400"],
+        "brand":"HERBAL",
+        "ean_brand":"7189999999913",
+        "ean":"190679000064"
+    },
+    {
+        "mandatory_terms":["HERBAL","ESSENCES","ARGAN","OIL","MOROCCO"],
+        "optional_terms":["REPAIR","REAL","BOTANICALS","400","SHAMPOO"],
+        "brand":"HERBAL",
+        "ean_brand":"7189999999913",
+        "ean":"190679000088"
+    },
+    {
+        "mandatory_terms":["AUSSIE","HIDRATACAO","KIT","DESCONTO"],
+        "optional_terms":["QUE","NAO","PESA"],
+        "brand":"AUSSIE",
+        "ean_brand":"7189999999912",
+        "ean":"7500435188388"
+    },
+    {
+        "mandatory_terms":["AUSSIE","MEGA","MOIST","236"],
+        "optional_terms":["3","MINUTE","MIRACLE"],
+        "brand":"AUSSIE",
+        "ean_brand":"7189999999912",
+        "ean":"7500435184946"
+    },
+    {
+        "mandatory_terms":["AUSSIE","MEGA","MOIST","360"],
+        "optional_terms":["CONDITIONER"],
+        "brand":"AUSSIE",
+        "ean_brand":"7189999999912",
+        "ean":"7500435130738"
+    },
+    {
+        "mandatory_terms":["AUSSIE","MEGA","MOIST","SHAMPOO","180"],
+        "optional_terms":["CABELOS","PROCURA","HIDRATACAO","LEVEZA"],
+        "brand":"AUSSIE",
+        "ean_brand":"7189999999912",
+        "ean":"7500435130783"
+    },
+    {
+        "mandatory_terms":["PROBAK","II","DUAS","LAMINAS"],
+        "optional_terms":["AGORA","28","UNIDADES"],
+        "brand":"PROBAK",
+        "ean_brand":"7189999999915",
+        "ean":"7500435151474"
+    },
+    {
+        "mandatory_terms":["KING","C","GILLETTE","SHAMPOO","SERUM"],
+        "optional_terms":["BARBA","PREENCHEDOR"],
+        "brand":"KING GILLETTE",
+        "ean_brand":"7189999999910",
+        "ean":"7500435238694"
+    },
+    {
+        "mandatory_terms":["GILLETTE","VENUS","ESFOLIANTE","SUAVE"],
+        "optional_terms":["ESPECIAL","AREA","INTIMA","177"],
+        "brand":"GILLETTE VENUS",
+        "ean_brand":"7189999999914",
+        "ean":"7500435204446"
+    },
+    {
+        "mandatory_terms":["GILLETTE","VENUS","SUAVE","INTIMA","CORPO"],
+        "optional_terms":["KIT","6","LAMINAS","PRECO","ESPECIAL"],
+        "brand":"GILLETTE VENUS",
+        "ean_brand":"7189999999914",
+        "ean":"7500435238748"
+    },
+    {
+        "mandatory_terms":["GILLETTE","VENUS","ESPECIAL","190"],
+        "optional_terms":["AREA","INTIMA"],
+        "brand":"GILLETTE VENUS",
+        "ean_brand":"7189999999914",
+        "ean":"7500435204019"
+    },
+    {
+        "mandatory_terms":["GILLETTE","VENUS","AREA","INTIMA"],
+        "optional_terms":["4","PAGUE","MENOS"],
+        "brand":"GILLETTE VENUS",
+        "ean_brand":"7189999999914",
+        "ean":"7500435203999"
+    },
+    {
+        "mandatory_terms":["GILLETTE","VENUS","SUAVE","INTIMA"],
+        "optional_terms":["SENSITIVE","CORPO","PRECO","ESPECIAL"],
+        "brand":"GILLETTE VENUS",
+        "ean_brand":"7189999999914",
+        "ean":"7500435248808"
+    },
+    {
+        "mandatory_terms":["GILLETTE","VENUS","SUAVE","6"],
+        "optional_terms":["PAGUE","MENOS"],
+        "brand":"GILLETTE VENUS",
+        "ean_brand":"7189999999914",
+        "ean":"7500435120937"
+    },
+    {
+        "mandatory_terms":["GILLETTE","VENUS","SUAVE"],
+        "optional_terms":["ALOE","VERA","2","PELE","MACIA"],
+        "brand":"GILLETTE VENUS",
+        "ean_brand":"7189999999914",
+        "ean":"7702018072392"
+    },
+    {
+        "mandatory_terms":["AUSSIE","BTX","EFFECT","236"],
+        "optional_terms":["3","MINUTE","MIRACLE"],
+        "brand":"AUSSIE",
+        "ean_brand":"7189999999912",
+        "ean":"7500435184977"
+    },
+    {
+        "mandatory_terms":["AUSSIE","HIDRATACAO","MEGA","MOIST"],
+        "optional_terms":["KIT","DESCONTO"],
+        "brand":"AUSSIE",
+        "ean_brand":"7189999999912",
+        "ean":"7500435188340"
+    },
+    {
+        "mandatory_terms":["AUSSIE","EFEITO","BTX","BTOX","EFFECT"],
+        "optional_terms":["TIPO","PROGRESSIVA","CASEIRA","SUPER","DESCONTO"],
+        "brand":"AUSSIE",
+        "ean_brand":"7189999999912",
+        "ean":"7500435188357"
+    },
+    {
+        "mandatory_terms": [
+            "TAMPAX",
+            "COMPAK",
+            "8",
+            "ABSORVENTES",
+            "INTERNOS",
+            "SUPER",
+            "APLIOCADOR"
+        ],
+        "optional_terms": [
+            "PROTECAO",
+            "8",
+            "INTERNOS",
+            "SUPER",
+            "APLICADOR"
+        ],
+        "brand": "TAMPAX",
+        "ean_brand": "7189999999911",
+        "ean": "4015400151715"
+    },
+    {
+        "mandatory_terms": [
+            "SEIVA",
+            "ALFAZEMA",
+            "LAVANDA",
+            "ORIGINAL",
+            "DEO",
+            "COLOGNE",
+            "118"
+        ],
+        "optional_terms": [
+            "LAVANDA",
+            "ORIGINAL",
+            "118"
+        ],
+        "brand": "SEIVA DE ALFAZEMA",
+        "ean_brand": "7189999999912",
+        "ean": "7896093013507"
+    },
+    {
+        "mandatory_terms": [
+            "GILLETTE",
+            "VENUS",
+            "PELE",
+            "SENSIVEL",
+            "4",
+            "REFIS",
+            "ANRIATRITO"
+        ],
+        "optional_terms": [
+            "LAMINAS",
+            "ANTIATRITO",
+            "VENUS",
+            "4",
+            "REFIS"
+        ],
+        "brand": "GILLETTE VENUS",
+        "ean_brand": "7189999999914",
+        "ean": "7500435248440"
+    },
+    {
+        "mandatory_terms": [
+            "TAMPAX",
+            "SUPER",
+            "PLUS",
+            "CONTEM",
+            "10",
+            "EXTRA",
+            "INTERNOS"
+        ],
+        "optional_terms": [
+            "SUPER",
+            "PLUS",
+            "10",
+            "INTERNOS"
+        ],
+        "brand": "TAMPAX",
+        "ean_brand": "7189999999911",
+        "ean": "20800600347"
+    },
+    {
+        "mandatory_terms": [
+            "AUSSIE",
+            "KIT",
+            "DESCONTO",
+            "FRIZZ",
+            "MANDA",
+            "AQUI",
+            "BYE"
+        ],
+        "optional_terms": [
+            "BYE",
+            "KIT",
+            "DESCONTO",
+            "FRIZZ",
+            "MANDA"
+        ],
+        "brand": "AUSSIE",
+        "ean_brand": "7220000000022",
+        "ean": "7500435188364"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "INTRANDENTALES",
+            "CILINDRICO",
+            "6",
+            "REFIS"
+        ],
+        "optional_terms": [
+            "INTRANDENTALES",
+            "INTRADENTAIS",
+            "6",
+            "REFIS",
+            "CILINDRICO"
+        ],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7501086495139"
+    },
+    {
+        "mandatory_terms": [
+            "GILLETTE",
+            "VENUS",
+            "PELE",
+            "SENSIVEL",
+            "4",
+            "REFIS",
+            "ANRIATRITO"
+        ],
+        "optional_terms": [
+            "LAMINAS",
+            "ANTIATRITO",
+            "VENUS",
+            "4",
+            "REFIS"
+        ],
+        "brand": "GILLETTE VENUS",
+        "ean_brand": "7189999999914",
+        "ean": "7500435248440"
+    },
+    {
+        "mandatory_terms": [
+            "GILLETTE",
+            "VENUS",
+            "PELE",
+            "SENSIVEL",
+            "8",
+            "REFIS",
+            "PAGUE",
+            "MENOS"
+        ],
+        "optional_terms": [
+            "PAGUE",
+            "MENOS",
+            "8",
+            "REFIS",
+            "VENUS"
+        ],
+        "brand": "GILLETTE VENUS",
+        "ean_brand": "7189999999914",
+        "ean": "7500435255943"
+    },
+    {
+        "mandatory_terms": [
+            "GILLETTE",
+            "PLATINUM",
+            "BARBERSHOP",
+            "INOXIDAVEL",
+            "LAMINAS",
+            "AFIADAS",
+            "5"
+        ],
+        "optional_terms": [
+            "5",
+            "PLATINUM",
+            "INOXIDAVEL",
+            "LAMINAS"
+        ],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7500435203555"
+    },
+    {
+        "mandatory_terms": [
+            "GILLETTE",
+            "PRESTOBARBA",
+            "SENSITIVE",
+            "3",
+            "COMFORTGEL",
+            "CONTEM",
+            "5"
+        ],
+        "optional_terms": [
+            "5",
+            "SENSITIVE"
+        ],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7506339340204"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "CLIC",
+            "MANUAL",
+            "TOOTHBRUSH",
+            "CABO",
+            "REFIL",
+            "SUPORTE"
+        ],
+        "optional_terms": [
+            "SUPORTE",
+            "MAGNETICO",
+            "CABO",
+            "REFIL",
+            "CLIC"
+        ],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435149778"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "DISNEY",
+            "FROZEN",
+            "LIMPADOR",
+            "STAGES",
+            "TUTTI",
+            "FRUTTI"
+        ],
+        "optional_terms": [
+            "LIMPADOR",
+            "STAGES",
+            "TUTTI",
+            "FRUTTI",
+            "1",
+            "100"
+        ],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435114776"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "MACIA",
+            "30",
+            "CERDAS",
+            "ARREDONDADAS",
+            "INDICATOR",
+            "PLUS"
+        ],
+        "optional_terms": [
+            "DENTISTAS",
+            "30",
+            "ARREDONDADAS",
+            "ESCOVA",
+            "DENTAL",
+            "1"
+        ],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7891051037625"
+    },
+    {
+        "mandatory_terms": [
+            "GILLETTE",
+            "PRESTOBARBA",
+            "EXCEL",
+            "NOVO",
+            "WOMAN",
+            "LAMINAS",
+            "AJUSTAVEIS",
+            "2"
+        ],
+        "optional_terms": [
+            "EXCEL",
+            "WOMAN",
+            "LAMINAS",
+            "AJUSTAVEIS",
+            "2"
+        ],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7500435180191"
+    },
+    {
+        "mandatory_terms": [
+            "PROBAK",
+            "DUAS",
+            "PARALELAS",
+            "7",
+            "ANTIDESLIZANTE",
+            "LEVE",
+            "PAGUE"
+        ],
+        "optional_terms": [
+            "LEVE",
+            "PAGUE",
+            "7",
+            "PARALELAS"
+        ],
+        "brand": "PROBAK",
+        "ean_brand": "7189999999915",
+        "ean": "7891051040403"
+    },
+    {
+        "mandatory_terms": [
+            "GILLETTE",
+            "2",
+            "APARELHOS",
+            "MOVEL",
+            "CABO",
+            "ANTIDESLIZANTE",
+            "MANUSEIO"
+        ],
+        "optional_terms": [
+            "MANUSEIO",
+            "SEGURO",
+            "2"
+        ],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7500435160285"
+    },
+    {
+        "mandatory_terms": [
+            "GILLETTE",
+            "2",
+            "NOVO",
+            "CABECA",
+            "FIXA"
+        ],
+        "optional_terms": [
+            "2",
+            "NOVO",
+            "CABECA",
+            "FIXA"
+        ],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7506295375616"
     }
 
 ]
