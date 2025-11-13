@@ -8992,6 +8992,370 @@
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7506295375616"
+    },
+    {
+        "mandatory_terms": [
+            "GILLETTE",
+            "MACH",
+            "3",
+            "SENSITIVE"
+        ],
+        "optional_terms": [
+            "8",
+            "PAGUE",
+            "MENOS"
+        ],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7500435110020"
+    },
+    {
+        "mandatory_terms": [
+            "GILLETTE",
+            "DERMA",
+            "PROTECAO"
+        ],
+        "optional_terms": [
+            "BARREIRA",
+            "CONTRA",
+            "PELOS",
+            "ENCRAVADOS"
+        ],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7500435190534"
+    },
+    {
+        "mandatory_terms": [
+            "GILLETTE",
+            "MACH",
+            "3",
+            "SENSITIVE"
+        ],
+        "optional_terms": [
+            "6",
+            "UNIDADES",
+            "ALOE"
+        ],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7500435203395"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "BOCA",
+            "CUIDADA",
+            "NOITE",
+            "100"
+        ],
+        "optional_terms": [
+            "500",
+            "PLACA",
+            "HALITO",
+            "TARTARO",
+            "BACTERIAS",
+            "GENGIVA"
+        ],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435183512"
+    },
+    {
+        "mandatory_terms": [
+            "AUSSIEE",
+            "SHAMPOO",
+            "360",
+            "CACHOS",
+            "CACHOS"
+        ],
+        "optional_terms": [
+            "CRESPOS",
+            "ATIVADOS"
+        ],
+        "brand": "AUSSIE",
+        "ean_brand": "7189999999912",
+        "ean": "7500435135559"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "100",
+            "BOCA",
+            "CUIDADA"
+        ],
+        "optional_terms": [
+            "250",
+            "PLACA",
+            "HALITO",
+            "TARTARO",
+            "BACTERIAS",
+            "GENGIVAS"
+        ],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435183505"
+    },
+    {
+        "mandatory_terms": [
+            "AUSSIE",
+            "CONDITIONER",
+            "MEGA",
+            "MOIST"
+        ],
+        "optional_terms": [
+            "180"
+        ],
+        "brand": "AUSSIE",
+        "ean_brand": "7189999999912",
+        "ean": "7500435130790"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "GENGIVA",
+            "DETOX",
+            "TARTAR",
+            "DEFENSE"
+        ],
+        "optional_terms": [
+            "LEVE",
+            "MAIS",
+            "PAGUE",
+            "MENOS"
+        ],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435201094"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "GENGIVA",
+            "DETOX",
+            "TARTAR",
+            "DEFENSE"
+        ],
+        "optional_terms": [
+            "MICRO",
+            "ESPUMA",
+            "MINT",
+            "DEFENSE"
+        ],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435201087"
+    },
+    {
+        "mandatory_terms": [
+            "AUSSIE",
+            "CONDITIONER",
+            "BYE",
+            "BYE",
+            "FRIZZ"
+        ],
+        "optional_terms": [
+            "180"
+        ],
+        "brand": "AUSSIE",
+        "ean_brand": "7189999999912",
+        "ean": "7500435130813"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "COMPLETE",
+            "5",
+            "PRECO",
+            "ESPECIAL",
+            "2"
+        ],
+        "optional_terms": [
+            "COMPLETE",
+            "5",
+            "PRECO",
+            "ESPECIAL"
+        ],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "3014260014452"
+    },
+    {
+        "mandatory_terms": [
+            "GILLETTE",
+            "3",
+            "LEVE",
+            "4",
+            "PAGUE",
+            "3",
+            "MOVEL",
+            "COMFORTGEL"
+        ],
+        "optional_terms": [
+            "3",
+            "LEVE",
+            "4",
+            "PAGUE",
+            "3",
+            "MOVEL",
+            "COMFORTGEL"
+        ],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7501001109653"
+    },
+    {
+        "mandatory_terms": [
+            "GILLETTE",
+            "FOAMY",
+            "ESPUMA",
+            "BARBEAR",
+            "179"
+        ],
+        "optional_terms": [
+            "FOAMY",
+            "ESPUMA",
+            "BARBEAR",
+            "179"
+        ],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7702018013326"
+    },
+    {
+        "mandatory_terms": [
+            "KING",
+            "GILLETTE",
+            "PLATINIUM",
+            "10"
+        ],
+        "optional_terms": [
+            "PLATINIUM",
+            "10"
+        ],
+        "brand": "KING GILLETTE",
+        "ean_brand": "7189999999910",
+        "ean": "7500435223300"
+    },
+    {
+        "mandatory_terms": [
+            "KING",
+            "GILLETTE",
+            "BALM",
+            "BARBA",
+            "75"
+        ],
+        "optional_terms": [
+            "BALM",
+            "BARBA",
+            "75"
+        ],
+        "brand": "KING GILLETTE",
+        "ean_brand": "7189999999910",
+        "ean": "7500435218849"
+    },
+    {
+        "mandatory_terms": [
+            "KING",
+            "GILLETTE",
+            "GEL",
+            "TRANSPARENTE",
+            "BARBEAR",
+            "170"
+        ],
+        "optional_terms": [
+            "GEL",
+            "TRANSPARENTE",
+            "BARBEAR",
+            "170"
+        ],
+        "brand": "KING GILLETTE",
+        "ean_brand": "7189999999910",
+        "ean": "7500435218856"
+    },
+    {
+        "mandatory_terms": [
+            "KING",
+            "GILLETTE",
+            "SERUM",
+            "PREENCHEDOR",
+            "ENGROSSADOR",
+            "BARBA"
+        ],
+        "optional_terms": [
+            "50"
+        ],
+        "brand": "KING GILLETTE",
+        "ean_brand": "7189999999910",
+        "ean": "7500435216265"
+    },
+    {
+        "mandatory_terms": [
+            "KING",
+            "GILLETTE",
+            "SHAMPOO",
+            "BARBA",
+            "REFRESCANTE",
+            "MENTA",
+            "241"
+        ],
+        "optional_terms": [
+            "BARBA",
+            "SHAMPOO",
+            "241",
+            "REFRESCANTE",
+            "",
+            ""
+        ],
+        "brand": "KING GILLETTE",
+        "ean_brand": "7189999999910",
+        "ean": "7500435222037"
+    },
+    {
+        "mandatory_terms": [
+            "HEAD",
+            "SHOLDERS",
+            "ANTICASPA",
+            "LEVE",
+            "PAGUE",
+            "SHAMPOO",
+            "650",
+            "OLD",
+            "SPICE"
+        ],
+        "optional_terms": [
+            "ANTICASPA",
+            "LEVE",
+            "PAGUE",
+            "SHAMPOO",
+            "650"
+        ],
+        "brand": "SHOLDERS",
+        "ean_brand": "7110000000008",
+        "ean": "7500435238687"
+    },
+    {
+        "mandatory_terms": [
+            "ORAL-B",
+            "EXPERT",
+            "SUPERFLOSS",
+            "APARELHOS",
+            "ORTODONTICOS",
+            "ESPACOS",
+            "INTERDENTAIS",
+            "FIO",
+            "DENTAL"
+        ],
+        "optional_terms": [
+            "APARELHOS",
+            "ORTODONTICOS",
+            "ESPACOS",
+            "INTERDENTAIS",
+            "FIO",
+            "DENTAL"
+        ],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7800005064020"
     }
-
 ]
