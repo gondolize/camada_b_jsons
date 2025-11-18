@@ -199,12 +199,12 @@
     },
     {
         "mandatory_terms": [
-            "CASA KM"
+            "COQUEL"
         ],
         "optional_terms": [
-            "CASA KM"
+            "COQUEL"
         ],
-        "brand": "CASA KM",
+        "brand": "COQUEL",
         "ean_brand": "7189999999980",
         "ean": "7189999999980"
     },
@@ -924,5 +924,71 @@
         "brand": "HERBISSIMO",
         "ean_brand": "7189999999916",
         "ean": "7189999999916"
+    },
+    {
+        "mandatory_terms": [
+            "PROBAK"
+        ],
+        "optional_terms": [
+            "PROBAK"
+        ],
+        "brand": "PROBAK",
+        "ean_brand": "7189999999915",
+        "ean": "7189999999915"
+    },
+    {
+        "mandatory_terms": [
+            "GILLETTE VENUS"
+        ],
+        "optional_terms": [
+            "GILLETTE VENUS"
+        ],
+        "brand": "GILLETTE VENUS",
+        "ean_brand": "7189999999914",
+        "ean": "7189999999914"
+    },
+    {
+        "mandatory_terms": [
+            "HERBAL"
+        ],
+        "optional_terms": [
+            "HERBAL"
+        ],
+        "brand": "HERBAL",
+        "ean_brand": "7189999999913",
+        "ean": "7189999999913"
+    },
+    {
+        "mandatory_terms": [
+            "KING GILLETTE"
+        ],
+        "optional_terms": [
+            "KING GILLETTE"
+        ],
+        "brand": "KING GILLETTE",
+        "ean_brand": "7189999999910",
+        "ean": "7189999999910"
+    },
+    {
+        "mandatory_terms": [
+            "TAMPAX"
+        ],
+        "optional_terms": [
+            "TAMPAX"
+        ],
+        "brand": "TAMPAX",
+        "ean_brand": "7189999999911",
+        "ean": "7189999999911"
+    },
+    {
+        "mandatory_terms": [
+            "SEIVA DE ALFAZEMA"
+        ],
+        "optional_terms": [
+            "SEIVA DE ALFAZEMA"
+        ],
+        "brand": "SEIVA DE ALFAZEMA",
+        "ean_brand": "7189999999912",
+        "ean": "7189999999912"
     }
 ]
