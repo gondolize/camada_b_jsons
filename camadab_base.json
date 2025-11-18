@@ -8194,8 +8194,8 @@
     },
     {
 
-        "mandatory_terms": ["ORAL-B", "CARVAO", "ADVANCED", "PACK", "FAMILIA"],
-        "optional_terms": ["PACK", "FAMILIA", "MACIA", "5", "ACOES"],
+        "mandatory_terms": ["ORAL-B", "CARVAO", "ADVANCED","MACIA"],
+        "optional_terms": ["PACK", "FAMILIA","5", "ACOES"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435171069"
@@ -8274,8 +8274,8 @@
     },
     {
 
-        "mandatory_terms": ["ORAL-B", "DISNEY", "PRINECESS", "+", "3"],
-        "optional_terms": ["DISNEY", "AA", "PRINCESS", "+", "3", "ANOS"],
+        "mandatory_terms": ["ORAL-B", "DISNEY", "PRINECESS"],
+        "optional_terms": ["DISNEY", "AA", "PRINCESS", "3", "ANOS"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "4210201334712"
@@ -8834,13 +8834,13 @@
             "DISNEY",
             "FROZEN",
             "LIMPADOR",
-            "STAGES",
-            "TUTTI",
-            "FRUTTI"
+            "STAGES"
         ],
         "optional_terms": [
             "1",
-            "100"
+            "100",
+            "TUTTI",
+            "FRUTTI"
         ],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
