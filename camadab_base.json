@@ -8186,47 +8186,47 @@
     },
     {
 
-        "mandatory_terms": ["GILLETTE", "PRESTOBARBA", "3", "2", "APARELHOS", "COMFORRTGEL", "SENSITIVE"],
-        "optional_terms": ["3", "2", "APARELHOS", "COMFORTGEL", "SENSITIVE"],
+        "mandatory_terms": ["GILLETTE", "PRESTOBARBA","APARELHOS", "COMFORRTGEL", "SENSITIVE"],
+        "optional_terms": ["3", "2"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7506339337525"
     },
     {
 
-        "mandatory_terms": ["ORAL-B", "CARVAO", "ADVANCED", "PACK", "FAMILIA"],
-        "optional_terms": ["PACK", "FAMILIA", "MACIA", "5", "ACOES"],
+        "mandatory_terms": ["ORAL-B", "CARVAO", "ADVANCED","MACIA"],
+        "optional_terms": ["PACK", "FAMILIA","5", "ACOES"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435171069"
     },
     {
 
-        "mandatory_terms": ["ORAL-B", "DISNEY", "FROZEN", "2", "+", "3", "ANOS"],
-        "optional_terms": ["DISNEY", "FROZEN", "2", "3", "ANOS"],
+        "mandatory_terms": ["ORAL-B", "DISNEY", "FROZEN"],
+        "optional_terms": ["2", "3", "ANOS"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435241236"
     },
     {
 
-        "mandatory_terms": ["PANTENE", "COLAGENO", "PRO-V", "MIRACLES", "CREME", "REVITALIZA", "FINALIZA", "240"],
-        "optional_terms": ["COLAGENO", "240", "CREME", "PENTEAR", "HIDRATA", "RESGATA"],
+        "mandatory_terms": ["PANTENE", "COLAGENO","MIRACLES","REVITALIZA", "FINALIZA"],
+        "optional_terms": ["PRO-V","240", "CREME", "PENTEAR", "HIDRATA", "RESGATA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435251976"
     },
     {
 
-        "mandatory_terms": ["GILLETTE", "MACH3", "GRATIS", "NECESSAIRE", "12", "REFIS", "KIT"],
-        "optional_terms": ["GARTIS", "NECESSAIRE", "12", "REFIS", "KIT"],
+        "mandatory_terms": ["GILLETTE", "MACH3","12", "REFIS", "KIT"],
+        "optional_terms": ["GARTIS", "NECESSAIRE"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435238724"
     },
     {
 
-        "mandatory_terms": ["GILLETTE", "MACH3", "LEVE", "PAGUE", "2", "UNIDADES", "40", "USOS"],
+        "mandatory_terms": ["GILLETTE", "MACH3","2", "UNIDADES", "40", "USOS"],
         "optional_terms": ["ACQUAGRIP", "LEVE", "PAGUE"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
@@ -8234,15 +8234,15 @@
     },
     {
 
-        "mandatory_terms": ["PAMPERS", "PREMIUM", "CARE", "PANTS", "XG", "26", "FACIL","VESTIR"],
-        "optional_terms": ["PANTS", "XG", "26", "FACIL", "VESTIR"],
+        "mandatory_terms": ["PAMPERS", "PREMIUM", "CARE","XG", "26"],
+        "optional_terms": ["PANTS","FACIL", "VESTIR"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435145954"
     },
     {
 
-        "mandatory_terms": ["GILLETTE", "MACH3", "GRATIS", "CREME", "2X", "MAIS", "KIT"],
+        "mandatory_terms": ["GILLETTE", "MACH3","2X", "MAIS", "KIT"],
         "optional_terms": ["4", "REFIS", "CREME", "BARBEAR", "150", "GRATIS"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
@@ -8250,7 +8250,7 @@
     },
     {
 
-        "mandatory_terms": ["ORAL-B", "POWER", "BANQUEIA", "NATURALMENTE", "DENTES", "CHARCOAL"],
+        "mandatory_terms": ["ORAL-B", "POWER", "BANQUEIA", "NATURALMENTE"],
         "optional_terms": ["POWER", "BRANQUEIA", "NATURALMENTE", "DENTES", "CHARCOAL"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
@@ -8258,15 +8258,15 @@
     },
     {
 
-        "mandatory_terms": ["GILLETTE", "PRESTOBARBA", "ULTRAGRIP", "CABECA", "MOVEL", "2", "UNIDADES"],
-        "optional_terms": ["CABECA", "MOVEL", "2", "UNIDADES"],
+        "mandatory_terms": ["GILLETTE", "PRESTOBARBA", "ULTRAGRIP","2"],
+        "optional_terms": ["CABECA", "MOVEL", "UNIDADES"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435169677"
     },
     {
 
-        "mandatory_terms": ["ORAL-B", "DISNEY", "PRINCESS", "REMOVE", "PLACA", "PREVINE", "CARIES"],
+        "mandatory_terms": ["ORAL-B", "DISNEY", "PRINCESS"],
         "optional_terms": ["REMOVE", "PLACA", "PREVINE", "CARIES", "3", "PRINCESS"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
@@ -8274,38 +8274,38 @@
     },
     {
 
-        "mandatory_terms": ["ORAL-B", "DISNEY", "PRINECESS", "+", "3"],
-        "optional_terms": ["DISNEY", "AA", "PRINCESS", "+", "3", "ANOS"],
+        "mandatory_terms": ["ORAL-B", "DISNEY", "PRINECESS"],
+        "optional_terms": ["DISNEY", "AA", "PRINCESS", "3", "ANOS"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "4210201334712"
     },
     {
 
-        "mandatory_terms": ["ORAL-B", "PASTA", "DENTAL", "CON", "FLUOR", "175", "100%", "LEVE", "PAGUE"],
-        "optional_terms": ["PASTA", "DENTAL", "100%", "CON", "FLUOR", "LEVE", "PAGUE"],
+        "mandatory_terms": ["ORAL-B", "PASTA", "DENTAL", "CON", "FLUOR", "175"],
+        "optional_terms": ["100%", "LEVE", "PAGUE"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435221443"
     },
     {
 
-        "mandatory_terms": ["ORAL-B", "DISNEY", "PRINECESS", "3", "ANOS", "2", "REFIS", "ESCOVA", "ELETRICA"],
-        "optional_terms": ["2", "REFIS", "ESCOVA", "ELETRICA", "DISNEY"],
+        "mandatory_terms": ["ORAL-B", "DISNEY", "PRINECESS", "3", "ANOS"],
+        "optional_terms": ["2", "REFIS", "ESCOVA", "ELETRICA"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "4210201338444"
     },
     {
 
-        "mandatory_terms": ["ALWAYS", "SUAVE", "8", "ABSORVENTES", "SUPER", "PROTECAO", "SEM", "ABAS"],
-        "optional_terms": ["SUAVE", "8", "CONTEM", "SEM", "ABAS"],
+        "mandatory_terms": ["ALWAYS", "SUAVE","ABSORVENTES", "SUPER", "PROTECAO"],
+        "optional_terms": ["SUAVE","CONTEM", "SEM", "ABAS"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435127271"
     },
     {
-        "mandatory_terms": ["ORAL-B", "ULTRA", "MACIA", "9000", "CERDAS", "EXPERT", "GENGIVA", "SENSI"],
+        "mandatory_terms": ["ORAL-B", "ULTRA", "MACIA","GENGIVA"],
         "optional_terms": ["9000", "CERDAS", "EXPERT", "SENSI"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
@@ -8313,14 +8313,14 @@
     },
     {
 
-        "mandatory_terms": ["PAMPERS", "PANTS", "XXG", "28", "AJUSTE", "TOTAL"],
-        "optional_terms": ["XXG", "28", "AJUSTE", "TOTAL"],
+        "mandatory_terms": ["PAMPERS", "PANTS", "XXG", "28"],
+        "optional_terms": ["AJUSTE", "TOTAL"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435146258"
     },
     {
-        "mandatory_terms": ["ORAL-B", "EXPERT", "PICK", "INTERDENTAL", "CONTEM", "20"],
+        "mandatory_terms": ["ORAL-B", "EXPERT", "PICK", "INTERDENTAL", "CONTEM"],
         "optional_terms": ["REMOVE", "PLACA", "20", "ESCOVAS", "INTERDENTAIS", "INTRADENTAL"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
@@ -8330,7 +8330,7 @@
 
     {
 
-        "mandatory_terms": ["PAMPERS", "CONFORT", "SEC", "24", "FRALDAS", "M", "12H", "PROTECAO"],
+        "mandatory_terms": ["PAMPERS", "CONFORT", "SEC","FRALDAS"],
         "optional_terms": ["24", "M", "12H", "PROTECAO"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
@@ -8338,23 +8338,23 @@
     },
     {
 
-        "mandatory_terms": ["ORAL-B", "FIO", "DENTAL", "ESSENTIALFLOSS", "LIMPA", "ALCANCA", "HILO"],
-        "optional_terms": ["HILO", "FIO", "DENTAL"],
+        "mandatory_terms": ["ORAL-B", "FIO", "DENTAL", "ESSENTIALFLOSS","HILO"],
+        "optional_terms": [ "LIMPA", "ALCANCA" ],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7800005081027"
     },
     {
 
-        "mandatory_terms": ["ORAL-B", "PRO", "SERIES", "2", "1", "REFIL", "CABO", "CARREGADOR"],
-        "optional_terms": ["200%", "PRO", "SERIES", "REFIL", "CABO", "CARREGADOR"],
+        "mandatory_terms": ["ORAL-B", "PRO", "SERIES", "CABO", "CARREGADOR"],
+        "optional_terms": ["200%", "REFIL"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "4210201445968"
     },
     {
 
-        "mandatory_terms": ["GILLETTE", "SENSITIVE", "CONTEM", "1", "PRESTOBARBA", "ULTRAGRIP", "2"],
+        "mandatory_terms": ["GILLETTE", "SENSITIVE", "CONTEM","PRESTOBARBA", "ULTRAGRIP"],
         "optional_terms": ["SENSITIVE", "CONTEM", "1"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
@@ -8834,13 +8834,13 @@
             "DISNEY",
             "FROZEN",
             "LIMPADOR",
-            "STAGES",
-            "TUTTI",
-            "FRUTTI"
+            "STAGES"
         ],
         "optional_terms": [
             "1",
-            "100"
+            "100",
+            "TUTTI",
+            "FRUTTI"
         ],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",

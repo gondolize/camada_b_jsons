@@ -1,0 +1,394 @@
+    {
+        "mandatory_terms": [
+            "ZEPPELIN",
+            "TRADICIONAL",
+            "ETILICO",
+            "HIDRATADO"
+        ],
+        "optional_terms": [
+            "45",
+            "LIMPADOR",
+            "GERAL"
+        ],
+        "brand": "ZEPPELIN",
+        "ean_brand": "7189999999978",
+        "ean": "7896474600661"
+    },
+    {
+        "mandatory_terms": [
+            "YPE",
+            "ACONCHEGO",
+            "PERFUME",
+            "CAPSULAS",
+            "PERFUME"
+        ],
+        "optional_terms": [
+            "2L"
+        ],
+        "brand": "YPE",
+        "ean_brand": "7189999999950",
+        "ean": "7896098902400"
+    },
+    {
+        "mandatory_terms": [
+            "VANISH",
+            "GEL",
+            "MULTIUSO",
+            "TIRA",
+            "MANCHAS"
+        ],
+        "optional_terms": [
+            "SEM",
+            "CLORO",
+            "PROLONGA"
+        ],
+        "brand": "VANISH",
+        "ean_brand": "7189999999997",
+        "ean": "7891035040504"
+    },
+    {
+        "mandatory_terms": [
+            "UAU",
+            "PERFUMES",
+            "CARINHO",
+            "CONFORTO"
+        ],
+        "optional_terms": [
+            "AMACIANTE",
+            "CONCENTRADO",
+            "1L"
+        ],
+        "brand": "",
+        "ean_brand": "7189999999962",
+        "ean": "7891242441118"
+    },
+    {
+        "mandatory_terms": [
+            "TAKLIM",
+            "PREMIUM",
+            "PERFUME",
+            "PROLONGADO"
+        ],
+        "optional_terms": [
+            "AMACIANTE",
+            "CONCENTRADO",
+            "1L"
+        ],
+        "brand": "TAKLIM",
+        "ean_brand": "7189999999965",
+        "ean": "7898643690855"
+    },
+    {
+        "mandatory_terms": [
+            "TACOLAC",
+            "SUPER",
+            "AUTO",
+            "BRILHO",
+            "MADEIRA"
+        ],
+        "optional_terms": [
+            "CERA",
+            "LIQUIDA",
+            "PISOS"
+        ],
+        "brand": "TACOLAC",
+        "ean_brand": "7189999999981",
+        "ean": "7896040700054"
+    },
+    {
+        "mandatory_terms": [
+            "SYM",
+            "TOTAL",
+            "PROTECT",
+            "ODOR",
+            "BLOCK"
+        ],
+        "optional_terms": [
+            "8",
+            "ABSORVENTES"
+        ],
+        "brand": "SYM",
+        "ean_brand": "7189999999921",
+        "ean": "7896110002248"
+    },
+    {
+        "mandatory_terms": [
+            "SURF",
+            "CUIDADO",
+            "COCO",
+            "OLEOS",
+            "ESSENCIAIS"
+        ],
+        "optional_terms": [
+            "REFIL",
+            "PODEROSO",
+            "LAVA",
+            "ROUPAS"
+        ],
+        "brand": "SURF",
+        "ean_brand": "7189999999995",
+        "ean": "7891150091047"
+    },
+    {
+        "mandatory_terms": [
+            "SORRISO",
+            "AH",
+            "TRIPLA",
+            "LIMPEZA",
+            "COMPLETA"
+        ],
+        "optional_terms": [
+            "ESCUDO",
+            "CONTRA",
+            "CARIE"
+        ],
+        "brand": "SORRISO",
+        "ean_brand": "7189999999992",
+        "ean": "7891528029498"
+    },
+    {
+        "mandatory_terms": [
+            "SKALA",
+            "DIVINO",
+            "POTAO",
+            "EXEPERT"
+        ],
+        "optional_terms": [
+            "INOVACAO",
+            "VEGANO"
+        ],
+        "brand": "SKALA",
+        "ean_brand": "7360000000036",
+        "ean": "7897042012473"
+    },
+    {
+        "mandatory_terms": [
+            "SENSODYNE",
+            "BRANQUEADOR",
+            "EXTRA",
+            "FRESH"
+        ],
+        "optional_terms": [
+            "NOVA",
+            "EMBALAGEM"
+        ],
+        "brand": "SENSODYNE",
+        "ean_brand": "7189999999999",
+        "ean": "7896015519223"
+    },
+    {
+        "mandatory_terms": [
+            "SENADOR",
+            "CLASSIC",
+            "PROTECAO",
+            "QUALIDADE",
+            "MEMPHIS"
+        ],
+        "optional_terms": [
+            "ALUMINIO",
+            "1973"
+        ],
+        "brand": "SENADOR",
+        "ean_brand": "7189999999917",
+        "ean": "7891134004186"
+    },
+    {
+        "mandatory_terms": [
+            "SEMPRE",
+            "LIVRE",
+            "CONFORTO",
+            "NOTURNO",
+            "SUAVE"
+        ],
+        "optional_terms": [
+            "TRI",
+            "PROTECT"
+        ],
+        "brand": "SEMPRE LIVRE",
+        "ean_brand": "7189999999923",
+        "ean": "7891010607135"
+    },
+    {
+        "mandatory_terms": [
+            "SECAR",
+            "DEFENCE",
+            "ANTIMOFO",
+            "MATA",
+            "FUNGOS"
+        ],
+        "optional_terms": [
+            "REFIL",
+            "PROTEGE",
+            "PREVINE",
+            "ELIMINA"
+        ],
+        "brand": "SECAR",
+        "ean_brand": "7189999999951",
+        "ean": "7896013404446"
+    },
+    {
+        "mandatory_terms": [
+            "SBP",
+            "SEM",
+            "CHEIRO",
+            "RESIDUAL"
+        ],
+        "optional_terms": [
+            "ANTI",
+            "AEDES",
+            "AEGYPTI"
+        ],
+        "brand": "SBP",
+        "ean_brand": "7189999999954",
+        "ean": "7891035002458"
+    },
+    {
+        "mandatory_terms": [
+            "SALON",
+            "LINE",
+            "LISO",
+            "SHAMPOO",
+            "DISCIPLINANTE"
+        ],
+        "optional_terms": [
+            "5X",
+            "LISS",
+            "EXPERT"
+        ],
+        "brand": "SALON LINE",
+        "ean_brand": "7150000000015",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": [
+            "SAIF",
+            "TIRA",
+            "MANCHAS",
+            "CLORO",
+            "BRANCO"
+        ],
+        "optional_terms": [
+            "REFIL",
+            "ECONOMICO",
+            "ROUPAS",
+            "BRANCAS"
+        ],
+        "brand": "SAIF",
+        "ean_brand": "7189999999953",
+        "ean": "7896798702980"
+    },
+    {
+        "mandatory_terms": [
+            "REXONA",
+            "72H",
+            "V8",
+            "MOVIMENTO"
+        ],
+        "optional_terms": [
+            "PROTECAO",
+            "SECA",
+            "FRESCA"
+        ],
+        "brand": "REXONA",
+        "ean_brand": "7189999999919",
+        "ean": "7791293022567"
+    },
+    {
+        "mandatory_terms": [
+
+        ],
+        "optional_terms": [
+
+        ],
+        "brand": "",
+        "ean_brand": "",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": [
+
+        ],
+        "optional_terms": [
+
+        ],
+        "brand": "",
+        "ean_brand": "",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": [
+
+        ],
+        "optional_terms": [
+
+        ],
+        "brand": "",
+        "ean_brand": "",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": [
+
+        ],
+        "optional_terms": [
+
+        ],
+        "brand": "",
+        "ean_brand": "",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": [
+
+        ],
+        "optional_terms": [
+
+        ],
+        "brand": "",
+        "ean_brand": "",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": [
+
+        ],
+        "optional_terms": [
+
+        ],
+        "brand": "",
+        "ean_brand": "",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": [
+
+        ],
+        "optional_terms": [
+
+        ],
+        "brand": "",
+        "ean_brand": "",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": [
+
+        ],
+        "optional_terms": [
+
+        ],
+        "brand": "",
+        "ean_brand": "",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": [
+
+        ],
+        "optional_terms": [
+
+        ],
+        "brand": "",
+        "ean_brand": "",
+        "ean": ""
+    },
