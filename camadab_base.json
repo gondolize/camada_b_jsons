@@ -8651,16 +8651,12 @@
         "mandatory_terms": [
             "TAMPAX",
             "COMPAK",
-            "8",
             "ABSORVENTES",
-            "INTERNOS",
-            "SUPER",
-            "APLIOCADOR"
+            "INTERNOS"
         ],
         "optional_terms": [
             "PROTECAO",
             "8",
-            "INTERNOS",
             "SUPER",
             "APLICADOR"
         ],
@@ -8673,13 +8669,10 @@
             "SEIVA",
             "ALFAZEMA",
             "LAVANDA",
-            "ORIGINAL",
             "DEO",
-            "COLOGNE",
-            "118"
+            "COLOGNE"
         ],
         "optional_terms": [
-            "LAVANDA",
             "ORIGINAL",
             "118"
         ],
@@ -8693,14 +8686,10 @@
             "VENUS",
             "PELE",
             "SENSIVEL",
-            "4",
-            "REFIS",
             "ANRIATRITO"
         ],
         "optional_terms": [
             "LAMINAS",
-            "ANTIATRITO",
-            "VENUS",
             "4",
             "REFIS"
         ],
@@ -8713,16 +8702,12 @@
             "TAMPAX",
             "SUPER",
             "PLUS",
-            "CONTEM",
-            "10",
             "EXTRA",
             "INTERNOS"
         ],
         "optional_terms": [
-            "SUPER",
-            "PLUS",
-            "10",
-            "INTERNOS"
+            "10"
+
         ],
         "brand": "TAMPAX",
         "ean_brand": "7189999999911",
@@ -8731,19 +8716,14 @@
     {
         "mandatory_terms": [
             "AUSSIE",
-            "KIT",
-            "DESCONTO",
             "FRIZZ",
             "MANDA",
             "AQUI",
             "BYE"
         ],
         "optional_terms": [
-            "BYE",
             "KIT",
-            "DESCONTO",
-            "FRIZZ",
-            "MANDA"
+            "DESCONTO"
         ],
         "brand": "AUSSIE",
         "ean_brand": "7220000000022",
@@ -8752,17 +8732,14 @@
     {
         "mandatory_terms": [
             "ORAL-B",
-            "INTRANDENTALES",
-            "CILINDRICO",
-            "6",
-            "REFIS"
+            "INTRADENTAIS",
+            "CILINDRICO"
+
         ],
         "optional_terms": [
             "INTRANDENTALES",
-            "INTRADENTAIS",
             "6",
-            "REFIS",
-            "CILINDRICO"
+            "REFIS"
         ],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
@@ -8773,15 +8750,11 @@
             "GILLETTE",
             "VENUS",
             "PELE",
-            "SENSIVEL",
-            "4",
-            "REFIS",
-            "ANRIATRITO"
+            "SENSIVEL"
         ],
         "optional_terms": [
             "LAMINAS",
             "ANTIATRITO",
-            "VENUS",
             "4",
             "REFIS"
         ],
@@ -8794,18 +8767,13 @@
             "GILLETTE",
             "VENUS",
             "PELE",
-            "SENSIVEL",
-            "8",
-            "REFIS",
-            "PAGUE",
-            "MENOS"
+            "SENSIVEL"
         ],
         "optional_terms": [
             "PAGUE",
             "MENOS",
             "8",
-            "REFIS",
-            "VENUS"
+            "REFIS"
         ],
         "brand": "GILLETTE VENUS",
         "ean_brand": "7189999999914",
@@ -8816,14 +8784,10 @@
             "GILLETTE",
             "PLATINUM",
             "BARBERSHOP",
-            "INOXIDAVEL",
-            "LAMINAS",
-            "AFIADAS",
-            "5"
+            "AFIADAS"
         ],
         "optional_terms": [
             "5",
-            "PLATINUM",
             "INOXIDAVEL",
             "LAMINAS"
         ],
@@ -8835,11 +8799,9 @@
         "mandatory_terms": [
             "GILLETTE",
             "PRESTOBARBA",
-            "SENSITIVE",
             "3",
             "COMFORTGEL",
-            "CONTEM",
-            "5"
+            "CONTEM"
         ],
         "optional_terms": [
             "5",
@@ -8852,12 +8814,8 @@
     {
         "mandatory_terms": [
             "ORAL-B",
-            "CLIC",
             "MANUAL",
-            "TOOTHBRUSH",
-            "CABO",
-            "REFIL",
-            "SUPORTE"
+            "TOOTHBRUSH"
         ],
         "optional_terms": [
             "SUPORTE",
@@ -8881,10 +8839,6 @@
             "FRUTTI"
         ],
         "optional_terms": [
-            "LIMPADOR",
-            "STAGES",
-            "TUTTI",
-            "FRUTTI",
             "1",
             "100"
         ],
@@ -8904,8 +8858,6 @@
         ],
         "optional_terms": [
             "DENTISTAS",
-            "30",
-            "ARREDONDADAS",
             "ESCOVA",
             "DENTAL",
             "1"
@@ -8918,15 +8870,9 @@
         "mandatory_terms": [
             "GILLETTE",
             "PRESTOBARBA",
-            "EXCEL",
-            "NOVO",
-            "WOMAN",
-            "LAMINAS",
-            "AJUSTAVEIS",
-            "2"
+            "EXCEL"
         ],
         "optional_terms": [
-            "EXCEL",
             "WOMAN",
             "LAMINAS",
             "AJUSTAVEIS",
@@ -8940,11 +8886,7 @@
         "mandatory_terms": [
             "PROBAK",
             "DUAS",
-            "PARALELAS",
-            "7",
-            "ANTIDESLIZANTE",
-            "LEVE",
-            "PAGUE"
+            "ANTIDESLIZANTE"
         ],
         "optional_terms": [
             "LEVE",
@@ -8959,12 +8901,10 @@
     {
         "mandatory_terms": [
             "GILLETTE",
-            "2",
             "APARELHOS",
             "MOVEL",
             "CABO",
-            "ANTIDESLIZANTE",
-            "MANUSEIO"
+            "ANTIDESLIZANTE"
         ],
         "optional_terms": [
             "MANUSEIO",
@@ -8974,24 +8914,6 @@
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435160285"
-    },
-    {
-        "mandatory_terms": [
-            "GILLETTE",
-            "2",
-            "NOVO",
-            "CABECA",
-            "FIXA"
-        ],
-        "optional_terms": [
-            "2",
-            "NOVO",
-            "CABECA",
-            "FIXA"
-        ],
-        "brand": "GILLETTE",
-        "ean_brand": "7189999999933",
-        "ean": "7506295375616"
     },
     {
         "mandatory_terms": [
@@ -9133,8 +9055,7 @@
             "ORAL-B",
             "GENGIVA",
             "DETOX",
-            "TARTAR",
-            "DEFENSE"
+            "TARTAR"
         ],
         "optional_terms": [
             "MICRO",
@@ -9163,42 +9084,15 @@
     },
     {
         "mandatory_terms": [
-            "ORAL-B",
-            "COMPLETE",
-            "5",
-            "PRECO",
-            "ESPECIAL",
-            "2"
-        ],
-        "optional_terms": [
-            "COMPLETE",
-            "5",
-            "PRECO",
-            "ESPECIAL"
-        ],
-        "brand": "ORAL-B",
-        "ean_brand": "7189999999927",
-        "ean": "3014260014452"
-    },
-    {
-        "mandatory_terms": [
             "GILLETTE",
-            "3",
-            "LEVE",
-            "4",
-            "PAGUE",
-            "3",
             "MOVEL",
             "COMFORTGEL"
         ],
         "optional_terms": [
-            "3",
             "LEVE",
             "4",
             "PAGUE",
-            "3",
-            "MOVEL",
-            "COMFORTGEL"
+            "3"
         ],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
@@ -9208,13 +9102,9 @@
         "mandatory_terms": [
             "GILLETTE",
             "FOAMY",
-            "ESPUMA",
-            "BARBEAR",
-            "179"
+            "ESPUMA"
         ],
         "optional_terms": [
-            "FOAMY",
-            "ESPUMA",
             "BARBEAR",
             "179"
         ],
@@ -9225,9 +9115,7 @@
     {
         "mandatory_terms": [
             "KING",
-            "GILLETTE",
-            "PLATINIUM",
-            "10"
+            "GILLETTE"
         ],
         "optional_terms": [
             "PLATINIUM",
@@ -9241,14 +9129,11 @@
         "mandatory_terms": [
             "KING",
             "GILLETTE",
-            "BALM",
             "BARBA",
             "75"
         ],
         "optional_terms": [
-            "BALM",
-            "BARBA",
-            "75"
+            "BALM"
         ],
         "brand": "KING GILLETTE",
         "ean_brand": "7189999999910",
@@ -9259,14 +9144,10 @@
             "KING",
             "GILLETTE",
             "GEL",
-            "TRANSPARENTE",
-            "BARBEAR",
-            "170"
+            "BARBEAR"
         ],
         "optional_terms": [
-            "GEL",
             "TRANSPARENTE",
-            "BARBEAR",
             "170"
         ],
         "brand": "KING GILLETTE",
@@ -9293,19 +9174,13 @@
         "mandatory_terms": [
             "KING",
             "GILLETTE",
-            "SHAMPOO",
-            "BARBA",
             "REFRESCANTE",
-            "MENTA",
-            "241"
+            "MENTA"
         ],
         "optional_terms": [
             "BARBA",
             "SHAMPOO",
-            "241",
-            "REFRESCANTE",
-            "",
-            ""
+            "241"
         ],
         "brand": "KING GILLETTE",
         "ean_brand": "7189999999910",
@@ -9316,15 +9191,10 @@
             "HEAD",
             "SHOLDERS",
             "ANTICASPA",
-            "LEVE",
-            "PAGUE",
-            "SHAMPOO",
-            "650",
             "OLD",
             "SPICE"
         ],
         "optional_terms": [
-            "ANTICASPA",
             "LEVE",
             "PAGUE",
             "SHAMPOO",
@@ -9339,16 +9209,10 @@
             "ORAL-B",
             "EXPERT",
             "SUPERFLOSS",
-            "APARELHOS",
-            "ORTODONTICOS",
-            "ESPACOS",
-            "INTERDENTAIS",
-            "FIO",
-            "DENTAL"
+            "ORTODONTICOS"
         ],
         "optional_terms": [
             "APARELHOS",
-            "ORTODONTICOS",
             "ESPACOS",
             "INTERDENTAIS",
             "FIO",
