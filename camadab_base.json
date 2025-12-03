@@ -9995,6 +9995,12 @@
         "brand": "INTIMUS",
         "ean_brand": "7189999999924",
         "ean": "7896007540259"
+    },
+    {
+        "mandatory_terms": ["HUGGIES","P","28","RECEM","NASCIDO"],
+        "optional_terms": ["SUPREME","CARE","PROTECAO","TOTAL","CONFORTO"],
+        "brand": "HUGGIES",
+        "ean_brand": "7189999999942",
+        "ean": "7896007548507"
     }
-
 ]
