@@ -9039,7 +9039,7 @@
         "ean": "7898374663296"
     },
 
-         {
+    {
         "mandatory_terms": ["AXE","CHOCOLATE","48H","PROTECAO","PERFUME"],
         "optional_terms": ["ANTITRANSPIRANTE","AEROSOL","+","DARK"],
         "brand": "AXE",
@@ -9047,7 +9047,7 @@
         "ean": "7791293025797"
     },
 
-               {
+    {
         "mandatory_terms": ["BIOCOLOR","7.1","LOURO","NATURAL","ACIZENTADO"],
         "optional_terms": ["CORES","REAIS","VEGANA"],
         "brand": "BIOCOLOR",
@@ -9055,7 +9055,7 @@
         "ean": "7896509955216"
     },
 
-      {
+    {
         "mandatory_terms": ["BEST","LITE","12","ROLOS","20"],
         "optional_terms": ["FOLHA","DUPLA"],
         "brand": "BEST LITE",
@@ -9063,7 +9063,7 @@
         "ean": "7896053470173"
     },
 
-      {
+    {
         "mandatory_terms": ["BIC","SENSITIVE","SHAVER","LEVE","PAGUE"],
         "optional_terms": ["7","5"],
         "brand": "BIC",
@@ -10002,5 +10002,112 @@
         "brand": "HUGGIES",
         "ean_brand": "7189999999942",
         "ean": "7896007548507"
+    },
+    {
+        "mandatory_terms": ["YPE","PERFUME","COCO","BAUNILHA","1L"],
+        "optional_terms": ["RENDE","4L","CONCENTRADO"],
+        "brand": "YPE",
+        "ean_brand": "7189999999950",
+        "ean": "7896098903483"
+    },
+    {
+        "mandatory_terms": ["YPE","DELICADO","2L","CARINHO"],
+        "optional_terms": ["RENDE","25","LAVAGENS","AMACIANTE","ROUPAS"],
+        "brand": "YPE",
+        "ean_brand": "7189999999950",
+        "ean": "7896098902394"
+    },
+    {
+        "mandatory_terms": ["YPE","CONCENTRADO","PERFUME","SOFISTICADO","1L"],
+        "optional_terms": ["LOCCITANE","AU","BRESIL","RENDE","4L"],
+        "brand": "YPE",
+        "ean_brand": "7189999999950",
+        "ean": "7896098903469"
+    },
+    {
+        "mandatory_terms": ["YPE","TIXAN","CICLOS","CURTOS","1L"],
+        "optional_terms": ["TECNOLOGIA","XFAST","3X1"],
+        "brand": "YPE",
+        "ean_brand": "7189999999950",
+        "ean": "7896098903643"
+    },
+    {
+        "mandatory_terms": ["YPE","1L","PINK","GARDEN"],
+        "optional_terms": ["RENDE","50","LAVAGENS"],
+        "brand": "YPE",
+        "ean_brand": "7189999999950",
+        "ean": "7896098901502"
+    },
+    {
+        "mandatory_terms": ["YPE","CONCENTRADO","BLUE","GARDEN","500ML"],
+        "optional_terms": ["RENDE","25","LAVAGENS"],
+        "brand": "YPE",
+        "ean_brand": "7189999999950",
+        "ean": "7896098900390"
+    },
+    {
+        "mandatory_terms": ["YPE","DELICADO","HIPOALERGENICO",""],
+        "optional_terms": ["RENDE","75","LAVAGENS"],
+        "brand": "YPE",
+        "ean_brand": "7189999999950",
+        "ean": "7896098901571"
+    },
+        {
+        "mandatory_terms": ["FOFO","PERFUME","AZUL","TUDAO", "500"],
+        "optional_terms": ["2.3","25","MUUUUUITO"],
+        "brand": "FOFO",
+        "ean_brand": "7189999999925",
+        "ean": "7891150092716"
+    },
+    {
+        "mandatory_terms": ["FOFO","1","AZUL","TUDAO"],
+        "optional_terms": ["4.5","50"],
+        "brand": "FOFO",
+        "ean_brand": "7189999999925",
+        "ean": "7891150092730"
+    },
+    {
+        "mandatory_terms": ["FOFO","REFIL","AZUL","TUDAO", "900"],
+        "optional_terms": ["4","45"],
+        "brand": "FOFO",
+        "ean_brand": "7189999999925",
+        "ean": "7891150092709"
+    },
+    {
+        "mandatory_terms": ["FOFO","VERMELHO","SENSACAO","500"],
+        "optional_terms": ["2.3","25","CHEIROSISSIMO"],
+        "brand": "FOFO",
+        "ean_brand": "7189999999925",
+        "ean": "7891150092723"
+    },
+    {
+        "mandatory_terms": ["FOFO","LARANJA","VITORIOSO","500"],
+        "optional_terms": ["2.3","25"],
+        "brand": "FOFO",
+        "ean_brand": "7189999999925",
+        "ean": "7891150092754"
+    },
+    {
+        "mandatory_terms": ["FOFO","AMARELO","CHAMEGO","500", "HIPOALERGENICO"],
+        "optional_terms": ["2.3","25"],
+        "brand": "FOFO",
+        "ean_brand": "7189999999925",
+        "ean": "7891150092747"
+    }, 
+    {
+        "mandatory_terms": ["AXE","INVISIBLE","48H","125"],
+        "optional_terms": ["ANTITRANSPIRANTE","AEROSOL","URBAN"],
+        "brand": "AXE",
+        "ean_brand": "7189999999918",
+        "ean": "7506306233362"
+    },
+    {
+        "mandatory_terms": ["AXE","MARINE","125","48H"],
+        "optional_terms": ["ANTITRANSPIRANTE","AEROSOL"],
+        "brand": "AXE",
+        "ean_brand": "7189999999918",
+        "ean": "7891150080966"
     }
+
+
 ]
