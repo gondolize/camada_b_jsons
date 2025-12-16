@@ -6215,8 +6215,8 @@
         "ean": "7500435251969"
     },
     {
-        "mandatory_terms": ["PANTENE", "HIDRATACAO", "CREME",  "PENTEAR"],
-        "optional_terms": ["PRO-V", "INTENSA", "PARA","240"],
+        "mandatory_terms": ["PANTENE", "HIDRATA", "CREME",  "PENTEAR"],
+        "optional_terms": ["PRO-V", "INTENSA", "PARA","240", "CONTROLA", "FRIZZ", "SEM", "SAL"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435118583"
@@ -6320,8 +6320,8 @@
         "ean": "7500435146906"
     },
     {
-        "mandatory_terms": ["PANTENE","HIDRATACAO", "3"],
-        "optional_terms": ["PRO-V", "AMPOLAS", "3","REVITALIZADORA" ,"UNIDADES", "15"],
+        "mandatory_terms": ["PANTENE","HIDRATACAO", "3","AMPOLAS"],
+        "optional_terms": ["PRO-V", "3","REVITALIZADORA" ,"UNIDADES", "15","NUTRI-PEROLAS","CAPILAR"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7506309889399"
@@ -6657,8 +6657,8 @@
         "ean":"7500435148689"
     }, 
     {
-        "mandatory_terms":["PANTENE","HIDRATA","CREME","PENTEAR"],
-        "optional_terms":["PRO-V","HIDRATACAO"],
+        "mandatory_terms":["PANTENE","HIDRATA","CREME","PENTEAR,", "ANTI-FRIZZ"],
+        "optional_terms":["PRO-V","HIDRATACAO", "HIDRO-CAUTERIZACAO"],
         "brand":"PANTENE",
         "ean_brand":"7500000000001",
         "ean":"7500435159913"
