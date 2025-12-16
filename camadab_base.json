@@ -6215,8 +6215,8 @@
         "ean": "7500435251969"
     },
     {
-        "mandatory_terms": ["PANTENE", "HIDRATA", "CREME",  "PENTEAR"],
-        "optional_terms": ["PRO-V", "INTENSA", "PARA","240", "CONTROLA", "FRIZZ", "SEM", "SAL"],
+        "mandatory_terms": ["PANTENE", "HIDRATA", "CREME",  "PENTEAR", "240"],
+        "optional_terms": ["PRO-V", "INTENSA", "CONTROLA", "FRIZZ", "SEM", "SAL"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435118583"
@@ -6657,7 +6657,7 @@
         "ean":"7500435148689"
     }, 
     {
-        "mandatory_terms":["PANTENE","HIDRATA","CREME","PENTEAR,", "ANTI-FRIZZ"],
+        "mandatory_terms":["PANTENE","HIDRATA","PENTEAR", "ANTI-FRIZZ", "600"],
         "optional_terms":["PRO-V","HIDRATACAO", "HIDRO-CAUTERIZACAO"],
         "brand":"PANTENE",
         "ean_brand":"7500000000001",
