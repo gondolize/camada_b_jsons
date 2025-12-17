@@ -9124,7 +9124,7 @@
     },
 
 
-      {
+    {
         "mandatory_terms": ["COALA","EUCALIPTO","CITRIODORA","LIMPADOR","PERFUMADO"],
         "optional_terms": ["CONCENTRADO","120"],
         "brand": "COALA",
@@ -9150,7 +9150,7 @@
         "ean": "7891150054585"
     },
 
-         {
+    {
         "mandatory_terms": ["DIMENAION","ZINCO","PIRITIONA","SHAMPOO","CONDICIONADOR"],
         "optional_terms": ["ANTICASPA","3","1","200"],
         "brand": "DIMENAION",
@@ -9158,7 +9158,7 @@
         "ean": "7891037169654"
     },
 
-         {
+    {
         "mandatory_terms": ["DOBLE","SUPER","ROLO","4","50"],
         "optional_terms": ["METROS","PACOTE","200"],
         "brand": "DOBLE",
@@ -9166,7 +9166,7 @@
         "ean": "7896233701462"
     },
 
-         {
+    {
         "mandatory_terms": ["ESFREBOM","BLOQUEADOR","ODORES","LIXEIRAS","3"],
         "optional_terms": [
             "NEUTRALIZADOR","ODORES","CITRUS"],
@@ -9175,7 +9175,7 @@
         "ean": "7896001030008"
     },
 
-         {
+    {
         "mandatory_terms": ["FLORAX","PAPEL","HIGIENICO","60","SIMPLES"],
         "optional_terms": ["4","ROLOS"],
         "brand": "FLORAX",
@@ -9183,24 +9183,21 @@
         "ean": "7898920699151"
     },
 
-         {
+    {
         "mandatory_terms": ["FOFO","AZUL","TUDAO","1,5","CONCENTRADO"],
         "optional_terms": ["EMBALAGEM","ECONOMICA","MUUUUUITO"],
         "brand": "FOFO",
         "ean_brand": "7189999999925",
         "ean": "7891150090842"
     },
-
-         {
+    {
         "mandatory_terms": ["GIRANDO","SOL","COCO","BAUNILHA","1"],
         "optional_terms": ["NUTRE","PROTEGE"],
         "brand": "GIRANDO SOL",
         "ean_brand": "7189999999932",
         "ean": "7896404605810"
     },
-
-
-         {
+    {
         "mandatory_terms": ["GLADE","LAVANDA","360"],
         "optional_terms": ["AEROSOL","OFERTA","ESPECIAL","TRUE","SCENT"
         ],
@@ -9208,52 +9205,41 @@
         "ean_brand": "7190000000111",
         "ean": "7894650013861"
     },
-
-
-         {
+    {
         "mandatory_terms": ["GOTA","LIMPA","PO","1,6","ORTODONTICOS"],
         "optional_terms": ["PERFUME","INTENSO","NOVA","FORMULA"],
         "brand": "GOTA LIMPA",
         "ean_brand": "7189999999966",
         "ean": "7896540902255"
     },
-
-
-         {
+    {
         "mandatory_terms": ["GUIMARAES","AMACIANTE","ENCANTO"],
         "optional_terms": ["CAPSULAS","PERFUME"],
         "brand": "GUIMARAES",
         "ean_brand": "7189999999990",
         "ean": "7898058595493"
     },
-
-
-         {
+    {
         "mandatory_terms": ["HERBISSIMO","TRADICIONAL","ANTITRANSPIRANTE","55","NOVO"],
         "optional_terms": ["DERMATOLOGICAMENTE","TESTADO","SEM","SAL"],
         "brand": "HERBISSIMO",
         "ean_brand": "7189999999916",
         "ean": "7896049528512"
     },
-
-
-         {
+    {
         "mandatory_terms": ["INOAR","SPEED","BLOND","LEAVE-IN","MULTIFUNCIONAL"],
         "optional_terms": ["15","MULTIBENEFICIOS"],
         "brand": "INOAR",
         "ean_brand": "7290000000029",
         "ean": "7908124406926"
     },
-
-
-         {
+    {
         "mandatory_terms": ["INSPIRA","LIMPPANO","PEDRA","PERFUMADA","LAVANDA"],
         "optional_terms": ["LIMPA","PERFUMA","1"],
         "brand": "INSPIRA",
         "ean_brand": "7189999999971",
         "ean": "7896021626625"
     },
-
     {
         "mandatory_terms": ["INTIMUS","TRIPLA","PROTECAO","COM","ABAS"],
         "optional_terms": ["SECA","LEVE","16", "PAGUE","14"],
@@ -10107,7 +10093,504 @@
         "brand": "AXE",
         "ean_brand": "7189999999918",
         "ean": "7891150080966"
-    }
+    },
+    {
+        "mandatory_terms": ["OMO","CICLO","RAPIDO","ACAO","CUIDADO"],
+        "optional_terms": ["750ML","LAVA","ROUPAS","LIQUIDO"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150104266"
+    },
+    {
+        "mandatory_terms": ["OMO","CICLO","RAPIDO","ACAO","ANTIODOR"],
+        "optional_terms": ["750ML","LAVA","ROUPAS","LIQUIDO"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150104280"
+    },
+    {
+        "mandatory_terms": ["OMO","CICLO","RAPIDO","ACAO","CUIDADO"],
+        "optional_terms": ["1.4L","28","LAVA","ROUPAS","LIQUIDO"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150104297"
+    },
+    {
+        "mandatory_terms": ["OMO","VALISERE","PECAS","INTIMAS","BIQUINIS"],
+        "optional_terms": ["300ML","LAVA","ROUPAS","LIQUIDO"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150078888"
+    },
+    {
+        "mandatory_terms": ["OMO","BRANCO","ABSOLUTO","EXPERT"],
+        "optional_terms": ["720G","DEVOLVE","BRANCURA","ROUPAS"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150092204"
+    },
+    {
+        "mandatory_terms": ["OMO","PRETAS","ESCURAS","BLINDAGEM","CORES"],
+        "optional_terms": ["ROUPAS","FINAS","DELICADAS","900ML"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150072817"
+    },
+    {
+        "mandatory_terms": ["OMO","ORIGINAL","CUIDA","CORES","TECIDOS"],
+        "optional_terms": ["ROUPAS","FINAS","DELICADAS","450ML"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150067202"
+    },
+    {
+        "mandatory_terms": ["OMO","LAVANDA","EXPLOSAO","FRAGRANCIA"],
+        "optional_terms": ["800G","OLEOS","ESSENCIAIS","14","DIAS","PERFUME"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150080188"
+    },
+    {
+        "mandatory_terms": ["OMO","CICLO","RAPIDO","ACAO","TOTAL"],
+        "optional_terms": ["1.4L","LIMPA","PERFUMA","PROTEGE"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150104303"
+    },
+    {
+        "mandatory_terms": ["OMO","LAVAGEM","PERFEITA","TAMANHO","FAMILIA"],
+        "optional_terms": ["2.2KG","ATIVO","CONCENTRADO","RENDE","27","LAVAGENS"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150069121"
+    },
+    {
+        "mandatory_terms": ["OMO","HIPOALERGENICO","ROUPAS","FINAS","DELICADAS"],
+        "optional_terms": ["BEBE","450ML"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150077614"
+    },
+    {
+        "mandatory_terms": ["OMO","ACAO","ANTIODOR","CICLO","RAPIDO"],
+        "optional_terms": ["1.4L","LIMPA","PERFUMA","COMBATE","MAUS","ODORES"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150104310"
+    },
+    {
+        "mandatory_terms": ["OMO","LAVANDA","ATIVO","CONCENTRADO"],
+        "optional_terms": ["EDICAO","ESPECIAL","1.6KG","RENDE","20","LAVAGENS"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150080201"
+    },
+    {
+        "mandatory_terms": ["OMO","PURO","CUIDADO","TOQUE","AVEIA"],
+        "optional_terms": ["5L","EMBALAGEM","ECONOMICA","HIPOALERGENICO"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150080492"
+    },
+    {
+        "mandatory_terms": ["OMO","COCO","ROUPAS","FINAS","DELICADAS"],
+        "optional_terms": ["CUIDA","CORES","TECIDOS","450ML"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150067219"
+    },
+    {
+        "mandatory_terms": ["OMO","LAVAGEM","PERFEITA","SANITIZA","HIGIENIZA"],
+        "optional_terms": ["PRECO","ECONOMICO","800G","ATIVO","CONCENTRADO"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150072138"
+    },
+    {
+        "mandatory_terms": ["OMO","COMBO","ECONOMICO","COMFORT"],
+        "optional_terms": ["LAVAGEM","PEFEITA","FRESCOR","INTENSO"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150094444"
+    },
+    {
+        "mandatory_terms": ["","","",""],
+        "optional_terms": ["",""],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150072152"
+    },
+    {
+        "mandatory_terms": ["OMO","LAVAGEM","PERFEITA","SANITIZA","HIGIENIZA"],
+        "optional_terms": ["1.6KG","RENDE","20","LAVAGENS","PRECO","ECONOMICO","COMBATE","BACTERIAS","GERMES"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150072152"
+    },
+    {
+        "mandatory_terms": ["OMO","MULTI","ACAO","REFIL","ECONOMICO"],
+        "optional_terms": ["1L","REMOVE","MANCHAS","DIFICEIS","PRIMEIRA"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150039926"
+    },
+    {
+        "mandatory_terms": ["OMO","PURO","CUIDADO","HIPOALERGENICO"],
+        "optional_terms": ["800G","PELE","DELICADA"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150064652"
+    },
+    {
+        "mandatory_terms": ["OMO","ORIGINAL","CUIDA","CORES","TECIDOS"],
+        "optional_terms": ["ROUPAS","FINAS","DELICADAS","900ML","200ML","GRATIS"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150089518"
+    },
+    {
+        "mandatory_terms": ["OMO","PURO","CUIDADO","TOQUE","AVEIA"],
+        "optional_terms": ["HIPOALERGENICO","EXTRA","SUAVE","1.6KG","ATIVO","CONCENTRADO"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150064676"
+    },
+    {
+        "mandatory_terms": ["OMO","LAVAGEM","PERFEITA","BIOTECNOLOGIA"],
+        "optional_terms": ["400G","ANTI","RESIDUOS"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150065284"
+    },
+    {
+        "mandatory_terms": ["OMO","PERFECT","WHITE","LAVANDERIA","PROFISSIONAL"],
+        "optional_terms": ["PRO","LAVA","ROUPAS","LIQUIDO","CONCENTRADO"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150080140"
+    },
+    {
+        "mandatory_terms": ["OMO","LAVAGEM","PERFEITA","GRATIS","320G"],
+        "optional_terms": ["BIOTECNOLOGIA","ANTI","RESIDUOS"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150093546"
+    },
+    {
+        "mandatory_terms": ["OMO","LAVAGEM","PERFEITA","GRATIS","150G"],
+        "optional_terms": ["ATIVO","CONCENTRADO","1.6KG"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150081147"
+    },
+    {
+        "mandatory_terms": ["OMO","LAVAGEM","PERFEITA","SANITIZA","HIGIENIZA"],
+        "optional_terms": ["2.2KG","TAMANHO","FAMILIA","RENDE","27","LAVAGENS"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150072237"
+    },
+    {
+        "mandatory_terms": ["OMO","PURO","CUIDADO","HIPOALERGENICO"],
+        "optional_terms": ["EXTRA","SUAVE","2.2KG"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150087231"
+    },
+    {
+        "mandatory_terms": ["OMO","PURO","CUIDADO","DILUIR","HIPOALERGENICO"],
+        "optional_terms": ["500ML","ECOLOGICO","3","LITROS"],
+        "brand": "OMO",
+        "ean_brand": "7189999999994",
+        "ean": "7891150077324"
+    },
+    {
+        "mandatory_terms": ["COMFORT","CUIDADO","INTENSIVO","FIBER","PROTECT"],
+        "optional_terms": ["CONCENTRADO","10X","PERFUME","1L"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150045484"
+    },
+    {
+        "mandatory_terms": ["COMFORT","CUIDADO","INTENSIVO","HYDRA","SERUM"],
+        "optional_terms": ["CONCENTRADO","1.5L","10X","PERFUME"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150079984"
+    },
+    {
+        "mandatory_terms": ["COMFORT","HIPOALERGENICO","PURO","CUIDADO"],
+        "optional_terms": ["1.5L","CONCENTRADO","AVALIADO","PEDIATRAS"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150065154"
+    },
+    {
+        "mandatory_terms": ["COMFORT","REFIL","BRISA","ELEGANTE"],
+        "optional_terms": ["900ML","LONGA","DURACAO","10X","PERFUME"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150094178"
+    },
+    {
+        "mandatory_terms": ["COMFORT","TRADICIONAL","EXPLOSAO","AZUL","AMACIANTE"],
+        "optional_terms": ["1.8L","FRAGRANCIA","DURA","DIA","TODO"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150070974"
+    },
+    {
+        "mandatory_terms": ["COMFORT","FIBER","PROTECT","CUIDADO","INTENSIVO"],
+        "optional_terms": ["500ML","10X","PERFUME","RENDE","2L"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150045460"
+    },
+    {
+        "mandatory_terms": ["COMFORT","CUIDADO","INTENSIVO","FIBER","PROTECT"],
+        "optional_terms": ["1.5L","10X","PERFUME","RENDE","6L"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150080010"
+    },
+    {
+        "mandatory_terms": ["COMFORT","LONGA","DURACAO","ENERGIA","FLORAL"],
+        "optional_terms": ["900ML","REFIL","RENDE","4L"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150094123"
+    },
+    {
+        "mandatory_terms": ["COMFORT","ENERGIA","FLORAL","LONGA","DURACAO"],
+        "optional_terms": ["500ML","10X","PERFUME","CONCENTRADO"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150025288"
+    },
+    {
+        "mandatory_terms": ["COMFORT","LAVANDA","CONCENTRADO","500ML"],
+        "optional_terms": ["10X","PERFUME","RENDE","2.3L"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150090460"
+    },
+    {
+        "mandatory_terms": ["COMFORT","SEGREDOS","48","AMACIANTE","ROUPAS"],
+        "optional_terms": ["1.5L","CONCENTRADO"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150093782"
+    },
+    {
+        "mandatory_terms": ["COMFORT","HIPOALERGENICO","INTENSE","PURO","CUIDADO"],
+        "optional_terms": ["500ML","RENDE","2L"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150039001"
+    },
+    {
+        "mandatory_terms": ["COMFORT","LAVANDA","REFIL","900ML"],
+        "optional_terms": ["10X","PERFUME"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150090477"
+    },
+    {
+        "mandatory_terms": ["COMFORT","LAVANDA","CONCENTRADO","1.5L"],
+        "optional_terms": ["RENDE","6.7L","EMBALAGEM","ECONOMICA","10X","PERFUME"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150090903"
+    },
+    {
+        "mandatory_terms": ["COMFORT","SEGREDOS","48","1L"],
+        "optional_terms": ["CONCENTRADO","LONGA","FIXACAO"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150091986"
+    },
+    {
+        "mandatory_terms": ["COMFORT","TRADICIONAL","HIPOALERGENICO","PURO","CUIDADO"],
+        "optional_terms": ["1.8L","AMACIANTE"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150070967"
+    },
+    {
+        "mandatory_terms": ["COMFORT","HIPOALERGENICO","PURO","CUIDADO"],
+        "optional_terms": ["500ML","GRATIS","100ML","RENDE","2L"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150048485"
+    },
+    {
+        "mandatory_terms": ["COMFORT","CUIDADO","INTENSIVO","ESSENCIAL","500ML"],
+        "optional_terms": ["GRATIS","100ML","RENDE","2L"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150048492"
+    },
+    {
+        "mandatory_terms": ["COMFORT","CUIDADO","INTENSIVO","FIBER","PROTECT"],
+        "optional_terms": ["10X","PERFUME","RENDE","2L","GRATIS","100ML"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150079991"
+    },
+    {
+        "mandatory_terms": ["COMFORT","SEGREDOS","36","1.5L","CONCENTRADO"],
+        "optional_terms": ["LONGA","FIXACAO"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150093775"
+    },
+    {
+        "mandatory_terms": ["COMFORT","FRESCOR","INTENSO","400ML"],
+        "optional_terms": ["REFIL","RENDE","1.8L","LONGA","DURACAO"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150095953"
+    },
+    {
+        "mandatory_terms": ["COMFORT","FRESCOR","INTENSO","1.8L"],
+        "optional_terms": ["EMBALAGEM","ECONOMICA","90","LAGAVENS","RENDE","8.1L"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150094369"
+    },
+    {
+        "mandatory_terms": ["COMFORT","FRAGRANCIA","FINA","BRISA","FLORAL"],
+        "optional_terms": ["FRAGRANCIA","DURA","DIA","TODO","1.8L"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150079274"
+    },
+    {
+        "mandatory_terms": ["COMFORT","TRADICIONAL","BRISA","TROPICAL","1.8L"],
+        "optional_terms": ["FRAGRANCIA","DURA","DIA","TODO"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150070981"
+    },
+    {
+        "mandatory_terms": ["INTIMUS","14","ABSORVENTES","TECNOLOGIA", "ANTIBACTERIANA"],
+        "optional_terms": ["MEDIO","SUAVE"],
+        "brand": "INTIMUS",
+        "ean_brand": "7189999999924",
+        "ean": "7896007551019"
+    },
+    {
+        "mandatory_terms": ["INTIMUS","NOTURNO","INTENSO","14", "LARGO"],
+        "optional_terms": ["DISCRETO","SUAVE"],
+        "brand": "INTIMUS",
+        "ean_brand": "7189999999924",
+        "ean": "7896007550807"
+    },
+    {
+        "mandatory_terms": ["INTIMUS","15","PROTETORE","PH", "SAUDAVEL"],
+        "optional_terms": ["NOVO","HIPOALERGENICO", "INDICADOR", "TROCA"],
+        "brand": "INTIMUS",
+        "ean_brand": "7189999999924",
+        "ean": "7896007552924"
+    },
+    {
+        "mandatory_terms": ["INTIMUS","DIA","NOITE","28", "ULTRAFINO"],
+        "optional_terms": ["SUAVE","NOVO", "ABSORCAO", "CONFORTO","LEVE","PAGUE"],
+        "brand": "INTIMUS",
+        "ean_brand": "7189999999924",
+        "ean": "7896007550814"
+    },
+    {
+        "mandatory_terms": ["INTIMUS","28","ABSORVENTES","MEDIO", "ANTIBACTERIANA"],
+        "optional_terms": ["LEVE","PAGUE", "TECNOLOGIA"],
+        "brand": "INTIMUS",
+        "ean_brand": "7189999999924",
+        "ean": "7896007551026"
+    },
+    {
+        "mandatory_terms": ["INTIMUS","40","FRESCOR","30"],
+        "optional_terms": ["PROMOCAO","LEVE", "PAGUE", "NOVA"],
+        "brand": "INTIMUS",
+        "ean_brand": "7189999999924",
+        "ean": "7896007542499"
+    },
 
+        {
+        "mandatory_terms": ["INTIMUS","DEFESAS","2","200", "OFERTA"],
+        "optional_terms": ["NOVO","SABONETE", "INTIMO"],
+        "brand": "INTIMUS",
+        "ean_brand": "7189999999924",
+        "ean": "7896018704329"
+    },
+    {
+        "mandatory_terms": ["INTIMUS","8","SUAVE","MEDIO", "TECNOLOGIA"],
+        "optional_terms": ["TECNOLOGIA","AVANCADA"],
+        "brand": "INTIMUS",
+        "ean_brand": "7189999999924",
+        "ean": "7896007552122"
+    },
+    {
+        "mandatory_terms": ["INTIMUS","LENCOS","INTIMOS","DEFESA", "NATURAL"],
+        "optional_terms": ["NOVO","16", "PH"],
+        "brand": "INTIMUS",
+        "ean_brand": "7189999999924",
+        "ean": "7896018700536"
+    },
+    {
+        "mandatory_terms": ["INTIMUS","80","PROTETORES","AVANCADO", "INDICADOR"],
+        "optional_terms": ["NOVO","LEVE", "MAIS", "HIPOALERGENICO"],
+        "brand": "INTIMUS",
+        "ean_brand": "7189999999924",
+        "ean": "7896007552948"
+    },
+    {
+        "mandatory_terms": ["INTIMUS","2","1","ESCAPES", "14"],
+        "optional_terms": ["DIARIA","LEVES"],
+        "brand": "INTIMUS",
+        "ean_brand": "7189999999924",
+        "ean": "7896007551699"
+    },
+    {
+        "mandatory_terms": ["INTIMUS","INTERNO","APLICADOR","8", "MEDIO"],
+        "optional_terms": ["FACIL","CONFORTAVEL", "NOVO"],
+        "brand": "INTIMUS",
+        "ean_brand": "7189999999924",
+        "ean": "7896007549542"
+    },
+    {
+        "mandatory_terms": ["INTIMUS","MENSTRUACAO","URINA","8", "2"],
+        "optional_terms": ["+","1", "LEVES", "MODERADOS"],
+        "brand": "INTIMUS",
+        "ean_brand": "7189999999924",
+        "ean": "7896007551705"
+    },
+    {
+        "mandatory_terms": ["INTIMUS","2","1","NOTRUNO", "8"],
+        "optional_terms": ["MENSTRUACAO","URINA", "NOVO"],
+        "brand": "INTIMUS",
+        "ean_brand": "7189999999924",
+        "ean": "7896007552535"
+    },
+    {
+        "mandatory_terms": ["INTIMUS","48","LONGO","50%", "HIPOALERGENICO"],
+        "optional_terms": ["PRIMEIROS","ULTIMOS", "20%"],
+        "brand": "INTIMUS",
+        "ean_brand": "7189999999924",
+        "ean": "7896007553365"
+    },
+    {
+        "mandatory_terms": ["INTIMUS","NOTURNO","45","INTENSO", "SUAVE"],
+        "optional_terms": ["LEVE","MAIS", "EXTRA"],
+        "brand": "INTIMUS",
+        "ean_brand": "7189999999924",
+        "ean": "7896007553563"
+    },
+    {
+        "mandatory_terms": ["INTIMUS","LIMPA","FERESCOR","80"],
+        "optional_terms": ["LEVE","MAIS", "NOVO"],
+        "brand": "INTIMUS",
+        "ean_brand": "7189999999924",
+        "ean": "7896007546022"
+    }
 
 ]
