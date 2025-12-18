@@ -10214,13 +10214,6 @@
         "ean": "7891150094444"
     },
     {
-        "mandatory_terms": ["","","",""],
-        "optional_terms": ["",""],
-        "brand": "OMO",
-        "ean_brand": "7189999999994",
-        "ean": "7891150072152"
-    },
-    {
         "mandatory_terms": ["OMO","LAVAGEM","PERFEITA","SANITIZA","HIGIENIZA"],
         "optional_terms": ["1.6KG","RENDE","20","LAVAGENS","PRECO","ECONOMICO","COMBATE","BACTERIAS","GERMES"],
         "brand": "OMO",
