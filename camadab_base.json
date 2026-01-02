@@ -11600,7 +11600,90 @@
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005808837311"
+    },
+    {
+        "mandatory_terms": ["NIVEA","CREME","BARBEAR","65"],
+        "optional_terms": ["SENSITIVE","NOVO"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900328472"
+    },
+    {
+        "mandatory_terms": ["NIVEA","MEN","FRESH","90","ACTIVE"],
+        "optional_terms": ["DURADOURO","24H"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4006000085487"
+    },
+    {
+        "mandatory_terms": ["NIVEA","MEN","DEEP","SPORT","150"],
+        "optional_terms": ["CARVAO","ATIVADO","MAXXTECH"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4006000104164"
+    },
+    {
+        "mandatory_terms": ["NIVEA","DERMA","PROTECT","150","SUOR"],
+        "optional_terms": ["EXTREMO","CLINICAL","NOVO"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900950925"
+    },
+    {
+        "mandatory_terms": ["NIVEA","VITAMINA","E","50","RESTAURA"],
+        "optional_terms": ["NOVO","ACIDO","HIALURONICO"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4006000181950"
+    },
+    {
+        "mandatory_terms": ["NIVEA","MEN","CARVAO","ATIVADO","200"],
+        "optional_terms": ["EMBALAGEM","ECONOMICA","72H"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4006000104256"
+    },
+    {
+        "mandatory_terms": ["NIVEA","PEARL","BEAUTY","200"],
+        "optional_terms": ["EMBALAGEM","ECONOMICA"],
+        "brand": "NIVEA",   
+        "ean_brand": "7320000000032",
+        "ean": "4006000010328"
+    },
+    {
+        "mandatory_terms": ["NIVEA","FRESH","SENSATION"],
+        "optional_terms": ["72H"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4006000015378"
+    },
+    {
+        "mandatory_terms": ["NIVEA","MEN","DEEP","COMFORT","LOCAO"],
+        "optional_terms": ["AFTER","SHAVE","ANTI-BACTERIAL"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900648419"
+    },
+    {
+        "mandatory_terms": ["NIVEA","MEN","65","ORIGIGAL","CREME"],
+        "optional_terms": ["NOVO","BARBEAR"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900328465"
+    },
+    {
+        "mandatory_terms": ["NIVEA","INTIMO","NATURAL","250"],
+        "optional_terms": ["SABONETE","LIQUIDO"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "7890704808131"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","72H","ANTIBAC","FRESH","150ML"],
+        "optional_terms": ["PROTECAO","ANTIBACTERIANA","90G",""],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350032741"
     }
-    
     
 ]
