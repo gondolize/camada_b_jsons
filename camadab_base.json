@@ -11957,6 +11957,209 @@
         "brand": "BOZZANO",
         "ean_brand": "7240000000024",
         "ean": "7891350032741"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","EXTREME","SPORT","72H","150ML"],
+        "optional_terms": ["ALTA","PERFORMACE"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350032857"
+    },  
+    {
+        "mandatory_terms": ["BOZZANO","INVISIBLE","48H","BRANCAS","PRETAS"],
+        "optional_terms": ["PROTECAO","ANTI","MANCHAS","150ML"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350032970"
+    },  
+    {
+        "mandatory_terms": ["BOZZANO","GEL","FIXADOR","ACAO","PROLONGADA"],
+        "optional_terms": ["300G","4"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350034868"
+    },  
+    {
+        "mandatory_terms": ["BOZZANO","DRY","PROTECAO","TOQUE","SECO"],
+        "optional_terms": ["150ML"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350037791"
+    },  
+    {
+        "mandatory_terms": ["BOZZANO","MEDIA","FIXACAO","ASPECTO","MOLHADO"],
+        "optional_terms": ["300G","2"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350034844"
+    },  
+    {
+        "mandatory_terms": ["BOZZANO","POWER","PROTECTION","CARVAO","ATIVADO"],
+        "optional_terms": ["150ML","72H"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350037807"
+    },  
+    {
+        "mandatory_terms": ["BOZZANO","HIDRATACAO","COMFORT","REPAIR","65G"],
+        "optional_terms": ["CREME","BARBEAR"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350011043"
+    },  
+    {
+        "mandatory_terms": ["BOZZANO","SENSITIVE","PERFUME","72H","150ML"],
+        "optional_terms": ["SILICONE"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350032406"
+    },  
+    {
+        "mandatory_terms": ["BOZZANO","CLINICAL","3X","CLEAN","150ML"],
+        "optional_terms": ["PROTECAO","96H"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350038613"
+    },     
+    {
+        "mandatory_terms": ["BOZZANO","PELE","SENSIVEL","COMFORT","REPAIR"],
+        "optional_terms": ["CREME","BARBEAR","65G"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350011623"
+    },  
+    {
+        "mandatory_terms": ["BOZZANO","INVISIBLE","72H","200ML"],
+        "optional_terms": ["PROTECAO","ANTI","MANCHAS","BRANCAS","PRETAS"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350041415"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","EXTREME","SPORT","ALTA","PERFORMACE"],
+        "optional_terms": ["200ML","TAMANHO","ECONOMICO"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350041408"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","SHAMPOO","ANTICASPA","3X1","MENTOL"],
+        "optional_terms": ["200ML","LIMPEZA","RAIZ"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350039955"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","CLINICAL","ULTRA","COOL","96H"],
+        "optional_terms": ["150ML","3X"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350038620"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","PELE","SENSIVEL","COMFORT","REPAIR"],
+        "optional_terms": ["200ML","ESPUMA","BARBEAR"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350025187"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","DRY","PROTECAO","SECA","72H"],
+        "optional_terms": ["200ML","TAMANHO","ECONOMICO"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350047899"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","ANTIBAC","FRESH","PROTECAO","ANTIBACTERIANA"],
+        "optional_terms": ["200ML","TAMANHO","ECONOMICO"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350047905"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","REFRESCANTE","ANTIBAC","COMFORT","REPAIR"],
+        "optional_terms": ["CREME","BARBEAR","65G"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350002409"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","POWER","PROTECTION","CARVAO","ATIVADO"],
+        "optional_terms": ["200ML","TAMANHO","ECONOMICO"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350047882"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","SHAMPOO","ANTICASPA","MENTOL","325ML"],
+        "optional_terms": ["3X1"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350039962"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","SHAMPOO","CACHOS","OLEO","COCO"],
+        "optional_terms": ["325ML"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350040012"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","SHAMPOO","ANTIQUEDA","CAFEINA","325ML"],
+        "optional_terms": ["3X1","PODER","FIOS"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350039986"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","MEGA","FORTE","FIXACAO","150G"],
+        "optional_terms": ["4","GEL","FIXADOR"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350034875"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","CONDICIONADOR","ANTIQUEDA","CAFEINA","200ML"],
+        "optional_terms": ["3X1","PODER","FIOS"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350039993"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","REFRESCANTE","ANTIBAC","COMFORT","REPAIR"],
+        "optional_terms": ["ESPUMA","BARBEAR","200ML"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350000115"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","ANTIQUEDA","SHAMPOO","CAFEINA","200ML"],
+        "optional_terms": ["3X1","PODER","FIOS"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350039979"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","SHAMPOO","CACHOS","OLEO","COCO"],
+        "optional_terms": ["200ML","CRESPOS","RESPEITO"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350040005"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","HIDRATACAO","COMFORT","REPAIR","100G"],
+        "optional_terms": ["POS","BARBA"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350032673"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","NIGHT","BLUE","EVITA","IRRITACOES"],
+        "optional_terms": ["LOCAO","FACIAL","POS","BARBA","100ML"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350026627"
     }
     
 ]
