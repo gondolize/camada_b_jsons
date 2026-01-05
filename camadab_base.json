@@ -11679,6 +11679,279 @@
         "ean": "7890704808131"
     },
     {
+        "mandatory_terms": ["NIVEA","SUN","30","400","FPS"],
+        "optional_terms": ["PROTECT","HIDRATA"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005808555345"
+    },
+    {
+        "mandatory_terms": ["NIVEA","EMBALAGEM","ECONOMICA","PRO-VITAMINA","B5"],
+        "optional_terms": ["DERMA","CONTROL","DEFENDE","ACIDO","HIALURONICO"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4006000178868"
+    },
+    {
+        "mandatory_terms": ["NIVEA","MEN","SABONETE","3","1"],
+        "optional_terms": ["CORPO","ROSTO","BARBEAR","PELE","SENSIVEL"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900380975"
+    },
+    {
+        "mandatory_terms": ["NIVEA","MEN","DEEP","150","BEAT"],
+        "optional_terms": ["CARVAO","ATIVADO","72H"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900878137"
+    },
+    {
+        "mandatory_terms": ["NIVEA","MEN","50","ACTIVE"],
+        "optional_terms": ["DRY","FRESH","72H"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900648426"
+    },
+    {
+        "mandatory_terms": ["NIVEA","MILK","200","48H"],
+        "optional_terms": ["NOVO","HIDRATACAO","PROFUNDA"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005808309436"
+    },
+    {
+        "mandatory_terms": ["NIVEA","SUN","FACIAL","50","60"],
+        "optional_terms": ["SENSIVEL","ANTI-IDADE"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900837677"
+    },
+    {
+        "mandatory_terms": ["NIVEA","CLEAR","INVISIBLE","ANTIBACTERIANO"],
+        "optional_terms": ["48H"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900036766"
+    },
+    {
+        "mandatory_terms": ["NIVEA","","",""],
+        "optional_terms": ["",""],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900648327"
+    },
+    {
+        "mandatory_terms": ["NIVEA","SUAVE","ESPUMA","200"],
+        "optional_terms": ["BARBEAR",""],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900648327"
+    },
+    {
+        "mandatory_terms": ["NIVEA","VITAMINA-E","RESTAURA","150"],
+        "optional_terms": ["NOVO"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4006000178899"
+    },
+    {
+        "mandatory_terms": ["NIVEA","INTIMO","250","FRESH","COMFORT"],
+        "optional_terms": ["SABONETRE","LIQUIDO"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900219626"
+    },
+    {
+        "mandatory_terms": ["NIVEA","CREME","CARE","250"],
+        "optional_terms": ["SABONETE","LIQUIDO"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900095268"
+    },
+    {
+        "mandatory_terms": ["NIVEA","PURE","MILK","90","6"],
+        "optional_terms": ["BEAUTY","ELIXIR","LEVE","PAGUE","SENSITIVE"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900810885"
+    },
+    {
+        "mandatory_terms": ["NIVEA","DEFENDE","150","PRO-VITAMINA","B5"],
+        "optional_terms": ["NOVO"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4006000178851"
+    },
+    {
+        "mandatory_terms": ["NIVEA","MEN","SILVER","ANTIBACTERIANO"],
+        "optional_terms": ["SECA","RAPIDO","48H"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005808305964"
+    },
+    {
+        "mandatory_terms": ["NIVEA","DERMADRY","TECHNOLOGY","CLINICAL","54G"],
+        "optional_terms": ["NOVO","ANTITRANSPIRANTE"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4006000045504"
+    },
+    {
+        "mandatory_terms": ["NIVEA","UNIFORMIZA","VITAMINA","C","50"],
+        "optional_terms": ["NOVO","72H"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4006000181943"
+    },
+    {
+        "mandatory_terms": ["NIVEA","PROTECT","CARE","48H","50%"],
+        "optional_terms": ["DESCONTO","2"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900359124"
+    },
+    {
+        "mandatory_terms": ["NIVEA","400","NEGRA","RADIANTE","LOCAO"],
+        "optional_terms": ["CUIDADO","INTENSO","OLEO","VITAMINAS","DEO-HIDRATANTE"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900919632"
+    },
+    {
+        "mandatory_terms": ["NIVEA","SOFT","MILK","200","DEO-HIDRATANTE"],
+        "optional_terms": ["NOVA","FORMULA","72H"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005808335435"
+    },
+    {
+        "mandatory_terms": ["NIVEA","ERVA","DOCE","200"],
+        "optional_terms": ["NOVO","EMBALAGEM","ECONOMICA"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900734075"
+    },
+    {
+        "mandatory_terms": ["NIVEA","DEOMILK","SENSITIVE","AXILAS"],
+        "optional_terms": ["BEAUTY","ELIXIR"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900715814"
+    },
+    {
+        "mandatory_terms": ["NIVEA","MEN","BALSAMO","100","101"],
+        "optional_terms": ["AFTER","SHAVE"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "8715200813061"
+    },
+    {
+        "mandatory_terms": ["NIVEA","150","UNIFORMIZA","VITAMINA","C"],
+        "optional_terms": ["NOVO"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4006000178882"
+    },
+    {
+        "mandatory_terms": ["NIVEA","DERMADRY","CLINICAL","54G","ANTITRANSPIRANTE"],
+        "optional_terms": ["NOVO","DEFESA"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4006000045498"
+    },
+    {
+        "mandatory_terms": ["NIVEA","MILK","48H","400"],
+        "optional_terms": ["HIDRATACAO","PROFUNDA"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005808315697"
+    },
+    {
+        "mandatory_terms": ["NIVEA","SOFT","MILK","400","48H"],
+        "optional_terms": ["TAMANHO","ECONOMICO","5","1"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900004956"
+    },
+    {
+        "mandatory_terms": ["NIVEA","DEFENDE","50","VITAMINA","B5"],
+        "optional_terms": ["NOVO","CONFORTO","EXTRA"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4006000181936"
+    },
+    {
+        "mandatory_terms": ["NIVEA","FACIAL","100","GEL"],
+        "optional_terms": ["5","1","NAO","OLEOSA"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "42398004"
+    },
+    {
+        "mandatory_terms": ["NIVEA","SUN","125","INTENSE","BRONZE"],
+        "optional_terms": ["VITAMINA","E","BRONZEADO","NATURAL"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900207296"
+    },
+    {
+        "mandatory_terms": ["NIVEA","LOTION","EXPRESS","200"],
+        "optional_terms": ["NOVA","FORMULA"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005808310999"
+    },
+    {
+        "mandatory_terms": ["NIVEA","UV","SPECIALIST","40","INVISIBLE"],
+        "optional_terms": ["70","NOVO"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4006000105413"
+    },
+    {
+        "mandatory_terms": ["NIVEA","CREME","CARE","200"],
+        "optional_terms": ["SABONETE","LIQUIDO","NOVO","EMBALAGEM","ECONOMICA"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900734082"
+    },
+    {
+        "mandatory_terms": ["NIVEA","OLEO","BANHO","200"],
+        "optional_terms": ["SABONETE","LIQUIDO"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005808808281"
+    },
+    {
+        "mandatory_terms": ["NIVEA","AGUA","MICELAR","200","REFRESCANTE"],
+        "optional_terms": ["NOVO","AMINOACIDO","VITAMINA","E"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900359261"
+    },
+    {
+        "mandatory_terms": ["NIVEA","FRESH","REAL","48H"],
+        "optional_terms": ["NOVO"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900647498"
+    },
+    {
+        "mandatory_terms": ["NIVEA","DERMA","CONTROL","DEFENDE","54G"],
+        "optional_terms": ["NOVO","B5"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4006000178875"
+    },
+    {
+        "mandatory_terms": ["NIVEA","NEGRA","200","RADIANTE","UNIFORME"],
+        "optional_terms": ["HIDRATANTE","PELE"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900929365"
+    },
+    {
         "mandatory_terms": ["BOZZANO","72H","ANTIBAC","FRESH","150ML"],
         "optional_terms": ["PROTECAO","ANTIBACTERIANA","90G",""],
         "brand": "BOZZANO",
