@@ -11953,7 +11953,7 @@
     },
     {
         "mandatory_terms": ["BOZZANO","72H","ANTIBAC","FRESH","150ML"],
-        "optional_terms": ["PROTECAO","ANTIBACTERIANA","90G",""],
+        "optional_terms": ["PROTECAO","ANTIBACTERIANA","90G"],
         "brand": "BOZZANO",
         "ean_brand": "7240000000024",
         "ean": "7891350032741"
