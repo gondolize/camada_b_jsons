@@ -10530,7 +10530,7 @@
         "ean": "7896018700536"
     },
     {
-        "mandatory_terms": ["INTIMUS","80","PROTETORES","AVANCADO", "INDICADOR"],
+        "mandatory_terms": ["INTIMUS","PROTETORES","AVANCADO", "INDICADOR"],
         "optional_terms": ["NOVO","LEVE", "MAIS", "HIPOALERGENICO"],
         "brand": "INTIMUS",
         "ean_brand": "7189999999924",
