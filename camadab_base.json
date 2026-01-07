@@ -12160,6 +12160,237 @@
         "brand": "BOZZANO",
         "ean_brand": "7240000000024",
         "ean": "7891350026627"
+    },
+    {
+        "mandatory_terms": ["BRILHANTE", "BLINDAGEM", "CORES", "LIMPEZA", "TOTAL"],
+        "optional_terms": ["900ML", "REFIL", "ECONOMICO", "ROUPAS", "BRANCAS", "COLORIDAS"],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7891150066519"
+    },
+    {
+        "mandatory_terms": ["BRILHANTE", "BLINDAGEM", "CORES", "LIMPEZA", "TOTAL"],
+        "optional_terms": ["1.8L", "GARRAFA", "RECICLAVEL"],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7891150098015"
+    },
+    {
+        "mandatory_terms": ["BRILHANTE", "COMBATE", "MAU", "ODOR"],
+        "optional_terms": ["900ML", "REFIL", "ECONOMICO", "ROUPAS", "BRANCAS", "COLORIDAS", "HIGIENE", "TOTAL"],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7891150066526"
+    },
+    {
+        "mandatory_terms": ["BRILHANTE", "LIMPEZA", "TOTAL", "BLINDAGEM", "CORES"],
+        "optional_terms": ["5L", "EMBALAGEM", "ECONOMICA"],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7891150050938"
+    },
+    {
+        "mandatory_terms": ["BRILHANTE", "LIMPEZA", "TOTAL", "BLINDAGEM", "CORES"],
+        "optional_terms": ["800G", "ROUPAS", "BRANCAS", "COLORIDAS"],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7891150086524"
+    },
+    {
+        "mandatory_terms": ["BRILHANTE", "COMBATE", "MAU", "ODOR"],
+        "optional_terms": ["1.8L", "HIGIENE", "TOTAL", "ROUPAS", "BRANCAS", "COLORIDAS"],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7891150098046"
+    },
+    {
+        "mandatory_terms": ["BRILHANTE", "LIMPEZA", "TOTAL", "BLINDAGEM", "CORES"],
+        "optional_terms": ["2.2KG", "TAMANHO", "FAMILIA", "ROUPAS", "BRANCAS", "COLORIDAS"],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7891150086531"
+    },
+    {
+        "mandatory_terms": ["BRILHANTE", "COMBATE", "MAU", "ODOR"],
+        "optional_terms": ["3L", "HIGIENE", "TOTAL", "ENTAO", "RECICLA"],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7891150064713"
+    },
+    {
+        "mandatory_terms": ["BRILHANTE", "LIMPEZA", "TOTAL", "DILUIR"],
+        "optional_terms": ["500ML", "BLINDAGEM", "CORES", "REFIL", "ECONOMICO"],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7891150077294"
+    },
+    {
+        "mandatory_terms": ["BRILHANTE", "PERFUME", "CUIDADO", "EXTRAORDINARIO"],
+        "optional_terms": ["3L", "BRILHO", "ATIVO"],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7891150105218"
+    },
+    {
+        "mandatory_terms": ["BRILHANTE", "DELICADEZA", "TOTAL", "CUIDADO", "COCO"],
+        "optional_terms": ["3L", "ENTAO", "RECICLA"],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7891150071193"
+    },
+    {
+        "mandatory_terms": ["BRILHANTE", "CUIDADO", "TOTAL", "TOQUE", "MACIEZ"],
+        "optional_terms": ["800G", "PERFUME", "BRANCAS", "COLORIDAS"],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7891150091511"
+    },
+    {
+        "mandatory_terms": ["BRILHANTE", "LIMPEZA", "TOTAL", "PROTEGE", "COR"],
+        "optional_terms": ["1.6KG", "PROFUNDA", "BRANCOS", "240", "LAVAGENS"],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7891150086555"
+    },
+    {
+        "mandatory_terms": ["BRILHANTE", "CUIDADO", "TOTAL", "TOQUE", "MACIEZ"],
+        "optional_terms": ["1.6KG", "PERFUME", "BRANCAS", "COLORIDAS"],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7891150091504"
+    },
+    {
+        "mandatory_terms": ["BRILHANTE", "DELICADEZA", "TOTAL", "CUIDADO", "TECIDOS"],
+        "optional_terms": ["1.6KG", "LIMPEZA", "PROFUNDA"],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7891150093867"
+    },
+    {
+        "mandatory_terms": ["BRILHANTE", "LIMPEZA", "TOTAL", "BLINDAGEM", "CORES"],
+        "optional_terms": ["1.6KG", "GRATIS", "BRANCAS", "COLORIDAS"],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7891150086401"
+    },
+    {
+        "mandatory_terms": ["BRILHANTE", "COMBATE", "MAU", "ODOR", "ANTIBAC"],
+        "optional_terms": ["ROUPAS", "BRANCAS", "COLORIDAS", "1.6KG"],
+        "brand": "BRILHANTE", 
+        "ean_brand": "7189999999987",
+        "ean": "7891150091535"
+    },
+    {
+        "mandatory_terms": ["BRILHANTE", "COMBATE", "MAU", "ODOR", "ANTIBAC"],
+        "optional_terms": ["800G", "ROUPAS", "BRANCAS", "COLORIDAS"],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7891150091481"
+    },
+    {
+        "mandatory_terms": ["BRILHANTE", "LIMPEZA", "TOTAL", "BLINDAGEM", "CORES"],
+        "optional_terms": ["4KG", "OFERTA", "FAMILIA"],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7891150086579"
+    },
+    {
+        "mandatory_terms": ["BRILHANTE", "LIMPEZA", "TOTAL", "KIT"],
+        "optional_terms": ["3L", "REFIL", "ECONOMICO", "OFERTA"],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7891150077287"
+    },
+    {
+        "mandatory_terms": ["BRILHANTE", "LIMPEZA", "TOTAL", "BLINDAGEM", "CORES"],
+        "optional_terms": ["700ML", "REFIL", "ECONOMICO", "PROFUNDA"],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7891150086968"
+    },
+    {
+        "mandatory_terms": ["BRILHANTE", "DELICADEZA", "TOTAL", "CUIDADO", "TECIDOS"],
+        "optional_terms": ["800G", "ROUPAS", "BRANCAS", "COLORIDAS"],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7891150093881"
+    },
+    {
+        "mandatory_terms": ["NIVEA", "BELEZA", "RADIANTE", "PELE", "NEGRA"],
+        "optional_terms": ["400ML", "PROMOCAO", "INTENSO", "LOTE", "ECONOMICO", "2", "UNIDADES"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4006000039800"
+    },
+    {
+        "mandatory_terms": ["NIVEA", "CUIDADO", "INTIMO"],
+        "optional_terms": ["200ML", "OFERTA", "ESPECIAL", "KIT", "2", "UNIDADES"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900964380"
+    },
+    {
+        "mandatory_terms": ["NIVEA", "SUN", "PROTECT", "MOISTURE"],
+        "optional_terms": ["FPS30", "FPS50", "200ML", "100ML", "GRATIS", "KIT"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900709752"
+    },
+    {
+        "mandatory_terms": ["NIVEA", "LENCOS", "DEMAQUILANTES", "3", "EM", "1"],
+        "optional_terms": ["25", "UNIDADES", "REFRESCANTE"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4006000005430"
+    },
+    {
+        "mandatory_terms": ["NIVEA", "BELEZA", "RADIANTE", "PELE", "NEGRA", "DEO-HIDRATANTE"],
+        "optional_terms": ["400ML", "INTENSO"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900919625"
+    },
+    {
+        "mandatory_terms": ["NIVEA", "MILK", "HIDRATANTE"],
+        "optional_terms": ["400ML", "2", "UNIDADES", "ECONOMICO", "48H"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900441942"
+    },
+    {
+        "mandatory_terms": ["NIVEA", "FIRMADOR", "Q10", "VITAMINA", "C"],
+        "optional_terms": ["200ML", "COLAGENO", "10", "DIAS"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900498205"
+    },
+    {
+        "mandatory_terms": ["NIVEA", "SUN", "CONTROLE", "OLEOSIDADE", "MATTE"],
+        "optional_terms": ["FPS50", "UV", "60", "TOQUE", "SECO"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900659712"
+    },                                      
+    {
+        "mandatory_terms": ["NIVEA", "GEL", "MICELAR", "ROSAS"],
+        "optional_terms": ["150ML", "ORGANICAS", "SABONETE", "FACIAL"], 
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032", 
+        "ean": "4005900602220" 
+    },
+    {
+        "mandatory_terms": ["NIVEA", "CREME", "SOFT"],
+        "optional_terms": ["200ML", "NOVO", "ECONOMICA"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "4005900734068"
+    },
+    {
+        "mandatory_terms": ["NIVEA", "SABONETE", "LIQUIDO", "ERVA", "DOCE"],
+        "optional_terms": ["250ML", "REFIL"],
+        "brand": "NIVEA",
+        "ean_brand": "7320000000032",
+        "ean": "7890704810738"
     }
-    
+
 ]
