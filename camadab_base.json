@@ -7845,7 +7845,7 @@
         "ean":"7500435152495"
     }, 
     {
-        "mandatory_terms":["ALWAYS","DISCREET","INCONTINENCOA","URINARIA"],
+        "mandatory_terms":["ALWAYS","DISCRETO","INCONTINENCOA","URINARIA"],
         "optional_terms":["ABSORVENTE","NOTURNO","8","UNIDADES"],
         "brand":"ALWAYS",
         "ean_brand":"7189999999928",
@@ -12391,6 +12391,83 @@
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "7890704810738"
+    },
+    {
+        "mandatory_terms": ["MILI", "ABSORVENTE", "PROTECAO", "TOTAL", "SUAVE"],
+        "optional_terms": ["16", "UNIDADES", "ABSORCAO", "RAPIDA", "HIPOALERGENICO"],
+        "brand": "MILI",
+        "ean_brand": "7189999999959",
+        "ean": "7896104993835"
+    },
+    {
+        "mandatory_terms": ["MILI", "PROTETOR", "DIARIO", "SUAVE"],
+        "optional_terms": ["40", "UNIDADES", "NEUTRALIZA", "ODORES", "SEM", "PERFUME"],
+        "brand": "MILI",
+        "ean_brand": "7189999999959",
+        "ean": "7896104996485"
+    },
+    {
+        "mandatory_terms": ["MILI", "MULHER", "ULTRA", "LEVE"],
+        "optional_terms": ["16", "UNIDADES", "CONFORTO", "TOTAL", "COBERTURA"],
+        "brand": "MILI",
+        "ean_brand": "7189999999959",
+        "ean": "7896104991572"
+    },
+    {
+        "mandatory_terms": ["MILI", "BABY", "TOALHAS", "UMEDECIDAS"],
+        "optional_terms": ["100", "UNIDADES", "PROTECAO", "DELICADA", "REFIL"],
+        "brand": "MILI",
+        "ean_brand": "7189999999959",
+        "ean": "7896104992432"
+    },
+    {
+        "mandatory_terms": ["MILI", "ABSORVENTE", "NOTURNO", "SUAVE"],
+        "optional_terms": ["16", "UNIDADES", "HIPOALERGENICO", "ABSORCAO", "RAPIDA"],
+        "brand": "MILI",
+        "ean_brand": "7189999999959",
+        "ean": "7896104993880"
+    },
+    {
+        "mandatory_terms": ["MILI", "MULHER", "NOTURNO", "ULTRA"],
+        "optional_terms": ["16", "UNIDADES", "DISCRETO", "SUAVE", "FLUXO", "INTENSO"],
+        "brand": "MILI",
+        "ean_brand": "7189999999959",
+        "ean": "7896104991510"
+    },
+    {
+        "mandatory_terms": ["MILI", "PROTETOR", "DIARIO", "NEUTRALIZA", "ODORES"],
+        "optional_terms": ["80", "UNIDADES", "COBERTURA", "SUAVE"],
+        "brand": "MILI",
+        "ean_brand": "7189999999959",
+        "ean": "7896104992753"
+    },
+    {
+        "mandatory_terms": ["MILI", "ABSORVENTE", "PROTECAO", "TOTAL", "SUAVE"],
+        "optional_terms": ["32", "UNIDADES", "ABSORCAO", "RAPIDA", "FLUXO", "REGULAR"],
+        "brand": "MILI",
+        "ean_brand": "7189999999959",
+        "ean": "7896104992494"
+    },
+    {
+        "mandatory_terms": ["MILI", "ABSORVENTE", "NOTURNO", "SUAVE"],
+        "optional_terms": ["32", "UNIDADES", "HIPOALERGENICO", "FLUXO", "SUPER", "INTENSO"],
+        "brand": "MILI",
+        "ean_brand": "7189999999959",
+        "ean": "7896104992777"
+    },
+    {
+        "mandatory_terms": ["MILI", "FRALDA", "PREMIUM", "LOVE", "CARE", "RN"],
+        "optional_terms": ["18", "UNIDADES"],
+        "brand": "MILI",
+        "ean_brand": "7189999999959",
+        "ean": "7896104992456"
+    },
+    {
+        "mandatory_terms": ["MILI", "FRALDA", "GRANDINHOS", "XXXG"],
+        "optional_terms": ["18", "UNIDADES", "PACOTE", "JUMBO"],
+        "brand": "MILI",
+        "ean_brand": "7189999999959",
+        "ean": "7896104991800"
     }
 
 ]
