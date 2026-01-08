@@ -11034,13 +11034,6 @@
         "ean": "7896098903971"
     },
     {
-        "mandatory_terms": ["YPE","ANTIBAC","1L","AMACIANTE","ROUPAS"],
-        "optional_terms": ["CUIDA","HIGIENIZA", "PROTEGE"],
-        "brand": "YPE",
-        "ean_brand": "7189999999950",
-        "ean": ""
-    },
-    {
         "mandatory_terms": ["YPE","TIXAN","ROUPAS","LIMPAS","3L"],
         "optional_terms": ["CUIDA","HIGIENIZA", "PROTEGE","RECICLADO"],
         "brand": "YPE",
@@ -11215,7 +11208,6 @@
         "ean_brand": "7189999999942",
         "ean": "7896007551293"
     },
-
 {
         "mandatory_terms": ["INTIMUS","SEM","ABAS","SECA","8"],
         "optional_terms": ["NOVA","CANAIS"],
@@ -11735,15 +11727,8 @@
         "ean": "4005900036766"
     },
     {
-        "mandatory_terms": ["NIVEA","","",""],
-        "optional_terms": ["",""],
-        "brand": "NIVEA",
-        "ean_brand": "7320000000032",
-        "ean": "4005900648327"
-    },
-    {
         "mandatory_terms": ["NIVEA","SUAVE","ESPUMA","200"],
-        "optional_terms": ["BARBEAR",""],
+        "optional_terms": ["BARBEAR"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900648327"
@@ -11966,8 +11951,29 @@
         "ean": "7891350032857"
     },  
     {
+        "mandatory_terms": ["BOZZANO", "EXTREME", "SPORT", "(90"],
+        "optional_terms": ["72H", "ALTA", "PERFORMANCE"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350032857"
+    },
+    {
+        "mandatory_terms": ["BOZZANO", "EXTREME", "SPORT", "150"],
+        "optional_terms": ["72H", "ALTA", "PERFORMANCE"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350032857"
+    }, 
+    {
         "mandatory_terms": ["BOZZANO", "INVISIBLE", "150ML"],
-        "optional_terms": ["48H", "BRANCAS", "PRETAS", "PROTECAO", "ANTI", "MANCHAS"],
+        "optional_terms": ["72H", "BRANCAS", "PRETAS", "PROTECAO", "ANTI", "MANCHAS"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350032970"
+    },
+    {
+        "mandatory_terms": ["BOZZANO", "INVISIBLE", "150"],
+        "optional_terms": ["72H", "BRANCAS", "PRETAS", "PROTECAO", "ANTI", "MANCHAS"],
         "brand": "BOZZANO",
         "ean_brand": "7240000000024",
         "ean": "7891350032970"
@@ -12468,6 +12474,12 @@
         "brand": "MILI",
         "ean_brand": "7189999999959",
         "ean": "7896104991800"
+    },
+    {
+        "mandatory_terms": ["JOHNSONS", "LIMPEZA", "SUAVIDADE", "LENCOS","UMEDECIDOS"],
+        "optional_terms": ["GLICERINA", "44", "UNIDADES"],
+        "brand": "JOHNSON JOHNSON",
+        "ean_brand": "7189999999908",
+        "ean": "7891010247324"
     }
-
 ]
