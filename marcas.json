@@ -990,5 +990,16 @@
         "brand": "SEIVA DE ALFAZEMA",
         "ean_brand": "7189999999912",
         "ean": "7189999999912"
+    },
+    {
+        "mandatory_terms": [
+            "BOZZANO"
+        ],
+        "optional_terms": [
+            "BOZZANO"
+        ],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7240000000024"
     }
 ]
