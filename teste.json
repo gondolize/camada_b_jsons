@@ -1,0 +1,167 @@
+ 
+    {
+        "mandatory_terms": ["BOZZANO", "CONDICIONADOR", "CACHOS", "3X1","200"],
+        "optional_terms": ["OLEO","COCO","DEFINIDOS"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350040029"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","SHAMPOO","BARBA","CABELO","200"],
+        "optional_terms": ["BIGODE"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350036695"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","BALSAMO","POS","BARBA","100"],
+        "optional_terms": ["SENSIVEL","COMFORT","REPAIR "],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350032680"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","CERA","MODELADORA","SECO","80"],
+        "optional_terms": ["MODELAGEM"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350036732"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","BALM","HIDRATANTE","90"],
+        "optional_terms": ["BARBA","BIGODE"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350036718"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","CREME","MODELADOR","CABELOS","140"],
+        "optional_terms": ["TODOS","CONDICIONANTE"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350036701"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","ANTIBAC","FRESH","240"],
+        "optional_terms": ["SABONETE","LIQUIDO"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350040784"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","REFRESCANTE","ANTIBAC","100"],
+        "optional_terms": ["GEL","POS","BARBA"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350032697"
+    },
+    {
+        "mandatory_terms": ["DOVE","UVREPAIR","",""],
+        "optional_terms": ["","",""],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": "7891150102729"
+    },
+    {
+        "mandatory_terms": ["DOVE","","",""],
+        "optional_terms": ["","",""],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOVE","","",""],
+        "optional_terms": ["","",""],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOVE","","",""],
+        "optional_terms": ["","",""],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOVE","","",""],
+        "optional_terms": ["","",""],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOVE","","",""],
+        "optional_terms": ["","",""],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOVE","","",""],
+        "optional_terms": ["","",""],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOVE","","",""],
+        "optional_terms": ["","",""],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOVE","","",""],
+        "optional_terms": ["","",""],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOVE","","",""],
+        "optional_terms": ["","",""],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOVE","","",""],
+        "optional_terms": ["","",""],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOVE","","",""],
+        "optional_terms": ["","",""],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOVE","","",""],
+        "optional_terms": ["","",""],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOVE","","",""],
+        "optional_terms": ["","",""],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": ""
+    },
+    {
+        "mandatory_terms": ["DOVE","","",""],
+        "optional_terms": ["","",""],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": ""
+    },
+
+   
+
+
+       

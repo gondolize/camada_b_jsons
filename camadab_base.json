@@ -9041,7 +9041,7 @@
 
     {
         "mandatory_terms": ["AXE","CHOCOLATE","48H","PROTECAO","PERFUME"],
-        "optional_terms": ["ANTITRANSPIRANTE","AEROSOL","+","DARK"],
+        "optional_terms": ["ANTITRANSPIRANTE","AEROSOL","DARK"],
         "brand": "AXE",
         "ean_brand": "7189999999918",
         "ean": "7791293025797"
@@ -9070,60 +9070,48 @@
         "ean_brand": "7189999999998",
         "ean": "070330728509"
     },
-
-      {
+    {
         "mandatory_terms": ["BOM","AR","JARDIM","PEONIA","360"],
         "optional_terms": ["EMBALAGEM","ECONOMICA"],
         "brand": "BOM AR",
         "ean_brand": "7190000000113",
         "ean": "7891035325618"
     },
-
-      {
+    {
         "mandatory_terms": ["BRILHA","SUL","ROSES","GARDEN","AMACIANTE"],
         "optional_terms": ["CAPSULAS","PERFUME","2"],
         "brand": "BRILHA SUL",
         "ean_brand": "7189999999986",
         "ean": "7898906657427"
     },
-
-
-      {
+    {
         "mandatory_terms": ["BRILHANTE","BRANCAS","COLORIDAS","3","BLINDAGEM"],
         "optional_terms": ["100%","RECICLAVEL","30","LAVAGENS"],
         "brand": "BRILHANTE",
         "ean_brand": "7189999999987",
         "ean": "7891150020672"
     },
-
-
-      {
+    {
         "mandatory_terms": ["CAREFREE","TODO","DIA","40","FRESCOR"],
         "optional_terms": ["LIMPEZA","LEVE","PAGUE","SEM","FRAGRANCIA"],
         "brand": "CAREFREE",
         "ean_brand": "7189999999922",
         "ean": "7891010039783"
-        },
-
-
-      {
+    },
+    {
         "mandatory_terms": ["COQUEL","COCO","REAVIVA","CORES","500"],
         "optional_terms": ["CASA","KM"],
         "brand": "COQUEL",
         "ean_brand": "7189999999980",
         "ean": "7896040700207"
     },
-
-
-      {
+    {
         "mandatory_terms": ["CLARA","PREMIUM","4","ROLOS","10"],
         "optional_terms": ["FOLHA","DUPLA","EXTRAMACIO"],
         "brand": "CLARA",
         "ean_brand": "7189999999972",
         "ean": "7898920699595"
     },
-
-
     {
         "mandatory_terms": ["COALA","EUCALIPTO","CITRIODORA","LIMPADOR","PERFUMADO"],
         "optional_terms": ["CONCENTRADO","120"],
@@ -9131,8 +9119,6 @@
         "ean_brand": "7190000000112",
         "ean": "7897744502128"
     },
-
-
     {
         "mandatory_terms": ["COLGATE","TOTAL","ORIGINAL","MINT","90"],
         "optional_terms": ["PREVENCAO","ATIVA","NOVA","FORMULA","CREME"],
@@ -9140,8 +9126,6 @@
         "ean_brand": "7189999999929",
         "ean": "7509546702605"
     },
-
-
     {
         "mandatory_terms": ["COMFORT","AMACIANTE","900","OLEO","ARGAN"],
         "optional_terms": ["EMBALAGEM","ECONOMICA","NOVA","FORMULA"],
@@ -9149,7 +9133,6 @@
         "ean_brand": "7189999999963",
         "ean": "7891150054585"
     },
-
     {
         "mandatory_terms": ["DIMENAION","ZINCO","PIRITIONA","SHAMPOO","CONDICIONADOR"],
         "optional_terms": ["ANTICASPA","3","1","200"],
@@ -9157,7 +9140,6 @@
         "ean_brand": "7189999999938",
         "ean": "7891037169654"
     },
-
     {
         "mandatory_terms": ["DOBLE","SUPER","ROLO","4","50"],
         "optional_terms": ["METROS","PACOTE","200"],
@@ -9165,7 +9147,6 @@
         "ean_brand": "7189999999958",
         "ean": "7896233701462"
     },
-
     {
         "mandatory_terms": ["ESFREBOM","BLOQUEADOR","ODORES","LIXEIRAS","3"],
         "optional_terms": [
@@ -9174,7 +9155,6 @@
         "ean_brand": "7189999999952",
         "ean": "7896001030008"
     },
-
     {
         "mandatory_terms": ["FLORAX","PAPEL","HIGIENICO","60","SIMPLES"],
         "optional_terms": ["4","ROLOS"],
@@ -9182,7 +9162,6 @@
         "ean_brand": "7189999999969",
         "ean": "7898920699151"
     },
-
     {
         "mandatory_terms": ["FOFO","AZUL","TUDAO","1,5","CONCENTRADO"],
         "optional_terms": ["EMBALAGEM","ECONOMICA","MUUUUUITO"],
@@ -11378,7 +11357,7 @@
     },
     {
         "mandatory_terms": ["CAREFREE","15","SEM","FRAGRANCIA"],
-        "optional_terms": ["100%","NEUTRALIZA","ODORES"],
+        "optional_terms": ["100","NEUTRALIZA","ODORES"],
         "brand": "CAREFREE",
         "ean_brand": "7189999999922",
         "ean": "7891010015268"
@@ -11727,8 +11706,8 @@
         "ean": "4005900036766"
     },
     {
-        "mandatory_terms": ["NIVEA","SUAVE","ESPUMA","200"],
-        "optional_terms": ["BARBEAR"],
+        "mandatory_terms": ["NIVEA","SUAVE","ESPUMA","200ML"],
+        "optional_terms": ["BARBEAR","CARVAO","ATIVADO"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900648327"
@@ -11804,7 +11783,7 @@
         "ean": "4005900919632"
     },
     {
-        "mandatory_terms": ["NIVEA","SOFT","MILK","200","DEO-HIDRATANTE"],
+        "mandatory_terms": ["NIVEA","SOFT","MILK","DEO","HIDRATANTE"],
         "optional_terms": ["NOVA","FORMULA","72H"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
@@ -12028,15 +12007,15 @@
         "ean": "7891350038613"
     },     
     {
-        "mandatory_terms": ["BOZZANO", "CREME", "BARBEAR", "PELE", "SENSIVEL", "65G"],
-        "optional_terms": ["COMFORT", "REPAIR"],
+        "mandatory_terms": ["BOZZANO", "CREME", "BARBEAR", "PELE", "SENSIVEL"],
+        "optional_terms": ["COMFORT", "REPAIR","65G"],
         "brand": "BOZZANO",
         "ean_brand": "7240000000024",
         "ean": "7891350011623"
     },  
     {
-        "mandatory_terms": ["BOZZANO", "INVISIBLE", "200ML"],
-        "optional_terms": ["72H", "PROTECAO", "ANTI", "MANCHAS", "BRANCAS", "PRETAS"],
+        "mandatory_terms": ["BOZZANO", "INVISIBLE", "200ML", "BRANCAS", "PRETAS"],
+        "optional_terms": ["72H", "PROTECAO", "ANTI", "MANCHAS"],
         "brand": "BOZZANO",
         "ean_brand": "7240000000024",
         "ean": "7891350041415"
@@ -12105,8 +12084,8 @@
         "ean": "7891350039962"
     },
     {
-        "mandatory_terms": ["BOZZANO", "SHAMPOO", "CACHOS", "OLEO", "COCO", "325ML"],
-        "optional_terms": ["CURVAS", "RESPEITO"],
+        "mandatory_terms": ["BOZZANO", "SHAMPOO", "CACHOS", "OLEO", "COCO"],
+        "optional_terms": ["CURVAS", "325ML"],
         "brand": "BOZZANO",
         "ean_brand": "7240000000024",
         "ean": "7891350040012"
@@ -12147,8 +12126,8 @@
         "ean": "7891350039979"
     },
     {
-        "mandatory_terms": ["BOZZANO", "SHAMPOO", "CACHOS", "OLEO", "COCO", "200ML"],
-        "optional_terms": ["CRESPOS", "RESPEITO"],
+        "mandatory_terms": ["BOZZANO", "SHAMPOO", "CACHOS", "OLEO", "COCO"],
+        "optional_terms": ["CRESPOS", "200ML"],
         "brand": "BOZZANO",
         "ean_brand": "7240000000024",
         "ean": "7891350040005"
@@ -12161,8 +12140,8 @@
         "ean": "7891350032673"
     },
     {
-        "mandatory_terms": ["BOZZANO", "LOCAO", "POS", "BARBA", "NIGHT", "BLUE"],
-        "optional_terms": ["EVITA", "IRRITACOES", "FACIAL", "100ML"],
+        "mandatory_terms": ["BOZZANO", "LOCAO", "POS", "BARBA", "NIGHT"],
+        "optional_terms": ["EVITA", "IRRITACOES", "FACIAL", "100ML", "BLUE"],
         "brand": "BOZZANO",
         "ean_brand": "7240000000024",
         "ean": "7891350026627"
@@ -12476,10 +12455,129 @@
         "ean": "7896104991800"
     },
     {
-        "mandatory_terms": ["JOHNSONS", "LIMPEZA", "SUAVIDADE", "LENCOS","UMEDECIDOS"],
+        "mandatory_terms": ["JOHNSONS", "BABY", "LENCOS", "UMEDECIDOS", "LIMPEZA", "SUAVIDADE"],
         "optional_terms": ["GLICERINA", "44", "UNIDADES"],
         "brand": "JOHNSON JOHNSON",
         "ean_brand": "7189999999908",
         "ean": "7891010247324"
+    },
+    {
+        "mandatory_terms": ["JOHNSON", "REACH", "ESSENCIAL", "FIO", "DENTAL"],
+        "optional_terms": ["MENTA", "MINT", "100M", "SABOR"],
+        "brand": "JOHNSON JOHNSON",
+        "ean_brand": "7189999999908",
+        "ean": "7891010501105"
+    },
+    {
+        "mandatory_terms": ["JOHNSON", "COTONETES", "HASTES", "FLEXIVEIS"],
+        "optional_terms": ["150", "UNIDADES", "SEGUROS"],
+        "brand": "JOHNSON JOHNSON",
+        "ean_brand": "7189999999908",
+        "ean": "7891010032937"
+    },
+    {
+        "mandatory_terms": ["JOHNSON", "REACH", "EXPANSION", "PLUS", "FIO", "DENTAL"],
+        "optional_terms": ["50M"], 
+        "brand": "JOHNSON JOHNSON",
+        "ean_brand": "7189999999908",
+        "ean": "7891010038892"
+    },
+    {
+        "mandatory_terms": ["JOHNSON", "REACH", "EXPANSION", "PLUS", "FITA", "DENTAL"],
+        "optional_terms": ["50M"],
+        "brand": "JOHNSON JOHNSON",
+        "ean_brand": "7189999999908",
+        "ean": "7891010038953"
+    },
+    {
+        "mandatory_terms": ["JOHNSON", "COTONETES", "PURO", "ALGODAO"],
+        "optional_terms": ["75", "UNIDADES"],
+        "brand": "JOHNSON JOHNSON",
+        "ean_brand": "7189999999908",
+        "ean": "7891010560737"
+    },
+    {
+        "mandatory_terms": ["JOHNSON", "REACH", "EXPANSION", "PLUS", "MENTA"],
+        "optional_terms": ["50M", "MINT", "40%", "FIO", "DENTAL"],
+        "brand": "JOHNSON JOHNSON",
+        "ean_brand": "7189999999908",
+        "ean": "7891010038908"
+    },
+    {
+        "mandatory_terms": ["JOHNSONS", "BABY", "TOALHINHAS", "HORA", "SONO"],
+        "optional_terms": ["48", "UNIDADES", "HIPOALERGENICAS", "LENCOS"],
+        "brand": "JOHNSON JOHNSON",
+        "ean_brand": "7189999999908",
+        "ean": "7891010568764"
+    },
+    {
+        "mandatory_terms": ["JOHNSONS", "BABY", "TOALHINHAS", "RECEM", "NASCIDO"],
+        "optional_terms": ["48", "UNIDADES", "HIPOALERGENICAS", "LENCOS"],
+        "brand": "JOHNSON JOHNSON",
+        "ean_brand": "7189999999908",
+        "ean": "7891010568771"
+    },
+    {
+        "mandatory_terms": ["JOHNSON", "COTONETES", "PURO", "ALGODAO", "150"],
+        "optional_terms": ["EMBALAGEM", "ECONOMICA", "UNIDADES"],
+        "brand": "JOHNSON JOHNSON",
+        "ean_brand": "7189999999908",
+        "ean": "7891010560812"
+    },
+    {
+        "mandatory_terms": ["JOHNSONS", "BABY", "SABONETE", "GLICERINADO"],
+        "optional_terms": ["800G", "MEL", "NATURAL", "VITAMINA", "E", "PELE", "DELICADA", "REFIL"],
+        "brand": "JOHNSON JOHNSON",
+        "ean_brand": "7189999999908",
+        "ean": "7891010035976"
+    },
+    {
+        "mandatory_terms": ["JOHNSONS", "BABY", "SHAMPOO", "400ML"],
+        "optional_terms": ["SUAVE", "OLHOS", "QUANTO", "AGUA", "AMARELO", "ORIGINAL"],
+        "brand": "JOHNSON JOHNSON",
+        "ean_brand": "7189999999908",
+        "ean": "7891010800048"
+    },
+    {
+        "mandatory_terms": ["JOHNSONS", "BABY", "TALCO", "DERMO", "PROTETOR"],
+        "optional_terms": ["100G", "ALIVIA", "PROTEGE", "PELE", "CONTRA", "ASSADURAS", "PO"],
+        "brand": "JOHNSON JOHNSON",
+        "ean_brand": "7189999999908",
+        "ean": "7702031244646"
+    },
+    {
+        "mandatory_terms": ["JOHNSON", "REACH", "EXPANSION", "PLUS", "EXTRA", "FINO"],
+        "optional_terms": ["50M", "FIO", "DENTAL"],
+        "brand": "JOHNSON JOHNSON",
+        "ean_brand": "7189999999908",
+        "ean": "7891010038915"
+    },
+    {
+        "mandatory_terms": ["JOHNSONS", "BABY", "TOALHINHAS", "HORA", "SONO"],
+        "optional_terms": ["96", "UNIDADES", "ANTES", "DORMIR", "HIPOALERGENICAS", "LENCOS"],
+        "brand": "JOHNSON JOHNSON",
+        "ean_brand": "7189999999908",
+        "ean": "7891010589622"
+    },
+    {
+        "mandatory_terms": ["JOHNSONS", "BABY", "SABONETE", "ORIGINAL", "80G"],
+        "optional_terms": ["CREMOSO", "LIMPA", "SUAVEMENTE", "AGREDIR", "PELE"],
+        "brand": "JOHNSON JOHNSON",
+        "ean_brand": "7189999999908",
+        "ean": "7891010032906"
+    },
+    {
+        "mandatory_terms": ["JOHNSONS", "BABY", "TOALHINHAS", "RECEM", "NASCIDO"],
+        "optional_terms": ["96", "UNIDADES", "HIPOALERGENICAS", "LENCOS"],
+        "brand": "JOHNSON JOHNSON",
+        "ean_brand": "7189999999908",
+        "ean": "7891010589639"
+    },
+    {
+        "mandatory_terms": ["JOHNSONS", "BABY", "LENCOS", "UMEDECIDOS", "SUAVIDADE"],
+        "optional_terms": ["176", "UNIDADES", "GLICERINA", "LIMPEZA", "LEVE", "MAIS", "PAGUE", "MENOS"],
+        "brand": "JOHNSON JOHNSON",
+        "ean_brand": "7189999999908",
+        "ean": "7891010257651"
     }
 ]
