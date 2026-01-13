@@ -12579,5 +12579,83 @@
         "brand": "JOHNSON JOHNSON",
         "ean_brand": "7189999999908",
         "ean": "7891010257651"
+    },
+    {
+        "mandatory_terms": ["SEDA","AMINO-SILK","COMPLEX","SHAMPOO","CONDICIONADOR"],
+        "optional_terms": ["MACIO","300","190"],
+        "brand": "SEDA",
+        "ean_brand": "7900000000009",
+        "ean": "7891150101630"
+    },
+    {
+        "mandatory_terms": ["SEDA","AMINO-SILK","5%","MASCARA"],
+        "optional_terms": ["COMPLEX"],
+        "brand": "SEDA",
+        "ean_brand": "7900000000009",
+        "ean": "7891150101579"
+    },
+    {
+        "mandatory_terms": ["SEDA","BOOM","VOLUMAO","POWER","350"],
+        "optional_terms": ["CREME-OLEO","NUTRITIVO"],
+        "brand": "SEDA",
+        "ean_brand": "7900000000009",
+        "ean": "7891150095885"
+    },
+    {
+        "mandatory_terms": ["DOVE","SHAMPOO","UVREPAIR","GLOW+FERULICO","370ML"],
+        "optional_terms": ["BIO-PROTEIN"],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": "7891150102729"
+    },
+    {
+        "mandatory_terms": ["DOVE","MEN","CREME","HIDRATANTE","150"],
+        "optional_terms": ["DESODORANTE","AEROSOL","72H"],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": "7791293012087"
+    },
+    {
+        "mandatory_terms": ["DOVE","SHAMPOO","HIDRATACAO","HIALURON-VIT","370ML"],
+        "optional_terms": ["BIO-PROTEIN"],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": "7891150102545"
+    },
+    {
+        "mandatory_terms": ["DOVE","UMECTACAO","COCO","ANTIOXI","CONJUNTO"],
+        "optional_terms": ["SHAMPOO","CONDICIONADOR","350","175"],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": "7891150103788"
+    },
+    {
+        "mandatory_terms": ["DOVE","MEN","INVISIBLE","DRY","48H"],
+        "optional_terms": ["NAO","IRRITANTE"],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": "7791293022819"
+    },
+    {
+        "mandatory_terms": ["DOVE","SEM","PERFUME","48H"],
+        "optional_terms": ["NOVO"],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": "7791293014838"
+    },
+    {
+        "mandatory_terms": ["DOVE","CONDICIONADOR","UV","REPAIR","250"],
+        "optional_terms": ["BIO-PROTEIN"],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": "7891150102750"
+    },
+    {
+        "mandatory_terms": ["DOVE","SHAMPOO","RECONSTRUCAO","AMINOACIDO","370"],
+        "optional_terms": ["BIO-PROTEIN"],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": "7891150102637"
     }
+    
 ]
