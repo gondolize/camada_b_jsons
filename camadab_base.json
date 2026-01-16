@@ -11706,13 +11706,6 @@
         "ean": "4005900036766"
     },
     {
-        "mandatory_terms": ["NIVEA","SUAVE","ESPUMA","200ML"],
-        "optional_terms": ["BARBEAR","CARVAO","ATIVADO"],
-        "brand": "NIVEA",
-        "ean_brand": "7320000000032",
-        "ean": "4005900648327"
-    },
-    {
         "mandatory_terms": ["NIVEA","VITAMINA-E","RESTAURA","150"],
         "optional_terms": ["NOVO"],
         "brand": "NIVEA",
