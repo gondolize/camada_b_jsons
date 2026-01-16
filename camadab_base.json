@@ -13,7 +13,6 @@
         "ean_brand": "7189999999936",
         "ean": "7500435259538"
     },
-
     {
         "mandatory_terms": ["GILLETTE","VENUS","PELE","SENSIVEL","3"],
         "optional_terms": ["KIT", "ESPECIAL", "GEL"],
@@ -21,7 +20,6 @@
         "ean_brand": "7189999999933",
         "ean": "7500435255981"
     },
-
     {
         "mandatory_terms": ["GILLETTE", "PRESTOBARBA", "FRESH"],
         "optional_terms": ["EUCALIPTO", "2"],
@@ -29,61 +27,55 @@
         "ean_brand": "7189999999933",
         "ean": "7702018983872"
     },
-        {
+    {
         "mandatory_terms": ["PROBAK", "II", "PRESTOBARBA", "GILLETTE"],
         "optional_terms": ["AGORA", "28", "2", "UNIDADES"],
         "brand": "PROBAK",
         "ean_brand": "7189999999915",
         "ean": "7500435187350"
     },
-        {
+    {
         "mandatory_terms": ["ORAL-B", "ANTICARIES","COMBATE","CARIES"],
         "optional_terms": [ "ESCUDO", "PROTETOR", "DENTES", "RAIZES"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435228992"
     },
-        {
+    {
         "mandatory_terms": ["GILLETTE", "PRESTOBARBA", "3", "CARVAO"],
         "optional_terms": ["1"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435245845"
     },
-
-        {
+    {
         "mandatory_terms": ["GILLETTE", "PRESTOBARBA", "3", "SUAVE"],
         "optional_terms": ["BARBEAR", "DURADOURO", "6", "APARELHOS"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435253666"
     },
-
-        {
+    {
         "mandatory_terms": ["PAMPERS", "PANTS", "XXXG", "54", "NOVA" ],
         "optional_terms": ["AJUSTE", "TOTAL", "FACIL", "VESTIR"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435246637"
     },
-
-        {
+    {
         "mandatory_terms": ["DOWNY", "BRISA", "VERAO", "400"],
         "optional_terms": ["4X", "RENDE", "PROTEGE", "BRISA"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435140966"
     },
-
-        {
+    {
         "mandatory_terms": ["DOWNY", "2", "BRISA", "500"],
         "optional_terms": ["MAIS", "RENDE", "VERAO"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7506195143834"
     },
-
-
     {
         "mandatory_terms": ["PANTENE", "HIDRO-CAUTERIZACAO", "175", "CONDICIONADOR"],
         "optional_terms": ["PRO-V", "CONTROLA","FRIZZ","GLICERINA"],
@@ -12042,6 +12034,62 @@
         "ean": "7891350025187"
     },
     {
+        "mandatory_terms": ["BOZZANO", "CONDICIONADOR", "CACHOS", "3X1","200"],
+        "optional_terms": ["OLEO","COCO","DEFINIDOS"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350040029"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","SHAMPOO","BARBA","CABELO","200"],
+        "optional_terms": ["BIGODE"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350036695"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","BALSAMO","POS","BARBA","100"],
+        "optional_terms": ["SENSIVEL","COMFORT","REPAIR "],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350032680"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","CERA","MODELADORA","SECO","80"],
+        "optional_terms": ["MODELAGEM"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350036732"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","BALM","HIDRATANTE","90"],
+        "optional_terms": ["BARBA","BIGODE"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350036718"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","CREME","MODELADOR","CABELOS","140"],
+        "optional_terms": ["TODOS","CONDICIONANTE"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350036701"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","ANTIBAC","FRESH","240"],
+        "optional_terms": ["SABONETE","LIQUIDO"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350040784"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","REFRESCANTE","ANTIBAC","100"],
+        "optional_terms": ["GEL","POS","BARBA"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350032697"
+    },
+    {
         "mandatory_terms": ["BOZZANO", "DRY", "PROTECAO", "SECA", "200ML"],
         "optional_terms": ["72H", "TAMANHO", "ECONOMICO"],
         "brand": "BOZZANO",
@@ -12649,6 +12697,286 @@
         "brand": "DOVE",
         "ean_brand": "7891150000000",
         "ean": "7891150102637"
+    },
+    {
+        "mandatory_terms": ["PANTENE","SHAMPOO","MOLECULAR","BOND","REPAIR"],
+        "optional_terms": ["300ML","REPARA","FIBRA","CAPILAR"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435260251"
+    },
+    {
+        "mandatory_terms": ["PANTENE","KIT","MOLECULAR","BOND","REPAIR"],
+        "optional_terms": ["REGENERA","RECONSTROI","SHAMPOO","300","CONDICIONADOR","150"],
+        "brand": "PANTENE",  
+        "ean_brand": "7500000000001",
+        "ean": "7500435261227"
+    },
+    {
+        "mandatory_terms": ["PANTENE","RECONSTRUCAO","MOLECULAR","MASCARA","INTENSIVA"],
+        "optional_terms": ["PRE","POS-SHAMPOO","12%","270"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435259132"
+    },
+    {
+        "mandatory_terms": ["PANTENE","MOLECULAR","BOND","REPAIR","CONDICIONADOR"],
+        "optional_terms": ["250","SCIENCE"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435260268"
+    },
+    {
+        "mandatory_terms": ["PANTENE","MOLECULAR","BOND","REPAIR","PENTEAR"],
+        "optional_terms": ["240","SCIENCE"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435260336"
+    },
+    {
+        "mandatory_terms": ["PANTENE","MOLECULAR","BOND","REPAIR","SHAMPOO"],
+        "optional_terms": ["510","REPARA","FIBRA","CAPILAR"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435260312"
+    },
+    {
+        "mandatory_terms": ["PANTENE","MASCARA","CONDICIONANTE","FIOS","RESSECADOS"],
+        "optional_terms": ["550","3EM1","HIDRATANTE","PRE-WASH"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435241748"
+    },
+    {
+        "mandatory_terms": ["PANTENE","KIT","RESTAURACAO","LONGO","FORTE"],
+        "optional_terms": ["750","PONTAS"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7506295393443"
+    },
+    {
+        "mandatory_terms": ["PANTENE","MOLECULAR","BOND","REPAIR","SHAMPOO"],
+        "optional_terms": ["175","REPARA","FIBRA","CAPILAR"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435260305"
+    },
+    {
+        "mandatory_terms": ["PANTENE","PRO-RESGATE","PROTECAO","MOLECULAR","LEAVE-IN"],
+        "optional_terms": ["TRATAMENTO","150"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435259095"
+    },
+    {
+        "mandatory_terms": ["PANTENE","MOLECULAR","BOND","REPAIR","CONDICIONADOR"],
+        "optional_terms": ["510","SCIENCE"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435260282"
+    },
+    {
+        "mandatory_terms": ["PANTENE","MOLECULAR","BOND","REPAIR","CONDICIONADOR"],
+        "optional_terms": ["150","RECUPERA","HIDRATACAO","SELAR","CUTICULA"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435260329"
+    },
+    {
+        "mandatory_terms": ["PANTENE","BAMBU","NUTRE","CRESCE","CONDICIONADOR"],
+        "optional_terms": ["510","SULFATOS","PARABENOS","OLEOS","MINERAIS"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435260374"
+    },
+    {
+        "mandatory_terms": ["PANTENE","MICELAR","PURIFICA","HIDRATA","KIT"],
+        "optional_terms": ["SHAMPOO","400","CONDICIONADOR","175","CABELO","LONGO","FORTE"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435137577"
+    },
+    {
+        "mandatory_terms": ["PANTENE","HIDRATACAO","SHAMPOO","CONDICIONADOR","KIT"],
+        "optional_terms": ["750"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7506295393450"
+    },
+    {
+        "mandatory_terms": ["PANTENE","HIDRA","CAUTERIZACAO","CONDICIONADOR"],
+        "optional_terms": ["3","MINUTOS","MILAGROSOS","170"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435106412"
+    },
+    {
+        "mandatory_terms": ["PANTENE","MOLECULAR","BOND","REPAIR","CONDICIONADOR"],
+        "optional_terms": ["1L","SCIENCE"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435260343"
+    },
+    {
+        "mandatory_terms": ["PANTENE","REPARO","DANO","EXTREMO","KIT"],
+        "optional_terms": ["SHAMPOO","350","CONDICIONADOR","170"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435170789"
+    },
+    {
+        "mandatory_terms": ["PANTENE","HIDRA","CAUTERIZACAO","MASCARA","INTENSIVA"],
+        "optional_terms": ["REPARACAO","QUERATINA","270"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435142267"
+    },
+    {
+        "mandatory_terms": ["PANTENE","PRO-V","MIRACLES","HIDRATA","MASCARA"],
+        "optional_terms": ["BRILHO","MOVIMENTO","270"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435177085"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","ANTICARIES","CREME","DENTAL"],
+        "optional_terms": ["LEVE","PAGUE"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435124638"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","DUPLO","ALIVIO","50"],
+        "optional_terms": ["SENSITIVE","GENGIVA"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435152457"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","COLOR","COLLECTION","5","PACK"],
+        "optional_terms": ["3","MESES"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435138710"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","KIT","FIO","DENTAL","SENSITIVE"],
+        "optional_terms": ["INDICATOR","EXTRA","SOFT","2"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435171243"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","GENGIVA","DETOX","MICRO-ESPUMA","75ML"],
+        "optional_terms": ["PROTECAO","COMPLETA"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435130547"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","SENSITIVE","ULTRAFINO","EXTRA","MACIA"],
+        "optional_terms": ["TAMANHO","35"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435110662"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","SENSITIVE","PURIFICATION","GOLD","COLLECTION"],
+        "optional_terms": ["BRANQUEIA","PURIFICA","DELICADAMENTE","ULTRAFINO"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435170352"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","GENGIVA","DETOX","ULTRAFINO","3"],
+        "optional_terms": ["LIMPA","PROFUNDAMENTE"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435138703"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","CLASSIC","3X2","GRATIS"],
+        "optional_terms": ["3"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7501006707649"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","ANTISSEPTICO","BUCAL","COMPLETE","250"],
+        "optional_terms": ["SEM","ALCOOL","COM","FLUOR"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7891051037878"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","EXPERT","GENGIVA","ALCANCE","3"],
+        "optional_terms": ["ULTRA","FINA","20X"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435152624"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","MEDIANAS","1","2","3"],
+        "optional_terms": ["CERDAS"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "3014260833183"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","SPIDER-MAN","3+"],
+        "optional_terms": ["1","TOOTHBRUSH"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435146340"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","100%","35ML"],
+        "optional_terms": ["BOCA","CUIDADA"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435157803"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","CLEAN","ZIG","ZAG","MEDIO"],
+        "optional_terms": ["1","2","3"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "3014260833190"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","DISNEY","AA","3+"],
+        "optional_terms": ["CARROS","REMOVE","PREVINE"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "4210201334774"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","STAGES","DISNEY","BABY"],
+        "optional_terms": ["0-2"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "3014260278939"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","FIO","DENTAL","MULTI-BENEFICIOS","25M"],
+        "optional_terms": ["NOVO","PRO-SAUDE"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7506195137161"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","EXPERT","LIMPEZA","PROFUNDA","25M"],
+        "optional_terms": ["PACK","RECICLAVEL"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7506339394504"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","ICONIC","ULTRA","SOFT"],
+        "optional_terms": ["X-FILAMENT","TECHNOLOGY"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435182218"
     }
     
 ]
