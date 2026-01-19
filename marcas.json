@@ -1001,5 +1001,16 @@
         "brand": "BOZZANO",
         "ean_brand": "7240000000024",
         "ean": "7240000000024"
+    },
+    {
+        "mandatory_terms": [
+            "JOHNSON JOHNSON"
+        ],
+        "optional_terms": [
+            "JOHNSON JOHNSON"
+        ],
+        "brand": "JOHNSON JOHNSON",
+        "ean_brand": "7189999999908",
+        "ean": "7189999999908"
     }
 ]
