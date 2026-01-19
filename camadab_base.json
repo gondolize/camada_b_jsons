@@ -12699,14 +12699,14 @@
         "ean": "7891150102637"
     },
     {
-        "mandatory_terms": ["PANTENE","SHAMPOO","MOLECULAR","BOND","REPAIR"],
+        "mandatory_terms": ["PANTENE","SHAMPOO","MOLECULAR","BOND","REPAIR","300"],
         "optional_terms": ["300ML","REPARA","FIBRA","CAPILAR"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435260251"
     },
     {
-        "mandatory_terms": ["PANTENE","KIT","MOLECULAR","BOND","REPAIR"],
+        "mandatory_terms": ["PANTENE","KIT","MOLECULAR","BOND","REPAIR","300"],
         "optional_terms": ["REGENERA","RECONSTROI","SHAMPOO","300","CONDICIONADOR","150"],
         "brand": "PANTENE",  
         "ean_brand": "7500000000001",
@@ -12714,41 +12714,41 @@
     },
     {
         "mandatory_terms": ["PANTENE","RECONSTRUCAO","MOLECULAR","MASCARA","INTENSIVA"],
-        "optional_terms": ["PRE","POS-SHAMPOO","12%","270"],
+        "optional_terms": ["PRE","POS-SHAMPOO","12","270"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435259132"
     },
     {
-        "mandatory_terms": ["PANTENE","MOLECULAR","BOND","REPAIR","CONDICIONADOR"],
+        "mandatory_terms": ["PANTENE","MOLECULAR","BOND","REPAIR","CONDICIONADOR","250"],
         "optional_terms": ["250","SCIENCE"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435260268"
     },
     {
-        "mandatory_terms": ["PANTENE","MOLECULAR","BOND","REPAIR","PENTEAR"],
+        "mandatory_terms": ["PANTENE","MOLECULAR","BOND","REPAIR","PENTEAR","240"],
         "optional_terms": ["240","SCIENCE"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435260336"
     },
     {
-        "mandatory_terms": ["PANTENE","MOLECULAR","BOND","REPAIR","SHAMPOO"],
+        "mandatory_terms": ["PANTENE","MOLECULAR","BOND","REPAIR","SHAMPOO","510"],
         "optional_terms": ["510","REPARA","FIBRA","CAPILAR"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435260312"
     },
     {
-        "mandatory_terms": ["PANTENE","MASCARA","CONDICIONANTE","FIOS","RESSECADOS"],
+        "mandatory_terms": ["PANTENE","MASCARA","CONDICIONANTE","FIOS","RESSECADOS","550"],
         "optional_terms": ["550","3EM1","HIDRATANTE","PRE-WASH"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435241748"
     },
     {
-        "mandatory_terms": ["PANTENE","KIT","RESTAURACAO","LONGO","FORTE"],
+        "mandatory_terms": ["PANTENE","KIT","RESTAURACAO","LONGO","FORTE","750"],
         "optional_terms": ["750","PONTAS"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
@@ -12769,8 +12769,8 @@
         "ean": "7500435259095"
     },
     {
-        "mandatory_terms": ["PANTENE","MOLECULAR","BOND","REPAIR","CONDICIONADOR"],
-        "optional_terms": ["510","SCIENCE"],
+        "mandatory_terms": ["PANTENE","MOLECULAR","BOND","REPAIR","CONDICIONADOR","510"],
+        "optional_terms": ["SCIENCE","510"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435260282"
@@ -12783,8 +12783,8 @@
         "ean": "7500435260329"
     },
     {
-        "mandatory_terms": ["PANTENE","BAMBU","NUTRE","CRESCE","CONDICIONADOR"],
-        "optional_terms": ["510","SULFATOS","PARABENOS","OLEOS","MINERAIS"],
+        "mandatory_terms": ["PANTENE","BAMBU","NUTRE","CRESCE","CONDICIONADOR","510"],
+        "optional_terms": ["SULFATOS","PARABENOS","OLEOS","MINERAIS"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435260374"
@@ -12797,7 +12797,7 @@
         "ean": "7500435137577"
     },
     {
-        "mandatory_terms": ["PANTENE","HIDRATACAO","SHAMPOO","CONDICIONADOR","KIT"],
+        "mandatory_terms": ["PANTENE","HIDRATACAO","SHAMPOO","CONDICIONADOR","KIT","750"],
         "optional_terms": ["750"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
