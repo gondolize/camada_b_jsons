@@ -13,7 +13,6 @@
         "ean_brand": "7189999999936",
         "ean": "7500435259538"
     },
-
     {
         "mandatory_terms": ["GILLETTE","VENUS","PELE","SENSIVEL","3"],
         "optional_terms": ["KIT", "ESPECIAL", "GEL"],
@@ -21,7 +20,6 @@
         "ean_brand": "7189999999933",
         "ean": "7500435255981"
     },
-
     {
         "mandatory_terms": ["GILLETTE", "PRESTOBARBA", "FRESH"],
         "optional_terms": ["EUCALIPTO", "2"],
@@ -29,61 +27,55 @@
         "ean_brand": "7189999999933",
         "ean": "7702018983872"
     },
-        {
+    {
         "mandatory_terms": ["PROBAK", "II", "PRESTOBARBA", "GILLETTE"],
         "optional_terms": ["AGORA", "28", "2", "UNIDADES"],
         "brand": "PROBAK",
         "ean_brand": "7189999999915",
         "ean": "7500435187350"
     },
-        {
+    {
         "mandatory_terms": ["ORAL-B", "ANTICARIES","COMBATE","CARIES"],
         "optional_terms": [ "ESCUDO", "PROTETOR", "DENTES", "RAIZES"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435228992"
     },
-        {
+    {
         "mandatory_terms": ["GILLETTE", "PRESTOBARBA", "3", "CARVAO"],
         "optional_terms": ["1"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435245845"
     },
-
-        {
+    {
         "mandatory_terms": ["GILLETTE", "PRESTOBARBA", "3", "SUAVE"],
         "optional_terms": ["BARBEAR", "DURADOURO", "6", "APARELHOS"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435253666"
     },
-
-        {
+    {
         "mandatory_terms": ["PAMPERS", "PANTS", "XXXG", "54", "NOVA" ],
         "optional_terms": ["AJUSTE", "TOTAL", "FACIL", "VESTIR"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435246637"
     },
-
-        {
+    {
         "mandatory_terms": ["DOWNY", "BRISA", "VERAO", "400"],
         "optional_terms": ["4X", "RENDE", "PROTEGE", "BRISA"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435140966"
     },
-
-        {
+    {
         "mandatory_terms": ["DOWNY", "2", "BRISA", "500"],
         "optional_terms": ["MAIS", "RENDE", "VERAO"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7506195143834"
     },
-
-
     {
         "mandatory_terms": ["PANTENE", "HIDRO-CAUTERIZACAO", "175", "CONDICIONADOR"],
         "optional_terms": ["PRO-V", "CONTROLA","FRIZZ","GLICERINA"],
@@ -11706,13 +11698,6 @@
         "ean": "4005900036766"
     },
     {
-        "mandatory_terms": ["NIVEA","SUAVE","ESPUMA","200ML"],
-        "optional_terms": ["BARBEAR","CARVAO","ATIVADO"],
-        "brand": "NIVEA",
-        "ean_brand": "7320000000032",
-        "ean": "4005900648327"
-    },
-    {
         "mandatory_terms": ["NIVEA","VITAMINA-E","RESTAURA","150"],
         "optional_terms": ["NOVO"],
         "brand": "NIVEA",
@@ -12047,6 +12032,62 @@
         "brand": "BOZZANO",
         "ean_brand": "7240000000024",
         "ean": "7891350025187"
+    },
+    {
+        "mandatory_terms": ["BOZZANO", "CONDICIONADOR", "CACHOS", "3X1","200"],
+        "optional_terms": ["OLEO","COCO","DEFINIDOS"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350040029"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","SHAMPOO","BARBA","CABELO","200"],
+        "optional_terms": ["BIGODE"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350036695"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","BALSAMO","POS","BARBA","100"],
+        "optional_terms": ["SENSIVEL","COMFORT","REPAIR "],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350032680"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","CERA","MODELADORA","SECO","80"],
+        "optional_terms": ["MODELAGEM"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350036732"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","BALM","HIDRATANTE","90"],
+        "optional_terms": ["BARBA","BIGODE"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350036718"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","CREME","MODELADOR","CABELOS","140"],
+        "optional_terms": ["TODOS","CONDICIONANTE"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350036701"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","ANTIBAC","FRESH","240"],
+        "optional_terms": ["SABONETE","LIQUIDO"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350040784"
+    },
+    {
+        "mandatory_terms": ["BOZZANO","REFRESCANTE","ANTIBAC","100"],
+        "optional_terms": ["GEL","POS","BARBA"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350032697"
     },
     {
         "mandatory_terms": ["BOZZANO", "DRY", "PROTECAO", "SECA", "200ML"],
@@ -12656,5 +12697,6 @@
         "brand": "DOVE",
         "ean_brand": "7891150000000",
         "ean": "7891150102637"
-    }   
+    }
+    
 ]
