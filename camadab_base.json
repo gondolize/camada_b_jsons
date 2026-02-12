@@ -7062,13 +7062,6 @@
         "ean":"7506309872513"
     },  
     {
-        "mandatory_terms":["ORAL-B","ESSENTIAL","FLOSS"],
-        "optional_terms":["25M","LIMPA","ONDE","ESCOVA","ALCANCA","HORTELA"],
-        "brand":"ORAL-B",
-        "ean_brand":"7189999999927",
-        "ean":"7800005081225"
-    },  
-    {
         "mandatory_terms":["ORAL-B","EXTRA","BRANCO"],
         "optional_terms":["BIOCARBONATO"],
         "brand":"ORAL-B",
