@@ -3498,8 +3498,8 @@
         "ean": "7500435242622"
     },
     {
-        "mandatory_terms": ["HEAD", "SHOULDERS", "LIMPEZA", "EFICAZ"],
-        "optional_terms": ["650", "650ML"],
+        "mandatory_terms": ["HEAD", "SHOULDERS", "LIMPEZA", "EFICAZ","650"],
+        "optional_terms": ["LEVE","MAIS","PAGUE","MENOS"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
         "ean": "7500435248914"
@@ -5738,22 +5738,22 @@
         "ean": "7500435248051"
     },
     {
-        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "CONDICIONADOR", "250"],
-        "optional_terms": ["PRO-V", "MIRACLES", "B3", "ANTIQUEDA"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "CONDICIONADOR", "250","B3"],
+        "optional_terms": ["PRO-V", "MIRACLES", "ANTIQUEDA","NUTRICAO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435248167"
     },
     {
         "mandatory_terms": ["PANTENE", "BIOTINAMINA", "CONDICIONADOR", "150","B3"],
-        "optional_terms": ["PRO-V", "MIRACLES", "ANTIQUEDA"],
+        "optional_terms": ["PRO-V", "MIRACLES", "ANTIQUEDA","NUTRICAO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435248174"
     },
     {
-        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "B3", "PENTEAR","240"],
-        "optional_terms": ["PRO-V", "MIRACLES", "CREME","ANTIQUEBRA"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "B3","CREME","PENTEAR"],
+        "optional_terms": ["240","PRO-V","ANTIQUEDA","NUTRICAO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435248181"
@@ -6208,7 +6208,7 @@
     },
     {
         "mandatory_terms": ["PANTENE", "HIDRATA", "CREME",  "PENTEAR", "240"],
-        "optional_terms": ["PRO-V", "INTENSA", "CONTROLA", "FRIZZ", "SEM", "SAL"],
+        "optional_terms": ["PRO-V", "INTENSA", "CONTROLA", "FRIZZ", "SAL"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435118583"
@@ -6305,7 +6305,7 @@
         "ean": "7506309889375"
     },
     {
-        "mandatory_terms": ["PANTENE","SHOT", "AMPOLA"],
+        "mandatory_terms": ["PANTENE","SHOT", "AMPOLA","RECONSTROI"],
         "optional_terms": ["PRO-V", "AMPOLAS", "3","PODEROSA" , "15"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
@@ -7324,8 +7324,8 @@
     }, 
     
     {
-        "mandatory_terms":["ALWAYS","P","ABSORVENTES","48","4X"],
-        "optional_terms":["PROTECAO","7","GRATIS","FLUXO","MEDIO","SUAVE","ABAS"],
+        "mandatory_terms":["ALWAYS","ABSORVENTES","P","48","4X"],
+        "optional_terms":["PROTECAO","7","GRATIS","FLUXO","MEDIO","SUAVE","COM","ABAS"],
         "brand":"ALWAYS",
         "ean_brand":"7189999999928",
         "ean":"7500435248341"
@@ -8467,8 +8467,8 @@
         "ean":"7500435203999"
     },
     {
-        "mandatory_terms":["GILLETTE","VENUS","SUAVE","INTIMA"],
-        "optional_terms":["SENSITIVE","CORPO","PRECO","ESPECIAL"],
+        "mandatory_terms":["GILLETTE","VENUS","SUAVE","INTIMA","4"],
+        "optional_terms":["2","SENSITIVE","CORPO","PRECO","ESPECIAL"],
         "brand":"GILLETTE VENUS",
         "ean_brand":"7189999999914",
         "ean":"7500435248808"
@@ -13014,8 +13014,8 @@
         "ean": "7501065922755"
     },
     {
-        "mandatory_terms": ["ALWAYS","XG","FLUXO","INTENSO","42"],
-        "optional_terms": ["NOITES","TRANQUILAS","10","GRATIS","5X"],
+        "mandatory_terms": ["ALWAYS","ABSORVENTE","XG","5X","42"],
+    "optional_terms": ["FLUXO","MUITO","INTENSO","NOITES","TRANQUILAS","10","GRATIS"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435248334"
@@ -13054,6 +13054,13 @@
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435132749"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PANTS","P","46"],
+        "optional_terms": ["AJUSTE","TOTAL","12H","NOVO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435248389"
     }
     
 ]       
