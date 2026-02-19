@@ -7,8 +7,8 @@
         "ean": "7500435121002"
     },
     {
-        "mandatory_terms": ["DOWNY","PERFUME","INTENSO","1.5"],
-        "optional_terms": ["ALTA","FIXACAO","GRATIS"],
+        "mandatory_terms": ["DOWNY","BRISA","INTENSO","1.5","GRATIS"],
+        "optional_terms": ["150","CONCENTRADO","ALTA","FIXACAO","AMACIANTE"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435259538"
@@ -19,13 +19,6 @@
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435255981"
-    },
-    {
-        "mandatory_terms": ["GILLETTE", "PRESTOBARBA", "FRESH"],
-        "optional_terms": ["EUCALIPTO", "2"],
-        "brand": "GILLETTE",
-        "ean_brand": "7189999999933",
-        "ean": "7702018983872"
     },
     {
         "mandatory_terms": ["PROBAK", "II", "PRESTOBARBA", "GILLETTE"],
@@ -70,8 +63,8 @@
         "ean": "7500435140966"
     },
     {
-        "mandatory_terms": ["DOWNY", "2", "BRISA", "500"],
-        "optional_terms": ["MAIS", "RENDE", "VERAO"],
+        "mandatory_terms": ["DOWNY","AMACIANTE","BRISA", "VERAO", "500"],
+        "optional_terms": ["CONCENTRADO", "RENDE", "2L","22","LAVAGENS"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7506195143834"
@@ -98,8 +91,8 @@
         "ean": "7500435148436"
     },
     {
-        "mandatory_terms": ["PAMPERS","SPLASH","BABY"],
-        "optional_terms": ["SHARK","LENCOS","UMIDECIDOS","48"],
+        "mandatory_terms": ["PAMPERS","SPLASH","BABY","48"],
+        "optional_terms": ["SHARK","LENCOS","UMIDECIDOS"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435158077"
@@ -112,8 +105,8 @@
         "ean": "7500435169943"
     },
     {
-        "mandatory_terms": ["PAMPERS","HIGIENE","COMPLETA","4"],
-        "optional_terms": ["192","LENCOS","UMIDECIDOS"],
+        "mandatory_terms": ["PAMPERS","HIGIENE","COMPLETA","192"],
+        "optional_terms": ["LEVE","4","PAGUE","3","LENCOS","UMIDECIDOS"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435172721"
@@ -154,15 +147,15 @@
         "ean": "4015400763697"
     },
     {
-        "mandatory_terms": ["ORAL-B","3D","WHITE"],
-        "optional_terms": ["MANCHAS","CLAREIA","80%","70"],
+        "mandatory_terms": ["ORAL-B","3D","WHITE","70"],
+        "optional_terms": ["MANCHAS","CLAREIA","80%","SUPERFICIAIS"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7506295388487"
     },
     {
-        "mandatory_terms": ["ORAL-B","4","1","500"],
-        "optional_terms": ["COMPLETE","LEVE","300","PAGUE"],
+        "mandatory_terms": ["ORAL-B","ANTISSEPTICO","BUCAL","COMPLETE","500"],
+        "optional_terms": ["4","EM","1","LEVE","PAGUE","300","MENTA","REFRESCANTE"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7506195129111"
@@ -259,22 +252,22 @@
         "ean": "7500435024594"
     },
     {
-        "mandatory_terms": ["ORAL-B","INDICATOR","2X1"],
-        "optional_terms": ["MARCA","USADA","MUNDO","2","1"],
+        "mandatory_terms": ["ORAL-B","INDICATOR","2X1","CLEAN"],
+        "optional_terms": ["MARCA","USADA","MUNDO","CLEAN"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435107754"
     },
     {
-        "mandatory_terms": ["ORAL-B","INDICATOR","2X1"],
+        "mandatory_terms": ["ORAL-B","INDICATOR","2X1","N40"],
         "optional_terms": ["MARCA","USADA","MUNDO","2","1"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435107761"
     },
     {
-        "mandatory_terms": ["ORAL-B","INDICATOR","ANUAL"],
-        "optional_terms": ["PACK","3","TROQUE"],
+        "mandatory_terms": ["ORAL-B","INDICATOR","PACK","FAMILIA","CLEAN"],
+        "optional_terms": ["COLOR","COLLECTION","SUAVE"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435113823"
@@ -287,8 +280,8 @@
         "ean": "7500435114776"
     },
     {
-        "mandatory_terms": ["ORAL-B","4","1"],
-        "optional_terms": ["180","LEVE","PAGUE","GRATIS","ANTICARIES","DENTES"],
+        "mandatory_terms": ["ORAL-B","4","1","180"],
+        "optional_terms": ["LEVE","PAGUE","GRATIS","ANTICARIES","DENTES"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435204781"
@@ -309,14 +302,14 @@
     },
     {
         "mandatory_terms": ["ORAL-B","KIDS","MICKEY"],
-        "optional_terms": ["KIDS"],
+        "optional_terms": ["CREME","DENTAL"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435127363"
     },
     {
         "mandatory_terms": ["ORAL-B","KIDS","2","PACK"],
-        "optional_terms": ["KIDS"],
+        "optional_terms": ["ESCOVA","DENTAL"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435127417"
@@ -337,7 +330,7 @@
     },
     {
         "mandatory_terms": ["ORAL-B","KIDS","SPIDERMAN"],
-        "optional_terms": ["KIDS"],
+        "optional_terms": ["CREME","DENTAL","INFANTIL"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435145152"
@@ -350,8 +343,8 @@
         "ean": "7500435150255"
     },
     {
-        "mandatory_terms": ["ORAL-B","EXTRA","BRANCO"],
-        "optional_terms": ["BRANCO"],
+        "mandatory_terms": ["ORAL-B","EXTRA","BRANCO","70"],
+        "optional_terms": ["CREME","DENTAL"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435150248"
@@ -372,7 +365,7 @@
         "ean": "7500435150309"
     },
     {
-        "mandatory_terms": ["ORAL-B","100%"],
+        "mandatory_terms": ["ORAL-B","100%","70"],
         "optional_terms": ["BOCA","CUIDADA","BRANQUEAMENTO","BACTERIAS"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
@@ -386,8 +379,8 @@
         "ean": "7500435155540"
     },
     {
-        "mandatory_terms": ["ORAL-B","ACOES","CARVAO"],
-        "optional_terms": ["5","COM","MACIA","POLIDORAS"],
+        "mandatory_terms": ["ORAL-B","5","ACOES","CARVAO"],
+        "optional_terms": ["COM","MACIA","POLIDORAS"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435171083"
@@ -400,8 +393,8 @@
         "ean": "7500435176453"
     },
     {
-        "mandatory_terms": ["ORAL-B","BRILLIANT","FRESH"],
-        "optional_terms": ["3D","WHITE","LEVE","MAIS"],
+        "mandatory_terms": ["ORAL-B","3D","WHITE","140"],
+        "optional_terms": ["BRILLIANT","FRESH","LEVE","MAIS","PAGUE","MENOS"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435177054"
@@ -428,8 +421,8 @@
         "ean": "7500435204415"
     },
     {
-        "mandatory_terms": ["ORAL-B","INDICATOR","BLACK"],
-        "optional_terms": ["SENSITIVE"],
+        "mandatory_terms": ["ORAL-B","INDICATOR","BLACK","SENSITIVE"],
+        "optional_terms": ["ESCOVA"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435204422"
@@ -442,8 +435,8 @@
         "ean": "7500435234719"
     },
     {
-        "mandatory_terms": ["ORAL-B","KIDS","MICKEY"],
-        "optional_terms": ["SUAVE","MACIA"],
+        "mandatory_terms": ["ORAL-B","KIDS","MICKEY","SUAVE","MACIA"],
+        "optional_terms": ["ESCOVA"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435234795"
@@ -463,22 +456,22 @@
         "ean": "7500435243834"
     },
     {
-        "mandatory_terms": ["ORAL-B","BRILLIANT","FRESH","MAIS"],
-        "optional_terms": ["LEVE","PAGUE","MENOS","3D","WHITE"],
+        "mandatory_terms": ["ORAL-B","100%","55","BOCA","CUIDADA"],
+        "optional_terms": ["LEVE","MAIS","PAGUE","MENOS"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435243841"
     },
     {
-        "mandatory_terms": ["ORAL-B","EXTRA","BRANCO"],
-        "optional_terms": ["BICARBONATO"],
+        "mandatory_terms": ["ORAL-B","EXTRA","BRANCO","180"],
+        "optional_terms": ["LEVE","MAIS","PAGUE","MENO"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435243858"
     },
     {
-        "mandatory_terms": ["ORAL-B","BRILLIANT","FRESH","6"],
-        "optional_terms": ["53","3D","WHITE"],
+        "mandatory_terms": ["ORAL-B","3D","WHITE","FRESH","70"],
+        "optional_terms": ["LEVE","MAIS","PAGUE","MENOS","CLAREIA","80%","MANCHAS","SUPERFICIAIS"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435249720"
@@ -491,36 +484,36 @@
         "ean": "7500435250887"
     },
     {
-        "mandatory_terms": ["ORAL-B","2X1","99%"],
-        "optional_terms": ["PLACA","REMOVE","SAUDE"],
+        "mandatory_terms": ["ORAL-B","PRO-SAUDE","7","BENEFICIOS","2X1"],
+        "optional_terms": ["REMOVE","99%","PLACA"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7501001100285"
     },
     {
-        "mandatory_terms": ["ORAL-B","3X2","CLASSIC"],
-        "optional_terms": ["GRATIS","1","2","3"],
+        "mandatory_terms": ["ORAL-B","3X2","CLASSIC","GRATIS"],
+        "optional_terms": ["ESCOVA","1","2","3"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7501001104191"
     },
     {
-        "mandatory_terms": ["ORAL-B","COMPLETE","250"],
+        "mandatory_terms": ["ORAL-B","ANTISSEPTICO","BUCAL","COMPLETE","250"],
         "optional_terms": ["SEM","ALCOOL","HORTELA"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7506195129104"
     },
     {
-        "mandatory_terms": ["ORAL-B","STAGES","TOY"],
-        "optional_terms": ["STORY","FRUTAS","STAGES"],
+        "mandatory_terms": ["ORAL-B","CREME","DENTAL","100","DISNEY"],
+        "optional_terms": ["INFANTIL"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7506195183373"
     },
     {
-        "mandatory_terms": ["ORAL-B","LIMPEZA","SUPERIOR","2X1"],
-        "optional_terms": ["ACOES","DIFERENTES","COMPLETE"],
+        "mandatory_terms": ["ORAL-B","LIMPEZA","PROFUNDA","2X1","COMPLETE"],
+        "optional_terms": ["GRATIS","ESCOVA","DENTAIS"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7506339358247"
@@ -540,39 +533,32 @@
         "ean": "7506339363883"
     },
     {
-        "mandatory_terms": ["ORAL-B","BRILLIANT","FRESH","53","3"],
-        "optional_terms": ["70","3D","WHITE"],
+        "mandatory_terms": ["ORAL-B","3D","WHITE","70","CLAREIA"],
+        "optional_terms": ["BRILLIANT","FRESH","LEVE","MAIS","PAGUE","MENOS"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7506339398236"
     },
     {
-        "mandatory_terms": ["ORAL-B","FROZEN","STAGES"],
-        "optional_terms": ["TUTTI-FRUTTI","CREME","DENTAL"],
+        "mandatory_terms": ["ORAL-B","FROZEN","STAGES","100"],
+        "optional_terms": ["INFANTIL","TUTTI-FRUTTI","CREME","DENTAL"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7506339398434"
     },
     {
-        "mandatory_terms": ["ORAL-B","ESSENTIAL","FLOSS","HORTELA"],
+        "mandatory_terms": ["ORAL-B","ESSENTIAL","FLOSS","HORTELA","50"],
         "optional_terms": ["FIO","DENTAL","LIMPA"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7800005082222"
     },
     {
-        "mandatory_terms": ["ORAL-B","ESSENTIAL","FLOSS"],
+        "mandatory_terms": ["ORAL-B","ESSENTIAL","FLOSS","50"],
         "optional_terms": ["FIO","DENTAL","LIMPA"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7800005082024"
-    },
-    {
-        "mandatory_terms": ["ORAL-B","CLASSIC","MACIA"],
-        "optional_terms": ["CLASSIC","MACIA"],
-        "brand": "ORAL-B",
-        "ean_brand": "7189999999927",
-        "ean": "7891051037014"
     },
     {
         "mandatory_terms": ["ALWAYS","NOITES","TRANQUILAS","XG","26"],
@@ -582,8 +568,8 @@
         "ean": "7500435214650"
     },
     {
-        "mandatory_terms": ["ALWAYS","SUAVE","M","32"],
-        "optional_terms": ["ABSORVENTE","MEDIO","GRATIS"],
+        "mandatory_terms": ["ALWAYS","ABSORVENTES","4X","M","32"],
+        "optional_terms": ["PROTECAO","COM","ABAS","MEDIO","GRATIS","5"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7506339326048"
@@ -596,36 +582,36 @@
         "ean": "7500435127240"
     },
     {
-        "mandatory_terms": ["ALWAYS","SEM","PERFUME","40"],
+        "mandatory_terms": ["ALWAYS","PROTETORES","DIARIOS","PERFUME","40"],
         "optional_terms": ["EQUILIBRIO","PROTECAO","LIMPEZA"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435125826"
     },
     {
-        "mandatory_terms": ["ALWAYS", "DIARIO" , "RESPIRAVEL","40"],
-        "optional_terms": ["IDEAL","PROTETORES", "USO"],
+        "mandatory_terms": ["ALWAYS", "DIARIOS", "RESPIRAVEL","40"],
+        "optional_terms": ["IDEAIS", "USO"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435125840"
     },
     {
-        "mandatory_terms": ["ALWAYS","SUAVE", "32"],
-        "optional_terms": ["ABSORVENTE", "PEQUENO"],
+        "mandatory_terms": ["ALWAYS","ABSORVENTES","P","4X","32"],
+        "optional_terms": ["FLUXO","MEDIO","SUAVE","GRATIS"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435126199"
     },
     {
-        "mandatory_terms": ["ALWAYS","SECA","8"],
-        "optional_terms": ["ABSORVENTE","PEQUENO"],
-        "brand": "ALWAYS",
-        "ean_brand": "7189999999928",
-        "ean": "7500435127226"
+    "mandatory_terms": ["ALWAYS", "ABSORVENTE", "P", "8", "4X"],
+    "optional_terms": ["PROTECAO", "FLUXO", "MEDIO", "SECA"],
+    "brand": "ALWAYS",
+    "ean_brand": "7189999999928",
+    "ean": "7500435127226"
     },
     {
-        "mandatory_terms": ["ALWAYS","SUPER","SECA","16"],
-        "optional_terms": ["CONFORTAVEL","PROTECAO", "LIMPA"],
+        "mandatory_terms": ["ALWAYS","ABSORVENTES","SECA","P","16"],
+        "optional_terms": ["CONFORTAVEL","SUPER","PROTECAO", "LIMPA"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435127233"
@@ -638,50 +624,50 @@
         "ean": "7500435127257"
     },
     {
-        "mandatory_terms": ["ALWAYS","SUPER","SECA","32"],
+        "mandatory_terms": ["ALWAYS","SUPER","SECA","P","32"],
         "optional_terms": ["PROTECAO","GRATIS","ABSORVENTES"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435127288"
     },
     {
-        "mandatory_terms": ["ALWAYS","SENSITIVE","40"],
+        "mandatory_terms": ["ALWAYS","PROTETORES","DIARIOS","SENSITIVE","40"],
         "optional_terms": ["SEM","PERFUME","HIPOALERGICO","RESPIRAVEL"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435135771"
     },
     {
-        "mandatory_terms": ["ALWAYS","RESPIRAVEL","80"],
+        "mandatory_terms": ["ALWAYS","PROTETORES","RESPIRAVEL","80"],
         "optional_terms": ["SEM","PERFUME","RESPIRAVEIS","DIARIO"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435167567"
     },
     {
-        "mandatory_terms": ["ALWAYS","SENSITIVE","80"],
-        "optional_terms": ["HIPOALERGICO","SEM","PERFUME","RESPIRAVEL","VERAO"],
+        "mandatory_terms": ["ALWAYS","SENSITIVE","80","HIPOALERGICO"],
+        "optional_terms": ["SEM","PERFUME","RESPIRAVEL","VERAO"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435168373"
     },
     {
-        "mandatory_terms": ["ALWAYS","SUPER","SUAVE","10"],
-        "optional_terms": ["PROTECAO","8","LEVE"],
+        "mandatory_terms": ["ALWAYS","SUPER","SUAVE","P","10"],
+        "optional_terms": ["PROTECAO","8","LEVE","2X"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435190633"
     },
     {
-        "mandatory_terms": ["ALWAYS","NOTURNO","SUAVE","48"],
-        "optional_terms": ["G","ABSORVENTE","GRANDE"],
+        "mandatory_terms": ["ALWAYS","NOTURNO","SUAVE","G","48"],
+        "optional_terms": ["ABSORVENTE","GRANDE"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435190640"
     },
     {
-        "mandatory_terms": ["ALWAYS","NOTURNO","SECA","48"],
-        "optional_terms": ["G","ABSORVENTE","GRANDE"],
+        "mandatory_terms": ["ALWAYS","NOTURNO","SECA","G","48"],
+        "optional_terms": ["ABSORVENTE","GRANDE"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435190657"
@@ -702,14 +688,14 @@
     },
     {
         "mandatory_terms": ["ALWAYS","DIARIOS","RESPIRAVEL","120"],
-        "optional_terms": ["SEM","PERFUME","GRATIS"],
+        "optional_terms": ["SEM","PERFUME","GRATIS","35"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435233378"
     },
     {
         "mandatory_terms": ["ALWAYS","G","5X","10"],
-        "optional_terms": ["FLUXO","INTENSO","SUAVE","ABAS"],
+        "optional_terms": ["ABSORVENTES","FLUXO","INTENSO","SUAVE","ABAS"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435233446"
@@ -729,22 +715,22 @@
         "ean": "7500435250559"
     },
     {
-        "mandatory_terms": ["ALWAYS","PROTECAO","COM","PERFUME","80"],
-        "optional_terms": ["PROTETORES","DIARIOS","GRATIS"],
+        "mandatory_terms": ["ALWAYS","PROTETORES","DIARIOS","PERFUME","80"],
+        "optional_terms": ["AJUDA","CONTROLAR","ODORES"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7501001407506"
     },
     {
-        "mandatory_terms": ["ALWAYS","COM","PERFUME","15"],
-        "optional_terms": ["DIARIOS","CONTROLAR","ODORES"],
+        "mandatory_terms": ["ALWAYS","PROTETORES","DIARIOS","15","PERFUME"],
+        "optional_terms": ["AJUDA","CONTROLAR","ODORES"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7501007499758"
     },
     {
-        "mandatory_terms": ["ALWAYS","PROTECAO","COM","PERFUME","40"],
-        "optional_terms": ["DIFERENTES","TIPOS","FLUIDO"],
+        "mandatory_terms": ["ALWAYS","PROTETORES","DIARIOS","PERFUME","40"],
+        "optional_terms": ["AJUDA","CONTROLAR","ODORES"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7506295338901"
@@ -757,43 +743,43 @@
         "ean": "7506309805498"
     },
     {
-        "mandatory_terms": ["ALWAYS","NOTURNO","SECA","G","16"],
-        "optional_terms": ["ABSORVENTE","GRANDE","GRATIS"],
+        "mandatory_terms": ["ALWAYS","ABSORVENTES","NOTURNO","G","16"],
+        "optional_terms": ["4X","SECA","2","GRANDE","GRATIS"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7506339325249"
     },
     {
-        "mandatory_terms": ["ALWAYS","NOTURNO","SECA","G","32"],
-        "optional_terms": ["ABSORVENTE","GRANDE","GRATIS"],
+        "mandatory_terms": ["ALWAYS","ABSORVENTES","NOTURNOS","G","32"],
+        "optional_terms": ["4x","SECA","NOITES","TRANQUILAS","GRANDE","GRATIS","4"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7506339325263"
     },
     {
-        "mandatory_terms": ["ALWAYS","NOTURNO","SUAVE","G","16"],
-        "optional_terms": ["ABSORVENTE","GRANDE","GRATIS"],
+        "mandatory_terms": ["ALWAYS","ABSORVENTES","NOTURNO","G","16"],
+        "optional_terms": ["4X","GRANDE","GRATIS","2"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7506339326031"
     },
     {
-        "mandatory_terms": ["ALWAYS","NOTURNO","SUAVE","G","32"],
-        "optional_terms": ["ABSORVENTE","GRANDE","GRATIS"],
+        "mandatory_terms": ["ALWAYS","ABSORVENTES","SUAVE","G","32"],
+        "optional_terms": ["4X","NOTURNOS","GRANDE","GRATIS"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7506339326055"
     },
     {
-        "mandatory_terms": ["ALWAYS","NOTURNO","SECA","G","8"],
-        "optional_terms": ["ABSORVENTE","GRANDE"],
+        "mandatory_terms": ["ALWAYS","ABSORVENTES","5X","G","8"],
+        "optional_terms": ["PROTECAO","COM","ABAS","GRANDE"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7506339394535"
     },
     {
-        "mandatory_terms": ["ALWAYS","NOTURNO","SUAVE","G","8"],
-        "optional_terms": ["ABSORVENTE","GRANDE"],
+        "mandatory_terms": ["ALWAYS","ABSORVENTES","5X","G","8"],
+        "optional_terms": ["FLUXO","INTENSO","SUAVE","GRANDE"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7506339394603"
@@ -806,8 +792,8 @@
         "ean": "7506339394603"
     },
      {
-        "mandatory_terms": ["ALWAYS","SUAVE","4X","M","8"],
-        "optional_terms": ["ABSORVENTE","MEDIO","UNIDADES"],
+        "mandatory_terms": ["ALWAYS","ABSORVENTES","4X","M","8"],
+        "optional_terms": ["PROTECAO","FLUXO","MODERADO","COM","ABAS"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7506195129838"
@@ -850,7 +836,7 @@
     },
     {
         "mandatory_terms": ["PAMPERS","CONFORT","SEC","M","70"],
-        "optional_terms": ["12H","PROTECAO"],
+        "optional_terms": ["12H","PROTECAO","LEVE","MAIS","PAGUE","MENOS"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435106665"
@@ -1081,7 +1067,7 @@
     },
     {
         "mandatory_terms": ["PAMPERS","SUPERSEC","XG","14"],
-        "optional_terms": ["SUPER","SECO","PRECO"],
+        "optional_terms": ["FRALDAS","SUPER","SECO","PRECO"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435200288"
@@ -1136,7 +1122,7 @@
         "ean": "7500435244671"
     },
     {
-        "mandatory_terms": ["PAMPERS","SUPERSEQUINHA","XXG","50"],
+        "mandatory_terms": ["PAMPERS","FRALDAS","SUPERSEQUINHA","XXG","50"],
         "optional_terms": ["12H","ABSORCAO","BABY","SHARK"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
@@ -1150,36 +1136,36 @@
         "ean": "7500435250207"
     },
     {
-        "mandatory_terms": ["PAMPERS","SUPERSEQUINHA","XG","56"],
+        "mandatory_terms": ["PAMPERS","FRALDAS","SUPERSEQUINHA","XG","56"],
         "optional_terms": ["12H","ABSORCAO","BABY","SHARK"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435250221"
     },
     {
-        "mandatory_terms": ["PAMPERS","SUPERSEQUINHA","M","68"],
+        "mandatory_terms": ["PAMPERS","FRALDAS","SUPERSEQUINHA","M","68"],
         "optional_terms": ["12H","ABSORCAO","BABY","SHARK"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435250214"
     },
     {
-        "mandatory_terms": ["PAMPERS","SUPERSEQUINHA","XG","70"],
+        "mandatory_terms": ["PAMPERS","FRALDAS","SUPERSEQUINHA","XG","70"],
         "optional_terms": ["12H","ABSORCAO","BABY","SHARK"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435250238"
     },
     {
-        "mandatory_terms": ["OLD","SPICE","AMADEIRADO"],
-        "optional_terms": ["72H","PROTECAO","PERFUME"],
+        "mandatory_terms": ["OLD","SPICE","AMADEIRADO","72H","150"],
+        "optional_terms": ["AEROSOL","PROTECAO","PERFUME"],
         "brand": "OLD SPICE",
         "ean_brand": "7189999999930",
         "ean": "7500435135047"
     },
     {
-        "mandatory_terms": ["OLD","SPICE","REFRESCANTE"],
-        "optional_terms": ["SPRAY","72H","PROTECAO"],
+        "mandatory_terms": ["OLD","SPICE","REFRESCANTE","150","72H"],
+        "optional_terms": ["AEROSOL","PERFUME","PROTECAO"],
         "brand": "OLD SPICE",
         "ean_brand": "7189999999930",
         "ean": "7500435135030"
@@ -1192,8 +1178,8 @@
         "ean": "7500435158688"
     },
     {
-        "mandatory_terms": ["OLD","SPICE","AMADEIRADO","250"],
-        "optional_terms": ["72H","LEVE","PAGUE","MENOS"],
+        "mandatory_terms": ["OLD","SPICE","AMADEIRADO","AEROSOL","250"],
+        "optional_terms": ["72H","LEVE","PAGUE","MENOS","DESODORANTE","ANTITRANSPIRANTE"],
         "brand": "OLD SPICE",
         "ean_brand": "7189999999930",
         "ean": "7500435249515"
@@ -1206,8 +1192,8 @@
         "ean": "7500435249508"
     },
     {
-        "mandatory_terms": ["OLD","SPICE","REFRESCANTE","250"],
-        "optional_terms": ["LEVE","PAGUE","MENOS","72H"],
+        "mandatory_terms": ["OLD","SPICE","REFRESCANTE","AEROSOL","250"],
+        "optional_terms": ["LEVE","PAGUE","MENOS","72H","DESODORANTE","ANTITRANSPIRANTE","PERFUME"],
         "brand": "OLD SPICE",
         "ean_brand": "7189999999930",
         "ean": "7500435249492"
@@ -1220,8 +1206,8 @@
         "ean": "7500435249485"
     },
     {
-        "mandatory_terms": ["OLD","SPICE","VIP"],
-        "optional_terms": ["72H","LEVE","PAGUE","MENOS"],
+        "mandatory_terms": ["OLD","SPICE","AEROSOL","VIP","250"],
+        "optional_terms": ["72H","LEVE","PAGUE","MENOS","DESODORANTE","PERFUME","ANTITRANSPIRANTE"],
         "brand": "OLD SPICE",
         "ean_brand": "7189999999930",
         "ean": "7500435249478"
@@ -1235,36 +1221,36 @@
         "ean": "7500435161411"
     },
     {
-        "mandatory_terms": ["SECRET","ORANGE","BLOSSOM"],
+        "mandatory_terms": ["SECRET","ORANGE","BLOSSOM","45","5X"],
         "optional_terms": ["GEL","INVISIVEL"],
         "brand": "SECRET",
         "ean_brand": "7189999999930",
         "ean": "7500435143875"
     },
     {
-        "mandatory_terms": ["OLD","SPICE","BRISA","MAR"],
-        "optional_terms": ["EMBALAGEM","ECONOMICA","72H","PROTECAO","PERFUME"],
+        "mandatory_terms": ["OLD","SPICE","BRISA","MAR","200"],
+        "optional_terms": ["EMBALAGEM","ECONOMICA","PROTECAO","PERFUME"],
         "brand": "OLD SPICE",
         "ean_brand": "7189999999930",
         "ean": "7500435143370"
     },
     {
-        "mandatory_terms": ["OLD","SPICE","VIP"],
-        "optional_terms": ["72H","PROTECAO","PERFUME"],
+        "mandatory_terms": ["OLD","SPICE","VIP","150","72H"],
+        "optional_terms": ["PROTECAO","PERFUME","AEROSOL"],
         "brand": "OLD SPICE",
         "ean_brand": "7189999999930",
         "ean": "7500435135061"
     },
     {
-        "mandatory_terms": ["OLD","SPICE","VIP"],
-        "optional_terms": ["72H","PROTECAO","PERFUME"],
+        "mandatory_terms": ["OLD","SPICE","VIP","72H","200"],
+        "optional_terms": ["PROTECAO","PERFUME"],
         "brand": "OLD SPICE",
         "ean_brand": "7189999999930",
         "ean": "7500435143233"
     },
     {
-        "mandatory_terms": ["OLD","SPICE","AMADEIRADO"],
-        "optional_terms": ["72H","PROTECAO","PERFUME"],
+        "mandatory_terms": ["OLD","SPICE","AMADEIRADO","72H","200"],
+        "optional_terms": ["PROTECAO","PERFUME"],
         "brand": "OLD SPICE",
         "ean_brand": "7189999999930",
         "ean": "7500435143226"
@@ -1278,14 +1264,14 @@
         "ean": "7500435129947"
     },
     {
-        "mandatory_terms": ["OLD","SPICE","REFRESCANTE"],
+        "mandatory_terms": ["OLD","SPICE","REFRESCANTE","80"],
         "optional_terms": ["2X","PERFUMES","DURADOUROS"],
         "brand": "OLD SPICE",
         "ean_brand": "7189999999930",
         "ean": "7500435241656"
     },
     {
-        "mandatory_terms": ["OLD","SPICE","VIP"],
+        "mandatory_terms": ["OLD","SPICE","VIP","2X","80"],
         "optional_terms": ["2X","PROTECAO","DURADOUROS"],
         "brand": "OLD SPICE",
         "ean_brand": "7189999999930",
@@ -1306,35 +1292,35 @@
         "ean": "7702018913664"
     },
     {
-        "mandatory_terms": ["SECRET","POWDER","PROTECT"],
+        "mandatory_terms": ["SECRET","POWDER","PROTECT","COTTON","45"],
         "optional_terms": ["GEL", "INVISIVEL"],
         "brand": "SECRET",
         "ean_brand": "7189999999926",
         "ean": "7500435129374"
     },
     {
-        "mandatory_terms": ["SECRET","POWDER","PROTECT","COTTON"],
-        "optional_terms": ["LEVE","PAGUE","MENOS"],
+        "mandatory_terms": ["SECRET","POWDER","PROTECT","COTTON","5X"],
+        "optional_terms": ["LEVE","MAIS","PAGUE","MENOS"],
         "brand": "SECRET",
         "ean_brand": "7189999999926",
         "ean": "7500435251068"
     },
     {
-        "mandatory_terms": ["SECRET","BALANCED","LAVANDER"],
-        "optional_terms": ["LEVE","PAGUE","MENOS"],
+        "mandatory_terms": ["SECRET","BALANCED","LAVANDER","FRESH","DEFENSE"],
+        "optional_terms": ["5X","73G","LEVE","MAIS","PAGUE","MENOS"],
         "brand": "SECRET",
         "ean_brand": "7189999999926",
         "ean": "7500435251075"
     },
     {
-        "mandatory_terms": ["SECRET","JASMINE"],
+        "mandatory_terms": ["SECRET","JASMINE","45"],
         "optional_terms": ["FRESH","DEFENSE","4X"],
         "brand": "SECRET",
         "ean_brand": "7189999999926",
         "ean": "7500435170017"
     },
     {
-        "mandatory_terms": ["SECRET","BERRY"],
+        "mandatory_terms": ["SECRET","JASMINE","45"],
         "optional_terms": ["FRESH","DEFENSE","5X"],
         "brand": "SECRET",
         "ean_brand": "7189999999926",
@@ -1348,21 +1334,21 @@
         "ean": "7500435129367"
     },
     {
-        "mandatory_terms": ["SECRET","BALANCED"],
+        "mandatory_terms": ["SECRET","BALANCED","LAVANDER","45"],
         "optional_terms": ["GEL", "INVISIVEL"],
         "brand": "SECRET",
         "ean_brand": "7189999999926",
         "ean": "7500435143196"
     },
     {
-        "mandatory_terms": ["SECRET","POWDER","PROTECT"],
+        "mandatory_terms": ["SECRET","POWDER","PROTECT","45"],
         "optional_terms": ["BARRA", "INVISIVEL"],
         "brand": "SECRET",
         "ean_brand": "7189999999926",
         "ean": "7500435143189"
     },
     {
-        "mandatory_terms": ["SECRET","JASMINE"],
+        "mandatory_terms": ["SECRET","JASMINE","GEL","INVISIVEL","45"],
         "optional_terms": ["FRESH","DEFENSE","5X"],
         "brand": "SECRET",
         "ean_brand": "7189999999926",
@@ -1397,8 +1383,8 @@
         "ean": "47400097728"
     },
     {
-        "mandatory_terms": ["ARIEL","EXPERT","2"],
-        "optional_terms": ["CONCENTRADO","COMBATE","MANCHAS"],
+        "mandatory_terms": ["ARIEL","LAVA","ROUPAS","EXPERT","2"],
+        "optional_terms": ["REMOCAO","MANCHAS","SUOR"],
         "brand": "ARIEL",
         "ean_brand": "7189999999934",
         "ean": "7500435115315"
@@ -1411,14 +1397,14 @@
         "ean": "7500435115315"
     },
     {
-        "mandatory_terms": ["ARIEL","EXPERT","1,2"],
-        "optional_terms": ["CONCENTRADO","COMBATE","MANCHAS"],
+        "mandatory_terms": ["ARIEL","LAVA","ROUPAS","EXPERT","1.2"],
+        "optional_terms": ["REMOCAO","COMBATE","MANCHAS","SUOR"],
         "brand": "ARIEL",
         "ean_brand": "7189999999934",
         "ean": "7500435115353"
     },
     {
-        "mandatory_terms": ["ARIEL","DOWNY","1,2"],
+        "mandatory_terms": ["ARIEL","DOWNY","1.2"],
         "optional_terms": ["TOQUE","SAEM","MANCHAS"],
         "brand": "ARIEL",
         "ean_brand": "7189999999934",
@@ -1447,21 +1433,21 @@
         "ean": "7500435141987"
     },
     {
-        "mandatory_terms": ["ARIEL","CORES","RADIANTES","1,5"],
+        "mandatory_terms": ["ARIEL","CORES","RADIANTES","1.5"],
         "optional_terms": ["BRANCOS","COLORIDOS","EMBALAGEM","ECONOMICA","NOVA","FORMULA"],
         "brand": "ARIEL",
         "ean_brand": "7189999999934",
         "ean": "7500435141994"
     },
     {
-        "mandatory_terms": ["ARIEL","CORES","RADIANTES","1,5L"],
+        "mandatory_terms": ["ARIEL","CORES","RADIANTES","1.5L"],
         "optional_terms": ["BRANCOS","COLORIDOS","EMBALAGEM","ECONOMICA","NOVA","FORMULA"],
         "brand": "ARIEL",
         "ean_brand": "7189999999934",
         "ean": "7500435141994"
     },
     {
-        "mandatory_terms": ["ARIEL","CORES","RADIANTE","1,5"],
+        "mandatory_terms": ["ARIEL","CORES","RADIANTE","1.5"],
         "optional_terms": ["BRANCOS","COLORIDOS","EMBALAGEM","ECONOMICA","NOVA","FORMULA"],
         "brand": "ARIEL",
         "ean_brand": "7189999999934",
@@ -1475,8 +1461,8 @@
         "ean": "7500435142014"
     },
     {
-        "mandatory_terms": ["ARIEL","HIPOALERGENICO","2"],
-        "optional_terms": ["SUAVE","GENTIL","PAMPERS"],
+        "mandatory_terms": ["ARIEL","PAMPERS","HIPOALERGENICO","2"],
+        "optional_terms": ["SUAVE","GENTIL"],
         "brand": "ARIEL",
         "ean_brand": "7189999999934",
         "ean": "7500435156646"
@@ -1489,8 +1475,8 @@
         "ean": "7500435160636"
     },
     {
-        "mandatory_terms": ["DOWNY","VERAO","1,2"],
-        "optional_terms": ["4X","PERFUME","BRISA"],
+        "mandatory_terms": ["DOWNY","BRISA","VERAO","1.2"],
+        "optional_terms": ["AMACIANTE","PERFUME","CONCENTRADO","RENDE","4.8"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435177566"
@@ -1503,14 +1489,14 @@
         "ean": "7500435140966"
     },
     {
-        "mandatory_terms": ["DOWNY","CONCENTRADO","PRIMAVERA","1"],
+        "mandatory_terms": ["DOWNY","CONCENTRADO","FRESCOR","PRIMAVERA","1"],
         "optional_terms": ["ROUPAS","PERFUMADAS","TEMPO"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435153850"
     },
     {
-        "mandatory_terms": ["DOWNY","PRIMAVERA","1,5"],
+        "mandatory_terms": ["DOWNY","FRESCOR","PRIMAVERA","1.5"],
         "optional_terms": ["ROUPAS","PERFUMADAS","TEMPO"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
@@ -1524,7 +1510,7 @@
         "ean": "7500435153881"
     },
     {
-        "mandatory_terms": ["DOWNY","AGUA","FRESCA","1,5"],
+        "mandatory_terms": ["DOWNY","AGUA","FRESCA","1.5"],
         "optional_terms": ["PERFUME","SUAVE","TODO"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
@@ -1538,14 +1524,14 @@
         "ean": "7500435156967"
     },
     {
-        "mandatory_terms": ["DOWNY","SENSITIVE","HIPOALERGENICO","1,35"],
+        "mandatory_terms": ["DOWNY","SENSITIVE","HIPOALERGENICO","1.35"],
         "optional_terms": ["SENSITIVE","CONCENTRADO"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435156974"
     },
     {
-        "mandatory_terms": ["DOWNY","PAIXAO","1,35"],
+        "mandatory_terms": ["DOWNY","PAIXAO","1.35"],
         "optional_terms": ["PERFUME","COLLECTION"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
@@ -1566,35 +1552,35 @@
         "ean": "7500435160018"
     },
     {
-        "mandatory_terms": ["DOWNY","MISTICO","1,35"],
+        "mandatory_terms": ["DOWNY","MISTICO","1.35"],
         "optional_terms": ["PERFUMES","SOFISTICADOS","TODO"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435160025"
     },
     {
-        "mandatory_terms": ["DOWNY","VERAO","450"],
-        "optional_terms": ["ROUPAS","PERFUMADAS","TEMPO"],
+        "mandatory_terms": ["DOWNY","CONCENTRADO","BRISA","VERAO","500"],
+        "optional_terms": ["ROUPAS","PERFUMADAS","TEMPO","GRATIS","50"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435198240"
     },
     {
-        "mandatory_terms": ["DOWNY","CONCENTRADO","INTENSO","1,5"],
-        "optional_terms": ["CONCENTRADO","BRISA","INTENSO"],
+        "mandatory_terms": ["DOWNY","CONCENTRADO","BRISA","INTENSO","1.5"],
+        "optional_terms": ["AMACIANTE","RENDE","6"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435201278"
     },
     {
-        "mandatory_terms": ["DOWNY","CONCENTRADO","INTENSO","1"],
-        "optional_terms": ["PERFUME","BRISA"],
+        "mandatory_terms": ["DOWNY","CONCENTRADO","BISA","INTENSO","1"],
+        "optional_terms": ["PERFUME","AMACIANTE","RENDE","4"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435201285"
     },
     {
-        "mandatory_terms": ["DOWNY","CONCENTRADO", "INTENSO","500"],
+        "mandatory_terms": ["DOWNY","CONCENTRADO","BRISA","INTENSO","500"],
         "optional_terms": ["PERFUME", "RENDE", "2L"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
@@ -1608,14 +1594,14 @@
         "ean": "7500435243612"
     },
     {
-        "mandatory_terms": ["DOWNY","CONCENTRADO","SUAVE","1,5"],
-        "optional_terms": ["PERFUME","BRISA","TEMPO"],
+        "mandatory_terms": ["DOWNY","CONCENTRADO","BRISA","SUAVE","1.5"],
+        "optional_terms": ["PERFUME","TEMPO"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435243643"
     },
     {
-        "mandatory_terms": ["DOWNY","CONCENTRADO","SUAVE","1"],
+        "mandatory_terms": ["DOWNY","CONCENTRADO","SUAVE","BRISA","1"],
         "optional_terms": ["PERFURME","MAIS","TEMPO"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
@@ -1643,43 +1629,43 @@
         "ean": "7500435250610"
     },
     {
-        "mandatory_terms": ["DOWNY","CONCENTRADO","DURA","750"],
-        "optional_terms": ["BRISA","VERÃO", "SUAVIZANTE"],
+        "mandatory_terms": ["DOWNY","CONCENTRADO","BRISA","VERAO","750"] ,
+        "optional_terms": ["PERFUME","DURA","RENDE","PROTEGE","MAUS","CHEIROS","REFIL", "SUAVIZANTE"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435251235"
     },
     {
-        "mandatory_terms": ["DOWNY","CONCENTRADO","SUAVE","750"],
-        "optional_terms": ["BRISA", "PROTEGE", "MAUS","CHEIROS"],
+        "mandatory_terms": ["DOWNY","CONCENTRADO","BRISA","SUAVE","750"],
+        "optional_terms": ["AMACIANTE","REFIL","PERFUME","SUAVE","TEMPO", "PROTEGE", "MAUS","CHEIROS"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435251242"
     },
     {
-        "mandatory_terms": ["DOWNY","PERFUME","INTENSO","750"],
-        "optional_terms": ["BRISA","INTENSO","CONCENTRADO"],
+        "mandatory_terms": ["DOWNY","CONCENTRADO","BRISA","INTENSO","750"],
+        "optional_terms": ["AMACIANTE","REFIL","PERFUME","PROTEGE","MAUS","CHEIROS"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435251259"
     },
     {
-        "mandatory_terms": ["DOWNY","VERAO","1,5"],
-        "optional_terms": ["PERFUME","DURA","MAIS"],
+        "mandatory_terms": ["DOWNY","CONCENTRADO","BRISA","VERAO","1.5"],
+        "optional_terms": ["GRATIS","150","PERFUME","DURA","RENDE","MAIS"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435251471"
     },
     {
-        "mandatory_terms": ["DOWNY","ALFAZEMA","500"],
-        "optional_terms": ["PERFUME","DURA","RENDE"],
+        "mandatory_terms": ["DOWNY","CONCENTRADO","LAVANDA","ALFAZEMA","500"],
+        "optional_terms": ["AMACIANTE","EXTRA","PERFUME","DURA","RENDE","PROTEGE","MAUS","ODORES"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435252195"
     },
     {
-        "mandatory_terms": ["DOWNY","CONCENTRADO","LAVANDA","1,5"],
-        "optional_terms": ["PERFUME","QUE","DURA"],
+        "mandatory_terms": ["DOWNY","CONCENTRADO","ALFAZEMA","LAVANDA","1.5"],
+        "optional_terms": ["L","AMACIANTE","PERFUME","QUE","DURA","RENDE","MAIS","NOVO"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435252218"
@@ -1706,43 +1692,43 @@
         "ean": "7506195143834"
     },
     {
-        "mandatory_terms": ["DOWNY","CONCENTRADO","LIRIOS","500"],
-        "optional_terms": ["4X","PERFUME","RENDE","2L"],
+        "mandatory_terms": ["DOWNY","CONCENTRADO","LIRIOS","CAMPO","500"],
+        "optional_terms": ["AMACIANTE","ROUPAS","TEMPO","PERFUMADAS","RENDE","2L"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7506195143858"
     },
     {
-        "mandatory_terms": ["DOWNY","CONCENTRADO","PRIMAVERA","500"],
-        "optional_terms": ["FRESCOR","PRIMAVERA","TEMPO"],
+        "mandatory_terms": ["DOWNY","CONCENTRADO","FRESCOR","PRIMAVERA","500"],
+        "optional_terms": ["RENDE","2L","ROUPAS","PERFUMADAS","MAIS","TEMPO"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7506195143872"
     },
     {
-        "mandatory_terms": ["DOWNY","CONCENTRADO","VERÃO","1"],
-        "optional_terms": ["4X","PERFUME","BRISA"],
+        "mandatory_terms": ["DOWNY","CONCENTRADO","BRISA","VERAO","1L"],
+        "optional_terms": ["AMACIANTE","4X","PERFUME","RENDE","4L"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7506339332643"
     },
     {
-        "mandatory_terms": ["DOWNY","CONCENTRADO","VERÃO","1,5"],
-        "optional_terms": ["ROUPAS","BRISA"],
+        "mandatory_terms": ["DOWNY","CONCENTRADO","BRISA","VERÃO","1.5"],
+        "optional_terms": ["AMACIANTE","ROUPAS","RENDE","6"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7506339332650"
     },
     {
-        "mandatory_terms": ["DOWNY","CONCENTRADO","LIRIOS","1"],
-        "optional_terms": ["PERFUME","QUE","DURA","CAMPO"],
+        "mandatory_terms": ["DOWNY","CONCENTRADO","LIRIOS","CAMPO","1"],
+        "optional_terms": ["PERFUME","QUE","DURA","RENDE","4"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7506339389876"
     },
     {
-        "mandatory_terms": ["DOWNY","CONCENTRADO","PERFUMADAS","1,5"],
-        "optional_terms": ["LIRIOS", "DO","CAMPO"],
+        "mandatory_terms": ["DOWNY","CONCENTRADO","LIRIOS","CAMPO","1.5"],
+        "optional_terms": ["AMACIANTE", "RENDE","6"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7506339389883"
@@ -3484,49 +3470,49 @@
         "ean": "7891150067561"
     },
     {
-        "mandatory_terms": ["HEAD", "SHOULDERS", "LIMPEZA", "EFICAZ"],
-        "optional_terms": ["200", "200ML"],
+        "mandatory_terms": ["HEAD", "SHOULDERS", "LIMPEZA", "EFICAZ","200"],
+        "optional_terms": ["100", "PROFUNDA"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
         "ean": "7500435242615"
     },
     {
-        "mandatory_terms": ["HEAD", "SHOULDERS", "LIMPEZA", "EFICAZ"],
-        "optional_terms": ["400", "400ML"],
+        "mandatory_terms": ["HEAD", "SHOULDERS", "LIMPEZA", "EFICAZ","400"],
+        "optional_terms": ["100"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
         "ean": "7500435242622"
     },
     {
-        "mandatory_terms": ["HEAD", "SHOULDERS", "LIMPEZA", "EFICAZ"],
-        "optional_terms": ["650", "650ML"],
+        "mandatory_terms": ["HEAD", "SHOULDERS", "LIMPEZA", "EFICAZ","650"],
+        "optional_terms": ["LEVE","MAIS","PAGUE","MENOS"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
         "ean": "7500435248914"
     },
     {
-        "mandatory_terms": ["HEAD", "SHOULDERS", "ANTICOCEIRA", "200"],
-        "optional_terms": ["ALIVIO", "200ML", "OLEO"],
+        "mandatory_terms": ["HEAD", "SHOULDERS","SHAMPOO", "ANTICOCEIRA", "200"],
+        "optional_terms": ["ALIVIO", "COCEIRA", "ASSOCIOADA","CASPA"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
         "ean": "7506195142035"
     },
     {
-        "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "3", "1","200"],
-        "optional_terms": ["200", "200ML", "300", "LIMPEZA", "PROFUNDA"],
+        "mandatory_terms": ["HEAD", "SHOULDERS", "3", "1","200"],
+        "optional_terms": ["SHAMPOO","MEN", "ANTICASPA", "LIMPA", "PROFUNDAMENTE", "PROTEGE","CONTRA","CASPA","SUAVIZA","CABELO"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
         "ean": "7506309865393"
     },
     {
-        "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "3", "1","400"],
-        "optional_terms": ["LIMPA", "PROFUNDAMENTE", "LIMPEZA", "PROFUNDA"],
+        "mandatory_terms": ["HEAD", "SHOULDERS", "3", "1","400"],
+        "optional_terms": ["SHAMPOO","MEN","LIMPA", "PROFUNDAMENTE", "PROTEGE", "CONTRA","CASPA","SUAVIZA","CABELO"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
         "ean": "7506309865409"
     },
     {
-        "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "MENTROL", "SPORT"],
+        "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "MENTHOL", "SPORT"],
         "optional_terms": ["REFRESCANTE", "SENSACAO"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
@@ -3547,8 +3533,8 @@
         "ean": "7500435187886"
     },
     {
-        "mandatory_terms": ["HEAD", "SHOULDERS", "ANTICOCEIRA", "400"],
-        "optional_terms": ["SHAMPOO", "ANTICASPA", "ALIVIO"],
+        "mandatory_terms": ["HEAD", "SHOULDERS","SHAMPOO", "ANTICOCEIRA", "400"],
+        "optional_terms":  ["COCEIRA","ASSOCIOADA","CASPA"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
         "ean": "7506195142042"
@@ -3569,20 +3555,20 @@
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "MENTA", "ICE", "200"],
-        "optional_terms": ["200ML", "CASPA"],
+        "optional_terms": [ "ANTI","CASPA","REFRESCANTE","SENSACAO","LIMPEZA"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
         "ean": "7501001133627"
     },
     {
-        "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "MENTA", "ICE", "400"],
-        "optional_terms": ["SENSACAO", "REFRESCANCIA"],
+        "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "MENTHOL", "SPORT", "400"],
+        "optional_terms": ["SHAMPOO","SENSACAO", "REFRESCANCIA"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
         "ean": "7501001133290"
     },
     {
-        "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "MENTA", "ICE", "650"],
+        "mandatory_terms": ["HEAD", "SHOULDERS", "MEN", "MENTA", "SPORT", "650"],
         "optional_terms": ["SHAMPOO", "ANTICASPA","PAGUE","MENOS"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
@@ -5584,8 +5570,8 @@
         "ean": "7509546696300"
     },
     {
-        "mandatory_terms": ["KIT", "PROMOCIONAL", "PANTENE", "BIOTINAMINA"],
-        "optional_terms": ["ANTIQUEDA", "NUTRICAO", "B3"],
+        "mandatory_terms": ["PANTENE", "KIT", "PROMOCIONAL", "BIOTINAMINA","B3"],
+        "optional_terms": ["ANTIQUEDA", "NUTRICAO", "300","150"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435253598"
@@ -5598,8 +5584,8 @@
         "ean": "7500435233644"
     },
     {
-        "mandatory_terms": ["KIT", "PANTENE", "COLAGENO", "MIRACLES"],
-        "optional_terms": ["HIRATA", "RESGATA", "PROMOCIONAL", "PRO-V"],
+        "mandatory_terms": ["PANTENE","KIT", "COLAGENO", "HIDRATA","RESGATA"],
+        "optional_terms": ["HIRATA", "RESGATA", "PROMOCIONAL", "PRO-V","SHAMPOO","300","CONDICIONADOR","150"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435200301"
@@ -5696,8 +5682,8 @@
         "ean": "7500435128346"
     },
     {
-        "mandatory_terms": ["PANTENE", "NUTRICAO", "MASCARA"],
-        "optional_terms": ["PRO-V", "INTENSIVA", "NUTRI","270"],
+        "mandatory_terms": ["PANTENE", "NUTRICAO","UMECTANTE" ,"MASCARA","270"],
+        "optional_terms": ["PRO-V", "INTENSIVA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435142236"
@@ -5717,43 +5703,43 @@
         "ean": "7500435248068"
     },
     {
-        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "SHAMPOO", "300"],
-        "optional_terms": ["PRO-V", "MIRACLES", "B3", "ANTIQUEDA"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "SHAMPOO", "300","B3"],
+        "optional_terms": ["PRO-V", "MIRACLES", "ANTIQUEDA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435248143"
     },
     {
-        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "SHAMPOO", "175"],
-        "optional_terms": ["PRO-V", "MIRACLES", "B3", "ANTIQUEDA"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "SHAMPOO", "175","B3"],
+        "optional_terms": ["PRO-V", "MIRACLES",  "ANTIQUEDA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435248136"
     },
     {
-        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "CONDICIONADOR", "510"],
-        "optional_terms": ["PRO-V", "MIRACLES", "B3", "ANTIQUEDA"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "CONDICIONADOR","B3", "510"],
+        "optional_terms": ["PRO-V", "MIRACLES", "ANTIQUEDA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435248051"
     },
     {
-        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "CONDICIONADOR", "250"],
-        "optional_terms": ["PRO-V", "MIRACLES", "B3", "ANTIQUEDA"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "CONDICIONADOR", "250","B3"],
+        "optional_terms": ["PRO-V", "MIRACLES", "ANTIQUEDA","NUTRICAO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435248167"
     },
     {
-        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "CONDICIONADOR", "150"],
-        "optional_terms": ["PRO-V", "MIRACLES", "B3", "ANTIQUEDA"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "CONDICIONADOR", "150","B3"],
+        "optional_terms": ["PRO-V", "MIRACLES", "ANTIQUEDA","NUTRICAO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435248174"
     },
     {
-        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "CREME", "PENTEAR"],
-        "optional_terms": ["PRO-V", "MIRACLES", "B3",  "DE","ANTIQUEBRA","240"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "B3","CREME","PENTEAR"],
+        "optional_terms": ["240","PRO-V","ANTIQUEDA","NUTRICAO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435248181"
@@ -5767,35 +5753,35 @@
     },
     {
         "mandatory_terms": ["PANTENE", "RESTAURACAO", "SHAMPOO", "400"],
-        "optional_terms": ["PRO-V","OLEO","ARGAN"],
+        "optional_terms": ["PRO-V","AJUDA","REPARAR","DANO","CADA","USO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7501006721133"
     },
     {
         "mandatory_terms": ["PANTENE", "RESTAURACAO", "SHAMPOO", "175"],
-        "optional_terms": ["PRO-V","OLEO","ARGAN"],
+        "optional_terms": ["PRO-V","AJUDA","REPARAR","DANO","CADA","USO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435125468"
     },
     {
         "mandatory_terms": ["PANTENE", "RESTAURACAO", "CONDICIONADOR", "400"],
-        "optional_terms": ["PRO-V","OLEO","ARGAN"],
+        "optional_terms": ["PRO-V","AJUDA","REPARAR","DANO","CADA","USO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7501006721317"
     },
     {
         "mandatory_terms": ["PANTENE", "RESTAURACAO", "CONDICIONADOR", "175"],
-        "optional_terms": ["PRO-V","OLEO","ARGAN"],
+        "optional_terms": ["PRO-V","REPARAR","DANO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435125451"
     },
     {
-        "mandatory_terms": ["PANTENE", "RESTAURACAO", "HIDRATACAO", "NUTRITIVA"],
-        "optional_terms": ["PRO-V","NUTRI", "270"],
+        "mandatory_terms": ["PANTENE", "RESTAURACAO", "HIDRATACAO", "NUTRITIVA", "270"],
+        "optional_terms": ["PRO-V","NUTRI","INTENSIVA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435142243"
@@ -5864,7 +5850,7 @@
         "ean": "7500435232777"
     },
     {
-        "mandatory_terms": ["PANTENE", "QUERATINA", "SHAMPOO", "1"],
+        "mandatory_terms": ["PANTENE", "QUERATINA", "SHAMPOO", "1L"],
         "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "BLINDA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
@@ -5914,21 +5900,21 @@
     },
     {
         "mandatory_terms": ["PANTENE", "HIDRATACAO", "SHAMPOO", "400"],
-        "optional_terms": ["PRO-V","INTENSA","ML"],
+        "optional_terms": ["PRO-V","INTENSA","DESDE","PRIMEIRO","USO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7501007413921"
     },
     {
         "mandatory_terms": ["PANTENE", "HIDRATACAO", "SHAMPOO", "175"],
-        "optional_terms": ["PRO-V","OLEO","ML"],
+        "optional_terms": ["PRO-V","INTENSA","PRIMEIRO","USO","GLICERINA","OLEO","COCO","PRO-VITAMINAS"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435125383"
     },
     {
         "mandatory_terms": ["PANTENE", "HIDRATACAO", "CONDICIONADOR", "400"],
-        "optional_terms": ["PRO-V","OLEO","ML"],
+        "optional_terms": ["PRO-V","INTENSA","DESDE","PRIMEIRO","USO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7501007413105"
@@ -5941,8 +5927,8 @@
         "ean": "7500435125376"
     },
     {
-        "mandatory_terms": ["PANTENE", "MASCARA","CACHOS"],
-        "optional_terms": ["PRO-V", "550","EM", "3", "1","NUTRITIVO"],
+        "mandatory_terms": ["PANTENE", "MASCARA","HIDRATACAO","270"],
+        "optional_terms": ["INTENSIVA","REPARACAO", "QUERATINA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435142229"
@@ -5962,43 +5948,43 @@
         "ean": "7500435241724"
     },
     {
-        "mandatory_terms": ["PANTENE", "HIDRATACAO", "MASCARA"],
-        "optional_terms": ["PRO-V", "270", "INTENSIVA", "NUTRI"],
+        "mandatory_terms": ["PANTENE", "HIDRATACAO", "MASCARA","270"],
+        "optional_terms": ["PRO-V", "INTENSIVA", "NUTRI"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435142229"
     },
     {
-        "mandatory_terms": ["PANTENE", "3", "MINUTOS", "HIDRATACAO" ],
-        "optional_terms": ["PRO-V","MILAGROSOS","170","CONDICIONADOR"],
+        "mandatory_terms": ["PANTENE", "3","MINUTOS","MILAGROSOS","HIDRATACAO" ],
+        "optional_terms": ["PRO-V","170","CONDICIONADOR"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435116305"
     },
     {
         "mandatory_terms": ["PANTENE", "LISO", "EXTREMO", "SHAMPOO", "400"],
-        "optional_terms": ["PRO-V","EXTRATO","OLEO","ML"],
+        "optional_terms": ["PRO-V","EXTRATO","SEDA","OLEO","DESDE","PRIMEIRO","USO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7501001165246"
     },
     {
         "mandatory_terms": ["PANTENE", "LISO", "EXTREMO", "SHAMPOO", "175"],
-        "optional_terms": ["PRO-V", "ML", "EXTRATO","OLEO"],
+        "optional_terms": ["PRO-V", "EXTRATO","OLEO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435125420"
     },
     {
-        "mandatory_terms": ["PANTENE", "LISO", "CONDICIONADOR", "400"],
-        "optional_terms": ["PRO-V","ML","EXTREMO","OLEO"],
+        "mandatory_terms": ["PANTENE", "LISO","EXTREMO","CONDICIONADOR", "400"],
+        "optional_terms": ["PRO-V","DESDE","PRIMEIRO","USO","OLEO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7501001165253"
     },
     {
-        "mandatory_terms": ["PANTENE", "LISO", "CONDICIONADOR", "175"],
-        "optional_terms": ["PRO-V", "EXTREMO", "ML"],
+        "mandatory_terms": ["PANTENE", "LISO","EXTREMO","CONDICIONADOR", "175"],
+        "optional_terms": ["PRO-V"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435125413"
@@ -6025,22 +6011,22 @@
         "ean": "7506309841816"
     },
     {
-        "mandatory_terms": ["PANTENE", "LISO", "CREME",  "PENTEAR"],
-        "optional_terms": ["PRO-V","PARA","240"],
+        "mandatory_terms": ["PANTENE", "CREME", "PENTEAR","LISO","240"],
+        "optional_terms": ["PRO-V","EXTREMO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7506195167281"
     },
     {
-        "mandatory_terms": ["PANTENE", "COLAGENO", "CREME",  "PENTEAR"],
-        "optional_terms": ["PRO-V","PARA","240","HIDRATA","RESGATA"],
+        "mandatory_terms": ["PANTENE","COLAGENO", "CREME","PENTEAR"],
+        "optional_terms": ["PRO-V","240","HIDRATA","RESGATA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7506195167281"
     },
     {
-        "mandatory_terms": ["PANTENE", "CRESPO", "CREME",  "PENTEAR"],
-        "optional_terms": ["PRO-V","PARA","240"],
+        "mandatory_terms": ["PANTENE", "CRESPO", "CREME",  "PENTEAR","240"],
+        "optional_terms": ["PRO-V","PARA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435118514"
@@ -6054,14 +6040,14 @@
     },
     {
         "mandatory_terms": ["PANTENE", "BRILHO", "SHAMPOO", "400"],
-        "optional_terms": ["PRO-V","EXTREMO","ML"],
+        "optional_terms": ["PRO-V","EXTREMO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7501007457796"
     },
     {
         "mandatory_terms": ["PANTENE", "BRILHO", "SHAMPOO", "200"],
-        "optional_terms": ["PRO-V","EXTREMO","ML"],
+        "optional_terms": ["PRO-V","EXTREMO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7501007457789"
@@ -6082,14 +6068,14 @@
     },
     {
         "mandatory_terms": ["PANTENE", "BAMBU", "CONDICIONADOR", "150"],
-        "optional_terms": ["PRO-V", "NUTRE", "CRESCE"],
+        "optional_terms": ["PRO-V", "NUTRE", "CRESCE","OLEO","RICINO","CAFEINA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435154260"
     },
     {
         "mandatory_terms": ["PANTENE", "BAMBU", "CONDICIONADOR", "250"],
-        "optional_terms": ["PRO-V", "NUTRE", "CRESCE"],
+        "optional_terms": ["PRO-V", "NUTRE", "CRESCE","OLEO","RICINO","CAFEINA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435154277"
@@ -6102,22 +6088,22 @@
         "ean": "7500435154284"
     },
     {
-        "mandatory_terms": ["PANTENE", "BAMBU", "MASCARA" ],
-        "optional_terms": ["PRO-V", "NUTRE", "CRESCE","NUTRITIVA", "600"],
+        "mandatory_terms": ["PANTENE", "BAMBU", "MASCARA", "600" ],
+        "optional_terms": ["PRO-V", "NUTRE", "CRESCE","NUTRITIVA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435154291"
     },
     {
-        "mandatory_terms": ["PANTENE", "BAMBU", "CREME","PENTEAR"],
-        "optional_terms": ["PRO-V","240","PARA","NUTRE"],
+        "mandatory_terms": ["PANTENE", "BAMBU", "CREME","PENTEAR","240"],
+        "optional_terms": ["PRO-V","NUTRE","CRESCE"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435154307"
     },
     {
-        "mandatory_terms": ["PANTENE", "COLAGENO", "SHAMPOO", "510"],
-        "optional_terms": ["PRO-V", "MIRACLES", "HIDRATA", "RESGATA"],
+        "mandatory_terms": ["PANTENE", "COLAGENO", "SHAMPOO","HIDRATA", "510"],
+        "optional_terms": ["PRO-V", "MIRACLES","RESGATA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435151498"
@@ -6144,8 +6130,8 @@
         "ean": "7500435243117"
     },
     {
-        "mandatory_terms": ["PANTENE", "COLAGENO", "CONDICIONADOR", "510"],
-        "optional_terms": ["PRO-V", "MIRACLES", "HIDRATA", "RESGATA"],
+        "mandatory_terms": ["PANTENE", "COLAGENO", "CONDICIONADOR", "HIDRATA", "510"],
+        "optional_terms": ["PRO-V", "MIRACLES","RESGATA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435151504"
@@ -6179,8 +6165,8 @@
         "ean": "7500435197038"
     },
     {
-        "mandatory_terms": ["PANTENE", "COLAGENO", "MASCARA"],
-        "optional_terms": ["PRO-V", "MIRACLES", "HIDRATA", "HIDRATANTE","RESGATA", "550"],
+        "mandatory_terms": ["PANTENE", "COLAGENO", "MASCARA","550"],
+        "optional_terms": ["PRO-V", "MIRACLES", "HIDRATA", "HIDRATANTE","RESGATA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435197014"
@@ -6193,8 +6179,8 @@
         "ean": "7500435136952"
     },
     {
-        "mandatory_terms": ["PANTENE", "OLEO", "MILAGROSO", "QUERATINA"],
-        "optional_terms": ["PRO-V", "MIRACLES","95"],
+        "mandatory_terms": ["PANTENE", "OLEO", "MILAGROSO", "QUERATINA","95"],
+        "optional_terms": ["PRO-V", "MIRACLES"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435240512"
@@ -6208,7 +6194,7 @@
     },
     {
         "mandatory_terms": ["PANTENE", "HIDRATA", "CREME",  "PENTEAR", "240"],
-        "optional_terms": ["PRO-V", "INTENSA", "CONTROLA", "FRIZZ", "SEM", "SAL"],
+        "optional_terms": ["PRO-V", "INTENSA", "CONTROLA", "FRIZZ"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435118583"
@@ -6291,43 +6277,36 @@
         "ean": "7500435106405"
     },
     {
-        "mandatory_terms": ["PANTENE","RECONSTRUCAO", "AMPOLA","3"],
-        "optional_terms": ["PRO-V", "POTENCIALIZADOR", "RECONSTROI"],
+        "mandatory_terms": ["PANTENE","RECONSTRUCAO", "REVITALIZADORA","15"],
+        "optional_terms": ["TODO", "PODER", "AMPOLA","CAPILAR","3"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7506309889375"
     },
     {
-        "mandatory_terms": ["PANTENE","VOLUME", "MULTIPLIER"],
-        "optional_terms": ["PRO-V", "COLAGENO","PANTENOL", "BAMBU"],
-        "brand": "PANTENE",
-        "ean_brand": "7500000000001",
-        "ean": "7506309889375"
-    },
-    {
-        "mandatory_terms": ["PANTENE","SHOT", "AMPOLA"],
-        "optional_terms": ["PRO-V", "AMPOLAS", "3","PODEROSA" , "15"],
+        "mandatory_terms": ["PANTENE","SHOT", "AMPOLA","RECONSTROI","15"],
+        "optional_terms": ["PRO-V", "AMPOLAS", "3","PODEROSA" ],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435146906"
     },
     {
-        "mandatory_terms": ["PANTENE","HIDRATACAO", "3","AMPOLAS"],
-        "optional_terms": ["PRO-V", "3","REVITALIZADORA" ,"UNIDADES", "15","NUTRI-PEROLAS","CAPILAR"],
+        "mandatory_terms": ["PANTENE","HIDRATACAO", "PODEROSA","15","AMPOLA"],
+        "optional_terms": ["PRO-V", "CAPILAR","3"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7506309889399"
     },
     {
-        "mandatory_terms": ["PANTENE","NUTRICAO","UMECTANTE"],
-        "optional_terms": ["PRO-V", "AMPOLAS", "3", "UNIDADES", "15"],
+        "mandatory_terms": ["PANTENE","NUTRICAO","UMECTANTE","AMPOLA","CAPILAR"],
+        "optional_terms": ["PRO-V", "3", "UNIDADES", "15","FORMULA","NUTRI-PEROLA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435020442"
     },
     {
-        "mandatory_terms": ["PANTENE","RECONSTRUCAO","1"],
-        "optional_terms": ["PRO-V","NUTRI" ,"UNIDADES", "15"],
+        "mandatory_terms": ["PANTENE","RECONSTRUCAO","REVITALIZADORA","AMPOLA","15"],
+        "optional_terms": ["PRO-V","NUTRI" ,"UNIDADES", "CAPILAR"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7506309889368"
@@ -6627,7 +6606,7 @@
     },  
 
     {
-        "mandatory_terms":["PANTENE","RESTAURACAO","CONDICIONADOR","PRO-V"],
+        "mandatory_terms":["PANTENE","RESTAURACAO","CONDICIONADOR","750ML"],
         "optional_terms":["PRO-V"],
         "brand":"PANTENE",
         "ean_brand":"7500000000001",
@@ -6936,15 +6915,15 @@
         "ean":"7500435260886"
     },    
     {
-        "mandatory_terms":["DOWNY","PERFUME","FIXACAO","AMACIANTE","REFIL"],
-        "optional_terms":["VERAO","TROPICAL","CONCENTRADO","NOVA","FORMULA"],
+        "mandatory_terms":["DOWNY","AMACIANTE","VERAO","TROPICAL","REFIL"],
+        "optional_terms":["750","CONCENTRADO","NOVA","FORMULA"],
         "brand":"DOWNY",
         "ean_brand":"7189999999936",
         "ean":"7500435259521"
     },    
     {
-        "mandatory_terms":["DOWNY","AMACIANTE","PERFUME","INTENSO","500"],
-        "optional_terms":["GRATIS","50","ALTA","FIXACAO"],
+        "mandatory_terms":["DOWNY","AMACIANTE","BRISA","INTENSO","500"],
+        "optional_terms":["GRATIS","50","ALTA","FIXACAO","NOVA"],
         "brand":"DOWNY",
         "ean_brand":"7189999999936",
         "ean":"7500435259088"
@@ -6964,29 +6943,29 @@
         "ean":"7500435259569"
     },    
     {
-        "mandatory_terms":["ORAL-B","BRANQUEAMENTO","EXTRA","BRANCO"],
-        "optional_terms":["MENTA","FRESCA","PRECO","ESPECIAL"],
+        "mandatory_terms":["ORAL-B","BRANQUEAMENTO","EXTRA","BRANCO","3X"],
+        "optional_terms":["CREME","DENTAL","PRECO","ESPECIAL"],
         "brand":"ORAL-B",
         "ean_brand":"7189999999927",
         "ean":"7500435257824"
     },    
     {
-        "mandatory_terms":["DOWNY","AMACIANTE","PERFUME","FIXACAO","1.5L"],
-        "optional_terms":["VERAO","TROPICAL","NOVA","FORMULA","6L"],
+        "mandatory_terms":["DOWNY","AMACIANTE","VERAO","TROPICAL","1.5L"],
+        "optional_terms":["CONCENTRADO","PERFUME","ALTA","FIXACAO","DURACAO","SUAVIZANTE","NOVA","FORMULA","6L"],
         "brand":"DOWNY",
         "ean_brand":"7189999999936",
         "ean":"7500435259576"
     },            
     {
-        "mandatory_terms":["DOWNY","AMACIANTE","PERFUME","FIXACAO","1L"],
-        "optional_terms":["VERAO","TROPICAL","CONCENTRADO","NOVA","FORMULA"],
+        "mandatory_terms":["DOWNY","AMACIANTE","VERAO","TROPICAL","1L"],
+        "optional_terms":["CONCENTRADO","NOVA","FORMULA","SUAVIZANTE","PERFUME","ALTA","FIXACAO","DURACAO"],
         "brand":"DOWNY",
         "ean_brand":"7189999999936",
         "ean":"7500435259583"
     },  
     {
-        "mandatory_terms":["DOWNY","AMACIANTE","PERFUME","FIXACAO","500"],
-        "optional_terms":["VERAO","TROPICAL","CONCENTRADO"],
+        "mandatory_terms":["DOWNY","AMACIANTE","VERAO","TROPICAL","500"],
+        "optional_terms":["CONCENTRADO","SUAVIZANTE","PERFUME","ALTA","FIXACAO"],
         "brand":"DOWNY",
         "ean_brand":"7189999999936",
         "ean":"7500435259552"
@@ -7034,8 +7013,8 @@
         "ean":"7500435125000"
     },  
     {
-        "mandatory_terms":["DOWNY","CONCENTRADO","ALFAZEMA","PERFUME","DURA"],
-        "optional_terms":["NOVO","RENDE","LAVANDA","EXTRA"],
+        "mandatory_terms":["DOWNY","CONCENTRADO","ALFAZEMA","LAVANDA","1"],
+        "optional_terms":["L","AMACIANTE","NOVO","PERFUME","DURA","RENDE","MAIS","EXTRA"],
         "brand":"DOWNY",
         "ean_brand":"7189999999936",
         "ean":"7500435252201"
@@ -7060,13 +7039,6 @@
         "brand":"OLD SPICE",
         "ean_brand":"7189999999930",
         "ean":"7506309872513"
-    },  
-    {
-        "mandatory_terms":["ORAL-B","ESSENTIAL","FLOSS"],
-        "optional_terms":["25M","LIMPA","ONDE","ESCOVA","ALCANCA","HORTELA"],
-        "brand":"ORAL-B",
-        "ean_brand":"7189999999927",
-        "ean":"7800005081225"
     },  
     {
         "mandatory_terms":["ORAL-B","EXTRA","BRANCO"],
@@ -7197,8 +7169,8 @@
         "ean":"7500435146630"
     },
     {
-        "mandatory_terms":["ALWAYS","NOTURNO","ULTRAFINO","SECA","ABSORVENTES"],
-        "optional_terms":["G","GRANDE","4X","PROTECAO"],
+        "mandatory_terms":["ALWAYS","NOTURNO","ULTRAFINO","G","8"],
+        "optional_terms":["ABSORVENTES","4X","PROTECAO"],
         "brand":"ALWAYS",
         "ean_brand":"7189999999928",
         "ean":"7590002012383"
@@ -7331,8 +7303,8 @@
     }, 
     
     {
-        "mandatory_terms":["ALWAYS","P","ABSORVENTES","48","4X"],
-        "optional_terms":["PROTECAO","7","GRATIS","FLUXO","MEDIO","SUAVE","ABAS"],
+        "mandatory_terms":["ALWAYS","ABSORVENTES","P","48","4X"],
+        "optional_terms":["PROTECAO","7","GRATIS","FLUXO","MEDIO","SUAVE","COM","ABAS"],
         "brand":"ALWAYS",
         "ean_brand":"7189999999928",
         "ean":"7500435248341"
@@ -7345,8 +7317,8 @@
         "ean":"7500435140973"
     }, 
     {
-        "mandatory_terms":["PAMPERS","p","42","SUPERSEC"],
-        "optional_terms":["ABSORCAO","VAZAMENTOS"],
+        "mandatory_terms":["PAMPERS","P","42","SUPERSEC"],
+        "optional_terms":["FRALDAS","ABSORCAO","VAZAMENTOS"],
         "brand":"PAMPERS",
         "ean_brand":"7189999999931",
         "ean":"7500435239417"
@@ -7408,15 +7380,15 @@
         "ean":"7500435233408"
     }, 
     {
-        "mandatory_terms":["ARIEL","CLASSICO","BRANCO","COLORIDOS","RADIANTES"],
-        "optional_terms":["REFIL","1.8"],
+        "mandatory_terms":["ARIEL","CLASSICO","BRANCO","COLORIDOS","1.8"],
+        "optional_terms":["REFIL","RADIANTES"],
         "brand":"ARIEL",
         "ean_brand":"7189999999934",
         "ean":"7500435142007"
     }, 
     {
-        "mandatory_terms":["PAMPERS","SUPERSEQUINHA","XXG","66"],
-        "optional_terms":["FRALDAS","LEVE","MAIS","PAGUE","MENOS"],
+        "mandatory_terms":["PAMPERS","SUPERSEQUINHA","XXG","66","FRALDAS"],
+        "optional_terms":["BABY","SHARK","LEVE","MAIS","PAGUE","MENOS"],
         "brand":"PAMPERS",
         "ean_brand":"7189999999931",
         "ean":"7500435250184"
@@ -7436,8 +7408,8 @@
         "ean":"7500435167895"
     }, 
     {
-        "mandatory_terms":["ARIEL","SUAVE","GENTIL","HIPOALERGENICO"],
-        "optional_terms":["PAMPERS","1.2"],
+        "mandatory_terms":["ARIEL","SUAVE","GENTIL","HIPOALERGENICO","1.2"],
+        "optional_terms":["PAMPERS"],
         "brand":"ARIEL",
         "ean_brand":"7189999999934",
         "ean":"7500435156653"
@@ -7463,16 +7435,15 @@
         "ean_brand":"7189999999931",
         "ean":"7500435146173"
     }, 
-{
-        "mandatory_terms": ["GILLETTE", "CORPO", "CONTRA", "BOLINHAS", "CORTES"],
-        "optional_terms": ["LEVE", "PAGUE", "CORPO", "4", "3", "BOLINHAS", "CORTES"],
+    {
+        "mandatory_terms": ["GILLETTE", "CORPO", "BARREIRA", "PROTETORA", "4"],
+        "optional_terms": ["LEVE", "PAGUE", "CORPO", "3", "BOLINHAS", "CORTES"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435178600"
 
     },
-
-     {
+    {
         "mandatory_terms": ["ORAL-B", "GENIUS", "8000", "BLUETOOTH", "1"],
         "optional_terms": ["GENIUS", "8000", "1", "SENSI", "ULTRAFINO"],
         "brand": "ORAL-B",
@@ -7480,34 +7451,30 @@
         "ean": "4210201338451"
 
     },
-
-     {
+    {
         "mandatory_terms": ["GILLETTE", "PRESTOBARBA", "ULTRAGRIP", "3"],
         "optional_terms": ["OFERTA", "LEVE", "PAGUE", "4"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435011259"
     },
-
-     {
-        "mandatory_terms": ["DOWNY", "COLLECTION", "ADORAVEL", "1,35", "SOFISTICADOS"],
-        "optional_terms": ["COLLECTION", "ADORAVEL", "1,35", "SOFISTICADOS"],
+    {
+        "mandatory_terms": ["DOWNY", "COLLECTION", "ADORAVEL", "1.35", "SOFISTICADOS"],
+        "optional_terms": ["COLLECTION", "ADORAVEL", "1.35", "SOFISTICADOS"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435160049"
 
     },
-
-     {
-        "mandatory_terms": ["DOWNY", "NOVO", "BRISA", "SUAVE"],
-        "optional_terms": ["NOVO", "BRISA", "500", "MAIS", "TEMPO"],
+    {
+        "mandatory_terms": ["DOWNY", "BRISA", "SUAVE","500"],
+        "optional_terms": ["NOVO", "CONCENTRADO", "MAIS", "TEMPO"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435243612"
 
     },
-
-     {
+    {
         "mandatory_terms": ["ORAL-B", "9000", "CERDAS", "ULTRA", "MACIA"],
         "optional_terms": ["SENSI", "CONTEM", "3", "9000", "EXPERT", "GENGIVA"],
         "brand": "ORAL-B",
@@ -7515,17 +7482,7 @@
         "ean": "7500435152662"
 
     },
-
-     {
-        "mandatory_terms": ["GILLETTE", "MACH3", "2", "1", "BARBEAR"],
-        "optional_terms": ["ACQUAGRIP", "2", "1", "CARTUCHOS", "APARELHO"],
-        "brand": "GILLETTE",
-        "ean_brand": "7189999999933",
-        "ean": "7500435141512"
-
-    },
-
-     {
+    {
         "mandatory_terms": ["GILLETTE", "MACH3", "CORPO", "2", "REFIS"],
         "optional_terms": ["2", "REFIS", "BARBEAR", "CORPO", "BARRAS", "LUBRIFICAM", "UMEDECEM"],
         "brand": "GILLETTE",
@@ -7533,9 +7490,7 @@
         "ean": "7500435178662"
 
     },
-
-
-     {
+    {
 
         "mandatory_terms": ["GILLETTE", "STYLER", "3", "1", "APARA"],
         "optional_terms": [ "BARBEIA", "DEFINE", "PROVA", "DÁGUA"],
@@ -7544,9 +7499,7 @@
         "ean": "7702018330126"
 
     },
-
-
-     {
+    {
 
         "mandatory_terms": ["ORAL-B", "FITA", "DENTAL", "SANTIN"],
         "optional_terms": ["FITA", "DENTAL", "SANTIN", "TAPE", "25", "MENTA"],
@@ -7555,9 +7508,7 @@
         "ean": "7891051029828"
 
     },
-
-
-       {
+    {
 
         "mandatory_terms": ["GILLETTE", "CORPO", "CONTRA", "BOLINHAS", "CORTES"],
         "optional_terms": ["CORPO", "2", "APARELHOS", "DESCARTAVEIS"],
@@ -7566,9 +7517,7 @@
         "ean": "7500435178594"
 
     },
-
-
-       {
+    {
 
         "mandatory_terms": ["GILLETTE", "PRESTOBARBA", "ULTRAGRIP", "MOVEL"],
         "optional_terms": ["MOVEL", "2", "APARELHOS", "FABRICADO", "BRASIL"],
@@ -7577,9 +7526,7 @@
         "ean": "7500435180276"
 
     },
-
-
-       {
+    {
 
         "mandatory_terms": ["ORAL-B", "DISNEY", "PRINCESS", "MACIA", "SUAVE"],
         "optional_terms": ["DISNEY", "PRINCESS", "SUAVE", "3", "ANOS"],
@@ -7588,20 +7535,16 @@
         "ean": "4210201334781"
 
     },
+    {
 
-
-       {
-
-        "mandatory_terms": ["PAMPERS", "PRECO", "SUPERSEC", "XG", "68"],
-        "optional_terms": ["XG", "68", "SUPER", "FRALDAS"],
+        "mandatory_terms": ["PAMPERS", "SUPERSEC", "XG", "68"],
+        "optional_terms": ["SUPER", "FRALDAS"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435132848"
 
     },
-
-
-       {
+    {
 
         "mandatory_terms": ["GILLETTE", "HIDRA", "GEL", "ALOE", "82"],
         "optional_terms": ["HIDRA", "GEL", "ALOE", "82"],
@@ -7610,20 +7553,16 @@
         "ean": "7500435140591"
 
     },
+    {
 
-
-       {
-
-        "mandatory_terms": ["PAMPERS", "CONFORTSEC", "XG", "18", "CANAIS"],
-        "optional_terms": ["XG", "18", "CANAIS", "AR", "12H"],
+        "mandatory_terms": ["PAMPERS", "CONFORTSEC", "XG", "18", "12H"],
+        "optional_terms": ["FRALDAS","PROTECAO"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435106597"
 
     },
-
-
-        {
+    {
 
         "mandatory_terms": ["ORAL-B", "3D", "WHITE", "102", "MINERAL"],
         "optional_terms": ["3D", "WHITE", "102", "MINERAL", "CLEAN"],
@@ -7632,19 +7571,15 @@
         "ean": "7500435147194"
 
     },
+    {
 
-
-        {
-
-        "mandatory_terms": ["OLD", "SPICE", "CITRICO", "72", "150"],
-        "optional_terms": ["CITRICO", "72", "PROTECAO", "150"],
+        "mandatory_terms": ["OLD", "SPICE", "CITRICO", "72H", "150"],
+        "optional_terms": ["AEROSOL", "PERFUME", "PROTECAO"],
         "brand": "OLD SPICE",
         "ean_brand": "7189999999930",
         "ean": "7500435135078"
     },
-
-
-        {
+    {
 
         "mandatory_terms": ["PAMPERS", "PREMIUM", "CARE", "XXXG", "52"],
         "optional_terms": ["TAMANHO", "MAIOR", "MAXIMA", "ABSORCAO", "NOVO",  "HIPOALERGENICO"],
@@ -7653,20 +7588,16 @@
         "ean": "7500435232920"
 
     },
+    {
 
-
-        {
-
-        "mandatory_terms": ["PAMPERS", "CONFORT", "SEC", "G", "20", "PROTECAO"],
-        "optional_terms": ["G", "20", "12H", "PROTECAO"],
+        "mandatory_terms": ["PAMPERS", "CONFORT", "SEC", "G", "20"],
+        "optional_terms": ["12H", "PROTECAO"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435106580"
 
     },
-
-
-        {
+    {
 
         "mandatory_terms": ["ORAL-B", "5", "ACOES", "LIMPEZA", "CERDAS", "INTRADENTAIS", "PROFUNDA"],
         "optional_terms": ["ADVANCED", "5", "ACOES", "LIMPEZA", "CERDAS", "INTRADENTAIS"],
@@ -7675,9 +7606,7 @@
         "ean": "3014260014421"
 
     },
-
-
-        {
+    {
 
         "mandatory_terms": ["TRESEMME", "BRILHO", "LAMELAR"],
         "optional_terms": ["BLEND", "ACABAMENTO", "PROFISSIONAL", "OLEO", "FINALIZADOR", "60"],
@@ -7686,9 +7615,7 @@
         "ean": "4210201826620"
 
     },
-
-
-        {
+    {
 
         "mandatory_terms": ["GILLETTE", "MACH3", "BARATO", "1", "CABO", "2"],
         "optional_terms": ["MAIS", "BARATO", "FITA", "LUBRIFICANTE"],
@@ -7697,9 +7624,7 @@
         "ean": "7500435251921"
 
     },
-
-
-         {
+    {
 
         "mandatory_terms": ["GILLETTE", "MACH3", "CARBONO", "GRATIS"],
         "optional_terms": ["KIT", "4", "REFIS", "1", "CABO"],
@@ -7708,9 +7633,7 @@
         "ean": "7500435251914"
 
     },
-
-
-         {
+    {
 
         "mandatory_terms": ["GILLETTE", "KIT", "10", "REFIS", "CARBONO", "MACH3", "NECESSAIRE"],
         "optional_terms": ["PRESENTE", "10", "REFIS", "CARBONO", "NECESSAIRE"],
@@ -7719,7 +7642,7 @@
         "ean": "7500435251907"
 
     },
-        {
+    {
 
         "mandatory_terms": ["PAMPERS", "PREMIUM", "CARE", "XXG", "56", "FRALDAS"],
         "optional_terms": ["MAXIMA", "ABSORCAO"],
@@ -7816,8 +7739,8 @@
         "ean":"7500435118507"
     }, 
     {
-        "mandatory_terms":["OLD","SPICE","MAR","PROFUNDO"],
-        "optional_terms":["ANTITRANSPIRANTE","150","48","HORAS"],
+        "mandatory_terms":["OLD","SPICE","MAR","PROFUNDO","150"],
+        "optional_terms":["ANTITRANSPIRANTE","48","HORAS"],
         "brand":"OLD SPICE",
         "ean_brand":"7189999999930",
         "ean":"7500435141819"
@@ -8023,7 +7946,7 @@
     {
 
         "mandatory_terms": ["PAMPERS", "CONFORT", "SEC", "XXG", "16"],
-        "optional_terms": ["XXG", "16", "12H", "PROTECAO"],
+        "optional_terms": ["12H", "PROTECAO"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435132589"
@@ -8039,7 +7962,7 @@
     {
 
         "mandatory_terms": ["PAMPERS", "SUPERSEC", "P", "34", "SUPER"],
-        "optional_terms": ["SUPER", "SECO", "PRECO", "P", "34"],
+        "optional_terms": ["FRALDAS","SECO"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435132718"
@@ -8054,8 +7977,8 @@
     },
     {
 
-        "mandatory_terms": ["GILLETTE", "PRESTOBARBA", "3", "2", "APARELHOS", "COMFORRTGEL"],
-        "optional_terms": ["3", "2", "APARELHOS", "COMFORTGEL", "SENSITIVE"],
+        "mandatory_terms": ["GILLETTE", "PRESTOBARBA", "3", "SENSITIVE", "COMFORRTGEL"],
+        "optional_terms": ["APARELHOS"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7506339337525"
@@ -8078,7 +8001,7 @@
     },
     {
 
-        "mandatory_terms": ["PANTENE", "COLAGENO", "PRO-V", "MIRACLES", "CREME"],
+        "mandatory_terms": ["PANTENE", "COLAGENO", "HIDRATA", "RESGATA", "240"],
         "optional_terms": ["COLAGENO", "240", "CREME", "PENTEAR", "HIDRATA", "RESGATA","FINALIZA","REVITALIZA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
@@ -8126,14 +8049,6 @@
     },
     {
 
-        "mandatory_terms": ["GILLETTE", "PRESTOBARBA",  "CABECA", "MOVEL", "2"],
-        "optional_terms": ["CABECA", "MOVEL", "2", "UNIDADES"],
-        "brand": "GILLETTE",
-        "ean_brand": "7189999999933",
-        "ean": "7500435169677"
-    },
-    {
-
         "mandatory_terms": ["ORAL-B", "DISNEY", "PRINCESS", "REMOVE"],
         "optional_terms": ["REMOVE", "PLACA", "PREVINE", "CARIES", "3", "PRINCESS"],
         "brand": "ORAL-B",
@@ -8151,7 +8066,7 @@
     {
 
         "mandatory_terms": ["ORAL-B", "PASTA", "DENTAL", "FLUOR", "175"],
-        "optional_terms": ["PASTA", "DENTAL", "100%", "CON", "FLUOR", "LEVE", "PAGUE"],
+        "optional_terms": ["100%", "FLUOR", "LEVE", "PAGUE"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435221443"
@@ -8166,8 +8081,8 @@
     },
     {
 
-        "mandatory_terms": ["ALWAYS", "SUAVE", "8", "ABSORVENTES", "SUPER", "PROTECAO"],
-        "optional_terms": ["SEM", "ABAS"],
+        "mandatory_terms": ["ALWAYS", "SUAVE", "8", "ABSORVENTES"],
+        "optional_terms": ["SEM", "ABAS","SUPER","PROTECAO"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435127271"
@@ -8182,7 +8097,7 @@
     {
 
         "mandatory_terms": ["PAMPERS", "PANTS", "XXG", "28"],
-        "optional_terms": ["XXG", "28", "AJUSTE", "TOTAL"],
+        "optional_terms": ["AJUSTE", "TOTAL"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435146258"
@@ -8194,8 +8109,6 @@
         "ean_brand": "7189999999927",
         "ean": "7500435151948"
     },
-
-
     {
 
         "mandatory_terms": ["PAMPERS", "CONFORT", "SEC", "24", "M" ],
@@ -8228,7 +8141,7 @@
         "ean_brand": "7189999999933",
         "ean": "7500435167246"
     },
-        {
+    {
         "mandatory_terms":["PROBAK","II","DUAS","LAMINAS"],
         "optional_terms":["CABO","ANTIDESLIZANTE"],
         "brand":"PROBAK",
@@ -8328,7 +8241,7 @@
     },
     {
         "mandatory_terms":["GILLETTE","MACH","3","8"],
-        "optional_terms":["PACK","ANUAL"],
+        "optional_terms":["PAGUE","MENOS","PACK","ANUAL"],
         "brand":"GILLETTE",
         "ean_brand":"7189999999933",
         "ean":"7500435110013"
@@ -8474,8 +8387,8 @@
         "ean":"7500435203999"
     },
     {
-        "mandatory_terms":["GILLETTE","VENUS","SUAVE","INTIMA"],
-        "optional_terms":["SENSITIVE","CORPO","PRECO","ESPECIAL"],
+        "mandatory_terms":["GILLETTE","VENUS","SUAVE","INTIMA","4"],
+        "optional_terms":["2","SENSITIVE","CORPO","PRECO","ESPECIAL"],
         "brand":"GILLETTE VENUS",
         "ean_brand":"7189999999914",
         "ean":"7500435248808"
@@ -8629,8 +8542,8 @@
         "ean": "7500435160285"
     },
     {
-        "mandatory_terms": ["GILLETTE","MACH","3","SENSITIVE"],
-        "optional_terms": ["8","PAGUE","MENOS"],
+        "mandatory_terms": ["GILLETTE","MACH","3","SENSITIVE","8"],
+        "optional_terms": ["PAGUE","MENOS"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435110020"
@@ -8699,8 +8612,8 @@
         "ean": "7500435130813"
     },
     {
-        "mandatory_terms": ["GILLETTE","MOVEL","COMFORTGEL"],
-        "optional_terms": ["LEVE","4","PAGUE","3"],
+        "mandatory_terms": ["GILLETTE","PRESTOBARBA","3","EXTRA","SUAVE"],
+        "optional_terms": ["PAGUE","MENOS","50%","PLASTICO","RECICLADO"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7501001109653"
@@ -9016,7 +8929,7 @@
     },
 
     {
-        "mandatory_terms": ["AQUA","FAST","HARMONIA","1,5","AMACIANTE"],
+        "mandatory_terms": ["AQUA","FAST","HARMONIA","1.5","AMACIANTE"],
         "optional_terms": ["RENDE","6"],
         "brand": "AQUA FAST",
         "ean_brand": "7189999999964",
@@ -9155,7 +9068,7 @@
         "ean": "7898920699151"
     },
     {
-        "mandatory_terms": ["FOFO","AZUL","TUDAO","1,5","CONCENTRADO"],
+        "mandatory_terms": ["FOFO","AZUL","TUDAO","1.5","CONCENTRADO"],
         "optional_terms": ["EMBALAGEM","ECONOMICA","MUUUUUITO"],
         "brand": "FOFO",
         "ean_brand": "7189999999925",
@@ -9177,7 +9090,7 @@
         "ean": "7894650013861"
     },
     {
-        "mandatory_terms": ["GOTA","LIMPA","PO","1,6","ORTODONTICOS"],
+        "mandatory_terms": ["GOTA","LIMPA","PO","1.6","ORTODONTICOS"],
         "optional_terms": ["PERFUME","INTENSO","NOVA","FORMULA"],
         "brand": "GOTA LIMPA",
         "ean_brand": "7189999999966",
@@ -9863,8 +9776,8 @@
         "ean": "7896007541850"
     },
     {
-        "mandatory_terms": ["INTIMUS","NOTURNO","COM","ABAS","SECA"],
-        "optional_terms": ["INSTA","CENTRO","ABSORVE", "RAPIDO"],
+        "mandatory_terms": ["INTIMUS","NOTURNO","COM","ABAS","8"],
+        "optional_terms": ["INSTA","CENTRO","ABSORVE", "RAPIDO","SECA"],
         "brand": "INTIMUS",
         "ean_brand": "7189999999924",
         "ean": "7896007542437"
@@ -11110,792 +11023,792 @@
         "ean": "7896098905203"
     },
     {
-        "mandatory_terms": ["HUGGIES","TRIPLA","PROTECAO","XXG","32"],
-        "optional_terms": ["XTRA","PROTECT", "SEQUINHO","TODA","NOITE"],
+        "mandatory_terms": ["HUGGIES", "FRALDA", "TRIPLA", "PROTECAO", "XXG"],
+        "optional_terms": ["32", "UNIDADES", "XTRA", "PROTECT", "SEQUINHO"],
         "brand": "HUGGIES",
         "ean_brand": "7189999999942",
         "ean": "7896007551347"
     },
     {
-        "mandatory_terms": ["HUGGIES","SUPREME","CARE","XG","16"],
-        "optional_terms": ["XTRA","FLEX"],
+        "mandatory_terms": ["HUGGIES", "FRALDA", "SUPREME", "CARE", "XG"],
+        "optional_terms": ["16", "UNIDADES", "XTRA", "FLEX"],
         "brand": "HUGGIES",
         "ean_brand": "7189999999942",
         "ean": "7896007548385"
     },
     {
-        "mandatory_terms": ["HUGGIES","SABONETE","BARRA","EXTRA","SUAVE"],
-        "optional_terms": ["75G","PELE", "MACIA","SAUDAVEL","CHEIROSINHA"],
+        "mandatory_terms": ["HUGGIES", "SABONETE", "BARRA", "EXTRA", "SUAVE"],
+        "optional_terms": ["75G", "PELE", "MACIA"],
         "brand": "HUGGIES",
         "ean_brand": "7189999999942",
         "ean": "7896018700369"
     },
     {
-        "mandatory_terms": ["HUGGIES","SHAMPOO","EXTRA","SUAVE"],
+        "mandatory_terms": ["HUGGIES", "SHAMPOO", "EXTRA", "SUAVE"],
         "optional_terms": ["200ML"],
         "brand": "HUGGIES",
         "ean_brand": "7189999999942",
         "ean": "7896018700307"
     },
     {
-        "mandatory_terms": ["HUGGIES","TRIPLA","PROTECAO","XXG","12"],
-        "optional_terms": ["XTRA","PROTECT"],
+        "mandatory_terms": ["HUGGIES", "FRALDA", "TRIPLA", "PROTECAO", "XXG"],
+        "optional_terms": ["12", "UNIDADES", "XTRA", "PROTECT"],
         "brand": "HUGGIES",
         "ean_brand": "7189999999942",
         "ean": "7896007550234"
     },
     {
-        "mandatory_terms": ["HUGGIES","NATURAL","CARE","P","36"],
-        "optional_terms": ["AMENDOA","ALOE", "VERA"],
+        "mandatory_terms": ["HUGGIES", "FRALDA", "NATURAL", "CARE", "P"],
+        "optional_terms": ["36", "UNIDADES", "AMENDOA", "ALOE", "VERA"],
         "brand": "HUGGIES",
         "ean_brand": "7189999999942",
         "ean": "7896007552023"
     },
     {
-        "mandatory_terms": ["HUGGIES","TRIPLA","PROTECAO","G","78"],
-        "optional_terms": ["SEQUINHO","TODA", "NOITE"],
+        "mandatory_terms": ["HUGGIES", "FRALDA", "TRIPLA", "PROTECAO", "G"],
+        "optional_terms": ["78", "UNIDADES", "SEQUINHO"],
         "brand": "HUGGIES",
         "ean_brand": "7189999999942",
         "ean": "7896007549269"
     },
     {
-        "mandatory_terms": ["HUGGIES","HIGIENE","DIARIA","TOALHAS","UMEDECIDAS"],
-        "optional_terms": ["120","EMBALAGEM", "ECOLOGICA","LIMPEZA","PASSADA"],
+        "mandatory_terms": ["HUGGIES", "TOALHAS", "UMEDECIDAS", "HIGIENE", "DIARIA"],
+        "optional_terms": ["120", "UNIDADES", "ECOLOGICA"],
         "brand": "HUGGIES",
         "ean_brand": "7189999999942",
         "ean": "7896018751002"
     },
     {
-        "mandatory_terms": ["HUGGIES","SUPREME","CARE","XXG","24"],
-        "optional_terms": ["FRALDA","ROUPINHA", "DESCARTAVEIS"],
+        "mandatory_terms": ["HUGGIES", "FRALDA", "ROUPINHA", "SUPREME", "CARE", "XXG"],
+        "optional_terms": ["24", "UNIDADES", "DESCARTAVEIS"],
         "brand": "HUGGIES",
         "ean_brand": "7189999999942",
         "ean": "7896007549702"
     },
     {
-        "mandatory_terms": ["HUGGIES","TRIPLA","PROTECAO","XXG","66"],
-        "optional_terms": ["CONTEM","FRALDAS", "SEQUINHO","TODA","NOITE"],  
+        "mandatory_terms": ["HUGGIES", "FRALDA", "TRIPLA", "PROTECAO", "XXG"],
+        "optional_terms": ["66", "UNIDADES", "SEQUINHO"],  
         "brand": "HUGGIES",
         "ean_brand": "7189999999942",
         "ean": "7896007551293"
     },
-{
-        "mandatory_terms": ["INTIMUS","SEM","ABAS","SECA","8"],
-        "optional_terms": ["NOVA","CANAIS"],
+    {
+        "mandatory_terms": ["INTIMUS", "ABSORVENTE", "SEM", "ABAS", "SECA"],
+        "optional_terms": ["8", "UNIDADES", "NOVA", "CANAIS"],
         "brand": "INTIMUS",
         "ean_brand": "7189999999924",
         "ean": "7896007540624"
     },
     {
-        "mandatory_terms": ["INTIMUS","INTERNO","16","SUPER","ABSORVENTE"],
-        "optional_terms": ["NOVO","LEVE", "MAIS"],
+        "mandatory_terms": ["INTIMUS", "INTERNO", "SUPER"],
+        "optional_terms": ["16", "UNIDADES", "ABSORVENTE", "NOVO", "LEVE", "MAIS"],
         "brand": "INTIMUS",
         "ean_brand": "7189999999924",
         "ean": "7896007542871"
     },
     {
-        "mandatory_terms": ["INTIMUS","80","ULTRA","FLEXIVEL","PROTETOR"],
-        "optional_terms": ["NOVO","LEVE", "MAIS"],
+        "mandatory_terms": ["INTIMUS", "PROTETOR", "DIARIO", "ULTRA", "FLEXIVEL"],
+        "optional_terms": ["80", "UNIDADES", "NOVO", "LEVE", "MAIS"],
         "brand": "INTIMUS",
         "ean_brand": "7189999999924",
         "ean": "7896007548118"
     },
     {
-        "mandatory_terms": ["INTIMUS","INTERNO","16","MINI","MOVIMENTO"],
-        "optional_terms": ["LEVE","MAIS", "PERFEITO","BARREIRA","AZUL"],
+        "mandatory_terms": ["INTIMUS", "INTERNO", "MINI"],
+        "optional_terms": ["16", "UNIDADES", "MOVIMENTO", "PERFEITO", "BARREIRA", "AZUL"],
         "brand": "INTIMUS",
         "ean_brand": "7189999999924",
         "ean": "7896007542857"
     },
     {
-        "mandatory_terms": ["INTIMUS","INTERNO","MEDIO","16"],
-        "optional_terms": ["NOVO","LEVE", "MAIS"],
+        "mandatory_terms": ["INTIMUS", "INTERNO", "MEDIO"],
+        "optional_terms": ["16", "UNIDADES", "NOVO", "LEVE", "MAIS"],
         "brand": "INTIMUS",
         "ean_brand": "7189999999924",
         "ean": "7896007542864"
     },
     {
-        "mandatory_terms": ["INTIMUS","24","NOITE","100%","SUAVE"],
-        "optional_terms": ["TODA","TRANQUILA", "NOITES","PROTEGIDAS"],
+        "mandatory_terms": ["INTIMUS", "NOTURNO", "SUAVE"],
+        "optional_terms": ["24", "UNIDADES", "NOITE", "TRANQUILA", "PROTEGIDAS"],
         "brand": "INTIMUS",
         "ean_brand": "7189999999924",
         "ean": "7896007554331"
     },
     {
-        "mandatory_terms": ["INTIMUS","NOTURNO","45","SECA","INTENSO"],
-        "optional_terms": ["LEVE","MAIS", "INSTANTANEAMENTE"],
+        "mandatory_terms": ["INTIMUS", "NOTURNO", "SECA"],
+        "optional_terms": ["45", "UNIDADES", "FLUXO", "INTENSO", "INSTANTANEAMENTE"],
         "brand": "INTIMUS",
         "ean_brand": "7189999999924",
         "ean": "7896007553662"
     },
     {
-        "mandatory_terms": ["INTIMUS","RESPIRAVEL","40","PROTETOR","DISCRETO"],
-        "optional_terms": ["LEVE","MAIS"],
+        "mandatory_terms": ["INTIMUS", "PROTETOR", "DIARIO", "RESPIRAVEL"],
+        "optional_terms": ["40", "UNIDADES", "DISCRETO", "LEVE", "MAIS"],
         "brand": "INTIMUS",
         "ean_brand": "7189999999924",
         "ean": "7896007548101"
     },
     {
-        "mandatory_terms": ["INTIMUS","PROTETOR","15","FRESCOR","DIARIO"],
-        "optional_terms": ["RESPIRAVEL","ALOE", "VERA"],
+        "mandatory_terms": ["INTIMUS", "PROTETOR", "DIARIO", "FRESCOR"],
+        "optional_terms": ["15", "UNIDADES", "RESPIRAVEL", "ALOE", "VERA"],
         "brand": "INTIMUS",
         "ean_brand": "7189999999924",
         "ean": "7896007541959"
     },
     {
-        "mandatory_terms": ["SEMPRE","LIVRE","ADAPT","SUAVE","8"],
-        "optional_terms": ["LEVE","8", "PAGUE","7"],
+        "mandatory_terms": ["SEMPRE", "LIVRE", "ADAPT", "SUAVE", "COM", "ABAS"],
+        "optional_terms": ["8", "UNIDADES", "LEVE", "PAGUE", "7"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010973483"
     },
     {
-        "mandatory_terms": ["SEMPRE","LIVRE","SUAVE","8","SEM"],
-        "optional_terms": ["ABAS","ADAPT"],
+        "mandatory_terms": ["SEMPRE", "LIVRE", "ADAPT", "SUAVE", "SEM", "ABAS"],
+        "optional_terms": ["8", "UNIDADES"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010503031"
     },
     {
-        "mandatory_terms": ["SEMPRE","LIVRE","NOITE","DIA","8"],
-        "optional_terms": ["SUAVE"],
+        "mandatory_terms": ["SEMPRE", "LIVRE", "NOITE", "DIA", "SUAVE"],
+        "optional_terms": ["8", "UNIDADES", "COM", "ABAS"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010035631"
     },
     {
-        "mandatory_terms": ["SEMPRE","LIVRE","ULTRA","SUAVE","8"],
-        "optional_terms": ["HIPOALERGENICO"],
+        "mandatory_terms": ["SEMPRE", "LIVRE", "ULTRA", "SUAVE", "HIPOALERGENICO"],
+        "optional_terms": ["8", "UNIDADES"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010031633"
     },
     {
-        "mandatory_terms": ["SEMPRE","LIVRE","NOTURNO","32","INTENSO"],
-        "optional_terms": ["MUITO","DUPLA", "BARREIRA", "LEVE", "MAIS"],
+        "mandatory_terms": ["SEMPRE", "LIVRE", "NOTURNO", "FLUXO", "INTENSO"],
+        "optional_terms": ["32", "UNIDADES", "BARREIRA", "LEVE", "MAIS"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010518844"
     },
     {
-        "mandatory_terms": ["SEMPRE","LIVRE","SECA","8","NOTURNO"],
-        "optional_terms": ["TRI","PROTECT"],
+        "mandatory_terms": ["SEMPRE", "LIVRE", "NOTURNO", "SECA"],
+        "optional_terms": ["8", "UNIDADES", "TRI", "PROTECT"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010694593"
     },
     {
-        "mandatory_terms": ["SEMPRE","LIVRE","DIURNO","32","SUAVE"],
-        "optional_terms": ["LEVE","MAIS"],
+        "mandatory_terms": ["SEMPRE", "LIVRE", "SUAVE", "COM", "ABAS"],
+        "optional_terms": ["32", "UNIDADES", "DIURNO", "LEVE", "MAIS"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010704780"
     },
     {
-        "mandatory_terms": ["SEMPRE","LIVRE","O.B","16","INTERNOS"],
-        "optional_terms": ["PROCOMFORT"],
+        "mandatory_terms": ["SEMPRE", "LIVRE", "OB", "INTERNO", "PROCOMFORT"],
+        "optional_terms": ["16", "UNIDADES"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010245092"
     },
     {
-        "mandatory_terms": ["SEMPRE","LIVRE","O.B","INTERNOS","10"],
-        "optional_terms": ["LEVE","PAGUE"],
+        "mandatory_terms": ["SEMPRE", "LIVRE", "OB", "INTERNO"],
+        "optional_terms": ["10", "UNIDADES", "LEVE", "PAGUE"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010886547"
     },
     {
-        "mandatory_terms": ["SEMPRE","LIVRE","O.B","10","INTERNOS"],
-        "optional_terms": ["LEVE","PAGUE","PROCOMFORT"],
+        "mandatory_terms": ["SEMPRE", "LIVRE", "OB", "INTERNO", "PROCOMFORT"],
+        "optional_terms": ["10", "UNIDADES", "LEVE", "PAGUE"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010010577"
     },
     {
-        "mandatory_terms": ["SEMPRE","LIVRE","ULTRA","SUAVE","16"],
-        "optional_terms": ["LEVE","MAIS", "PAGUE"],
+        "mandatory_terms": ["SEMPRE", "LIVRE", "ULTRA", "SUAVE"],
+        "optional_terms": ["16", "UNIDADES", "LEVE", "MAIS"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010579616"
     },
     {
-        "mandatory_terms": ["SEMPRE","LIVRE","SECA","32","NOTURNO"],
-        "optional_terms": ["LEVE","PAGUE"],
+        "mandatory_terms": ["SEMPRE", "LIVRE", "NOTURNO", "SECA"],
+        "optional_terms": ["32", "UNIDADES", "LEVE", "PAGUE"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010697518"
     },
     {
-        "mandatory_terms": ["SEMPRE","LIVRE","O.B","8","INTERNOS"],
-        "optional_terms": ["CANAIS","ANTI-VAZAMENTO"],
+        "mandatory_terms": ["SEMPRE", "LIVRE", "OB", "INTERNO"],
+        "optional_terms": ["8", "UNIDADES", "CANAIS", "ANTI-VAZAMENTO"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010245610"
     },
     {
-        "mandatory_terms": ["SEMPRE","LIVRE","O.B","8","PROCOMFORT"],
-        "optional_terms": ["INTERNOS"],
+        "mandatory_terms": ["SEMPRE", "LIVRE", "OB", "INTERNO", "PROCOMFORT"],
+        "optional_terms": ["8", "UNIDADES"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010245603"
     },
     {
-        "mandatory_terms": ["CAREFREE","15","PROTETORES","100%","PREVENCAO"],
-        "optional_terms": ["NEUTRALIZA","ODORES"],
+        "mandatory_terms": ["CAREFREE", "PROTETOR", "DIARIO", "PREVENCAO"],
+        "optional_terms": ["15", "UNIDADES", "100%", "NEUTRALIZA", "ODORES"],
         "brand": "CAREFREE",
         "ean_brand": "7189999999922",
         "ean": "7891010087722"
     },
     {
-        "mandatory_terms": ["CAREFREE","15","SEM","FRAGRANCIA"],
-        "optional_terms": ["100","NEUTRALIZA","ODORES"],
+        "mandatory_terms": ["CAREFREE", "PROTETOR", "DIARIO", "SEM", "FRAGRANCIA"],
+        "optional_terms": ["15", "UNIDADES", "NEUTRALIZA", "ODORES"],
         "brand": "CAREFREE",
         "ean_brand": "7189999999922",
         "ean": "7891010015268"
     },
     {
-        "mandatory_terms": ["CAREFREE","80","SEM","FRAGRANCIA","TODODIA"],
-        "optional_terms": ["RESPIRAVEL","LEVE","PAGUE"],
+        "mandatory_terms": ["CAREFREE", "TODODIA", "SEM", "FRAGRANCIA"],
+        "optional_terms": ["80", "UNIDADES", "RESPIRAVEL", "LEVE", "PAGUE"],
         "brand": "CAREFREE",
         "ean_brand": "7189999999922",
         "ean": "7891010604349"
     },
     {
-        "mandatory_terms": ["CAREFREE","40","SEM","FRAGRANCIA","PROTECAO"],
-        "optional_terms": ["LEVE","PAGUE"],
+        "mandatory_terms": ["CAREFREE", "PROTECAO", "SEM", "FRAGRANCIA"],
+        "optional_terms": ["40", "UNIDADES", "LEVE", "PAGUE"],
         "brand": "CAREFREE",
         "ean_brand": "7189999999922",
         "ean": "7891010875596"
     },
     {
-        "mandatory_terms": ["CAREFREE","15","FLEXI","AJUSTAVEL","PROTETORES"],
-        "optional_terms": ["TODODIA"],
+        "mandatory_terms": ["CAREFREE", "FLEXI", "AJUSTAVEL"],
+        "optional_terms": ["15", "UNIDADES", "TODODIA", "PROTETOR"],
         "brand": "CAREFREE",
         "ean_brand": "7189999999922",
         "ean": "7891010618766"
     },
     {
-        "mandatory_terms": ["CAREFREE","FLEXI","40","SEM","FRAGRANCIA"],
-        "optional_terms": ["LEVE","PAGUE","TODODIA"],
+        "mandatory_terms": ["CAREFREE", "FLEXI", "SEM", "FRAGRANCIA"],
+        "optional_terms": ["40", "UNIDADES", "LEVE", "PAGUE", "TODODIA"],
         "brand": "CAREFREE",
         "ean_brand": "7189999999922",
         "ean": "7891010618773"
     },
     {
-        "mandatory_terms": ["CAREFREE","60","COM","FRAGRANCIA","LONGO"],
-        "optional_terms": ["NOVO","EXTRA","LEVE","PAGUE"],
+        "mandatory_terms": ["CAREFREE", "LONGO", "COM", "FRAGRANCIA"],
+        "optional_terms": ["60", "UNIDADES", "EXTRA", "LEVE", "PAGUE"],
         "brand": "CAREFREE",
         "ean_brand": "7189999999922",
         "ean": "7891010257644"
     },
     {
-        "mandatory_terms": ["CAREFREE","80","FLEXI","PROTETORES","RESPIRAVEL"],
-        "optional_terms": ["SEM","FRAGRANCIA","LEVE","PAGUE"],
+        "mandatory_terms": ["CAREFREE", "FLEXI", "RESPIRAVEL"],
+        "optional_terms": ["80", "UNIDADES", "SEM", "FRAGRANCIA", "LEVE", "PAGUE"],
         "brand": "CAREFREE",
         "ean_brand": "7189999999922",
         "ean": "7891010618780"
     },
     {
-        "mandatory_terms": ["AXE","BLACK","150","ALECRIM","CEDRO"],
-        "optional_terms": ["ANTITRANSPIRANTE","AEROSOL"],
+        "mandatory_terms": ["AXE", "BLACK", "AEROSOL", "ALECRIM", "CEDRO"],
+        "optional_terms": ["150ML", "ANTITRANSPIRANTE"],
         "brand": "AXE",
         "ean_brand": "7189999999918",
         "ean": "7791293028781"
     },
     {
-        "mandatory_terms": ["AXE","150","APOLLO","VETIVER","MANDARINA"],
-        "optional_terms": ["ANTITRANSPIRANTE","AEROSOL"],
+        "mandatory_terms": ["AXE", "APOLLO", "AEROSOL", "VETIVER", "MANDARINA"],
+        "optional_terms": ["150ML", "ANTITRANSPIRANTE"],
         "brand": "AXE",
         "ean_brand": "7189999999918",
         "ean": "7791293025780"
     },
     {
-        "mandatory_terms": ["AXE","152","MUSK","FOUGERE","BAUNILHA"],
-        "optional_terms": ["ANTITRANSPIRANTE","AEROSOL"],
+        "mandatory_terms": ["AXE", "MUSK", "AEROSOL", "FOUGERE", "BAUNILHA"],
+        "optional_terms": ["152ML", "ANTITRANSPIRANTE"],
         "brand": "AXE",
         "ean_brand": "7189999999918",
         "ean": "7891150080973"
     },
     {
-        "mandatory_terms": ["AXE","APOLLO","VETIVER","MANDARINA","200"],
-        "optional_terms": ["LEVE","PAGUE"],
+        "mandatory_terms": ["AXE", "APOLLO", "VETIVER", "MANDARINA", "AEROSOL"],
+        "optional_terms": ["200ML", "LEVE", "PAGUE"],
         "brand": "AXE",
         "ean_brand": "7189999999918",
         "ean": "7891150083493"
     },
     {
-        "mandatory_terms": ["AXE","BLACK","ALECRIM","CEDRO","200"],
-        "optional_terms": ["LEVE","PAGUE"],
+        "mandatory_terms": ["AXE", "BLACK", "ALECRIM", "CEDRO", "AEROSOL"],
+        "optional_terms": ["200ML", "LEVE", "PAGUE"],
         "brand": "AXE",
         "ean_brand": "7189999999918",
         "ean": "7891150083509"
     },
     {
-        "mandatory_terms": ["NIVEA","MEN","50","DRY","IMPACT"],
-        "optional_terms": ["TESTADO","REAL", "48H"],
+        "mandatory_terms": ["NIVEA", "MEN", "DRY", "IMPACT", "ROLL-ON"],
+        "optional_terms": ["50ML", "48H", "TESTADO", "REAL"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005808257553"
     },
     {
-        "mandatory_terms": ["NIVEA","MEN","DRY","IMPACT"],
-        "optional_terms": ["72H"],
+        "mandatory_terms": ["NIVEA", "MEN", "DRY", "IMPACT", "AEROSOL"],
+        "optional_terms": ["150ML", "72H"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "7791969016029"
     },
     {
-        "mandatory_terms": ["NIVEA","MEN","ORIGIGAL","48H"],
-        "optional_terms": ["PROTECAO","CUIDADO","EFICAZ"],
+        "mandatory_terms": ["NIVEA", "MEN", "ORIGINAL", "PROTECT"],
+        "optional_terms": ["48H", "ROLL-ON", "50ML", "CUIDADO", "EFICAZ"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900396938"
     },
     {
-        "mandatory_terms": ["NIVEA","50","BLACK","WHITE","ORIGINAL"],
-        "optional_terms": ["INVISIBLE","72H"],
+        "mandatory_terms": ["NIVEA", "BLACK", "WHITE", "INVISIBLE", "ROLL-ON"],
+        "optional_terms": ["50ML", "ORIGINAL", "72H"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900036759"
     },
     {
-        "mandatory_terms": ["NIVEA","MEN","WHITE","INVISIBLE","48H"],
-        "optional_terms": ["ANIIBACTERIANO"],
+        "mandatory_terms": ["NIVEA", "MEN", "BLACK", "WHITE", "INVISIBLE"],
+        "optional_terms": ["AEROSOL", "150ML", "48H", "ANTIBACTERIANO"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900036728"
     },
     {
-        "mandatory_terms": ["NIVEA","150","DEEP","CARVAO","ATIVADO"],
-        "optional_terms": ["ANTIBACTERIANA"],
+        "mandatory_terms": ["NIVEA", "MEN", "DEEP", "CARVAO", "ATIVADO"],
+        "optional_terms": ["150ML", "AEROSOL", "ANTIBACTERIANA"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900707536"
     },
     {
-        "mandatory_terms": ["NIVEA","MEN","BLACK","WHITE","FRESH"],
-        "optional_terms": ["48H","INVISIBLE"],
+        "mandatory_terms": ["NIVEA", "MEN", "BLACK", "WHITE", "FRESH"],
+        "optional_terms": ["150ML", "AEROSOL", "48H", "INVISIBLE"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900449559"
     },
     {
-        "mandatory_terms": ["NIVEA","MEN","SENSITIVE","PROTECT","5"],
-        "optional_terms": ["BENEFICIOS","ANTI", "48H","PROTECAO","PROLONGADA"],
+        "mandatory_terms": ["NIVEA", "MEN", "SENSITIVE", "PROTECT"],
+        "optional_terms": ["AEROSOL", "150ML", "5", "BENEFICIOS", "48H"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "7791969029807"
     },
     {
-        "mandatory_terms": ["NIVEA","DRY","COMFORT","72H","150"],
-        "optional_terms": ["ACTIVE"],
+        "mandatory_terms": ["NIVEA", "DRY", "COMFORT", "AEROSOL"],
+        "optional_terms": ["150ML", "72H", "ACTIVE"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "7791969016036"
     },
     {
-        "mandatory_terms": ["NIVEA","MEN","200","ESPUMA","SENSITIVE"],
-        "optional_terms": ["ALIVIO","INSTANTANEO"],
+        "mandatory_terms": ["NIVEA", "MEN", "ESPUMA", "BARBEAR", "SENSITIVE"],
+        "optional_terms": ["200ML", "ALIVIO", "INSTANTANEO"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005808817207"
     },
     {
-        "mandatory_terms": ["NIVEA","MEN","ORIGINAL","PROTECT","72H"],
-        "optional_terms": ["EMBALAGEM","ECONOMICA"],
+        "mandatory_terms": ["NIVEA", "MEN", "ORIGINAL", "PROTECT", "AEROSOL"],
+        "optional_terms": ["200ML", "72H", "ECONOMICA"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
-        "ean": "4006000010311"
+        "ean": "400600010311"
     },
     {
-        "mandatory_terms": ["NIVEA","50","BLACK","WHITE","INVISIBLE"],
-        "optional_terms": ["CLEAR","5X","ANTI"],
+        "mandatory_terms": ["NIVEA", "BLACK", "WHITE", "INVISIBLE", "CLEAR", "ROLL-ON"],
+        "optional_terms": ["50ML", "5X", "ANTI"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900036704"
     },
     {
-        "mandatory_terms": ["NIVEA","PROTECT","CARE","0%","ALCOOL"],
-        "optional_terms": ["48H"],
+        "mandatory_terms": ["NIVEA", "PROTECT", "CARE", "0%", "ALCOOL"],
+        "optional_terms": ["ROLL-ON", "50ML", "48H"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900122186"
     },
     {
-        "mandatory_terms": ["NIVEA","BLACK","WHITE","INVISIBLE","CLEAR"],
-        "optional_terms": ["48H","ANTIMANCHAS","BRANCAS","AMARELAS"],
+        "mandatory_terms": ["NIVEA", "BLACK", "WHITE", "INVISIBLE", "CLEAR"],
+        "optional_terms": ["AEROSOL", "150ML", "48H", "ANTIMANCHAS"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900036667"
     },
     {
-        "mandatory_terms": ["NIVEA","MEN","50","ORIGINAL"],
-        "optional_terms": ["NOVO","PROTECT","TECNOLOGIA","HIDRATANTE"],
+        "mandatory_terms": ["NIVEA", "MEN", "ORIGINAL", "PROTECT", "ROLL-ON"],
+        "optional_terms": ["50ML", "HIDRATANTE"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900398598"
     },
     {
-        "mandatory_terms": ["NIVEA","MEN","INVISIBLE","ANTIBACTERIANA","48H"],
-        "optional_terms": ["EMBALAGEM","ECONOMICA"],
+        "mandatory_terms": ["NIVEA", "MEN", "INVISIBLE", "ANTIBACTERIANO", "AEROSOL"],
+        "optional_terms": ["200ML", "48H", "ECONOMICA"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900105080"
     },
     {
-        "mandatory_terms": ["NIVEA","MEN","150","DERMA","CLINICAL"],
-        "optional_terms": ["96H","DEFESA","NOVO"],
+        "mandatory_terms": ["NIVEA", "MEN", "DERMA", "CLINICAL"],
+        "optional_terms": ["150ML", "96H", "DEFESA"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900950918"
     },
     {
-        "mandatory_terms": ["NIVEA","MEN","200","DRY","IMPACT"],
-        "optional_terms": ["72H","DUPLA","0%","ALCOOL"],
+        "mandatory_terms": ["NIVEA", "MEN", "DRY", "IMPACT", "AEROSOL"],
+        "optional_terms": ["200ML", "72H", "ECONOMICA", "0% ALCOOL"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900633309"
     },
     {
-        "mandatory_terms": ["NIVEA","PEARL","BEAUTY","150"],
-        "optional_terms": ["AXILAS","SUAVES","0%","ALCOOL"],
+        "mandatory_terms": ["NIVEA", "PEARL", "BEAUTY", "AEROSOL"],
+        "optional_terms": ["150ML", "AXILAS", "SUAVES"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005808837311"
     },
     {
-        "mandatory_terms": ["NIVEA","CREME","BARBEAR","65"],
-        "optional_terms": ["SENSITIVE","NOVO"],
+        "mandatory_terms": ["NIVEA", "MEN", "CREME", "BARBEAR", "SENSITIVE"],
+        "optional_terms": ["65G"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900328472"
     },
     {
-        "mandatory_terms": ["NIVEA","MEN","FRESH","90","ACTIVE"],
-        "optional_terms": ["DURADOURO","24H"],
+        "mandatory_terms": ["NIVEA", "MEN", "FRESH", "ACTIVE", "STICK"],
+        "optional_terms": ["50ML", "90G", "24H"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4006000085487"
     },
     {
-        "mandatory_terms": ["NIVEA","MEN","DEEP","SPORT","150"],
-        "optional_terms": ["CARVAO","ATIVADO","MAXXTECH"],
+        "mandatory_terms": ["NIVEA", "MEN", "DEEP", "SPORT", "AEROSOL"],
+        "optional_terms": ["150ML", "CARVAO", "ATIVADO"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4006000104164"
     },
     {
-        "mandatory_terms": ["NIVEA","DERMA","PROTECT","150","SUOR"],
-        "optional_terms": ["EXTREMO","CLINICAL","NOVO"],
+        "mandatory_terms": ["NIVEA", "DERMA", "PROTECT", "CLINICAL"],
+        "optional_terms": ["150ML", "SUOR", "EXTREMO", "96H"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900950925"
     },
     {
-        "mandatory_terms": ["NIVEA","VITAMINA","E","50","RESTAURA"],
-        "optional_terms": ["NOVO","ACIDO","HIALURONICO"],
+        "mandatory_terms": ["NIVEA", "VITAMINA", "E", "ROLL-ON", "RESTAURA"],
+        "optional_terms": ["50ML", "ACIDO", "HIALURONICO"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4006000181950"
     },
     {
-        "mandatory_terms": ["NIVEA","MEN","CARVAO","ATIVADO","200"],
-        "optional_terms": ["EMBALAGEM","ECONOMICA","72H"],
+        "mandatory_terms": ["NIVEA", "MEN", "CARVAO", "ATIVADO", "AEROSOL"],
+        "optional_terms": ["200ML", "ECONOMICA", "72H"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4006000104256"
     },
     {
-        "mandatory_terms": ["NIVEA","PEARL","BEAUTY","200"],
-        "optional_terms": ["EMBALAGEM","ECONOMICA"],
+        "mandatory_terms": ["NIVEA", "PEARL", "BEAUTY", "AEROSOL"],
+        "optional_terms": ["200ML", "ECONOMICA"],
         "brand": "NIVEA",   
         "ean_brand": "7320000000032",
         "ean": "4006000010328"
     },
     {
-        "mandatory_terms": ["NIVEA","FRESH","SENSATION"],
-        "optional_terms": ["72H"],
+        "mandatory_terms": ["NIVEA", "FRESH", "SENSATION", "AEROSOL"],
+        "optional_terms": ["150ML", "72H", "FEMININO"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4006000015378"
     },
     {
-        "mandatory_terms": ["NIVEA","MEN","DEEP","COMFORT","LOCAO"],
-        "optional_terms": ["AFTER","SHAVE","ANTI-BACTERIAL"],
+        "mandatory_terms": ["NIVEA", "MEN", "DEEP", "LOCAO", "POS", "BARBA"],
+        "optional_terms": ["100ML", "COMFORT", "ANTIBACTERIAL"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900648419"
     },
     {
-        "mandatory_terms": ["NIVEA","MEN","65","ORIGIGAL","CREME"],
-        "optional_terms": ["NOVO","BARBEAR"],
+        "mandatory_terms": ["NIVEA", "MEN", "CREME", "BARBEAR", "ORIGINAL"],
+        "optional_terms": ["65G"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900328465"
     },
     {
-        "mandatory_terms": ["NIVEA","INTIMO","NATURAL","250"],
-        "optional_terms": ["SABONETE","LIQUIDO"],
+        "mandatory_terms": ["NIVEA", "INTIMO", "NATURAL", "SABONETE", "LIQUIDO"],
+        "optional_terms": ["250ML"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "7890704808131"
     },
     {
-        "mandatory_terms": ["NIVEA","SUN","30","400","FPS"],
-        "optional_terms": ["PROTECT","HIDRATA"],
+        "mandatory_terms": ["NIVEA", "SUN", "FPS30", "400ML"],
+        "optional_terms": ["PROTECT", "HIDRATA"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005808555345"
     },
     {
-        "mandatory_terms": ["NIVEA","EMBALAGEM","ECONOMICA","PRO-VITAMINA","B5"],
-        "optional_terms": ["DERMA","CONTROL","DEFENDE","ACIDO","HIALURONICO"],
+        "mandatory_terms": ["NIVEA", "DERMA", "CONTROL", "AEROSOL"],
+        "optional_terms": ["150ML", "PRO-VITAMINA B5", "ECONOMICA"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4006000178868"
     },
     {
-        "mandatory_terms": ["NIVEA","MEN","SABONETE","3","1"],
-        "optional_terms": ["CORPO","ROSTO","BARBEAR","PELE","SENSIVEL"],
+        "mandatory_terms": ["NIVEA", "MEN", "SABONETE", "LIQUIDO", "3 EM 1"],
+        "optional_terms": ["250ML", "PELE", "SENSIVEL"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900380975"
     },
     {
-        "mandatory_terms": ["NIVEA","MEN","DEEP","150","BEAT"],
-        "optional_terms": ["CARVAO","ATIVADO","72H"],
+        "mandatory_terms": ["NIVEA", "MEN", "DEEP", "BEAT", "AEROSOL"],
+        "optional_terms": ["150ML", "CARVAO", "ATIVADO", "72H"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900878137"
     },
     {
-        "mandatory_terms": ["NIVEA","MEN","50","ACTIVE"],
-        "optional_terms": ["DRY","FRESH","72H"],
+        "mandatory_terms": ["NIVEA", "MEN", "ACTIVE", "DRY", "FRESH", "ROLL-ON"],
+        "optional_terms": ["50ML", "72H"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900648426"
     },
     {
-        "mandatory_terms": ["NIVEA","MILK","200","48H"],
-        "optional_terms": ["NOVO","HIDRATACAO","PROFUNDA"],
+        "mandatory_terms": ["NIVEA", "MILK", "HIDRATANTE", "200ML"],
+        "optional_terms": ["48H", "HIDRATACAO", "PROFUNDA"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005808309436"
     },
     {
-        "mandatory_terms": ["NIVEA","SUN","FACIAL","50","60"],
-        "optional_terms": ["SENSIVEL","ANTI-IDADE"],
+        "mandatory_terms": ["NIVEA", "SUN", "FACIAL", "FPS50"],
+        "optional_terms": ["50ML", "SENSIVEL", "ANTI-IDADE"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900837677"
     },
     {
-        "mandatory_terms": ["NIVEA","CLEAR","INVISIBLE","ANTIBACTERIANO"],
-        "optional_terms": ["48H"],
+        "mandatory_terms": ["NIVEA", "BLACK", "WHITE", "INVISIBLE", "CLEAR", "AEROSOL"],
+        "optional_terms": ["150ML", "ANTIBACTERIANO", "48H"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900036766"
     },
     {
-        "mandatory_terms": ["NIVEA","VITAMINA-E","RESTAURA","150"],
-        "optional_terms": ["NOVO"],
+        "mandatory_terms": ["NIVEA", "VITAMINA", "E", "AEROSOL", "RESTAURA"],
+        "optional_terms": ["150ML"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4006000178899"
     },
     {
-        "mandatory_terms": ["NIVEA","INTIMO","250","FRESH","COMFORT"],
-        "optional_terms": ["SABONETRE","LIQUIDO"],
+        "mandatory_terms": ["NIVEA", "INTIMO", "FRESH", "COMFORT", "SABONETE"],
+        "optional_terms": ["250ML", "LIQUIDO"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900219626"
     },
     {
-        "mandatory_terms": ["NIVEA","CREME","CARE","250"],
-        "optional_terms": ["SABONETE","LIQUIDO"],
+        "mandatory_terms": ["NIVEA", "CREME", "CARE", "SABONETE", "LIQUIDO"],
+        "optional_terms": ["250ML"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900095268"
     },
     {
-        "mandatory_terms": ["NIVEA","PURE","MILK","90","6"],
-        "optional_terms": ["BEAUTY","ELIXIR","LEVE","PAGUE","SENSITIVE"],
+        "mandatory_terms": ["NIVEA", "PURE", "MILK", "BEAUTY", "ELIXIR"],
+        "optional_terms": ["ROLL-ON", "40ML", "SENSITIVE"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900810885"
     },
     {
-        "mandatory_terms": ["NIVEA","DEFENDE","150","PRO-VITAMINA","B5"],
-        "optional_terms": ["NOVO"],
+        "mandatory_terms": ["NIVEA", "DEFENDE", "AEROSOL", "PRO-VITAMINA B5"],
+        "optional_terms": ["150ML"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4006000178851"
     },
     {
-        "mandatory_terms": ["NIVEA","MEN","SILVER","ANTIBACTERIANO"],
-        "optional_terms": ["SECA","RAPIDO","48H"],
+        "mandatory_terms": ["NIVEA", "MEN", "SILVER", "PROTECT", "AEROSOL"],
+        "optional_terms": ["150ML", "ANTIBACTERIANO", "48H"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005808305964"
     },
     {
-        "mandatory_terms": ["NIVEA","DERMADRY","TECHNOLOGY","CLINICAL","54G"],
-        "optional_terms": ["NOVO","ANTITRANSPIRANTE"],
+        "mandatory_terms": ["NIVEA", "DERMADRY", "CLINICAL", "STICK"],
+        "optional_terms": ["54G", "ANTITRANSPIRANTE", "96H"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4006000045504"
     },
     {
-        "mandatory_terms": ["NIVEA","UNIFORMIZA","VITAMINA","C","50"],
-        "optional_terms": ["NOVO","72H"],
+        "mandatory_terms": ["NIVEA", "VITAMINA", "C", "ROLL-ON", "UNIFORMIZA"],
+        "optional_terms": ["50ML", "72H"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4006000181943"
     },
     {
-        "mandatory_terms": ["NIVEA","PROTECT","CARE","48H","50%"],
-        "optional_terms": ["DESCONTO","2"],
+        "mandatory_terms": ["NIVEA", "PROTECT", "CARE", "AEROSOL", "KIT"],
+        "optional_terms": ["2 UNIDADES", "50% DESCONTO"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900359124"
     },
     {
-        "mandatory_terms": ["NIVEA","400","NEGRA","RADIANTE","LOCAO"],
-        "optional_terms": ["CUIDADO","INTENSO","OLEO","VITAMINAS","DEO-HIDRATANTE"],
+        "mandatory_terms": ["NIVEA", "BELEZA", "RADIANTE", "PELE", "NEGRA"],
+        "optional_terms": ["400ML", "DEO-HIDRATANTE", "OLEO", "VITAMINAS"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900919632"
     },
     {
-        "mandatory_terms": ["NIVEA","SOFT","MILK","DEO","HIDRATANTE"],
-        "optional_terms": ["NOVA","FORMULA","72H"],
+        "mandatory_terms": ["NIVEA", "SOFT", "MILK", "HIDRATANTE"],
+        "optional_terms": ["200ML", "72H", "PELE SECA"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005808335435"
     },
     {
-        "mandatory_terms": ["NIVEA","ERVA","DOCE","200"],
-        "optional_terms": ["NOVO","EMBALAGEM","ECONOMICA"],
+        "mandatory_terms": ["NIVEA", "ERVA", "DOCE", "SABONETE", "LIQUIDO"],
+        "optional_terms": ["200ML", "ECONOMICA"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900734075"
     },
     {
-        "mandatory_terms": ["NIVEA","DEOMILK","SENSITIVE","AXILAS"],
-        "optional_terms": ["BEAUTY","ELIXIR"],
+        "mandatory_terms": ["NIVEA", "DEOMILK", "SENSITIVE", "ELIXIR"],
+        "optional_terms": ["AEROSOL", "150ML", "AXILAS"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900715814"
     },
     {
-        "mandatory_terms": ["NIVEA","MEN","BALSAMO","100","101"],
-        "optional_terms": ["AFTER","SHAVE"],
+        "mandatory_terms": ["NIVEA", "MEN", "BALSAMO", "POS", "BARBA"],
+        "optional_terms": ["100ML", "SENSITIVE", "AFTER SHAVE"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "8715200813061"
     },
     {
-        "mandatory_terms": ["NIVEA","150","UNIFORMIZA","VITAMINA","C"],
-        "optional_terms": ["NOVO"],
+        "mandatory_terms": ["NIVEA", "VITAMINA", "C", "AEROSOL", "UNIFORMIZA"],
+        "optional_terms": ["150ML"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4006000178882"
     },
     {
-        "mandatory_terms": ["NIVEA","DERMADRY","CLINICAL","54G","ANTITRANSPIRANTE"],
-        "optional_terms": ["NOVO","DEFESA"],
+        "mandatory_terms": ["NIVEA", "DERMADRY", "CLINICAL", "STICK", "MEN"],
+        "optional_terms": ["54G", "96H"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4006000045498"
     },
     {
-        "mandatory_terms": ["NIVEA","MILK","48H","400"],
-        "optional_terms": ["HIDRATACAO","PROFUNDA"],
+        "mandatory_terms": ["NIVEA", "MILK", "HIDRATANTE", "400ML"],
+        "optional_terms": ["48H", "HIDRATACAO PROFUNDA"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005808315697"
     },
     {
-        "mandatory_terms": ["NIVEA","SOFT","MILK","400","48H"],
-        "optional_terms": ["TAMANHO","ECONOMICO","5","1"],
+        "mandatory_terms": ["NIVEA", "SOFT", "MILK", "HIDRATANTE", "400ML"],
+        "optional_terms": ["48H", "ECONOMICO"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900004956"
     },
     {
-        "mandatory_terms": ["NIVEA","DEFENDE","50","VITAMINA","B5"],
-        "optional_terms": ["NOVO","CONFORTO","EXTRA"],
+        "mandatory_terms": ["NIVEA", "DEFENDE", "ROLL-ON", "PRO-VITAMINA B5"],
+        "optional_terms": ["50ML"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4006000181936"
     },
     {
-        "mandatory_terms": ["NIVEA","FACIAL","100","GEL"],
-        "optional_terms": ["5","1","NAO","OLEOSA"],
+        "mandatory_terms": ["NIVEA", "FACIAL", "GEL", "HIDRATANTE"],
+        "optional_terms": ["100G", "ACIDO HIALURONICO", "PELE OLEOSA"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "42398004"
     },
     {
-        "mandatory_terms": ["NIVEA","SUN","125","INTENSE","BRONZE"],
-        "optional_terms": ["VITAMINA","E","BRONZEADO","NATURAL"],
+        "mandatory_terms": ["NIVEA", "SUN", "INTENSE", "BRONZE"],
+        "optional_terms": ["125ML", "FPS6", "LOÇÃO"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900207296"
     },
     {
-        "mandatory_terms": ["NIVEA","LOTION","EXPRESS","200"],
-        "optional_terms": ["NOVA","FORMULA"],
+        "mandatory_terms": ["NIVEA", "EXPRESS", "HIDRATANTE", "200ML"],
+        "optional_terms": ["PELE NORMAL", "ABSORÇÃO IMEDIATA"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005808310999"
     },
     {
-        "mandatory_terms": ["NIVEA","UV","SPECIALIST","40","INVISIBLE"],
-        "optional_terms": ["70","NOVO"],
+        "mandatory_terms": ["NIVEA", "UV", "SPECIALIST", "INVISIBLE"],
+        "optional_terms": ["40ML", "FPS70", "FLUIDO FACIAL"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4006000105413"
     },
     {
-        "mandatory_terms": ["NIVEA","CREME","CARE","200"],
-        "optional_terms": ["SABONETE","LIQUIDO","NOVO","EMBALAGEM","ECONOMICA"],
+        "mandatory_terms": ["NIVEA", "CREME", "CARE", "SABONETE", "LIQUIDO"],
+        "optional_terms": ["200ML", "ECONOMICA"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900734082"
     },
     {
-        "mandatory_terms": ["NIVEA","OLEO","BANHO","200"],
-        "optional_terms": ["SABONETE","LIQUIDO"],
+        "mandatory_terms": ["NIVEA", "OLEO", "BANHO", "SABONETE", "LIQUIDO"],
+        "optional_terms": ["200ML"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005808808281"
     },
     {
-        "mandatory_terms": ["NIVEA","AGUA","MICELAR","200","REFRESCANTE"],
-        "optional_terms": ["NOVO","AMINOACIDO","VITAMINA","E"],
+        "mandatory_terms": ["NIVEA", "AGUA", "MICELAR", "REFRESCANTE"],
+        "optional_terms": ["200ML", "VITAMINA E"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900359261"
     },
     {
-        "mandatory_terms": ["NIVEA","FRESH","REAL","48H"],
-        "optional_terms": ["NOVO"],
+        "mandatory_terms": ["NIVEA", "FRESH", "REAL", "AEROSOL"],
+        "optional_terms": ["150ML", "48H"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900647498"
     },
     {
-        "mandatory_terms": ["NIVEA","DERMA","CONTROL","DEFENDE","54G"],
-        "optional_terms": ["NOVO","B5"],
+        "mandatory_terms": ["NIVEA", "DERMA", "CONTROL", "STICK"],
+        "optional_terms": ["54G", "DEFENDE", "CLINICAL"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4006000178875"
     },
     {
-        "mandatory_terms": ["NIVEA","NEGRA","200","RADIANTE","UNIFORME"],
-        "optional_terms": ["HIDRATANTE","PELE"],
+        "mandatory_terms": ["NIVEA", "BELEZA", "RADIANTE", "PELE", "NEGRA"],
+        "optional_terms": ["200ML", "UNIFORME", "HIDRATANTE"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900929365"
@@ -12418,30 +12331,30 @@
         "ean_brand": "7320000000032",
         "ean": "7890704810738"
     },
-    {
-        "mandatory_terms": ["MILI", "ABSORVENTE", "PROTECAO", "TOTAL", "SUAVE"],
-        "optional_terms": ["16", "UNIDADES", "ABSORCAO", "RAPIDA", "HIPOALERGENICO"],
+   {
+        "mandatory_terms": ["MILI", "ABSORVENTE", "SUAVE", "COM", "ABAS"],
+        "optional_terms": ["16", "UNIDADES", "PROTECAO", "TOTAL", "HIPOALERGENICO"],
         "brand": "MILI",
         "ean_brand": "7189999999959",
         "ean": "7896104993835"
     },
     {
         "mandatory_terms": ["MILI", "PROTETOR", "DIARIO", "SUAVE"],
-        "optional_terms": ["40", "UNIDADES", "NEUTRALIZA", "ODORES", "SEM", "PERFUME"],
+        "optional_terms": ["40", "UNIDADES", "SEM", "PERFUME", "NEUTRALIZA", "ODORES"],
         "brand": "MILI",
         "ean_brand": "7189999999959",
         "ean": "7896104996485"
     },
     {
-        "mandatory_terms": ["MILI", "MULHER", "ULTRA", "LEVE"],
-        "optional_terms": ["16", "UNIDADES", "CONFORTO", "TOTAL", "COBERTURA"],
+        "mandatory_terms": ["MILI", "ABSORVENTE", "ULTRA", "LEVE"],
+        "optional_terms": ["16", "UNIDADES", "MULHER", "COBERTURA", "CONFORTO"],
         "brand": "MILI",
         "ean_brand": "7189999999959",
         "ean": "7896104991572"
     },
     {
-        "mandatory_terms": ["MILI", "BABY", "TOALHAS", "UMEDECIDAS"],
-        "optional_terms": ["100", "UNIDADES", "PROTECAO", "DELICADA", "REFIL"],
+        "mandatory_terms": ["MILI", "BABY", "TOALHAS", "UMEDECIDAS", "REFIL"],
+        "optional_terms": ["100", "UNIDADES", "PROTECAO", "DELICADA"],
         "brand": "MILI",
         "ean_brand": "7189999999959",
         "ean": "7896104992432"
@@ -12454,64 +12367,64 @@
         "ean": "7896104993880"
     },
     {
-        "mandatory_terms": ["MILI", "MULHER", "NOTURNO", "ULTRA"],
-        "optional_terms": ["16", "UNIDADES", "DISCRETO", "SUAVE", "FLUXO", "INTENSO"],
+        "mandatory_terms": ["MILI", "ABSORVENTE", "NOTURNO", "ULTRA"],
+        "optional_terms": ["16", "UNIDADES", "MULHER", "DISCRETO", "SUAVE"],
         "brand": "MILI",
         "ean_brand": "7189999999959",
         "ean": "7896104991510"
     },
     {
-        "mandatory_terms": ["MILI", "PROTETOR", "DIARIO", "NEUTRALIZA", "ODORES"],
-        "optional_terms": ["80", "UNIDADES", "COBERTURA", "SUAVE"],
+        "mandatory_terms": ["MILI", "PROTETOR", "DIARIO", "SUAVE"],
+        "optional_terms": ["80", "UNIDADES", "NEUTRALIZA", "ODORES", "ECONOMICA"],
         "brand": "MILI",
         "ean_brand": "7189999999959",
         "ean": "7896104992753"
     },
     {
-        "mandatory_terms": ["MILI", "ABSORVENTE", "PROTECAO", "TOTAL", "SUAVE"],
-        "optional_terms": ["32", "UNIDADES", "ABSORCAO", "RAPIDA", "FLUXO", "REGULAR"],
+        "mandatory_terms": ["MILI", "ABSORVENTE", "SUAVE", "COM", "ABAS"],
+        "optional_terms": ["32", "UNIDADES", "PROTECAO", "TOTAL", "REGULAR"],
         "brand": "MILI",
         "ean_brand": "7189999999959",
         "ean": "7896104992494"
     },
     {
         "mandatory_terms": ["MILI", "ABSORVENTE", "NOTURNO", "SUAVE"],
-        "optional_terms": ["32", "UNIDADES", "HIPOALERGENICO", "FLUXO", "SUPER", "INTENSO"],
+        "optional_terms": ["32", "UNIDADES", "HIPOALERGENICO", "INTENSO"],
         "brand": "MILI",
         "ean_brand": "7189999999959",
         "ean": "7896104992777"
     },
     {
-        "mandatory_terms": ["MILI", "FRALDA", "PREMIUM", "LOVE", "CARE", "RN"],
-        "optional_terms": ["18", "UNIDADES"],
+        "mandatory_terms": ["MILI", "FRALDA", "LOVE", "CARE", "RN"],
+        "optional_terms": ["18", "UNIDADES", "PREMIUM"],
         "brand": "MILI",
         "ean_brand": "7189999999959",
         "ean": "7896104992456"
     },
     {
         "mandatory_terms": ["MILI", "FRALDA", "GRANDINHOS", "XXXG"],
-        "optional_terms": ["18", "UNIDADES", "PACOTE", "JUMBO"],
+        "optional_terms": ["18", "UNIDADES", "JUMBO"],
         "brand": "MILI",
         "ean_brand": "7189999999959",
         "ean": "7896104991800"
     },
     {
-        "mandatory_terms": ["JOHNSONS", "BABY", "LENCOS", "UMEDECIDOS", "LIMPEZA", "SUAVIDADE"],
-        "optional_terms": ["GLICERINA", "44", "UNIDADES"],
+        "mandatory_terms": ["JOHNSONS", "BABY", "LENCOS", "UMEDECIDOS", "GLICERINA"],
+        "optional_terms": ["44", "UNIDADES", "LIMPEZA", "SUAVIDADE"],
         "brand": "JOHNSON JOHNSON",
         "ean_brand": "7189999999908",
         "ean": "7891010247324"
     },
     {
         "mandatory_terms": ["JOHNSON", "REACH", "ESSENCIAL", "FIO", "DENTAL"],
-        "optional_terms": ["MENTA", "MINT", "100M", "SABOR"],
+        "optional_terms": ["100M", "MENTA"],
         "brand": "JOHNSON JOHNSON",
         "ean_brand": "7189999999908",
         "ean": "7891010501105"
     },
     {
         "mandatory_terms": ["JOHNSON", "COTONETES", "HASTES", "FLEXIVEIS"],
-        "optional_terms": ["150", "UNIDADES", "SEGUROS"],
+        "optional_terms": ["150", "UNIDADES"],
         "brand": "JOHNSON JOHNSON",
         "ean_brand": "7189999999908",
         "ean": "7891010032937"
@@ -12531,7 +12444,7 @@
         "ean": "7891010038953"
     },
     {
-        "mandatory_terms": ["JOHNSON", "COTONETES", "PURO", "ALGODAO"],
+        "mandatory_terms": ["JOHNSON", "COTONETES", "ALGODAO"],
         "optional_terms": ["75", "UNIDADES"],
         "brand": "JOHNSON JOHNSON",
         "ean_brand": "7189999999908",
@@ -12539,49 +12452,49 @@
     },
     {
         "mandatory_terms": ["JOHNSON", "REACH", "EXPANSION", "PLUS", "MENTA"],
-        "optional_terms": ["50M", "MINT", "40%", "FIO", "DENTAL"],
+        "optional_terms": ["50M", "FIO", "DENTAL"],
         "brand": "JOHNSON JOHNSON",
         "ean_brand": "7189999999908",
         "ean": "7891010038908"
     },
     {
         "mandatory_terms": ["JOHNSONS", "BABY", "TOALHINHAS", "HORA", "SONO"],
-        "optional_terms": ["48", "UNIDADES", "HIPOALERGENICAS", "LENCOS"],
+        "optional_terms": ["48", "UNIDADES", "LENCOS"],
         "brand": "JOHNSON JOHNSON",
         "ean_brand": "7189999999908",
         "ean": "7891010568764"
     },
     {
         "mandatory_terms": ["JOHNSONS", "BABY", "TOALHINHAS", "RECEM", "NASCIDO"],
-        "optional_terms": ["48", "UNIDADES", "HIPOALERGENICAS", "LENCOS"],
+        "optional_terms": ["48", "UNIDADES", "LENCOS"],
         "brand": "JOHNSON JOHNSON",
         "ean_brand": "7189999999908",
         "ean": "7891010568771"
     },
     {
-        "mandatory_terms": ["JOHNSON", "COTONETES", "PURO", "ALGODAO", "150"],
-        "optional_terms": ["EMBALAGEM", "ECONOMICA", "UNIDADES"],
+        "mandatory_terms": ["JOHNSON", "COTONETES", "ALGODAO", "150"],
+        "optional_terms": ["UNIDADES", "EMBALAGEM", "ECONOMICA"],
         "brand": "JOHNSON JOHNSON",
         "ean_brand": "7189999999908",
         "ean": "7891010560812"
     },
     {
-        "mandatory_terms": ["JOHNSONS", "BABY", "SABONETE", "GLICERINADO"],
-        "optional_terms": ["800G", "MEL", "NATURAL", "VITAMINA", "E", "PELE", "DELICADA", "REFIL"],
+        "mandatory_terms": ["JOHNSONS", "BABY", "SABONETE", "LIQUIDO", "REFIL"],
+        "optional_terms": ["800ML", "GLICERINADO", "MEL", "VITAMINA E"],
         "brand": "JOHNSON JOHNSON",
         "ean_brand": "7189999999908",
         "ean": "7891010035976"
     },
     {
         "mandatory_terms": ["JOHNSONS", "BABY", "SHAMPOO", "400ML"],
-        "optional_terms": ["SUAVE", "OLHOS", "QUANTO", "AGUA", "AMARELO", "ORIGINAL"],
+        "optional_terms": ["SUAVE", "AMARELO", "ORIGINAL"],
         "brand": "JOHNSON JOHNSON",
         "ean_brand": "7189999999908",
         "ean": "7891010800048"
     },
     {
-        "mandatory_terms": ["JOHNSONS", "BABY", "TALCO", "DERMO", "PROTETOR"],
-        "optional_terms": ["100G", "ALIVIA", "PROTEGE", "PELE", "CONTRA", "ASSADURAS", "PO"],
+        "mandatory_terms": ["JOHNSONS", "BABY", "TALCO", "PO"],
+        "optional_terms": ["100G", "DERMO", "PROTETOR", "ASSADURAS"],
         "brand": "JOHNSON JOHNSON",
         "ean_brand": "7189999999908",
         "ean": "7702031244646"
@@ -12595,388 +12508,583 @@
     },
     {
         "mandatory_terms": ["JOHNSONS", "BABY", "TOALHINHAS", "HORA", "SONO"],
-        "optional_terms": ["96", "UNIDADES", "ANTES", "DORMIR", "HIPOALERGENICAS", "LENCOS"],
+        "optional_terms": ["96", "UNIDADES", "LENCOS"],
         "brand": "JOHNSON JOHNSON",
         "ean_brand": "7189999999908",
         "ean": "7891010589622"
     },
     {
-        "mandatory_terms": ["JOHNSONS", "BABY", "SABONETE", "ORIGINAL", "80G"],
-        "optional_terms": ["CREMOSO", "LIMPA", "SUAVEMENTE", "AGREDIR", "PELE"],
+        "mandatory_terms": ["JOHNSONS", "BABY", "SABONETE", "BARRA", "ORIGINAL"],
+        "optional_terms": ["80G", "CREMOSO"],
         "brand": "JOHNSON JOHNSON",
         "ean_brand": "7189999999908",
         "ean": "7891010032906"
     },
     {
         "mandatory_terms": ["JOHNSONS", "BABY", "TOALHINHAS", "RECEM", "NASCIDO"],
-        "optional_terms": ["96", "UNIDADES", "HIPOALERGENICAS", "LENCOS"],
+        "optional_terms": ["96", "UNIDADES", "LENCOS"],
         "brand": "JOHNSON JOHNSON",
         "ean_brand": "7189999999908",
         "ean": "7891010589639"
     },
     {
-        "mandatory_terms": ["JOHNSONS", "BABY", "LENCOS", "UMEDECIDOS", "SUAVIDADE"],
-        "optional_terms": ["176", "UNIDADES", "GLICERINA", "LIMPEZA", "LEVE", "MAIS", "PAGUE", "MENOS"],
+        "mandatory_terms": ["JOHNSONS", "BABY", "LENCOS", "UMEDECIDOS", "GLICERINA"],
+        "optional_terms": ["176", "UNIDADES", "LEVE", "MAIS", "PAGUE", "MENOS"],
         "brand": "JOHNSON JOHNSON",
         "ean_brand": "7189999999908",
         "ean": "7891010257651"
     },
     {
-        "mandatory_terms": ["SEDA","AMINO-SILK","COMPLEX","SHAMPOO","CONDICIONADOR"],
-        "optional_terms": ["MACIO","300","190"],
+        "mandatory_terms": ["SEDA", "SHAMPOO", "CONDICIONADOR", "AMINO-SILK"],
+        "optional_terms": ["KIT", "300ML", "190ML", "COMPLEX"],
         "brand": "SEDA",
         "ean_brand": "7900000000009",
         "ean": "7891150101630"
     },
     {
-        "mandatory_terms": ["SEDA","AMINO-SILK","5%","MASCARA"],
-        "optional_terms": ["COMPLEX"],
+        "mandatory_terms": ["SEDA", "MASCARA", "TRATAMENTO", "AMINO-SILK"],
+        "optional_terms": ["5%", "COMPLEX"],
         "brand": "SEDA",
         "ean_brand": "7900000000009",
         "ean": "7891150101579"
     },
     {
-        "mandatory_terms": ["SEDA","BOOM","VOLUMAO","POWER","350"],
-        "optional_terms": ["CREME-OLEO","NUTRITIVO"],
+        "mandatory_terms": ["SEDA", "BOOM", "CREME", "PENTEAR", "VOLUMAO"],
+        "optional_terms": ["350G", "POWER", "NUTRITIVO"],
         "brand": "SEDA",
         "ean_brand": "7900000000009",
         "ean": "7891150095885"
     },
     {
-        "mandatory_terms": ["DOVE","SHAMPOO","UVREPAIR","GLOW+FERULICO","370ML"],
-        "optional_terms": ["BIO-PROTEIN"],
+        "mandatory_terms": ["DOVE", "SHAMPOO", "UV", "REPAIR"],
+        "optional_terms": ["370ML", "GLOW", "FERULICO", "BIO-PROTEIN"],
         "brand": "DOVE",
         "ean_brand": "7891150000000",
         "ean": "7891150102729"
     },
     {
-        "mandatory_terms": ["DOVE","MEN","CREME","HIDRATANTE","150"],
-        "optional_terms": ["DESODORANTE","AEROSOL","72H"],
+        "mandatory_terms": ["DOVE", "MEN", "CREME", "HIDRATANTE"],
+        "optional_terms": ["150ML", "AEROSOL", "72H"],
         "brand": "DOVE",
         "ean_brand": "7891150000000",
         "ean": "7791293012087"
     },
     {
-        "mandatory_terms": ["DOVE","SHAMPOO","HIDRATACAO","HIALURON-VIT","370ML"],
-        "optional_terms": ["BIO-PROTEIN"],
+        "mandatory_terms": ["DOVE", "SHAMPOO", "HIDRATACAO", "HIALURON-VIT"],
+        "optional_terms": ["370ML", "BIO-PROTEIN"],
         "brand": "DOVE",
         "ean_brand": "7891150000000",
         "ean": "7891150102545"
     },
     {
-        "mandatory_terms": ["DOVE","UMECTACAO","COCO","ANTIOXI","CONJUNTO"],
-        "optional_terms": ["SHAMPOO","CONDICIONADOR","350","175"],
+        "mandatory_terms": ["DOVE", "SHAMPOO", "CONDICIONADOR", "UMECTACAO", "COCO"],
+        "optional_terms": ["KIT", "350ML", "175ML", "ANTIOXI"],
         "brand": "DOVE",
         "ean_brand": "7891150000000",
         "ean": "7891150103788"
     },
     {
-        "mandatory_terms": ["DOVE","MEN","INVISIBLE","DRY","48H"],
-        "optional_terms": ["NAO","IRRITANTE"],
+        "mandatory_terms": ["DOVE", "MEN", "AEROSOL", "INVISIBLE", "DRY"],
+        "optional_terms": ["150ML", "48H"],
         "brand": "DOVE",
         "ean_brand": "7891150000000",
         "ean": "7791293022819"
     },
     {
-        "mandatory_terms": ["DOVE","SEM","PERFUME","48H"],
-        "optional_terms": ["NOVO"],
+        "mandatory_terms": ["DOVE", "AEROSOL", "SEM", "PERFUME"],
+        "optional_terms": ["150ML", "48H"],
         "brand": "DOVE",
         "ean_brand": "7891150000000",
         "ean": "7791293014838"
     },
     {
-        "mandatory_terms": ["DOVE","CONDICIONADOR","UV","REPAIR","250"],
-        "optional_terms": ["BIO-PROTEIN"],
+        "mandatory_terms": ["DOVE", "CONDICIONADOR", "UV", "REPAIR"],
+        "optional_terms": ["250ML", "BIO-PROTEIN"],
         "brand": "DOVE",
         "ean_brand": "7891150000000",
         "ean": "7891150102750"
     },
     {
-        "mandatory_terms": ["DOVE","SHAMPOO","RECONSTRUCAO","AMINOACIDO","370"],
-        "optional_terms": ["BIO-PROTEIN"],
+        "mandatory_terms": ["DOVE", "SHAMPOO", "RECONSTRUCAO", "AMINOACIDO"],
+        "optional_terms": ["370ML", "BIO-PROTEIN"],
         "brand": "DOVE",
         "ean_brand": "7891150000000",
         "ean": "7891150102637"
     },
     {
-        "mandatory_terms": ["PANTENE","SHAMPOO","MOLECULAR","BOND","REPAIR","300"],
-        "optional_terms": ["300ML","REPARA","FIBRA","CAPILAR"],
+        "mandatory_terms": ["PANTENE", "SHAMPOO", "MOLECULAR", "300", "5X"],
+        "optional_terms": ["MAIS","FORCA","BOND","REPAIR", "FIBRA", "CAPILAR"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435260251"
     },
     {
-        "mandatory_terms": ["PANTENE","KIT","MOLECULAR","BOND","REPAIR","300"],
-        "optional_terms": ["REGENERA","RECONSTROI","SHAMPOO","300","CONDICIONADOR","150"],
+        "mandatory_terms": ["PANTENE", "KIT", "MOLECULAR", "REGENERA", "RECONSTROI"],
+        "optional_terms": ["SHAMPOO", "300", "CONDICIONADOR","150","BOND","REPAIR","PROMOCIONAL"],
         "brand": "PANTENE",  
         "ean_brand": "7500000000001",
         "ean": "7500435261227"
     },
     {
-        "mandatory_terms": ["PANTENE","RECONSTRUCAO","MOLECULAR","MASCARA","INTENSIVA"],
-        "optional_terms": ["PRE","POS-SHAMPOO","12","270"],
+        "mandatory_terms": ["PANTENE", "MASCARA", "RECONSTRUCAO", "MOLECULAR","270"],
+        "optional_terms": ["12%", "INTENSIVA","10X","FORCA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435259132"
     },
     {
-        "mandatory_terms": ["PANTENE","MOLECULAR","BOND","REPAIR","CONDICIONADOR","250"],
-        "optional_terms": ["250","SCIENCE"],
+        "mandatory_terms": ["PANTENE", "CONDICIONADOR", "MOLECULAR", "3X","250"],
+        "optional_terms": ["MAIS","MACIEZ","BOND","REPAIR"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435260268"
     },
     {
-        "mandatory_terms": ["PANTENE","MOLECULAR","BOND","REPAIR","PENTEAR","240"],
-        "optional_terms": ["240","SCIENCE"],
+        "mandatory_terms": ["PANTENE", "CREME", "PENTEAR", "MOLECULAR", "240"],
+        "optional_terms": ["PROTECAO","COMPLETA","BOND","REPAIR"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435260336"
     },
     {
-        "mandatory_terms": ["PANTENE","MOLECULAR","BOND","REPAIR","SHAMPOO","510"],
-        "optional_terms": ["510","REPARA","FIBRA","CAPILAR"],
+        "mandatory_terms": ["PANTENE", "SHAMPOO", "MOLECULAR", "5X", "510"],
+        "optional_terms": ["MAIS","FORCA","BOND","REPAIR"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435260312"
     },
     {
-        "mandatory_terms": ["PANTENE","MASCARA","CONDICIONANTE","FIOS","RESSECADOS","550"],
-        "optional_terms": ["550","3EM1","HIDRATANTE","PRE-WASH"],
+        "mandatory_terms": ["PANTENE", "MASCARA", "HIDRATANTE", "3 EM 1"],
+        "optional_terms": ["550ML", "RESSECADOS"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435241748"
     },
     {
-        "mandatory_terms": ["PANTENE","KIT","RESTAURACAO","LONGO","FORTE","750"],
-        "optional_terms": ["750","PONTAS"],
+        "mandatory_terms": ["PANTENE", "SHAMPOO", "CONDICIONADOR", "RESTAURACAO"],
+        "optional_terms": ["KIT", "750ML", "LONGO", "FORTE"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7506295393443"
     },
     {
-        "mandatory_terms": ["PANTENE","MOLECULAR","BOND","REPAIR","SHAMPOO"],
-        "optional_terms": ["175","REPARA","FIBRA","CAPILAR"],
+        "mandatory_terms": ["PANTENE", "SHAMPOO", "MOLECULAR", "5X", "175"],
+        "optional_terms": ["MAIS","FORCA","BOND","REPAIR"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435260305"
     },
     {
-        "mandatory_terms": ["PANTENE","PRO-RESGATE","PROTECAO","MOLECULAR","LEAVE-IN"],
-        "optional_terms": ["TRATAMENTO","150"],
+        "mandatory_terms": ["PANTENE", "LEAVE-IN", "PRO-RESGATE","TRATAMENTO","MOLECULAR"],
+        "optional_terms": ["150", "PROTECAO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435259095"
     },
     {
-        "mandatory_terms": ["PANTENE","MOLECULAR","BOND","REPAIR","CONDICIONADOR","510"],
-        "optional_terms": ["SCIENCE","510"],
+        "mandatory_terms": ["PANTENE", "CONDICIONADOR", "MOLECULAR", "3X", "510"],
+        "optional_terms": ["MAIS","MACIEZ","BOND","REPAIR"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435260282"
     },
     {
-        "mandatory_terms": ["PANTENE","MOLECULAR","BOND","REPAIR","CONDICIONADOR"],
-        "optional_terms": ["150","RECUPERA","HIDRATACAO","SELAR","CUTICULA"],
+        "mandatory_terms": ["PANTENE", "CONDICIONADOR", "MOLECULAR", "3X", "150"],
+        "optional_terms": ["MAIS","MACIEZ","BOND","REPAIR","RECUPERA","HIDRATACAO","AJUDA","SELAR","CUTICULA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435260329"
     },
     {
-        "mandatory_terms": ["PANTENE","BAMBU","NUTRE","CRESCE","CONDICIONADOR","510"],
-        "optional_terms": ["SULFATOS","PARABENOS","OLEOS","MINERAIS"],
+        "mandatory_terms": ["PANTENE", "BAMBU", "NUTRE","CRESCE","510"],
+        "optional_terms": ["CONDICIONADOR", "0%", "SULFATOS","PARABENOS","OLEOS","MINERAIS"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435260374"
     },
     {
-        "mandatory_terms": ["PANTENE","MICELAR","PURIFICA","HIDRATA","KIT"],
-        "optional_terms": ["SHAMPOO","400","CONDICIONADOR","175","CABELO","LONGO","FORTE"],
+        "mandatory_terms": ["PANTENE", "SHAMPOO", "CONDICIONADOR", "MICELAR"],
+        "optional_terms": ["KIT", "400ML", "175ML", "PURIFICA", "HIDRATA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435137577"
     },
     {
-        "mandatory_terms": ["PANTENE","HIDRATACAO","SHAMPOO","CONDICIONADOR","KIT","750"],
-        "optional_terms": ["750"],
+        "mandatory_terms": ["PANTENE", "SHAMPOO", "CONDICIONADOR", "HIDRATACAO"],
+        "optional_terms": ["KIT", "750ML"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7506295393450"
     },
     {
-        "mandatory_terms": ["PANTENE","HIDRA","CAUTERIZACAO","CONDICIONADOR"],
-        "optional_terms": ["3","MINUTOS","MILAGROSOS","170"],
+        "mandatory_terms": ["PANTENE", "CONDICIONADOR", "HIDRA", "CAUTERIZACAO"],
+        "optional_terms": ["170ML", "3 MINUTOS"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435106412"
     },
     {
-        "mandatory_terms": ["PANTENE","MOLECULAR","BOND","REPAIR","CONDICIONADOR"],
-        "optional_terms": ["1L","SCIENCE"],
+        "mandatory_terms": ["PANTENE", "CONDICIONADOR", "MOLECULAR", "BOND", "REPAIR"],
+        "optional_terms": ["1L"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435260343"
     },
     {
-        "mandatory_terms": ["PANTENE","REPARO","DANO","EXTREMO","KIT"],
-        "optional_terms": ["SHAMPOO","350","CONDICIONADOR","170"],
+        "mandatory_terms": ["PANTENE", "SHAMPOO", "CONDICIONADOR", "REPARO", "DANO"],
+        "optional_terms": ["KIT", "350ML", "170ML"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435170789"
     },
     {
-        "mandatory_terms": ["PANTENE","HIDRA","CAUTERIZACAO","MASCARA","INTENSIVA"],
-        "optional_terms": ["REPARACAO","QUERATINA","270"],
+        "mandatory_terms": ["PANTENE", "MASCARA", "HIDRA", "CAUTERIZACAO"],
+        "optional_terms": ["270ML", "INTENSIVA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435142267"
     },
     {
-        "mandatory_terms": ["PANTENE","PRO-V","MIRACLES","HIDRATA","MASCARA"],
-        "optional_terms": ["BRILHO","MOVIMENTO","270"],
+        "mandatory_terms": ["PANTENE", "MASCARA", "HIDRATA", "BRILHO"],
+        "optional_terms": ["270ML", "MIRACLES"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435177085"
     },
     {
-        "mandatory_terms": ["ORAL-B","ANTICARIES","CREME","DENTAL"],
-        "optional_terms": ["LEVE","PAGUE"],
+        "mandatory_terms": ["ORAL-B", "CREME", "DENTAL", "ANTICARIES"],
+        "optional_terms": ["KIT", "LEVE", "PAGUE"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435124638"
     },
     {
-        "mandatory_terms": ["ORAL-B","DUPLO","ALIVIO","50"],
-        "optional_terms": ["SENSITIVE","GENGIVA"],
+        "mandatory_terms": ["ORAL-B", "CREME", "DENTAL", "GENGIVA", "DETOX"],
+        "optional_terms": ["50G", "DUPLO", "ALIVIO", "SENSITIVE"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435152457"
     },
     {
-        "mandatory_terms": ["ORAL-B","COLOR","COLLECTION","5","PACK"],
-        "optional_terms": ["3","MESES"],
+        "mandatory_terms": ["ORAL-B", "ESCOVA", "DENTAL", "COLOR", "COLLECTION"],
+        "optional_terms": ["PACK", "5", "UNIDADES"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435138710"
     },
     {
-        "mandatory_terms": ["ORAL-B","KIT","FIO","DENTAL","SENSITIVE"],
-        "optional_terms": ["INDICATOR","EXTRA","SOFT","2"],
+        "mandatory_terms": ["ORAL-B", "ESCOVA", "DENTAL", "SENSITIVE", "INDICATOR"],
+        "optional_terms": ["KIT", "2", "UNIDADES", "FIO", "DENTAL"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435171243"
     },
     {
-        "mandatory_terms": ["ORAL-B","GENGIVA","DETOX","MICRO-ESPUMA","75ML"],
-        "optional_terms": ["PROTECAO","COMPLETA"],
+        "mandatory_terms": ["ORAL-B", "CREME", "DENTAL", "GENGIVA", "DETOX"],
+        "optional_terms": ["75ML", "MICRO-ESPUMA"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435130547"
     },
     {
-        "mandatory_terms": ["ORAL-B","SENSITIVE","ULTRAFINO","EXTRA","MACIA"],
-        "optional_terms": ["TAMANHO","35"],
+        "mandatory_terms": ["ORAL-B", "ESCOVA", "DENTAL", "SENSITIVE", "ULTRAFINO"],
+        "optional_terms": ["MACIA"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435110662"
     },
     {
-        "mandatory_terms": ["ORAL-B","SENSITIVE","PURIFICATION","GOLD","COLLECTION"],
-        "optional_terms": ["BRANQUEIA","PURIFICA","DELICADAMENTE","ULTRAFINO"],
+        "mandatory_terms": ["ORAL-B", "ESCOVA", "DENTAL", "SENSITIVE", "PURIFICATION"],
+        "optional_terms": ["ULTRAFINO", "GOLD", "COLLECTION"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435170352"
     },
     {
-        "mandatory_terms": ["ORAL-B","GENGIVA","DETOX","ULTRAFINO","3"],
-        "optional_terms": ["LIMPA","PROFUNDAMENTE"],
+        "mandatory_terms": ["ORAL-B", "ESCOVA", "DENTAL", "GENGIVA", "DETOX"],
+        "optional_terms": ["3", "UNIDADES", "ULTRAFINO"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435138703"
     },
     {
-        "mandatory_terms": ["ORAL-B","CLASSIC","3X2","GRATIS"],
-        "optional_terms": ["3"],
+        "mandatory_terms": ["ORAL-B", "ESCOVA", "DENTAL", "CLASSIC"],
+        "optional_terms": ["3", "UNIDADES", "LEVE", "PAGUE"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7501006707649"
     },
     {
-        "mandatory_terms": ["ORAL-B","ANTISSEPTICO","BUCAL","COMPLETE","250"],
-        "optional_terms": ["SEM","ALCOOL","COM","FLUOR"],
+        "mandatory_terms": ["ORAL-B", "ANTISSEPTICO", "BUCAL", "COMPLETE"],
+        "optional_terms": ["250ML", "SEM", "ALCOOL"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7891051037878"
     },
     {
-        "mandatory_terms": ["ORAL-B","EXPERT","GENGIVA","ALCANCE","3"],
-        "optional_terms": ["ULTRA","FINA","20X"],
+        "mandatory_terms": ["ORAL-B", "ESCOVA", "DENTAL", "EXPERT", "GENGIVA"],
+        "optional_terms": ["ULTRA", "FINA"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435152624"
     },
     {
-        "mandatory_terms": ["ORAL-B","MEDIANAS","1","2","3"],
-        "optional_terms": ["CERDAS"],
+        "mandatory_terms": ["ORAL-B", "ESCOVA", "DENTAL", "123"],
+        "optional_terms": ["MEDIANA"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "3014260833183"
     },
     {
-        "mandatory_terms": ["ORAL-B","SPIDER-MAN","3+"],
-        "optional_terms": ["1","TOOTHBRUSH"],
+        "mandatory_terms": ["ORAL-B", "ESCOVA", "DENTAL", "SPIDER-MAN"],
+        "optional_terms": ["KIDS","INFANTIL"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435146340"
     },
     {
-        "mandatory_terms": ["ORAL-B","100%","35ML"],
-        "optional_terms": ["BOCA","CUIDADA"],
+        "mandatory_terms": ["ORAL-B", "ANTISSEPTICO", "BUCAL", "100%"],
+        "optional_terms": ["35ML"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435157803"
     },
     {
-        "mandatory_terms": ["ORAL-B","CLEAN","ZIG","ZAG","MEDIO"],
-        "optional_terms": ["1","2","3"],
+        "mandatory_terms": ["ORAL-B", "ESCOVA", "DENTAL", "ZIG", "ZAG"],
+        "optional_terms": ["MEDIO", "123"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "3014260833190"
     },
     {
-        "mandatory_terms": ["ORAL-B","DISNEY","AA","3+"],
-        "optional_terms": ["CARROS","REMOVE","PREVINE"],
+        "mandatory_terms": ["ORAL-B", "ESCOVA", "ELETRICA", "KIDS", "CARS"],
+        "optional_terms": ["DISNEY", "AA"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "4210201334774"
     },
     {
-        "mandatory_terms": ["ORAL-B","STAGES","DISNEY","BABY"],
-        "optional_terms": ["0-2"],
+        "mandatory_terms": ["ORAL-B", "ESCOVA", "DENTAL", "STAGES", "BABY"],
+        "optional_terms": ["DISNEY", "0-2"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "3014260278939"
     },
     {
-        "mandatory_terms": ["ORAL-B","FIO","DENTAL","MULTI-BENEFICIOS","25M"],
-        "optional_terms": ["NOVO","PRO-SAUDE"],
+        "mandatory_terms": ["ORAL-B", "FIO", "DENTAL", "PRO-SAUDE"],
+        "optional_terms": ["25M", "MULTI-BENEFICIOS"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7506195137161"
     },
     {
-        "mandatory_terms": ["ORAL-B","EXPERT","LIMPEZA","PROFUNDA","25M"],
-        "optional_terms": ["PACK","RECICLAVEL"],
+        "mandatory_terms": ["ORAL-B", "FIO", "DENTAL", "EXPERT"],
+        "optional_terms": ["25M", "LIMPEZA", "PROFUNDA"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7506339394504"
     },
     {
-        "mandatory_terms": ["ORAL-B","ICONIC","ULTRA","SOFT"],
-        "optional_terms": ["X-FILAMENT","TECHNOLOGY"],
+        "mandatory_terms": ["ORAL-B", "ESCOVA", "DENTAL", "ICONIC"],
+        "optional_terms": ["ULTRA", "SOFT"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435182218"
+    },
+    {
+        "mandatory_terms": ["HERBAL","ESSENCES","OIL","BLEND","REPAIR"],
+        "optional_terms": ["ARGAN","ALOE"],
+        "brand": "HERBAL ESSENCES",
+        "ean_brand": "7189999999913",
+        "ean": "7500435171212"
+    },
+    {
+        "mandatory_terms": ["HERBAL","ESSENCES","COCONUT","MILK","300ML"],
+        "optional_terms": ["HYDRATION","MASK"],
+        "brand": "HERBAL ESSENCES",
+        "ean_brand": "7189999999913",
+        "ean": "7500435149099"
+    },
+    {
+        "mandatory_terms": ["HERBAL","ESSENCES","ARGAN","MOROCCO","300ML"],
+        "optional_terms": ["RECONSTRUCTION","MASK"],
+        "brand": "HERBAL ESSENCES",
+        "ean_brand": "7189999999913",
+        "ean": "7500435149082"
+    },
+    {
+        "mandatory_terms": ["HERBAL","ESSENCES","COCONUT","ALOE","HYDRATE"],
+        "optional_terms": ["HYDRATE","OIL"],
+        "brand": "HERBAL ESSENCES",
+        "ean_brand": "7189999999913",
+        "ean": "7500435171229"
+    },
+    {
+        "mandatory_terms": ["HERBAL","ESSENCES","SHAMPOO","COCONUT","400ML"],
+        "optional_terms": ["MILK","HYDRATE"],
+        "brand": "HERBAL ESSENCES",
+        "ean_brand": "7189999999913",
+        "ean": "190679000019"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","ULTRAFINO","SECA","8"],
+        "optional_terms": ["COM","ABAS","ABSORVENTES"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7501065922755"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","ABSORVENTE","XG","5X","42"],
+        "optional_terms": ["FLUXO","MUITO","INTENSO","NOITES","TRANQUILAS","10","GRATIS"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435248334"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","SECA","FLEXI","ABAS","32"],
+        "optional_terms": ["ABSORVENTES","LEVE","MAIS"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7506309837475"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","DIARIOS","RESPIRAVEL","60"],
+        "optional_terms": ["PROTETORES","LEVE","MAIS"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435139373"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","XG","148"],
+        "optional_terms": ["PACOTE","ECONOMICO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435106771"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","G","168"],
+        "optional_terms": ["ECONOMICO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435106764"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","SUPERSEC","XG","22"],
+        "optional_terms": ["SUPER","PRECO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435132749"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PANTS","P","46"],
+        "optional_terms": ["AJUSTE","TOTAL","12H","NOVO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435248389"
+    },
+    {
+        "mandatory_terms": ["PANTENE","BAMBU","NUTRE","CRESCE","510"],
+        "optional_terms": ["SHAMPOO","0%","PARABENOS","CORANTES","OLEOS","MINERAIS"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435260367"
+    },
+    {
+        "mandatory_terms": ["PANTENE","PRO-TETOR","SPRAY","MOLECULAR","170"],
+        "optional_terms": ["8%","MULTI-BENEFICIOS","10EM1","BOND","REPAIR ","COMPLEX"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435259125"
+    },
+    {
+        "mandatory_terms": ["GILLETTE","VENUS","PELE","SENSIVEL","2"],
+        "optional_terms": ["LAMINAS","REFIL","3","LAMINAS"],
+        "brand": "GILLETTE VENUS",
+        "ean_brand": "7189999999914",
+        "ean": "7500435248433"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","M","72"],
+        "optional_terms": ["PRECO","INCRIVEL","12H"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435184915"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","G","56"],
+        "optional_terms": ["PRECO","INCRIVEL","12H"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435184854"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","XG","48"],
+        "optional_terms": ["PRECO","INCRIVEL","12H"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435184861"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","XXG","44"],
+        "optional_terms": ["PRECO","INCRIVEL","12H"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435184861"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","XXG","60"],
+    "optional_terms": ["LEVE","MAIS","PAGUE","MENOS","12H"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435153386"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PANTS","NOVA","XXG","60"],
+    "optional_terms": ["AJUSTE","TOTAL","12H"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435146500"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PANTS","NOVA","M","42"],
+    "optional_terms": ["AJUSTE","TOTAL"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435146227"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PANTS","M","20"],
+    "optional_terms": ["AJUSTE","TOTAL","12H"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435146142"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PANTS","P","26"],
+    "optional_terms": ["AJUSTE","TOTAL"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435146135"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","P","28"],
+        "optional_terms": ["12H"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435106566"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PANTS","XXXG","24"],
+        "optional_terms": ["AJUSTE","TOTAL"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435246613"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PANTS","XXXG","70"],
+        "optional_terms": ["AJUSTE","TOTAL","PACOTE","ECONOMICO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435246606"
     }
-    
-]
+]       
