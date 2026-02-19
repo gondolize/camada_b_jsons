@@ -12935,7 +12935,7 @@
     },
     {
         "mandatory_terms": ["ALWAYS","ABSORVENTE","XG","5X","42"],
-    "optional_terms": ["FLUXO","MUITO","INTENSO","NOITES","TRANQUILAS","10","GRATIS"],
+        "optional_terms": ["FLUXO","MUITO","INTENSO","NOITES","TRANQUILAS","10","GRATIS"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435248334"
@@ -12995,7 +12995,96 @@
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435259125"
+    },
+    {
+        "mandatory_terms": ["GILLETTE","VENUS","PELE","SENSIVEL","2"],
+        "optional_terms": ["LAMINAS","REFIL","3","LAMINAS"],
+        "brand": "GILLETTE VENUS",
+        "ean_brand": "7189999999914",
+        "ean": "7500435248433"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","M","72"],
+        "optional_terms": ["PRECO","INCRIVEL","12H"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435184915"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","G","56"],
+        "optional_terms": ["PRECO","INCRIVEL","12H"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435184854"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","XG","48"],
+        "optional_terms": ["PRECO","INCRIVEL","12H"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435184861"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","XXG","44"],
+        "optional_terms": ["PRECO","INCRIVEL","12H"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435184861"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","XXG","60"],
+    "optional_terms": ["LEVE","MAIS","PAGUE","MENOS","12H"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435153386"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PANTS","NOVA","XXG","60"],
+    "optional_terms": ["AJUSTE","TOTAL","12H"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435146500"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PANTS","NOVA","M","42"],
+    "optional_terms": ["AJUSTE","TOTAL"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435146227"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PANTS","M","20"],
+    "optional_terms": ["AJUSTE","TOTAL","12H"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435146142"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PANTS","P","26"],
+    "optional_terms": ["AJUSTE","TOTAL"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435146135"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","P","28"],
+        "optional_terms": ["12H"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435106566"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PANTS","XXXG","24"],
+        "optional_terms": ["AJUSTE","TOTAL"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435246613"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PANTS","XXXG","70"],
+        "optional_terms": ["AJUSTE","TOTAL","PACOTE","ECONOMICO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435246606"
     }
-
-    
 ]       
