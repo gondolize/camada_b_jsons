@@ -569,7 +569,7 @@
     },
     {
         "mandatory_terms": ["ALWAYS","ABSORVENTES","4X","M","32"],
-        "optional_terms": ["PROTECAO","COM","ABAS","MEDIO","GRATIS","5"],
+        "optional_terms": ["PROTECAO","COM","ABAS","MEDIO"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7506339326048"
@@ -1355,15 +1355,15 @@
         "ean": "7500435129350"
     },
     {
-        "mandatory_terms": ["GILLETTE","ANTIBACTERIAL"],
-        "optional_terms": ["SPECIALIAZED","ACTIVE","PROTECT"],
+        "mandatory_terms": ["GILLETTE","CLEAR","GEL","ANTIBACTERIAL","82G"],
+        "optional_terms": ["48H", "PROTECAO"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435113465"
     },
     {
-        "mandatory_terms": ["GILLETTE","ALOE"],
-        "optional_terms": ["HYDRA","GEL"],
+        "mandatory_terms": ["GILLETTE","HYDRA","GEL","AOLE","45G"],
+        "optional_terms": ["ANTITRANSPIRANTE"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435140928"
@@ -1383,15 +1383,8 @@
         "ean": "47400097728"
     },
     {
-        "mandatory_terms": ["ARIEL","LAVA","ROUPAS","EXPERT","2"],
+        "mandatory_terms": ["ARIEL","LAVA","ROUPAS","EXPERT","2L"],
         "optional_terms": ["REMOCAO","MANCHAS","SUOR"],
-        "brand": "ARIEL",
-        "ean_brand": "7189999999934",
-        "ean": "7500435115315"
-    },
-    {
-        "mandatory_terms": ["ARIEL","EXPERT","2L"],
-        "optional_terms": ["CONCENTRADO","COMBATE","MANCHAS"],
         "brand": "ARIEL",
         "ean_brand": "7189999999934",
         "ean": "7500435115315"
@@ -1418,16 +1411,8 @@
         "ean": "7500435115834"
     },
     {
-        "mandatory_terms": ["ARIEL","CORES","RADIANTES","700"],
-        "optional_terms": ["BRANCOS","COLORIDOS","EMBALAGEM","ECONOMICA","NOVA","FORMULA"],
-        "brand": "ARIEL",
-        "ean_brand": "7189999999934",
-        "ean": "7500435141987"
-    },
-    
-    {
-        "mandatory_terms": ["ARIEL","CORES","RADIANTE","700"],
-        "optional_terms": ["BRANCOS","COLORIDOS","EMBALAGEM","ECONOMICA","NOVA","FORMULA"],
+        "mandatory_terms": ["ARIEL","CORES","RADIANTES","COLORIDOS","700"],
+        "optional_terms": ["BRANCOS","EMBALAGEM","ECONOMICA","NOVA","FORMULA"],
         "brand": "ARIEL",
         "ean_brand": "7189999999934",
         "ean": "7500435141987"
@@ -1448,7 +1433,7 @@
     },
     {
         "mandatory_terms": ["ARIEL","CORES","RADIANTE","1.5"],
-        "optional_terms": ["BRANCOS","COLORIDOS","EMBALAGEM","ECONOMICA","NOVA","FORMULA"],
+        "optional_terms": ["BRANCOS","COLORIDOS","EMBALAGEM","ECONOMICA","NOVFA","FORMULA"],
         "brand": "ARIEL",
         "ean_brand": "7189999999934",
         "ean": "7500435141994"
@@ -7127,7 +7112,7 @@
         "ean":"7500435154765"
     }, 
     {
-        "mandatory_terms":["GILLETTE","PRESTOBARBA","SENSITIVE","ESPUMA"],
+        "mandatory_terms":["GILLETTE","PRESTOBARBA","SENSITIVE","ESPUMA","56G"],
         "optional_terms":["BARBEAR","SENSIVEL"],
         "brand":"GILLETTE",
         "ean_brand":"7189999999933",
@@ -9160,7 +9145,7 @@
         "ean": "7894650014202"
     },
     {
-        "mandatory_terms": ["LISTERINE","COOL","MINT","REFRESCANCIA","SUAVE"],
+        "mandatory_terms": ["LISTERINE","COOL","MINT","REFRESCANCIA","500ML"],
         "optional_terms": ["SEM","ALCOOL","HORTELA","SUAVE"],
         "brand": "LISTERINE",
         "ean_brand": "7189999999991",
