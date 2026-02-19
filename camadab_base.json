@@ -140,8 +140,8 @@
         "ean": "7500435231695"
     },
     {
-        "mandatory_terms": ["PAMPERS","CHEIRINHO","BEBE"],
-        "optional_terms": ["LENCOS","UMIDECIDOS","BEBE"],
+        "mandatory_terms": ["PAMPERS","CHEIRINHO","BEBE","48"],
+        "optional_terms": ["LENCOS","UMIDECIDOS"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "4015400763697"
@@ -245,10 +245,10 @@
         "ean": "3014260019723"
     },
     {
-        "mandatory_terms": ["ORAL-B","CLEAN","INDICATOR"],
-        "optional_terms": ["35","MACIA","SUAVE"],
-        "brand": "ORAL-B",
-        "ean_brand": "7189999999927",
+        "mandatory_terms": ["ORAL-B","CLEAN","INDICATOR","35"],
+        "optional_terms": ["MACIA","SUAVE"],
+        "brand": "ORAL-B",  
+        "ean_brand": "7189999999927", 
         "ean": "7500435024594"
     },
     {
@@ -359,7 +359,7 @@
     },
     {
         "mandatory_terms": ["ORAL-B","EXTRA","FRESH"],
-        "optional_terms": ["EXTRA"],
+        "optional_terms": ["CREME","DENTAL"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435150309"
@@ -373,7 +373,7 @@
     },
     {
         "mandatory_terms": ["ORAL-B","CLEAN","PACK","INDICATOR","COLOR"],
-        "optional_terms": ["FAMILIA","COLLECTION"],
+        "optional_terms": ["FAMILIA","COLLECTION","4"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435155540"
@@ -791,7 +791,7 @@
         "ean_brand": "7189999999928",
         "ean": "7506339394603"
     },
-     {
+    {
         "mandatory_terms": ["ALWAYS","ABSORVENTES","4X","M","8"],
         "optional_terms": ["PROTECAO","FLUXO","MODERADO","COM","ABAS"],
         "brand": "ALWAYS",
@@ -822,7 +822,7 @@
     },
     {
         "mandatory_terms": ["PAMPERS","CONFORT","SEC","XG","34"],
-        "optional_terms": ["12H","PROTECAO"],
+        "optional_terms": ["12H"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435106641"
@@ -857,7 +857,7 @@
     },
     {
         "mandatory_terms": ["PAMPERS","CONFORT","SEC","G","70"],
-        "optional_terms": ["LEVE","MAIS","PAGUE","MENOS"],
+        "optional_terms": ["FRALDAS","LEVE","MAIS","PAGUE","MENOS"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435106702"
@@ -899,7 +899,7 @@
     },
     {
         "mandatory_terms": ["PAMPERS","PREMIUM","CARE","RN","36"],
-        "optional_terms": ["RECEM-NASCIDO","MARCA","MUNDO"],
+        "optional_terms": ["RECEM-NASCIDO"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435132510"
@@ -1046,7 +1046,7 @@
     },
     {
         "mandatory_terms": ["PAMPERS","CONFORT","SEC","P","72"],
-        "optional_terms": ["LEVE","MAIS","PAGUE","MENOS"],
+        "optional_terms": ["FRALDAS","LEVE","MAIS","PAGUE","MENOS"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435181297"
@@ -1095,7 +1095,7 @@
     },
    {
         "mandatory_terms": ["PAMPERS","CONFORT","SEC","XXXG","44"],
-        "optional_terms": ["12H","PROTECAO","LEVE","MAIS","PAGUE","MENOS"],
+        "optional_terms": ["12H","PROTECAO","LEVE","MAIS"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435232944"
@@ -1362,7 +1362,7 @@
         "ean": "7500435113465"
     },
     {
-        "mandatory_terms": ["GILLETTE","HYDRA","GEL","AOLE","45G"],
+        "mandatory_terms": ["GILLETTE","HYDRA","GEL","ALOE","45G"],
         "optional_terms": ["ANTITRANSPIRANTE"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
@@ -5751,14 +5751,14 @@
         "ean": "7500435125468"
     },
     {
-        "mandatory_terms": ["PANTENE", "RESTAURACAO", "CONDICIONADOR", "400"],
+        "mandatory_terms": ["PANTENE", "RESTAURACAO", "CONDICIONADOR", "400ML"],
         "optional_terms": ["PRO-V","AJUDA","REPARAR","DANO","CADA","USO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7501006721317"
     },
     {
-        "mandatory_terms": ["PANTENE", "RESTAURACAO", "CONDICIONADOR", "175"],
+        "mandatory_terms": ["PANTENE", "RESTAURACAO", "CONDICIONADOR", "175ML"],
         "optional_terms": ["PRO-V","REPARAR","DANO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
@@ -6115,7 +6115,7 @@
         "ean": "7500435243117"
     },
     {
-        "mandatory_terms": ["PANTENE", "COLAGENO", "CONDICIONADOR", "HIDRATA", "510"],
+        "mandatory_terms": ["PANTENE", "COLAGENO", "CONDICIONADOR", "HIDRATA", "510ML"],
         "optional_terms": ["PRO-V", "MIRACLES","RESGATA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
@@ -6185,7 +6185,7 @@
         "ean": "7500435118583"
     },
     {
-        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "SHAMPOO", "510"],
+        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "SHAMPOO", "510ML"],
         "optional_terms": ["PRO-V", "MIRACLES", "RAIZ", "PONTAS"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
@@ -6206,7 +6206,7 @@
         "ean": "7500435209342"
     },
     {
-        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "SHAMPOO", "1"],
+        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "SHAMPOO", "1L"],
         "optional_terms": ["PRO-V", "MIRACLES", "RAIZ", "PONTAS"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
@@ -6726,7 +6726,7 @@
     },
     {
         "mandatory_terms":["PAMPERS","CONFORT","SEC","M","24"],
-        "optional_terms":["FRALDAS","DESCARTAVEIS","EXTRA","SEC","PODS"],
+        "optional_terms":["FRALDAS","12H"],
         "brand":"PAMPERS",
         "ean_brand":"7189999999931",
         "ean":"7500435106573"
@@ -7204,7 +7204,7 @@
     }, 
     {
         "mandatory_terms":["PAMPERS","G","40","SUPERSEC"],
-        "optional_terms":["SUPER","SECO","FRALDAS","SUPER","PRECO"],
+        "optional_terms":["SUPER","SECO","FRALDAS","PRECO"],
         "brand":"PAMPERS",
         "ean_brand":"7189999999931",
         "ean":"7500435158411"
@@ -7218,7 +7218,7 @@
     }, 
     {
         "mandatory_terms":["PAMPERS","SUPERSEC","M","46"],
-        "optional_terms":["SUPER","SECO","SUPER","PRECO"],
+        "optional_terms":["SUPER","SECO","PRECO"],
         "brand":"PAMPERS",
         "ean_brand":"7189999999931",
         "ean":"7500435158343"
@@ -7352,7 +7352,7 @@
     }, 
     {
         "mandatory_terms":["PAMPERS","SUPERSEC","P","20"],
-        "optional_terms":["SUPER","SECO","SUPER","PRECO"],
+        "optional_terms":["SUPER","SECO","PRECO"],
         "brand":"PAMPERS",
         "ean_brand":"7189999999931",
         "ean":"7500435200257"
@@ -7759,8 +7759,8 @@
         "ean":"7500435248921"
     }, 
     {
-        "mandatory_terms":["PAMPERS","XG","40","SUPERSEC"],
-        "optional_terms":["FRALDAS"],
+        "mandatory_terms":["PAMPERS","XG","40","SUPERSEC","FRALDAS"],
+        "optional_terms":["ABSORCAO","CONTRA","VAZAMENTOS"],
         "brand":"PAMPERS",
         "ean_brand":"7189999999931",
         "ean":"7500435132817"
@@ -7946,8 +7946,8 @@
     },
     {
 
-        "mandatory_terms": ["PAMPERS", "SUPERSEC", "P", "34", "SUPER"],
-        "optional_terms": ["FRALDAS","SECO"],
+        "mandatory_terms": ["PAMPERS", "SUPERSEC", "P", "34", "FRALDAS"],
+        "optional_terms": ["SUPER","SECO"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435132718"
@@ -9467,8 +9467,8 @@
         "ean": "7896007552825"
     },
     {
-        "mandatory_terms": ["HUGGIES","58","G","LEVE","PAGUE"],
-        "optional_terms": ["MAIS","MENOS"],
+        "mandatory_terms": ["HUGGIES","SUPREME","CARE","G","58"],
+        "optional_terms": ["FRALDAS","CONFORTO","ABSORCAO"],
         "brand": "HUGGIES",
         "ean_brand": "7189999999942",
         "ean": "7896007552801"
