@@ -372,14 +372,14 @@
         "ean": "7500435153164"
     },
     {
-        "mandatory_terms": ["ORAL-B","CLEAN","PACK"],
-        "optional_terms": ["FAMILIA","INDICATOR","COLOR","COLLECTION"],
+        "mandatory_terms": ["ORAL-B","CLEAN","PACK","INDICATOR","COLOR"],
+        "optional_terms": ["FAMILIA","COLLECTION"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435155540"
     },
     {
-        "mandatory_terms": ["ORAL-B","5","ACOES","CARVAO"],
+        "mandatory_terms": ["ORAL-B","5","ACOES","CARVAO","ADVANCED"],
         "optional_terms": ["COM","MACIA","POLIDORAS"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
@@ -1418,8 +1418,8 @@
         "ean": "7500435141987"
     },
     {
-        "mandatory_terms": ["ARIEL","CORES","RADIANTES","1.5"],
-        "optional_terms": ["BRANCOS","COLORIDOS","EMBALAGEM","ECONOMICA","NOVA","FORMULA"],
+        "mandatory_terms": ["ARIEL","CORES","RADIANTES","1.5L"],
+        "optional_terms": ["LAVA","ROUPAS","BRANCOS","COLORIDOS","EMBALAGEM","ECONOMICA","NOVA","FORMULA"],
         "brand": "ARIEL",
         "ean_brand": "7189999999934",
         "ean": "7500435141994"
@@ -9250,8 +9250,8 @@
         "ean": "7891150104273"
     },
         {
-        "mandatory_terms": ["OMO","COCO","ROUPAS","FINAS","DELICADAS"],
-        "optional_terms": ["CUIDA","CORES","TECIDOS","900ML"],
+        "mandatory_terms": ["OMO","COCO","900ML","FINAS","DELICADAS"],
+        "optional_terms": ["CUIDA","CORES","TECIDOS","ROUPAS"],
         "brand": "OMO",
         "ean_brand": "7189999999994",
         "ean": "7891150063815"
@@ -13025,7 +13025,7 @@
     },
     {
         "mandatory_terms": ["PAMPERS","PANTS","NOVA","XXG","60"],
-    "optional_terms": ["AJUSTE","TOTAL","12H"],
+    "optional_terms": ["AJUSTE","TOTAL"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435146500"
@@ -13039,7 +13039,7 @@
     },
     {
         "mandatory_terms": ["PAMPERS","PANTS","M","20"],
-    "optional_terms": ["AJUSTE","TOTAL","12H"],
+    "optional_terms": ["AJUSTE","TOTAL"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435146142"
