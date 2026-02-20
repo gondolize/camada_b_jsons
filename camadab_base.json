@@ -821,8 +821,8 @@
         "ean": "7500435106634"
     },
     {
-        "mandatory_terms": ["PAMPERS","CONFORT","SEC","XG","34"],
-        "optional_terms": ["12H"],
+        "mandatory_terms": ["PAMPERS","CONFORT","100%","XG","34"],
+        "optional_terms": ["12H","FRALDAS/PANALES","SEC"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435106641"
@@ -856,7 +856,7 @@
         "ean": "7500435106665"
     },
     {
-        "mandatory_terms": ["PAMPERS","CONFORT","6-10","M","70"],
+        "mandatory_terms": ["PAMPERS","CONFORT","100%","M","70"],
         "optional_terms": ["12H","PROTECAO","LEVE","MAIS","PAGUE","MENOS"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
@@ -934,7 +934,7 @@
     },
     {
         "mandatory_terms": ["PAMPERS","CONFORT","SEC","XXG","56"],
-        "optional_terms": ["LEVE","PAGUE","LIVRE","VAZAMENTO"],
+        "optional_terms": ["LEVE","PAGUE","VAZAMENTO"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435132619"
@@ -7559,6 +7559,14 @@
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435106597"
+    },
+    {
+
+        "mandatory_terms": ["PAMPERS", "CONFORTSEC", "XG", "18"],
+        "optional_terms": ["FRALDAS","PROTECAO","12H","XG"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435106597"
 
     },
     {
@@ -8088,8 +8096,7 @@
         "ean": "7500435152648"
     },
     {
-
-        "mandatory_terms": ["PAMPERS", "PANTS", "XXG", "28"],
+        "mandatory_terms": ["PAMPERS", "PANTS", "XXG", "28","+14KG"],
         "optional_terms": ["AJUSTE", "TOTAL"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
