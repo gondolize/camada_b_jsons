@@ -856,7 +856,14 @@
         "ean": "7500435106665"
     },
     {
-        "mandatory_terms": ["PAMPERS","CONFORT","12H","G","70"],
+        "mandatory_terms": ["PAMPERS","CONFORT","6-10","M","70"],
+        "optional_terms": ["12H","PROTECAO","LEVE","MAIS","PAGUE","MENOS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435106665"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","9-13","G","70"],
         "optional_terms": ["FRALDAS","LEVE","MAIS","PAGUE","MENOS"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
