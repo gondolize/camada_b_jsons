@@ -43,7 +43,7 @@
     },
     {
         "mandatory_terms": ["GILLETTE", "PRESTOBARBA", "3", "SUAVE"],
-        "optional_terms": ["BARBEAR", "DURADOURO", "6", "APARELHOS"],
+        "optional_terms": ["BARBEAR", "DURADOURO", "6", "APARELHOS","CARTELA"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435253666"
@@ -365,7 +365,7 @@
         "ean": "7500435150309"
     },
     {
-        "mandatory_terms": ["ORAL-B","100%","70"],
+        "mandatory_terms": ["ORAL-B","100%","70g"],
         "optional_terms": ["BOCA","CUIDADA","BRANQUEAMENTO","BACTERIAS"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
@@ -422,7 +422,7 @@
     },
     {
         "mandatory_terms": ["ORAL-B","INDICATOR","BLACK","SENSITIVE"],
-        "optional_terms": ["ESCOVA"],
+        "optional_terms": ["ESCOVA","3"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435204422"
@@ -526,8 +526,8 @@
         "ean": "7506339396492"
     },
     {
-        "mandatory_terms": ["ORAL-B","ANTI","CARIES"],
-        "optional_terms": ["ESCUDO","ANTI","PROTETOR"],
+        "mandatory_terms": ["ORAL-B","ANTI","CARIES","70G","1-2-3"],
+        "optional_terms": ["ESCUDO","PROTETOR","DENTAL","MENTA","SUAVE"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7506339363883"
@@ -1100,9 +1100,9 @@
         "ean_brand": "7189999999931",
         "ean": "7500435226950"
     },
-   {
-        "mandatory_terms": ["PAMPERS","CONFORT","SEC","XXXG","44"],
-        "optional_terms": ["12H","PROTECAO","LEVE","MAIS"],
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","TAMANHO","XXXG","44"],
+        "optional_terms": ["12H","PROTECAO","MENOS","MAIS"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435232944"
@@ -6534,7 +6534,7 @@
         "ean":"7500435205238"
     },
     {
-        "mandatory_terms":["GILLETTE","CORPO","4"],
+        "mandatory_terms":["GILLETTE","CORPO","4","PAGUE","MENOS"],
         "optional_terms":["BARREIRA","PROTETORA"],
         "brand":"GILLETTE",
         "ean_brand":"7189999999933",
@@ -6562,8 +6562,8 @@
         "ean":"7500435172998"
     },    
         {
-        "mandatory_terms":["GILLETTE","SENSITIVE","MACH","3"],
-        "optional_terms":["GRATIS","KIT","ALOE","VERA"],
+        "mandatory_terms":["GILLETTE","SENSITIVE","MACH3","GRATIS","KIT"],
+        "optional_terms":["NOVA","CONHECA","NECESSAIRE","ALOE","VERA"],
         "brand":"GILLETTE",
         "ean_brand":"7189999999933",
         "ean":"7500435197564"
@@ -6723,13 +6723,6 @@
         "brand":"PANTENE",
         "ean_brand":"7500000000001",
         "ean":"7500435142151"
-    },
-    {
-        "mandatory_terms":["GILLETTE","PRESTOBARBA","3"],
-        "optional_terms":["CONTEM","1"],
-        "brand":"GILLETTE",
-        "ean_brand":"7189999999933",
-        "ean":"7702018880409"
     },
     {
         "mandatory_terms":["PAMPERS","CONFORT","SEC","M","24"],
@@ -7633,8 +7626,8 @@
     },
     {
 
-        "mandatory_terms": ["GILLETTE", "MACH3", "CARBONO", "GRATIS"],
-        "optional_terms": ["KIT", "4", "REFIS", "1", "CABO"],
+        "mandatory_terms": ["GILLETTE", "MACH3", "CARBONO", "KIT","GRATIS"],
+        "optional_terms": ["COMPRE", "4", "REFIS","LEVE", "1","APARELHO", "MELHOR","FITA","LUBRIFICANTE"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435251914"
@@ -7642,8 +7635,8 @@
     },
     {
 
-        "mandatory_terms": ["GILLETTE", "KIT", "10", "REFIS", "CARBONO", "MACH3", "NECESSAIRE"],
-        "optional_terms": ["PRESENTE", "10", "REFIS", "CARBONO", "NECESSAIRE"],
+        "mandatory_terms": ["GILLETTE", "KIT", "10","CARBONO", "NECESSAIRE"],
+        "optional_terms": ["PRESENTE", "10", "REFIS", "CARBONO","MELHOR","FITA","LUBRIFICANTE"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435251907"
@@ -8149,8 +8142,8 @@
         "ean":"7891051028807"
     },
     {
-        "mandatory_terms":["GILLETTE","MACH","3"],
-        "optional_terms":["2","UNIDADES"],
+        "mandatory_terms":["GILLETTE","MACH","3","2","40"],
+        "optional_terms":["USOS","UNIDADES"],
         "brand":"GILLETTE",
         "ean_brand":"7189999999933",
         "ean":"47400179240"
@@ -8240,8 +8233,8 @@
         "ean":"7500435130806"
     },
     {
-        "mandatory_terms":["GILLETTE","MACH","3","8"],
-        "optional_terms":["PAGUE","MENOS","PACK","ANUAL"],
+        "mandatory_terms":["GILLETTE","MACH","3","8","ANUAL"],
+        "optional_terms":["PAGUE","MENOS","PACK"],
         "brand":"GILLETTE",
         "ean_brand":"7189999999933",
         "ean":"7500435110013"
@@ -9160,7 +9153,7 @@
         "ean": "7894650014202"
     },
     {
-        "mandatory_terms": ["LISTERINE","COOL","MINT","REFRESCANCIA","500ML"],
+        "mandatory_terms": ["LISTERINE","5X","MINT","REFRESCANCIA","500ML"],
         "optional_terms": ["SEM","ALCOOL","HORTELA","SUAVE"],
         "brand": "LISTERINE",
         "ean_brand": "7189999999991",
@@ -12766,8 +12759,8 @@
         "ean": "7500435152457"
     },
     {
-        "mandatory_terms": ["ORAL-B", "ESCOVA", "DENTAL", "COLOR", "COLLECTION"],
-        "optional_terms": ["PACK", "5", "UNIDADES"],
+        "mandatory_terms": ["ORAL-B","PACK", "5", "COLOR", "COLLECTION"],
+        "optional_terms": [ "ESCOVA", "DENTAL", "UNIDADES"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435138710"
