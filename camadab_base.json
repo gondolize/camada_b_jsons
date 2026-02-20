@@ -835,15 +835,8 @@
         "ean": "7500435106658"
     },
     {
-        "mandatory_terms": ["PAMPERS","CONFORT","SEC","M","70"],
-        "optional_terms": ["12H","PROTECAO","LEVE","MAIS","PAGUE","MENOS"],
-        "brand": "PAMPERS",
-        "ean_brand": "7189999999931",
-        "ean": "7500435106665"
-    },
-    {
         "mandatory_terms": ["PAMPERS","CONFORT","SEC","G","60"],
-        "optional_terms": ["LEVE","MAIS","PAGUE","MENOS"],
+        "optional_terms": ["LEVE","PAGUE"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435106672"
@@ -856,7 +849,14 @@
         "ean": "7500435106696"
     },
     {
-        "mandatory_terms": ["PAMPERS","CONFORT","SEC","G","70"],
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","M","70"],
+        "optional_terms": ["12H","PROTECAO","LEVE","MAIS","PAGUE","MENOS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435106665"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","12H","G","70"],
         "optional_terms": ["FRALDAS","LEVE","MAIS","PAGUE","MENOS"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
@@ -927,7 +927,7 @@
     },
     {
         "mandatory_terms": ["PAMPERS","CONFORT","SEC","XXG","56"],
-        "optional_terms": ["LEVE","MAIS","PAGUE","MENOS"],
+        "optional_terms": ["LEVE","PAGUE","LIVRE","VAZAMENTO"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435132619"
@@ -1045,8 +1045,8 @@
         "ean": "7500435153379"
     },
     {
-        "mandatory_terms": ["PAMPERS","CONFORT","SEC","P","72"],
-        "optional_terms": ["FRALDAS","LEVE","MAIS","PAGUE","MENOS"],
+        "mandatory_terms": ["PAMPERS","CONFORT","100%","P","72"],
+        "optional_terms": ["FRALDAS/PANALES","LEVE","MAIS","PAGUE","MENOS"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435181297"
@@ -7203,8 +7203,15 @@
         "ean":"7500435167901"
     }, 
     {
+        "mandatory_terms":["PAMPERS","XG","40","SUPERSEC"],
+        "optional_terms":["FRALDAS","ABSORCAO","CONTRA","VAZAMENTOS"],
+        "brand":"PAMPERS",
+        "ean_brand":"7189999999931",
+        "ean":"7500435132817"
+    }, 
+    {
         "mandatory_terms":["PAMPERS","G","40","SUPERSEC"],
-        "optional_terms":["SUPER","SECO","FRALDAS","PRECO"],
+        "optional_terms":["SUPER","SECO","FRALDAS","PRECO","FRALDAS/PANALES"],
         "brand":"PAMPERS",
         "ean_brand":"7189999999931",
         "ean":"7500435158411"
@@ -7758,13 +7765,7 @@
         "ean_brand":"7110000000008",
         "ean":"7500435248921"
     }, 
-    {
-        "mandatory_terms":["PAMPERS","XG","40","SUPERSEC","FRALDAS"],
-        "optional_terms":["ABSORCAO","CONTRA","VAZAMENTOS"],
-        "brand":"PAMPERS",
-        "ean_brand":"7189999999931",
-        "ean":"7500435132817"
-    }, 
+
     {
         "mandatory_terms":["DOWNY","CONCENTRADO","REFIL","750"],
         "optional_terms":["BRISA","SUAVE","PERFUME"],
