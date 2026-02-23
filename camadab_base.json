@@ -589,8 +589,8 @@
         "ean": "7500435127240"
     },
     {
-        "mandatory_terms": ["ALWAYS","PROTETORES","DIARIOS","PERFUME","40"],
-        "optional_terms": ["EQUILIBRIO","PROTECAO","LIMPEZA"],
+        "mandatory_terms": ["ALWAYS","PROTETORES","SEM","PERFUME","40"],
+        "optional_terms": ["DIARIOS","EQUILIBRIO","PROTECAO","LIMPEZA"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435125826"
@@ -603,8 +603,8 @@
         "ean": "7500435125840"
     },
     {
-        "mandatory_terms": ["ALWAYS","SUAVE","P","4X","32"],
-        "optional_terms": ["FLUXO","MEDIO","ABSORVENTES","GRATIS"],
+        "mandatory_terms": ["ALWAYS","4X","P","GRATIS","32"],
+        "optional_terms": ["SUAVE","PROTECAO","FLUXO","MEDIO","ABSORVENTES","GRATIS"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435126199"
@@ -624,8 +624,8 @@
         "ean": "7500435127233"
     },
     {
-        "mandatory_terms": ["ALWAYS","SUAVE","PROTECAO","16","MAIS"],
-        "optional_terms": ["COBERTURA","SUPER","ABSORVENTE","LEVE"],
+        "mandatory_terms": ["ALWAYS","4X","GRATIS","16","P"],
+        "optional_terms": ["SUAVE","ABSORVENTES","2","PROTECAO","COBERTURA","SUPER","ABSORVENTE","LEVE"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435127257"
@@ -723,9 +723,9 @@
     },
     {
         "mandatory_terms": ["ALWAYS","PROTETORES","DIARIOS","PERFUME","80"],
-        "optional_terms": ["AJUDA","CONTROLAR","ODORES"],
+        "optional_terms": ["AJUDA","CONTROLAR","ODORES","LEVE","MAIS"],
         "brand": "ALWAYS",
-        "ean_brand": "7189999999928",
+        "ean_brand": "7189999999928", 
         "ean": "7501001407506"
     },
     {
@@ -736,11 +736,11 @@
         "ean": "7501007499758"
     },
     {
-        "mandatory_terms": ["ALWAYS","PROTETORES","DIARIOS","PERFUME","40"],
-        "optional_terms": ["AJUDA","CONTROLAR","ODORES"],
+        "mandatory_terms": ["ALWAYS","DIARIOS","PROTECAO","PERFUME","40"],
+        "optional_terms": ["PROTETORES","ANTIVAZAMENTO","AJUDA","CONTROLAR","ODORES"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
-        "ean": "7506295338901"
+        "ean": "7506295338901" 
     },
     {
         "mandatory_terms": ["ALWAYS","NOITES","TRANQUILAS","XXG","10"],
@@ -764,15 +764,15 @@
         "ean": "7506339325263"
     },
     {
-        "mandatory_terms": ["ALWAYS","ABSORVENTES","NOTURNO","G","16"],
+        "mandatory_terms": ["ALWAYS","5X","NOTURNO","G","16"],
         "optional_terms": ["4X","GRANDE","GRATIS","2"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7506339326031"
     },
     {
-        "mandatory_terms": ["ALWAYS","ABSORVENTES","SUAVE","G","32"],
-        "optional_terms": ["4X","NOTURNOS","GRANDE","GRATIS"],
+        "mandatory_terms": ["ALWAYS","NOTURNO","SUAVE","G","32"],
+        "optional_terms": ["ABSORVENTES/TOALLAS","4X","NOTURNOS","GRANDE","GRATIS"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7506339326055"
@@ -3393,9 +3393,9 @@
     },
     {
         "mandatory_terms": ["CLEAR", "GRATIS", "30", "MENTHOL", "ANTICASPA"],
-        "optional_terms": ["SHAMPOO","MEN"],
-        "brand": "CLEAR",
-        "ean_brand": "7700000000007",
+        "optional_terms": ["SHAMPOO","MEN"] ,
+        "brand": "CLEAR", 
+        "ean_brand": "7700000000007", 
         "ean": "7891150095267"
     },
     {
@@ -11122,14 +11122,14 @@
     },
     {
         "mandatory_terms": ["SEMPRE","LIVRE","ADAPT","SUAVE","8"],
-        "optional_terms": ["SEM","ABAS"],
+        "optional_terms": ["SEM","ABAS","RAPIDA","ABSORCAO"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010503031"
     },
     {
         "mandatory_terms": ["SEMPRE", "LIVRE", "NOITE", "DIA", "8"],
-        "optional_terms": ["SUAVE", "UNIDADES", "COM", "ABAS"],
+        "optional_terms": ["SUAVE", "UNIDADES", "COM", "ABAS","NOITE"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010035631"
@@ -11142,8 +11142,8 @@
         "ean": "7891010031633"
     },
     {
-        "mandatory_terms": ["SEMPRE", "LIVRE", "NOTURNO", "FLUXO", "INTENSO"],
-        "optional_terms": ["32", "UNIDADES", "BARREIRA", "LEVE", "MAIS"],
+        "mandatory_terms": ["SEMPRE","LIVRE","NOTURNO","32","SUAVE"],
+        "optional_terms": ["FLUXO","INTENSO","LEVE","MAIS","CONFORTO","10H"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010518844"
@@ -11191,8 +11191,8 @@
         "ean": "7891010579616"
     },
     {
-        "mandatory_terms": ["SEMPRE", "LIVRE", "NOTURNO", "SECA"],
-        "optional_terms": ["32", "UNIDADES", "LEVE", "PAGUE"],
+        "mandatory_terms": ["SEMPRE","LIVRE","NOITE","SECA","32"],
+        "optional_terms": ["LEVE","MAIS","DIA"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010697518"
@@ -12143,7 +12143,7 @@
         "ean": "7891150091511"
     },
     {
-        "mandatory_terms": ["BRILHANTE", "LIMPEZA", "TOTAL", "PROFUNDA", "1.6KG"],
+        "mandatory_terms": ["BRILHANTE", "LIMPEZA", "TOTAL", "PROFUNDA", "1.6"],
         "optional_terms": ["LAVA","ROUPAS","PO","CORES", "PROFUNDA", "BRANCOS", "240", "LAVAGENS"],
         "brand": "BRILHANTE",
         "ean_brand": "7189999999987",
@@ -13059,4 +13059,4 @@
         "ean_brand":"7189999999933",
         "ean":"7500435124386"
     }, 
-]       
+] 
