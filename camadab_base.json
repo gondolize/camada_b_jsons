@@ -148,7 +148,7 @@
     },
     {
         "mandatory_terms": ["ORAL-B","3D","WHITE","70"],
-        "optional_terms": ["MANCHAS","CLAREIA","80%","SUPERFICIAIS"],
+        "optional_terms": ["MANCHAS","CLAREIA","80%","SUPERFICIAIS","BRILLIANT","FRESH"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7506295388487"
@@ -343,8 +343,8 @@
         "ean": "7500435150255"
     },
     {
-        "mandatory_terms": ["ORAL-B","EXTRA","BRANCO","70"],
-        "optional_terms": ["CREME","DENTAL"],
+        "mandatory_terms": ["ORAL-B","EXTRA","BRANCO","70","12"],
+        "optional_terms": ["LEVE","PAGUE","10","CREME","DENTAL"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435150248"
@@ -470,8 +470,8 @@
         "ean": "7500435243858"
     },
     {
-        "mandatory_terms": ["ORAL-B","3D","WHITE","FRESH","70"],
-        "optional_terms": ["LEVE","MAIS","PAGUE","MENOS","CLAREIA","80%","MANCHAS","SUPERFICIAIS"],
+        "mandatory_terms": ["ORAL-B","3D","WHITE","LEVE","70"],
+        "optional_terms": ["FRESH","MAIS","PAGUE","MENOS","CLAREIA","80%","MANCHAS","SUPERFICIAIS"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435249720"
@@ -1004,7 +1004,7 @@
     },
     {
         "mandatory_terms": ["PAMPERS","PANTS","XG","14"],
-        "optional_terms": [""],
+        "optional_terms": ["AJUSTE","TOTAL","FACIL","VESTIR"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435146166"
@@ -1383,43 +1383,43 @@
         "ean": "7500435011150"
     },
     {
-        "mandatory_terms": ["GILLETTE","COOL","WAVE"],
+        "mandatory_terms": ["GILLETTE","COOL","WAVE","113"],
         "optional_terms": ["CLEAR","GEL"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "47400097728"
     },
     {
-        "mandatory_terms": ["ARIEL","LAVA","ROUPAS","EXPERT","2L"],
-        "optional_terms": ["REMOCAO","MANCHAS","SUOR"],
+        "mandatory_terms": ["ARIEL","CONCENTRADO","NOVA","EXPERT","2L"],
+        "optional_terms": ["COMBATE","REMOCAO","MANCHAS","SUOR","FORMULA"],
         "brand": "ARIEL",
         "ean_brand": "7189999999934",
         "ean": "7500435115315"
     },
     {
-        "mandatory_terms": ["ARIEL","LAVA","ROUPAS","EXPERT","1.2"],
-        "optional_terms": ["REMOCAO","COMBATE","MANCHAS","SUOR"],
+        "mandatory_terms": ["ARIEL","CONCENTRADO","NOVA","EXPERT","1.2L"],
+        "optional_terms": ["LAVA","ROUPAS","FORMULA","REMOCAO","COMBATE","MANCHAS","SUOR"],
         "brand": "ARIEL",
         "ean_brand": "7189999999934",
         "ean": "7500435115353"
     },
     {
-        "mandatory_terms": ["ARIEL","DOWNY","1.2"],
+        "mandatory_terms": ["ARIEL","DOWNY","CONCENTRADO","1.2L"],
         "optional_terms": ["TOQUE","SAEM","MANCHAS"],
         "brand": "ARIEL",
         "ean_brand": "7189999999934",
         "ean": "7500435115827"
     },
     {
-        "mandatory_terms": ["ARIEL","DOWNY","2"],
+        "mandatory_terms": ["ARIEL","CONCENTRADO","DOWNY","2L"],
         "optional_terms": ["TOQUE","SAEM","MANCHAS"],
         "brand": "ARIEL",
         "ean_brand": "7189999999934",
         "ean": "7500435115834"
     },
     {
-        "mandatory_terms": ["ARIEL","CORES","RADIANTES","COLORIDOS","700"],
-        "optional_terms": ["BRANCOS","EMBALAGEM","ECONOMICA","NOVA","FORMULA"],
+        "mandatory_terms": ["ARIEL","CORES","RADIANTES","ECONOMICA","700"],
+        "optional_terms": ["BRANCOS","EMBALAGEM","COLORIDOS","REFIL"],
         "brand": "ARIEL",
         "ean_brand": "7189999999934",
         "ean": "7500435141987"
@@ -6583,8 +6583,8 @@
         "ean":"7500435171076"
     },  
     {
-        "mandatory_terms":["GILLETTE","PRESTOBARBA","3","SENSITIVE","IRRITACAO"],
-        "optional_terms":["80","BARBAS","SUAVES","8","ALOE"],
+        "mandatory_terms":["GILLETTE","PRESTOBARBA","3","SENSITIVE","8"],
+        "optional_terms":["80","BARBAS","SUAVES","ALOE"],
         "brand":"GILLETTE",
         "ean_brand":"7189999999933",
         "ean":"7506339337549"
@@ -6732,8 +6732,15 @@
         "ean":"7500435106573"
     },
     {
-        "mandatory_terms":["GILLETTE","PRESTOBARBA","3","SENSITIVE","COMFORTGEL"],
-        "optional_terms":["40","BARBAS","FEITAS","4"],
+        "mandatory_terms":["GILLETTE","MACH3","SENSITIVE","1"],
+        "optional_terms":["3","LAMINAS","ALOE"],
+        "brand":"GILLETTE",
+        "ean_brand":"7189999999933",
+        "ean":"7702018037803"
+    },  
+    {
+        "mandatory_terms":["GILLETTE","PRESTOBARBA","3","SENSITIVE","4"],
+        "optional_terms":["40","BARBAS","FEITAS"],
         "brand":"GILLETTE",
         "ean_brand":"7189999999933",
         "ean":"7506339337532"
@@ -7103,6 +7110,20 @@
         "brand":"GILLETTE",
         "ean_brand":"7189999999933",
         "ean":"7702018983902"
+    },
+    {
+        "mandatory_terms":["GILLETTE","MACH3","4","80","MENOS"],
+        "optional_terms":["PAGUE","USOS","LEVE","MAIS"],
+        "brand":"GILLETTE",
+        "ean_brand":"7189999999933",
+        "ean":"7500435169486"
+    },
+    {
+        "mandatory_terms":["GILLETTE","MACH3","4","80","CARBONO"],
+        "optional_terms":["PAGUE","MENOS","USOS","LEVE","MAIS"],
+        "brand":"GILLETTE",
+        "ean_brand":"7189999999933",
+        "ean":"7500435211635"
     }, 
     {
         "mandatory_terms":["GILLETTE","PRESTOBARBA","3","CHAMPIONS"],
@@ -7112,7 +7133,7 @@
         "ean":"7500435154765"
     }, 
     {
-        "mandatory_terms":["GILLETTE","PRESTOBARBA","SENSITIVE","ESPUMA","56G"],
+        "mandatory_terms":["GILLETTE","PRESTOBARBA","SENSITIVE","+33%","56G"],
         "optional_terms":["BARBEAR","SENSIVEL"],
         "brand":"GILLETTE",
         "ean_brand":"7189999999933",
@@ -7126,8 +7147,8 @@
         "ean":"7500435233385"
     }, 
     {
-        "mandatory_terms":["PAMPERS","M","60","PANTS"],
-        "optional_terms":["AJUSTE","TOTAL","FACIL","VESTIR"],
+        "mandatory_terms":["PAMPERS","PANTS","M","60"],
+        "optional_terms":["AJUSTE","TOTAL","12H","FACIL","VESTIR"],
         "brand":"PAMPERS",
         "ean_brand":"7189999999931",
         "ean":"7500435146609"
@@ -7407,8 +7428,8 @@
         "ean":"7500435156653"
     }, 
     {
-        "mandatory_terms":["GILLETTE","PRESTOBARBA","3","SENSITIVE"],
-        "optional_terms":["LEVE","8","PAGUE","6"],
+        "mandatory_terms":["GILLETTE","PRESTOBARBA","LEVE","8","SENSITIVE"],
+        "optional_terms":["MENOS","IRRITACAO" ,"3","PAGUE","6"],
         "brand":"GILLETTE",
         "ean_brand":"7189999999933",
         "ean":"7500435124386"
@@ -7434,6 +7455,13 @@
         "ean_brand": "7189999999933",
         "ean": "7500435178600"
 
+    },
+    {
+        "mandatory_terms": ["GILLETTE", "PRESTOBARBA3", "EXTRA","SUAVE", "2"],
+        "optional_terms": ["50%", "PLASTICO","RECICLADO"],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7702018874729"
     },
     {
         "mandatory_terms": ["ORAL-B", "GENIUS", "8000", "BLUETOOTH", "1"],
@@ -7502,8 +7530,8 @@
     },
     {
 
-        "mandatory_terms": ["GILLETTE", "CORPO", "CONTRA", "BOLINHAS", "CORTES"],
-        "optional_terms": ["CORPO", "2", "APARELHOS", "DESCARTAVEIS"],
+        "mandatory_terms": ["GILLETTE", "CORPO", "CONTRA", "BOLINHAS", "2"],
+        "optional_terms": ["CORTES","BARREIRA","PROTETORA", "APARELHOS", "DESCARTAVEIS"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435178594"
@@ -8142,7 +8170,7 @@
         "ean":"7891051028807"
     },
     {
-        "mandatory_terms":["GILLETTE","MACH","3","2","40"],
+        "mandatory_terms":["GILLETTE","MACH3","2","40"],
         "optional_terms":["USOS","UNIDADES"],
         "brand":"GILLETTE",
         "ean_brand":"7189999999933",
@@ -8394,8 +8422,8 @@
         "ean":"7500435120937"
     },
     {
-        "mandatory_terms":["GILLETTE","VENUS","SUAVE"],
-        "optional_terms":["ALOE","VERA","2","PELE","MACIA"],
+        "mandatory_terms":["GILLETTE","VENUS","SUAVE","2"],
+        "optional_terms":["ALOE","VERA","PELE","MACIA"],
         "brand":"GILLETTE VENUS",
         "ean_brand":"7189999999914",
         "ean":"7702018072392"
@@ -8527,23 +8555,22 @@
         "ean": "7891051040403"
     },
     {
-        "mandatory_terms": ["GILLETTE","APARELHOS","MOVEL","CABO","ANTIDESLIZANTE"
-        ],
-        "optional_terms": ["MANUSEIO","SEGURO","2"],
+        "mandatory_terms": ["GILLETTE","2","MOVEL","CABO","ANTIDESLIZANTE"],
+        "optional_terms": ["MANUSEIO","SEGURO","APARELHOS"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435160285"
     },
     {
-        "mandatory_terms": ["GILLETTE","MACH","3","SENSITIVE","8"],
-        "optional_terms": ["PAGUE","MENOS"],
+        "mandatory_terms": ["GILLETTE","MACH3","PAGUE","SENSITIVE","8"],
+        "optional_terms": ["LEVE","6","USOS"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435110020"
     },
     {
-        "mandatory_terms": ["GILLETTE","DERMA","PROTECAO"],
-        "optional_terms": ["BARREIRA","CONTRA","PELOS","ENCRAVADOS"],
+        "mandatory_terms": ["GILLETTE","DERMA","PROTECAO","LEVE","4"],
+        "optional_terms": ["PAGUE","3","BARREIRA","CONTRA","PELOS","ENCRAVADOS"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435190534"
@@ -8605,8 +8632,8 @@
         "ean": "7500435130813"
     },
     {
-        "mandatory_terms": ["GILLETTE","PRESTOBARBA","3","EXTRA","SUAVE"],
-        "optional_terms": ["PAGUE","MENOS","50%","PLASTICO","RECICLADO"],
+        "mandatory_terms": ["GILLETTE","PRESTOBARBA3","4","PAGUE","MENOS"],
+        "optional_terms": ["APARELHOS","DESCARTAVEIS","EXTRA","SUAVE","50%","PLASTICO","RECICLADO","3"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7501001109653"
@@ -11401,8 +11428,8 @@
         "ean": "7791969016036"
     },
     {
-        "mandatory_terms": ["NIVEA", "MEN", "ESPUMA", "BARBEAR", "SENSITIVE"],
-        "optional_terms": ["200ML", "ALIVIO", "INSTANTANEO"],
+        "mandatory_terms": ["NIVEA", "MEN", "ESPUMA", "200","SENSITIVE"],
+        "optional_terms": ["BARBEAR","5","ALIVIO", "INSTANTANEO"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005808817207"
@@ -13033,7 +13060,7 @@
     },
     {
         "mandatory_terms": ["PAMPERS","PANTS","NOVA","XXG","60"],
-    "optional_terms": ["AJUSTE","TOTAL"],
+        "optional_terms": ["AJUSTE","TOTAL"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435146500"
