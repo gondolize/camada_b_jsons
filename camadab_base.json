@@ -7,6 +7,13 @@
         "ean": "7500435121002"
     },
     {
+        "mandatory_terms":["GILLETTE","MACH3","4","80","USOS"],
+        "optional_terms":["REFIL","PAGUE",",MENOS","LEVE","MAIS"],
+        "brand":"GILLETTE",
+        "ean_brand":"7189999999933",
+        "ean":"7500435169486"
+    },
+    {
         "mandatory_terms": ["GILLETTE","PRESTOBARBA","4T","PAGUE","SUAVE"],
         "optional_terms": ["APARELHOS","DESCARTAVEIS","EXTRA","MENOS","50%","PLASTICO","RECICLADO","3"],
         "brand": "GILLETTE",
@@ -575,8 +582,8 @@
         "ean": "7506339326048"
     },
     {
-        "mandatory_terms": ["ALWAYS","SUAVE","P","4X" ],
-        "optional_terms": ["MEDIO","ABSORVENTE","ABAS"],
+        "mandatory_terms": ["ALWAYS","SUAVE","P","4X","8"],
+        "optional_terms": ["ABSORVENTE","ABAS","NOVO","PEQUENO"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435127240"
@@ -596,8 +603,8 @@
         "ean": "7500435125840"
     },
     {
-        "mandatory_terms": ["ALWAYS","ABSORVENTES","P","4X","32"],
-        "optional_terms": ["FLUXO","MEDIO","SUAVE","GRATIS"],
+        "mandatory_terms": ["ALWAYS","SUAVE","P","4X","32"],
+        "optional_terms": ["FLUXO","MEDIO","ABSORVENTES","GRATIS"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435126199"
@@ -617,8 +624,8 @@
         "ean": "7500435127233"
     },
     {
-        "mandatory_terms": ["ALWAYS","SUPER","SUAVE","16"],
-        "optional_terms": ["COBERTURA","SUAVE","ABSORVENTE"],
+        "mandatory_terms": ["ALWAYS","SUAVE","PROTECAO","16","MAIS"],
+        "optional_terms": ["COBERTURA","SUPER","ABSORVENTE","LEVE"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435127257"
@@ -673,7 +680,7 @@
         "ean": "7500435190657"
     },
     {
-        "mandatory_terms": ["ALWAYS","PROTECAO","80"],
+        "mandatory_terms": ["ALWAYS","PROTECAO","80","20","GRATIS"],
         "optional_terms": ["SEM","PERFUME","DIARIOS","PROTETORES"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
@@ -3357,8 +3364,8 @@
         "ean": "7891150014138"
     },
     {
-        "mandatory_terms": ["CLEAR", "CAMPEA", "HIDRATACAO"],
-        "optional_terms": ["400", "400ML", "VINI", "CABELOS", "LIMPOS"],
+        "mandatory_terms": ["CLEAR", "CAMPEA", "HIDRATACAO","400"],
+        "optional_terms": ["JR", "400ML", "VINI", "CABELOS", "LIMPOS"],
         "brand": "CLEAR",
         "ean_brand": "7700000000007",
         "ean": "7891150099272"
@@ -3386,14 +3393,14 @@
     },
     {
         "mandatory_terms": ["CLEAR", "GRATIS", "30", "MENTHOL", "ANTICASPA"],
-        "optional_terms": ["MEN"],
+        "optional_terms": ["SHAMPOO","MEN"],
         "brand": "CLEAR",
         "ean_brand": "7700000000007",
         "ean": "7891150095267"
     },
     {
-        "mandatory_terms": ["CLEAR", "MEN", "CAMPEA", "HIDRATACAO"],
-        "optional_terms": ["200", "200ML"],
+        "mandatory_terms": ["CLEAR", "MEN", "CAMPEA", "HIDRATACAO","VINI","200"],
+        "optional_terms": ["SHAMPOO", "200ML"],
         "brand": "CLEAR",
         "ean_brand": "7700000000007",
         "ean": "7891150099289"
@@ -5632,7 +5639,7 @@
         "ean": "7500435169363"
     },
     {
-        "mandatory_terms": ["KIT", "PANTENE", "HIDRATACAO", "350"],
+        "mandatory_terms": ["KIT", "PANTENE", "HIDRATACAO", "350","175"],
         "optional_terms": ["DESCONTO", "CABELO", "LONGO", "FORTE"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
@@ -5849,15 +5856,15 @@
         "ean": "7500435232777"
     },
     {
-        "mandatory_terms": ["PANTENE", "QUERATINA", "SHAMPOO", "1L"],
-        "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "BLINDA"],
+        "mandatory_terms": ["PANTENE", "QUERATINA", "PREENCHE", "1L","BLINDA"],
+        "optional_terms": ["PRO-V", "MIRACLES", "SHAMPOO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435243124"
     },
     {
-        "mandatory_terms": ["PANTENE", "QUERATINA", "CONDICIONADOR", "510"],
-        "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "BLINDA"],
+        "mandatory_terms": ["PANTENE", "QUERATINA", "PREENCHE", "510"],
+        "optional_terms": ["PRO-V", "MIRACLES", "CONDICIONADOR", "BLINDA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435232821"
@@ -6541,15 +6548,8 @@
         "ean":"7500435205238"
     },
     {
-        "mandatory_terms":["GILLETTE","CORPO","4","PAGUE","MENOS"],
-        "optional_terms":["BARREIRA","PROTETORA"],
-        "brand":"GILLETTE",
-        "ean_brand":"7189999999933",
-        "ean":"7500435173018"
-    },
-    {
-        "mandatory_terms":["GILLETTE","CORPO","BARREIRA","PROTETORA"],
-        "optional_terms":["LEVE","4","PAGUE","3"],
+        "mandatory_terms":["GILLETTE","PRESTOBARBA","GRATIS","ESPUMA","SENSITIVE"],
+        "optional_terms":["3","KIT","4","APARELHOS","56G","57"],
         "brand":"GILLETTE",
         "ean_brand":"7189999999933",
         "ean":"7500435173018"
@@ -6568,13 +6568,7 @@
         "ean_brand":"7189999999933",
         "ean":"7500435172998"
     },    
-        {
-        "mandatory_terms":["GILLETTE","SENSITIVE","MACH3","GRATIS","KIT"],
-        "optional_terms":["NOVA","CONHECA","NECESSAIRE","ALOE","VERA"],
-        "brand":"GILLETTE",
-        "ean_brand":"7189999999933",
-        "ean":"7500435197564"
-    },  
+
     {
         "mandatory_terms":["GILLETTE","PRESTOBARBA","2"],
         "optional_terms":["CABECA","FIXA","LAMINAS","LONGA","DURACAO"],
@@ -7105,13 +7099,6 @@
         "ean":"7702018983902"
     },
     {
-        "mandatory_terms":["GILLETTE","MACH3","4","80","MENOS"],
-        "optional_terms":["PAGUE","USOS","LEVE","MAIS"],
-        "brand":"GILLETTE",
-        "ean_brand":"7189999999933",
-        "ean":"7500435169486"
-    },
-    {
         "mandatory_terms":["GILLETTE","MACH3","4","80","CARBONO"],
         "optional_terms":["PAGUE","MENOS","USOS","LEVE","MAIS"],
         "brand":"GILLETTE",
@@ -7419,13 +7406,6 @@
         "brand":"ARIEL",
         "ean_brand":"7189999999934",
         "ean":"7500435156653"
-    }, 
-    {
-        "mandatory_terms":["GILLETTE","PRESTOBARBA","LEVE","8","SENSITIVE"],
-        "optional_terms":["MENOS","IRRITACAO" ,"3","PAGUE","6"],
-        "brand":"GILLETTE",
-        "ean_brand":"7189999999933",
-        "ean":"7500435124386"
     }, 
     {
         "mandatory_terms":["PAMPERS","P","40","PREMIUM","CARE"],
@@ -8262,7 +8242,7 @@
     },
     {
         "mandatory_terms":["GILLETTE","VENUS","SUAVE","SENSITIVE","4"],
-        "optional_terms":["CONTEM","LAMINAS","MOVEIS"],
+        "optional_terms":["LEVE/LLEVE","4","PAGUE","3"],
         "brand":"GILLETTE VENUS",
         "ean_brand":"7189999999914",
         "ean":"7500435172561"
@@ -11148,8 +11128,8 @@
         "ean": "7891010503031"
     },
     {
-        "mandatory_terms": ["SEMPRE", "LIVRE", "NOITE", "DIA", "SUAVE"],
-        "optional_terms": ["8", "UNIDADES", "COM", "ABAS"],
+        "mandatory_terms": ["SEMPRE", "LIVRE", "NOITE", "DIA", "8"],
+        "optional_terms": ["SUAVE", "UNIDADES", "COM", "ABAS"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010035631"
@@ -13071,5 +13051,12 @@
         "brand":"GILLETTE",
         "ean_brand":"7189999999933",
         "ean":"7506339337549"
-    }
+    },
+    {
+        "mandatory_terms":["GILLETTE","PRESTOBARBA","PAGUE","6","SENSITIVE"],
+        "optional_terms":["MENOS","IRRITACAO" ,"LEVE","8"],
+        "brand":"GILLETTE",
+        "ean_brand":"7189999999933",
+        "ean":"7500435124386"
+    }, 
 ]       
