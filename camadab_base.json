@@ -905,13 +905,6 @@
         "ean": "7500435132503"
     },
     {
-        "mandatory_terms": ["PAMPERS","PREMIUM","CARE","RN","20"],
-        "optional_terms": ["RECEM-NASCIDO","MARCA","MUNDO"],
-        "brand": "PAMPERS",
-        "ean_brand": "7189999999931",
-        "ean": ""
-    },
-    {
         "mandatory_terms": ["PAMPERS","PREMIUM","CARE","RN","36"],
         "optional_terms": ["RECEM-NASCIDO"],
         "brand": "PAMPERS",
@@ -1691,7 +1684,7 @@
         "ean": "7500435252942"
     },
     {
-        "mandatory_terms": ["DOWNY","CONCENTRADO","VERÃO","500"],
+        "mandatory_terms": ["DOWNY","CONCENTRADO","VERAO","500"],
         "optional_terms": ["MAIS","PERFUME","RENDE","2L"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
@@ -1719,7 +1712,7 @@
         "ean": "7506339332643"
     },
     {
-        "mandatory_terms": ["DOWNY","CONCENTRADO","BRISA","VERÃO","1.5"],
+        "mandatory_terms": ["DOWNY","CONCENTRADO","BRISA","VERAO","1.5"],
         "optional_terms": ["AMACIANTE","ROUPAS","RENDE","6"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
@@ -2272,7 +2265,7 @@
         "ean": "7891033471751"
     },
     {
-        "mandatory_terms": ["EUDORA", "SIAGE", "CAUTERIZAÇÃO", "LISOS", "CONDICIONADOR"],
+        "mandatory_terms": ["EUDORA", "SIAGE", "CAUTERIZACAO", "LISOS", "CONDICIONADOR"],
         "optional_terms": ["200", "DANOS", "ALISAMENTO"],
         "brand": "EUDORA",
         "ean_brand": "7200000000002",
@@ -2321,7 +2314,7 @@
         "ean": "7891033931033"
     },
     {
-        "mandatory_terms": ["EUDORA", "SIAGE", "CAUTERIZAÇÃO", "LISOS", "CONDICIONADOR"],
+        "mandatory_terms": ["EUDORA", "SIAGE", "CAUTERIZACAO", "LISOS", "CONDICIONADOR"],
         "optional_terms": ["TRATA", "DANOS", "200"],
         "brand": "EUDORA",
         "ean_brand": "7200000000002",
@@ -2384,7 +2377,7 @@
         "ean": "7891033535019"
     },
     {
-        "mandatory_terms": ["EUDORA", "SIAGE", "CAUTERIZAÇÃO", "LISOS", "MASCARA"],
+        "mandatory_terms": ["EUDORA", "SIAGE", "CAUTERIZACAO", "LISOS", "MASCARA"],
         "optional_terms": ["PRE", "POS", "ALISAMENTO", "250"],
         "brand": "EUDORA",
         "ean_brand": "7200000000002",
@@ -3589,7 +3582,7 @@
     },
     {
         "mandatory_terms": ["HEAD", "SHOULDERS", "REMOCAO", "OLEOSIDADE", "400"],
-        "optional_terms": ["REMOVE", "&"],
+        "optional_terms": ["REMOVE", "EXCESSIVA", "RAIZ"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
         "ean": "7500435112130"
@@ -4023,13 +4016,6 @@
     },
     {
         "mandatory_terms": ["ELSEVE", "REPARACAO", "5", "CONDICIONADOR", "200"],
-        "optional_terms": ["TOTAL"],
-        "brand": "ELSEVE",
-        "ean_brand": "7800000000002",
-        "ean": "7899026420571"
-    },
-    {
-        "mandatory_terms": ["ELSEVE", "REPARAÇAO", "5", "CONDICIONADOR", "200"],
         "optional_terms": ["TOTAL"],
         "brand": "ELSEVE",
         "ean_brand": "7800000000002",
@@ -7486,7 +7472,7 @@
     {
 
         "mandatory_terms": ["GILLETTE", "STYLER", "3", "1", "APARA"],
-        "optional_terms": [ "BARBEIA", "DEFINE", "PROVA", "DÁGUA"],
+        "optional_terms": [ "BARBEIA", "DEFINE", "PROVA", "DAGUA"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7702018330126"
@@ -8649,7 +8635,7 @@
     {
         "mandatory_terms": ["UAU","PERFUMES","CARINHO","CONFORTO"],
         "optional_terms": ["AMACIANTE","CONCENTRADO","1L"],
-        "brand": "",
+        "brand": "7189999999962",
         "ean_brand": "7189999999962",
         "ean": "7891242441118"
     },
@@ -8729,13 +8715,6 @@
         "brand": "SBP",
         "ean_brand": "7189999999954",
         "ean": "7891035002458"
-    },
-    {
-        "mandatory_terms": ["SALON","LINE","LISO","SHAMPOO","DISCIPLINANTE"],
-        "optional_terms": ["5X","LISS","EXPERT"],
-        "brand": "SALON LINE",
-        "ean_brand": "7150000000015",
-        "ean": ""
     },
     {
         "mandatory_terms": ["SAIF","TIRA","MANCHAS","CLORO","BRANCO"],
@@ -11716,14 +11695,14 @@
     },
     {
         "mandatory_terms": ["NIVEA", "SUN", "INTENSE", "BRONZE"],
-        "optional_terms": ["125ML", "FPS6", "LOÇÃO"],
+        "optional_terms": ["125ML", "FPS6", "LOCAO"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005900207296"
     },
     {
         "mandatory_terms": ["NIVEA", "EXPRESS", "HIDRATANTE", "200ML"],
-        "optional_terms": ["PELE NORMAL", "ABSORÇÃO IMEDIATA"],
+        "optional_terms": ["PELE NORMAL", "ABSORCAO", "IMEDIATA"],
         "brand": "NIVEA",
         "ean_brand": "7320000000032",
         "ean": "4005808310999"
@@ -11792,7 +11771,14 @@
         "ean": "7891350032857"
     },  
     {
-        "mandatory_terms": ["BOZZANO", "EXTREME", "SPORT", "(90"],
+        "mandatory_terms": ["BOZZANO", "EXTREME", "SPORT", "150"],
+        "optional_terms": ["72H", "ALTA", "PERFORMANCE"],
+        "brand": "BOZZANO",
+        "ean_brand": "7240000000024",
+        "ean": "7891350032857"
+    },
+    {
+        "mandatory_terms": ["BOZZANO", "EXTREME", "SPORT", "90"],
         "optional_terms": ["72H", "ALTA", "PERFORMANCE"],
         "brand": "BOZZANO",
         "ean_brand": "7240000000024",
