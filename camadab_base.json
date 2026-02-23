@@ -8416,8 +8416,8 @@
         "ean": "20800600347"
     },
     {
-        "mandatory_terms": ["AUSSIE","FRIZZ","MANDA","AQUI","BYE"],
-        "optional_terms": ["KIT","DESCONTO"],
+        "mandatory_terms": ["AUSSIE","KIT","FRIZZ","AQUI","BYE"],
+        "optional_terms": ["DESCONTO","MANDA","180"],
         "brand": "AUSSIE",
         "ean_brand": "7220000000022",
         "ean": "7500435188364"
@@ -8633,8 +8633,8 @@
         "ean": "7896474600661"
     },
     {
-        "mandatory_terms": ["YPE","ACONCHEGO","PERFUME","CAPSULAS","PERFUME"],
-        "optional_terms": ["2L"],
+        "mandatory_terms": ["YPE","ACONCHEGO","ULTRA","PERFUME"],
+        "optional_terms": ["2L","25","ULTRA","33"],
         "brand": "YPE",
         "ean_brand": "7189999999950",
         "ean": "7896098902400"
@@ -9012,8 +9012,7 @@
     },
     {
         "mandatory_terms": ["ESFREBOM","BLOQUEADOR","ODORES","LIXEIRAS","3"],
-        "optional_terms": [
-            "NEUTRALIZADOR","ODORES","CITRUS"],
+        "optional_terms": ["NEUTRALIZADOR","ODORES","CITRUS"],
         "brand": "ESFREBOM",
         "ean_brand": "7189999999952",
         "ean": "7896001030008"
@@ -9126,7 +9125,7 @@
     },
     {
         "mandatory_terms": ["LADY","PRIME","ORVALHO","CAMPO"],
-        "optional_terms": ["CAPIM","LIMAO",""],
+        "optional_terms": ["CAPIM","LIMAO"],
         "brand": "LADY PRIME",
         "ean_brand": "7189999999948",
         "ean": "7898567705970"
@@ -9433,8 +9432,8 @@
         "ean": "7896007553716"
     },
         {
-        "mandatory_terms": ["HUGGIES","XG","52"],
-        "optional_terms": ["XTRA","FLEX"],
+        "mandatory_terms": ["HUGGIES","MAXIMA","XG","58"],
+        "optional_terms": ["PROTECAO", "5X"],
         "brand": "HUGGIES",
         "ean_brand": "7189999999942",
         "ean": "7896007552825"
@@ -9454,8 +9453,8 @@
         "ean": "7896018703636"
     },
     {
-        "mandatory_terms": ["HUGGIES","RN","34"],
-        "optional_terms": ["NATURAL","CARE"],
+        "mandatory_terms": ["HUGGIES","RN","34","NATURAL"],
+        "optional_terms": ["4KG","CARE"],
         "brand": "HUGGIES",
         "ean_brand": "7189999999942",
         "ean": "7896007552016"
@@ -9468,15 +9467,15 @@
         "ean": "7896007547913"
     },
     {
-        "mandatory_terms": ["HUGGIES","36","M"],
-        "optional_terms": ["SEQUINHO","PROTEGIDO","2","GRATIS"],
+        "mandatory_terms": ["HUGGIES","RAPIDA","36","M"],
+        "optional_terms": ["SEQUINHO","ABSORCAO","PROTEGIDO","2","GRATIS"],
         "brand": "HUGGIES",
         "ean_brand": "7189999999942",
         "ean": "7896007553709"
     },
     {
-        "mandatory_terms": ["HUGGIES","XXXG","46"],
-        "optional_terms": ["NOVO","TAMANHO"],
+        "mandatory_terms": ["HUGGIES","MAXIMA","XXXG","46"],
+        "optional_terms": ["NOVO","TAMANHO","PROTECAO"],
         "brand": "HUGGIES",
         "ean_brand": "7189999999942",
         "ean": "7896007553754"
@@ -9503,7 +9502,7 @@
         "ean": "7896018700604"
     },
     {
-        "mandatory_terms": ["HUGGIES","28","XG"],
+        "mandatory_terms": ["HUGGIES","RAPIDA","ABSORCAO","28","XG"],
         "optional_terms": ["2","GRATIS"],
         "brand": "HUGGIES",
         "ean_brand": "7189999999942",
@@ -9517,7 +9516,7 @@
         "ean": "7896018703629"
     },
     {
-        "mandatory_terms": ["HUGGIES","26","XXG"],
+        "mandatory_terms": ["HUGGIES","RAPIDA","ABSORCAO","26","XXG"],
         "optional_terms": ["2","GRATIS"],
         "brand": "HUGGIES",
         "ean_brand": "7189999999942",
@@ -9573,15 +9572,15 @@
         "ean": "7896007548415"
     },
     {
-        "mandatory_terms": ["HUGGIES","XG","32"],
-        "optional_terms": ["XTRA","PROTECT"],
+        "mandatory_terms": ["HUGGIES","TRIPLA","XG","32"],
+        "optional_terms": ["XTRA","PROTECT","PROTECAO"],
         "brand": "HUGGIES",
         "ean_brand": "7189999999942",
         "ean": "7896007551330"
     },
     {
-        "mandatory_terms": ["HUGGIES","G","36"],
-        "optional_terms": ["XTRA","PROTECT"],
+        "mandatory_terms": ["HUGGIES","TRIPLA","G","36"],
+        "optional_terms": ["XTRA","PROTECT","PROTECAO"],
         "brand": "HUGGIES",
         "ean_brand": "7189999999942",
         "ean": "7896007551323"
@@ -9594,15 +9593,15 @@
         "ean": "7896007549252"
     },
     {
-        "mandatory_terms": ["HUGGIES","XG","66"],
-        "optional_terms": ["LEVE","POR"],
+        "mandatory_terms": ["HUGGIES","TRIPLA","XG","66"],
+        "optional_terms": ["LEVE","POR", "PROTECAO"],
         "brand": "HUGGIES",
         "ean_brand": "7189999999942",
         "ean": "7896007549276"
     },
     {
-        "mandatory_terms": ["HUGGIES","M","16"],
-        "optional_terms": ["XTRA","PROTECT","SEQUINHO"],
+        "mandatory_terms": ["HUGGIES","TRIPLA","M","16"],
+        "optional_terms": ["XTRA","PROTECAO","PROTECT","SEQUINHO"],
         "brand": "HUGGIES",
         "ean_brand": "7189999999942",
         "ean": "7896007552412"
@@ -9874,15 +9873,15 @@
         "ean": "7896098900390"
     },
     {
-        "mandatory_terms": ["YPE","DELICADO","HIPOALERGENICO",""],
+        "mandatory_terms": ["YPE","DELICADO","HIPOALERGENICO"],
         "optional_terms": ["RENDE","75","LAVAGENS"],
         "brand": "YPE",
         "ean_brand": "7189999999950",
         "ean": "7896098901571"
     },
         {
-        "mandatory_terms": ["FOFO","PERFUME","AZUL","TUDAO", "500"],
-        "optional_terms": ["2.3","25","MUUUUUITO"],
+        "mandatory_terms": ["FOFO","CONCENTRADO","AZUL","TUDAO", "500"],
+        "optional_terms": ["2.3","25","PERFUME"],
         "brand": "FOFO",
         "ean_brand": "7189999999925",
         "ean": "7891150092716"
@@ -9896,7 +9895,7 @@
     },
     {
         "mandatory_terms": ["FOFO","REFIL","AZUL","TUDAO", "900"],
-        "optional_terms": ["4","45"],
+        "optional_terms": ["4","45","PERFUME","DURA"],
         "brand": "FOFO",
         "ean_brand": "7189999999925",
         "ean": "7891150092709"
@@ -9910,14 +9909,14 @@
     },
     {
         "mandatory_terms": ["FOFO","LARANJA","VITORIOSO","500"],
-        "optional_terms": ["2.3","25"],
+        "optional_terms": ["2.3","25","RENDE"],
         "brand": "FOFO",
         "ean_brand": "7189999999925",
         "ean": "7891150092754"
     },
     {
         "mandatory_terms": ["FOFO","AMARELO","CHAMEGO","500", "HIPOALERGENICO"],
-        "optional_terms": ["2.3","25"],
+        "optional_terms": ["2.3","25","RENDE"],
         "brand": "FOFO",
         "ean_brand": "7189999999925",
         "ean": "7891150092747"
@@ -10484,6 +10483,13 @@
         "ean": "7891150084674"
     },
     {
+        "mandatory_terms": ["COMFORT","ENERGIA","FLORAL","ECONOMICA","CONCENTRADO"],
+        "optional_terms": ["EMBALAGEM","ECONOMICA", "150","LAVAGENS"],
+        "brand": "COMFORT",
+        "ean_brand": "7189999999963",
+        "ean": "7891150084674"
+    },
+    {
         "mandatory_terms": ["COMFORT","TRADICIONAL","EXPLOSAO","AZUL","3L"],
         "optional_terms": ["AMACIANTE","FRAGRANCIA", "DURA"],
         "brand": "COMFORT",
@@ -11003,7 +11009,7 @@
     },
     {
         "mandatory_terms": ["HUGGIES", "SHAMPOO", "EXTRA", "SUAVE"],
-        "optional_terms": ["200ML"],
+        "optional_terms": ["200ML", "200"],
         "brand": "HUGGIES",
         "ean_brand": "7189999999942",
         "ean": "7896018700307"
@@ -12514,15 +12520,22 @@
         "ean": "7891150095885"
     },
     {
-        "mandatory_terms": ["DOVE", "SHAMPOO", "UV", "REPAIR"],
+        "mandatory_terms": ["DOVE", "SHAMPOO", "UV", "REPAIR","370"],
         "optional_terms": ["370ML", "GLOW", "FERULICO", "BIO-PROTEIN"],
         "brand": "DOVE",
         "ean_brand": "7891150000000",
         "ean": "7891150102729"
     },
     {
-        "mandatory_terms": ["DOVE", "MEN", "CREME", "HIDRATANTE"],
+        "mandatory_terms": ["DOVE", "MEN", "CARE", "CLEAN", "COMFORT"],
         "optional_terms": ["150ML", "AEROSOL", "72H"],
+        "brand": "DOVE",
+        "ean_brand": "7891150000000",
+        "ean": "7791293012087"
+    },
+    {
+        "mandatory_terms": ["DOVE", "MEN", "CARE","CREME", "HIDRATANTE"],
+        "optional_terms": ["150ML", "AEROSOL", "72H","PROTECAO"],
         "brand": "DOVE",
         "ean_brand": "7891150000000",
         "ean": "7791293012087"
@@ -12612,15 +12625,15 @@
         "ean": "7500435260312"
     },
     {
-        "mandatory_terms": ["PANTENE", "MASCARA", "HIDRATANTE", "3 EM 1"],
-        "optional_terms": ["550ML", "RESSECADOS"],
+        "mandatory_terms": ["PANTENE", "MASCARA", "CONDICIONANTE", "3","1","550"],
+        "optional_terms": ["550ML","FIOS", "RESSECADOS"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435241748"
     },
     {
-        "mandatory_terms": ["PANTENE", "SHAMPOO", "CONDICIONADOR", "RESTAURACAO"],
-        "optional_terms": ["KIT", "750ML", "LONGO", "FORTE"],
+        "mandatory_terms": ["KIT", "PANTENE", "SHAMPOO", "CONDICIONADOR", "RESTAURACAO","750"],
+        "optional_terms": ["750ML", "LONGO", "FORTE"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7506295393443"
@@ -12640,7 +12653,7 @@
         "ean": "7500435259095"
     },
     {
-        "mandatory_terms": ["PANTENE", "CONDICIONADOR", "MOLECULAR", "3X", "510"],
+        "mandatory_terms": ["PANTENE", "CONDICIONADOR", "MOLECULAR", "510"],
         "optional_terms": ["MAIS","MACIEZ","BOND","REPAIR"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
@@ -12661,29 +12674,29 @@
         "ean": "7500435260374"
     },
     {
-        "mandatory_terms": ["PANTENE", "SHAMPOO", "CONDICIONADOR", "MICELAR"],
-        "optional_terms": ["KIT", "400ML", "175ML", "PURIFICA", "HIDRATA"],
+        "mandatory_terms": ["KIT","PANTENE", "SHAMPOO", "CONDICIONADOR", "MICELAR"],
+        "optional_terms": [ "400ML", "175ML", "PURIFICA", "HIDRATA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435137577"
     },
     {
-        "mandatory_terms": ["PANTENE", "SHAMPOO", "CONDICIONADOR", "HIDRATACAO"],
+        "mandatory_terms": ["PANTENE", "SHAMPOO", "CONDICIONADOR", "HIDRATACAO","750"],
         "optional_terms": ["KIT", "750ML"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7506295393450"
     },
     {
-        "mandatory_terms": ["PANTENE", "CONDICIONADOR", "HIDRA", "CAUTERIZACAO"],
+        "mandatory_terms": ["PANTENE", "CONDICIONADOR", "HIDRA", "CAUTERIZACAO", "170"],
         "optional_terms": ["170ML", "3 MINUTOS"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435106412"
     },
     {
-        "mandatory_terms": ["PANTENE", "CONDICIONADOR", "MOLECULAR", "BOND", "REPAIR"],
-        "optional_terms": ["1L"],
+        "mandatory_terms": ["PANTENE", "CONDICIONADOR", "MOLECULAR", "BOND", "REPAIR","1L"],
+        "optional_terms": ["1L", "SCIENCE", "PRO-V"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435260343"
@@ -13058,5 +13071,5 @@
         "brand":"GILLETTE",
         "ean_brand":"7189999999933",
         "ean":"7500435124386"
-    }, 
+    }
 ] 
