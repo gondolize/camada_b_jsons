@@ -603,6 +603,13 @@
         "ean": "7500435125840"
     },
     {
+        "mandatory_terms": ["ALWAYS","ABSORVENTES","4X","M","8"],
+        "optional_terms": ["PROTECAO","FLUXO","MODERADO","COM","ABAS"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7506195129838"
+    },
+    {
         "mandatory_terms": ["ALWAYS","4X","P","GRATIS","32"],
         "optional_terms": ["SUAVE","PROTECAO","FLUXO","MEDIO","ABSORVENTES","GRATIS"],
         "brand": "ALWAYS",
@@ -797,13 +804,6 @@
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7506339394603"
-    },
-    {
-        "mandatory_terms": ["ALWAYS","ABSORVENTES","4X","M","8"],
-        "optional_terms": ["PROTECAO","FLUXO","MODERADO","COM","ABAS"],
-        "brand": "ALWAYS",
-        "ean_brand": "7189999999928",
-        "ean": "7506195129838"
     },
     {
         "mandatory_terms": ["PAMPERS","CONFORT","SEC","P","50"],
@@ -1607,22 +1607,22 @@
         "ean": "7500435243650"
     },
     {
-        "mandatory_terms": ["DOWNY","SUAVE","500"],
-        "optional_terms": ["PERFUME","MAIS","TEMPO"],
+        "mandatory_terms": ["DOWNY","BRISA","SUAVE","500","50"],
+        "optional_terms": ["GRATIS","PERFUME","MAIS","TEMPO"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435244619"
     },
     {
-        "mandatory_terms": ["DOWNY","VERAO","1"],
-        "optional_terms": ["ROUPAS","PERFUMADAS","TEMPO"],
+        "mandatory_terms": ["DOWNY","BRISA","VERAO","1","100"],
+        "optional_terms": ["GRATIS","ROUPAS","PERFUMADAS","AMACIANTE","TEMPO"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435250603"
     },
     {
-        "mandatory_terms": ["DOWNY","SUAVE","1"],
-        "optional_terms": ["BRISA","SUAVE"],
+        "mandatory_terms": ["DOWNY","BRISA","SUAVE","1","100"],
+        "optional_terms": ["GRATIS","CONCENTRADO","AMACIANTE"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435250610"
@@ -1641,6 +1641,13 @@
         "ean_brand": "7189999999936",
         "ean": "7500435251242"
     },
+    {
+        "mandatory_terms":["DOWNY","CONCENTRADO","PERFUME","INTENSO","1.6"],
+        "optional_terms":["BRISA","INTENSO","NOVA","FORMULA"],
+        "brand":"PAMPERS",
+        "ean_brand":"7189999999936",
+        "ean":"7500435241120"
+    }, 
     {
         "mandatory_terms": ["DOWNY","CONCENTRADO","BRISA","INTENSO","750"],
         "optional_terms": ["AMACIANTE","REFIL","PERFUME","PROTEGE","MAUS","CHEIROS"],
@@ -1670,15 +1677,15 @@
         "ean": "7500435252218"
     },
     {
-        "mandatory_terms": ["DOWNY","SUAVE","350"],
-        "optional_terms": ["PERFUME","MAIS","TEMPO"],
+        "mandatory_terms": ["DOWNY","BRISA","SUAVE","350","BOLSO"],
+        "optional_terms": ["PRECO","CABE","PERFUME","MAIS","TEMPO"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435252935"
     },
     {
-        "mandatory_terms": ["DOWNY","VERAO","350"],
-        "optional_terms": ["PERFUME","DURA","MAIS"],
+        "mandatory_terms": ["DOWNY","BRISA","VERAO","350","BOLSO"],
+        "optional_terms": ["PRECO","CABE","PERFUME","DURA","MAIS"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435252942"
@@ -7747,13 +7754,7 @@
         "ean_brand":"7189999999931",
         "ean":"7500435157520"
     }, 
-    {
-        "mandatory_terms":["DOWNY","CONCENTRADO","PERFUME","INTENSO","1.6"],
-        "optional_terms":["BRISA","INTENSO","NOVA","FORMULA"],
-        "brand":"PAMPERS",
-        "ean_brand":"7189999999936",
-        "ean":"7500435241120"
-    }, 
+
     {
         "mandatory_terms":["PAMPERS","SPLASHERS","P-M","12","NADAR"],
         "optional_terms":["BABY","SHARK","FRALDAS"],
@@ -12714,6 +12715,48 @@
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435124638"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","COMPLETE","5"],
+        "optional_terms": ["SUAVE/MACIA","40","ESCOVA","DENTAL"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "3014260014414"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","COMPLETE","5","PRECIO/PRECO","ESPECIAL"],
+        "optional_terms": ["2","SUAVE/MACIA","40","ESCOVA"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "3014260014452"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","SENSI","ULTRAFINO","2"],
+        "optional_terms": ["REFIS","ESCOVA","ELETRICA"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "4210201220435"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","CARS","REMOVE","PLACA"],
+        "optional_terms": ["PREVINE","CARIES","ESCOVA","ELETRICA"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "4210201334736"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","SPIDER-MAN","SUAVE","1X2","3"],
+        "optional_terms": ["FORTE","FUERTE","ESCOVA","ELETRICA"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "4210201407027"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","IO","X2","ULTIMATE","CARE"],
+        "optional_terms": ["CONTEM","2","ESCOVA","ELETRICA"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "4210201445555"
     },
     {
         "mandatory_terms": ["ORAL-B", "CREME", "DENTAL", "GENGIVA", "DETOX"],
