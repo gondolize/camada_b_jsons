@@ -870,13 +870,6 @@
         "ean": "7500435106665"
     },
     {
-        "mandatory_terms": ["PAMPERS","CONFORT","9-13","G","70"],
-        "optional_terms": ["FRALDAS","LEVE","MAIS","PAGUE","MENOS","G"],
-        "brand": "PAMPERS",
-        "ean_brand": "7189999999931",
-        "ean": "7500435106702"
-    },
-    {
         "mandatory_terms": ["PAMPERS","PREMIUM","CARE","G","30"],
         "optional_terms": ["MAXIMA","ABSORCAO","PREVENIR","ASSADURAS"],
         "brand": "PAMPERS",
@@ -5569,13 +5562,6 @@
         "ean": "7509546696300"
     },
     {
-        "mandatory_terms": ["PANTENE", "KIT", "PROMOCIONAL", "BIOTINAMINA","B3"],
-        "optional_terms": ["ANTIQUEDA", "NUTRICAO", "300","150"],
-        "brand": "PANTENE",
-        "ean_brand": "7500000000001",
-        "ean": "7500435253598"
-    },
-    {
         "mandatory_terms": ["KIT", "PANTENE", "QUERATINA", "MIRACLES"],
         "optional_terms": ["PREENCHE", "BLINDA", "PRO-V", "PROMOCIONAL"],
         "brand": "PANTENE",
@@ -6365,6 +6351,13 @@
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435128957"
+    },
+    {
+        "mandatory_terms": ["PANTENE", "KIT", "PROMOCIONAL", "BIOTINAMINA","B3"],
+        "optional_terms": ["ANTIQUEDA", "NUTRICAO", "300","150"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435253598"
     },
     {
         "mandatory_terms": ["PANTENE", "BRILHO", "CONDICIONADOR", "175"],
