@@ -934,7 +934,14 @@
     },
     {
         "mandatory_terms": ["GILLETTE","SENSITIVE","PRESTOBARBA","PAGUE","4"],
-        "optional_terms": ["IRRITACAO","MENOS","ALOE","VERA","UNIDADES","4T"],
+        "optional_terms": ["50%","IRRITACAO","MENOS","ALOE","VERA","UNIDADES"],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7500435121736"
+    },
+    {
+        "mandatory_terms": ["GILLETTE","SENSITIVE","PAGUE","MENOS","4T"],
+        "optional_terms": ["50","IRRITACAO","MENOS","ALOE","VERA","UNIDADES"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435121736"
@@ -13088,10 +13095,18 @@
         "ean":"7506339337549"
     },
     {
-        "mandatory_terms":["GILLETTE","PRESTOBARBA","PAGUE","6","SENSITIVE"],
-        "optional_terms":["MENOS","IRRITACAO" ,"LEVE","8"],
+        "mandatory_terms":["GILLETTE","PRESTOBARBA","8","6","SENSITIVE"],
+        "optional_terms":["MENOS","IRRITACAO" ,"LEVE","PAGUE"],
+        "brand":"GILLETTE",
+        "ean_brand":"7189999999933",
+        "ean":"7500435124386"
+    },
+    {
+        "mandatory_terms":["GILLETTE","PRESTOBARBA3","LEVE","PAGUE","SENSITIVE"],
+        "optional_terms":["MENOS","LLEVE","8T"],
         "brand":"GILLETTE",
         "ean_brand":"7189999999933",
         "ean":"7500435124386"
     }
+
 ] 
