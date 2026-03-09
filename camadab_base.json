@@ -379,15 +379,15 @@
         "ean": "7500435153164"
     },
     {
-        "mandatory_terms": ["ORAL-B","CLEAN","PACK","INDICATOR","COLOR"],
-        "optional_terms": ["FAMILIA","COLLECTION","4"],
+        "mandatory_terms": ["ORAL-B","INDICATOR","3","MESES","PACK"],
+        "optional_terms": ["ANUAL"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435155540"
     },
     {
-        "mandatory_terms": ["ORAL-B","5","ACOES","CARVAO","ADVANCED"],
-        "optional_terms": ["COM","MACIA","POLIDORAS"],
+        "mandatory_terms": ["ORAL-B","ADVANCED","5","ACOES","CARVAO"],
+        "optional_terms": ["POLIDORAS"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435171083"
@@ -428,8 +428,8 @@
         "ean": "7500435204415"
     },
     {
-        "mandatory_terms": ["ORAL-B","INDICATOR","BLACK","SENSITIVE"],
-        "optional_terms": ["ESCOVA","3"],
+        "mandatory_terms": ["ORAL-B","SENSITIVE","INDICATOR","BLACK"],
+        "optional_terms": ["EXTRA","MACIA","CARVAO"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435204422"
@@ -1327,8 +1327,8 @@
         "ean": "7500435170017"
     },
     {
-        "mandatory_terms": ["SECRET","BERRY","45G","GEL","INVISIVEL"],
-        "optional_terms": ["FRESH","DEFENSE","5X"],
+        "mandatory_terms": ["SECRET","BERRY","GEL","INVISIVEL","45G"],
+        "optional_terms": ["BERRY"],
         "brand": "SECRET",
         "ean_brand": "7189999999926",
         "ean": "7500435170024"
@@ -1453,8 +1453,8 @@
         "ean": "7500435142014"
     },
     {
-        "mandatory_terms": ["ARIEL","PAMPERS","HIPOALERGENICO","2L","SUAVE"],
-        "optional_terms": ["LAVA","ROUPAS","GENTIL"],
+        "mandatory_terms": ["ARIEL","CONCENTRADO","HIPOALERGENICO","2L","SUAVE"],
+        "optional_terms": ["GENTIL","PAMPERS","NOVA","FORMULA"],
         "brand": "ARIEL",
         "ean_brand": "7189999999934",
         "ean": "7500435156646"
@@ -6150,8 +6150,8 @@
         "ean": "7500435197038"
     },
     {
-        "mandatory_terms": ["PANTENE", "COLAGENO", "MASCARA","550"],
-        "optional_terms": ["PRO-V", "MIRACLES", "HIDRATA", "HIDRATANTE","RESGATA"],
+        "mandatory_terms": ["PANTENE","COLAGENO","PRO-V","MIRACLES","550ML"],
+        "optional_terms": ["HIDRATA","RESGATA","MASCARA","HIDRATANTE"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435197014"
@@ -7408,8 +7408,8 @@
         "ean":"7500435146173"
     }, 
     {
-        "mandatory_terms": ["GILLETTE", "CORPO", "BARREIRA", "PROTETORA", "4"],
-        "optional_terms": ["LEVE", "PAGUE", "CORPO", "3", "BOLINHAS", "CORTES"],
+        "mandatory_terms": ["GILLETTE","CORPO","BARREIRA","PROTETORA","BOLINHAS"],
+        "optional_terms": ["LEVE","PAGUE","3","4","CORTES"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435178600"
