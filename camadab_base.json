@@ -435,6 +435,13 @@
         "ean": "7500435204422"
     },
     {
+        "mandatory_terms":["PAMPERS","XXG","20","PANTS","AJUSTE"],
+        "optional_terms":["VAZAMENTO","CINTURA","ELASTICA","TOTAL"],
+        "brand":"PAMPERS",
+        "ean_brand":"7189999999931",
+        "ean":"7500435260855"
+    }, 
+    {
         "mandatory_terms": ["ORAL-B","3D","WHITE","CARVAO","70"],
         "optional_terms": ["CARBON","MINERAL","CLEAN"],
         "brand": "ORAL-B",
@@ -624,11 +631,11 @@
         "ean":"7500435248341"
     }, 
     {
-    "mandatory_terms": ["ALWAYS", "ABSORVENTE", "P", "8", "4X"],
-    "optional_terms": ["PROTECAO", "FLUXO", "MEDIO", "SECA"],
-    "brand": "ALWAYS",
-    "ean_brand": "7189999999928",
-    "ean": "7500435127226"
+        "mandatory_terms": ["ALWAYS", "ABSORVENTE", "P", "8", "4X"],
+        "optional_terms": ["PROTECAO", "FLUXO", "MEDIO", "SECA"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435127226"
     },
     {
         "mandatory_terms": ["ALWAYS","ABSORVENTES","SECA","P","16"],
@@ -911,6 +918,13 @@
         "ean_brand": "7189999999931",
         "ean": "7500435132527"
     },
+    {
+        "mandatory_terms":["PAMPERS","XG","22","PANTS"," 11-16KG"],
+        "optional_terms":["ZERO","VAZAMENTO","AJUSTE","TOTAL","BARREIRA","ANTI-COCO"],
+        "brand":"PAMPERS",
+        "ean_brand":"7189999999931",
+        "ean":"7500435260848"
+    },    
     {
         "mandatory_terms": ["PAMPERS","PREMIUM","CARE","RN+","36"],
         "optional_terms": ["RECEM-NASCIDO","MARCA","MUNDO"],
@@ -6199,8 +6213,8 @@
         "ean": "7500435209748"
     },
     {
-        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "SHAMPOO", "300"],
-        "optional_terms": ["PRO-V", "MIRACLES", "RAIZ", "PONTAS"],
+        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "RAIZ", "300"],
+        "optional_terms": ["PRO-V", "MIRACLES", "SHAMPOO", "PONTAS"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435209304"
@@ -6220,8 +6234,8 @@
         "ean": "7500435243100"
     },
     {
-        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "CONDICIONADOR", "510"],
-        "optional_terms": ["PRO-V", "MIRACLES", "RAIZ", "PONTAS"],
+        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "RAIZ","PONTAS", "510"],
+        "optional_terms": ["PRO-V", "MIRACLES", "CONDICIONADOR"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435209755"
@@ -6232,6 +6246,20 @@
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435209311"
+    },
+    {
+        "mandatory_terms": ["PANTENE", "KIT", "PROMOCIONAL", "BIOTINAMINA","B3"],
+        "optional_terms": ["SHAMPOO","CONDICIONADOR", "NUTRICAO", "300","150"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435253598"
+    },
+    {
+        "mandatory_terms": ["PANTENE", "KIT", "PROMOCIONAL", "BIOTINAMINA","PROV"],
+        "optional_terms": ["SHAMPOO","CONDICIONADOR", "NUTRICAO", "300","150"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435253598"
     },
     {
         "mandatory_terms": ["PANTENE", "EQUILIBRIO", "CONDICIONADOR", "150"],
@@ -6358,13 +6386,6 @@
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435128957"
-    },
-    {
-        "mandatory_terms": ["PANTENE", "KIT", "PROMOCIONAL", "BIOTINAMINA","B3"],
-        "optional_terms": ["SHAMPOO","CONDICIONADOR", "NUTRICAO", "300","150"],
-        "brand": "PANTENE",
-        "ean_brand": "7500000000001",
-        "ean": "7500435253598"
     },
     {
         "mandatory_terms": ["PANTENE", "BRILHO", "CONDICIONADOR", "175"],
@@ -6873,13 +6894,6 @@
         "ean":"7500435260831"
     },    
     {
-        "mandatory_terms":["PAMPERS","XG","22","PANTS"],
-        "optional_terms":["ZERO","VAZAMENTO","AJUSTE","TOTAL"],
-        "brand":"PAMPERS",
-        "ean_brand":"7189999999931",
-        "ean":"7500435260848"
-    },    
-    {
         "mandatory_terms":["PAMPERS","M","30","PANTS"],
         "optional_terms":["AJUSTE","TOTAL","ZERO","VAZAMENTO"],
         "brand":"PAMPERS",
@@ -6962,14 +6976,7 @@
         "brand":"ORAL-B",
         "ean_brand":"7189999999927",
         "ean":"7500435177047"
-    },  
-    {
-        "mandatory_terms":["PAMPERS","XXG","20","PANTS"],
-        "optional_terms":["AJUSTE","TOTAL"],
-        "brand":"PAMPERS",
-        "ean_brand":"7189999999931",
-        "ean":"7500435260855"
-    },  
+    },   
     {
         "mandatory_terms":["ARIEL","ROUPAS","SUPERFICIES","PISOS"],
         "optional_terms":["LIMPEZA","IMPECAVEL","CASA","TODA","EMBALAGEM","ECONOMICA"],
@@ -9593,8 +9600,8 @@
         "ean": "7891150042131"
     },
     {
-        "mandatory_terms": ["COMFORT","CUIDADO","INTENSIVO","10X","PERFUME"],
-        "optional_terms": ["HYDRA","SERUM","1L","RENDE","4L","CONCENTRADO"],
+        "mandatory_terms": ["COMFORT","CUIDADO","INTENSIVO","10X","4"],
+        "optional_terms": ["HYDRA","SERUM","1L","RENDE","PERFUME","CONCENTRADO"],
         "brand": "COMFORT",
         "ean_brand": "7189999999963",
         "ean": "7891150042117"
@@ -9607,8 +9614,8 @@
         "ean": "7891010503024"
     },
     {
-        "mandatory_terms": ["SEMPRE","LIVRE","ADAPT","COBERTURA","SUAVE"],
-        "optional_terms": ["COM","ABAS","16","UNIDADES"],
+        "mandatory_terms": ["SEMPRE","LIVRE","LEVE","SUAVE","16"],
+        "optional_terms": ["COM","ABAS","ADAPT","UNIDADES"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010793463"
@@ -12310,8 +12317,8 @@
         "ean": "7896104992432"
     },
     {
-        "mandatory_terms": ["MILI", "ABSORVENTE", "NOTURNO", "SUAVE"],
-        "optional_terms": ["16", "UNIDADES", "HIPOALERGENICO", "ABSORCAO", "RAPIDA"],
+        "mandatory_terms": ["MILI", "NOTURNO","LEVE","MAIS","16"],
+        "optional_terms": ["ABSORVENTES","POR","MENOS", "UNIDADES", "HIPOALERGENICO", "ABSORCAO", "RAPIDA"],
         "brand": "MILI",
         "ean_brand": "7189999999959",
         "ean": "7896104993880"
