@@ -155,7 +155,7 @@
     },
     {
         "mandatory_terms": ["ORAL-B","3D","WHITE","70"],
-        "optional_terms": ["MANCHAS","CLAREIA","80%","SUPERFICIAIS","BRILLIANT","FRESH"],
+        "optional_terms": ["MANCHAS","CLAREIA","80%","SUPERFICIAIS"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7506295388487"
@@ -638,8 +638,8 @@
         "ean": "7500435127257"
     },
     {
-        "mandatory_terms": ["ALWAYS","SUPER","SECA","P","32"],
-        "optional_terms": ["PROTECAO","GRATIS","ABSORVENTES"],
+        "mandatory_terms": ["ALWAYS","MEDIO","SECA","P","32"],
+        "optional_terms": ["PROTECAO","GRATIS","ABSORVENTES","CONTROLE","ODORES","CONTROLE"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435127288"
@@ -708,8 +708,8 @@
         "ean": "7500435233378"
     },
     {
-        "mandatory_terms": ["ALWAYS","G","5X","10","ABSORVENTES"],
-        "optional_terms": ["FLUXO","INTENSO","SUAVE","ABAS"],
+        "mandatory_terms": ["ALWAYS","G","5X","10","INTENSO"],
+        "optional_terms": ["FLUXO","COM","SUAVE","ABAS"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435233446"
@@ -764,22 +764,22 @@
         "ean": "7506339325249"
     },
     {
-        "mandatory_terms": ["ALWAYS","ABSORVENTES","NOTURNOS","G","32"],
-        "optional_terms": ["4x","SECA","NOITES","TRANQUILAS","GRANDE","GRATIS","4"],
+        "mandatory_terms": ["ALWAYS","5X","SECA","G","32"],
+        "optional_terms": ["ABSORVENTES/TOALLAS","4x","SECA","NOITES","TRANQUILAS","GRANDE","GRATIS","4"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7506339325263"
     },
     {
-        "mandatory_terms": ["ALWAYS","5X","NOTURNO","G","16"],
-        "optional_terms": ["4X","GRANDE","GRATIS","2"],
+        "mandatory_terms": ["ALWAYS","4X","NOTURNO","G","16"],
+        "optional_terms": ["ABSORVENTES","GRANDE","GRATIS","2"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7506339326031"
     },
     {
-        "mandatory_terms": ["ALWAYS","NOTURNO","SUAVE","G","32"],
-        "optional_terms": ["ABSORVENTES/TOALLAS","4X","NOTURNOS","GRANDE","GRATIS"],
+        "mandatory_terms": ["ALWAYS","5X","SUAVE","G","32"],
+        "optional_terms": ["ABSORVENTES/TOALLAS","NOTURNOS","GRANDE","GRATIS"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7506339326055"
@@ -5681,29 +5681,22 @@
         "ean": "7500435142236"
     },
     {
-        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "SHAMPOO", "510"],
-        "optional_terms": ["PRO-V", "MIRACLES", "B3", "ANTIQUEDA"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "B3","ANTIQUEDA", "510"],
+        "optional_terms": ["PRO-V", "MIRACLES", "SHAMPOO", "NUTRICAO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435248068"
     },
     {
-        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "SHAMPOO" ],
-        "optional_terms": ["510","500","525"],
-        "brand": "PANTENE",
-        "ean_brand": "7500000000001",
-        "ean": "7500435248068"
-    },
-    {
-        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "SHAMPOO", "300","B3"],
-        "optional_terms": ["PRO-V", "MIRACLES", "ANTIQUEDA"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "ANTIQUEDA", "300","B3"],
+        "optional_terms": ["FORCA","BRILHO", "NUTRE", "SHAMPOO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435248143"
     },
     {
-        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "SHAMPOO", "175","B3"],
-        "optional_terms": ["PRO-V", "MIRACLES",  "ANTIQUEDA"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "ANTIQUEDA", "175","B3"],
+        "optional_terms": ["PRO-V", "MIRACLES",  "SHAMPOO", "NUTRICAO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435248136"
@@ -5716,22 +5709,22 @@
         "ean": "7500435248051"
     },
     {
-        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "CONDICIONADOR", "250","B3"],
-        "optional_terms": ["PRO-V", "MIRACLES", "ANTIQUEDA","NUTRICAO"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "ANTIQUEDA", "250","B3"],
+        "optional_terms": ["PRO-V", "MIRACLES", "CONDICIONADOR","NUTRICAO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435248167"
     },
     {
-        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "CONDICIONADOR", "150","B3"],
-        "optional_terms": ["PRO-V", "MIRACLES", "ANTIQUEDA","NUTRICAO"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "ANTIQUEDA", "150","B3"],
+        "optional_terms": ["PRO-V", "MIRACLES", "CONDICIONADOR","NUTRICAO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435248174"
     },
     {
-        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "B3","CREME","PENTEAR"],
-        "optional_terms": ["240","PRO-V","ANTIQUEDA","NUTRICAO"],
+        "mandatory_terms": ["PANTENE", "BIOTINAMINA", "B3","ANTIQUEDA","240G"],
+        "optional_terms": ["CREME","PENTEAR","PRO-V","ANTIQUEDA","NUTRICAO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435248181"
@@ -5814,22 +5807,22 @@
         "ean": "7500435106382"
     },
     {
-        "mandatory_terms": ["PANTENE", "QUERATINA", "SHAMPOO", "510"],
-        "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "BLINDA"],
+        "mandatory_terms": ["PANTENE", "QUERATINA", "BLINDA", "510"],
+        "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "SHAMPOO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435232838"
     },
     {
-        "mandatory_terms": ["PANTENE", "QUERATINA", "SHAMPOO", "500"],
-        "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "BLINDA"],
+        "mandatory_terms": ["PANTENE", "QUERATINA", "BLINDA", "500"],
+        "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "SHAMPOO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435232838"
     },
     {
-        "mandatory_terms": ["PANTENE", "QUERATINA", "SHAMPOO", "300"],
-        "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "BLINDA"],
+        "mandatory_terms": ["PANTENE", "QUERATINA", "BLINDA", "300"],
+        "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "SHAMPOO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435232814"
@@ -6360,8 +6353,8 @@
         "ean": "7500435128957"
     },
     {
-        "mandatory_terms": ["PANTENE", "KIT", "PROMOCIONAL", "BIOTINAMINA","B3"],
-        "optional_terms": ["ANTIQUEDA", "NUTRICAO", "300","150"],
+        "mandatory_terms": ["PANTENE", "KIT", "ANTIQUEDA", "BIOTINAMINA","B3"],
+        "optional_terms": ["SHAMPOO","CONDICIONADOR", "NUTRICAO", "300","150"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435253598"
@@ -6381,8 +6374,8 @@
         "ean": "7500435125307"
     },
     {
-        "mandatory_terms": ["PANTENE", "MISTURINHA"],
-        "optional_terms": ["PRO-V", "BASE", "MISTURAS","270"],
+        "mandatory_terms": ["PANTENE", "MISTURINHA","270", "BASE"],
+        "optional_terms": ["PRO-V", "MISTURAS"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435146937"
@@ -7198,7 +7191,7 @@
     }, 
     {
         "mandatory_terms":["PAMPERS","XG","40","SUPERSEC"],
-        "optional_terms":["FRALDAS","ABSORCAO","CONTRA","VAZAMENTOS"],
+        "optional_terms":["FRALDAS","ABSORCAO","CONTRA","VAZAMENTOS","FRALDAS/PANALES"],
         "brand":"PAMPERS",
         "ean_brand":"7189999999931",
         "ean":"7500435132817"
@@ -7289,8 +7282,8 @@
     }, 
     
     {
-        "mandatory_terms":["ALWAYS","ABSORVENTES","P","48","4X"],
-        "optional_terms":["PROTECAO","7","GRATIS","FLUXO","MEDIO","SUAVE","COM","ABAS"],
+        "mandatory_terms":["ALWAYS","GRATIS","P","48","4X"],
+        "optional_terms":["PROTECAO","7","ABSORVENTES","CONTROLA","ODORES","FLUXO","MEDIO","SUAVE","COM","ABAS"],
         "brand":"ALWAYS",
         "ean_brand":"7189999999928",
         "ean":"7500435248341"
@@ -11114,7 +11107,7 @@
         "ean": "7891010503031"
     },
     {
-        "mandatory_terms": ["SEMPRE", "LIVRE", "NOITE", "DIA", "8"],
+        "mandatory_terms": ["SEMPRE", "LIVRE", "12H", "NOTURNO", "8"],
         "optional_terms": ["SUAVE", "UNIDADES", "COM", "ABAS","NOITE"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
@@ -11184,8 +11177,8 @@
         "ean": "7891010697518"
     },
     {
-        "mandatory_terms": ["SEMPRE", "LIVRE", "OB", "INTERNO"],
-        "optional_terms": ["8", "UNIDADES", "CANAIS", "ANTI-VAZAMENTO"],
+        "mandatory_terms": ["SEMPRE", "LIVRE", "OB", "INTERNO","8"],
+        "optional_terms": ["UNIDADES", "CANAIS", "ANTI-VAZAMENTO"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010245610"
@@ -12934,8 +12927,8 @@
         "ean": "7501065922755"
     },
     {
-        "mandatory_terms": ["ALWAYS","ABSORVENTE","XG","5X","42"],
-        "optional_terms": ["FLUXO","MUITO","INTENSO","NOITES","TRANQUILAS","10","GRATIS"],
+        "mandatory_terms": ["ALWAYS","GRATIS","XG","5X","42"],
+        "optional_terms": ["FLUXO","MUITO","INTENSO","NOITES","TRANQUILAS","10","ABSORVENTES","TOALLAS"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435248334"
