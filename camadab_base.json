@@ -287,8 +287,8 @@
         "ean": "7500435114776"
     },
     {
-        "mandatory_terms": ["ORAL-B","4","1","180","MAIS"],
-        "optional_terms": ["PAGUE","GRATIS","ANTICARIES","DENTES","HALITO"],
+        "mandatory_terms": ["ORAL-B","4","1","ANTICARIES","LIMPEZA"],
+        "optional_terms": ["PROFUNDA","HALITO","FRESCO","DENTES","BRANCOS","MAIS","MENOS"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435204781"
@@ -1102,7 +1102,7 @@
     },
     {
         "mandatory_terms": ["PAMPERS","CONFORT","TAMANHO","XXXG","44"],
-        "optional_terms": ["12H","PROTECAO","MENOS","MAIS"],
+        "optional_terms": ["NOVO","12H","PROTECAO","MAIOR","LEVE","PAGUE"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435232944"
@@ -3455,22 +3455,22 @@
         "ean": "7891150008137"
     },
     {
-        "mandatory_terms": ["CLEAR", "SHAMPOO", "FLOR", "CEREJEIRA", "200"],
+        "mandatory_terms": ["CLEAR","SHAMPOO","FLOR","CEREJEIRA","200"],
         "optional_terms": ["ANTI"],
         "brand": "CLEAR",
         "ean_brand": "7700000000007",
         "ean": "7891150055704"
     },
     {
-        "mandatory_terms": ["CLEAR", "DETOX", "DIARIO", "GRATIS", "400"],
+        "mandatory_terms": ["CLEAR","DETOX","DIARIO","GRATIS","400"],
         "optional_terms": ["DETOX"],
         "brand": "CLEAR",
         "ean_brand": "7700000000007",
         "ean": "7891150067561"
     },
     {
-        "mandatory_terms": ["HEAD", "SHOULDERS", "LIMPEZA", "EFICAZ","200"],
-        "optional_terms": ["100", "PROFUNDA"],
+        "mandatory_terms": ["HEAD","SHOULDERS","SHAMPOO","ANTICASPA","200ML"],
+        "optional_terms": ["LIMPEZA","EFICAZ","PROFUNDA","DURADOURA"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
         "ean": "7500435242615"
@@ -3483,22 +3483,22 @@
         "ean": "7500435242622"
     },
     {
-        "mandatory_terms": ["HEAD", "SHOULDERS", "LIMPEZA", "EFICAZ","650"],
+        "mandatory_terms": ["HEAD","SHOULDERS","LIMPEZA","EFICAZ","650"],
         "optional_terms": ["LEVE","MAIS","PAGUE","MENOS"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
         "ean": "7500435248914"
     },
     {
-        "mandatory_terms": ["HEAD", "SHOULDERS","SHAMPOO", "ANTICOCEIRA", "200"],
-        "optional_terms": ["ALIVIO", "COCEIRA", "ASSOCIOADA","CASPA"],
+        "mandatory_terms": ["HEAD","SHOULDERS","SHAMPOO","ANTICOCEIRA","200"],
+        "optional_terms": ["ALIVIO","COCEIRA","ASSOCIOADA","CASPA"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
         "ean": "7506195142035"
     },
     {
-        "mandatory_terms": ["HEAD", "SHOULDERS", "3", "1","200"],
-        "optional_terms": ["SHAMPOO","MEN", "ANTICASPA", "LIMPA", "PROFUNDAMENTE", "PROTEGE","CONTRA","CASPA","SUAVIZA","CABELO"],
+        "mandatory_terms": ["HEAD","SHOULDERS","3","1","200"],
+        "optional_terms": ["SHAMPOO","MEN","ANTICASPA","LIMPA","PROFUNDAMENTE","PROTEGE","CONTRA","CASPA","SUAVIZA","CABELO"],
         "brand": "SHOULDERS",
         "ean_brand": "7110000000008",
         "ean": "7506309865393"
@@ -5807,15 +5807,8 @@
         "ean": "7500435106382"
     },
     {
-        "mandatory_terms": ["PANTENE", "QUERATINA", "SHAMPOO", "510"],
-        "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "BLINDA"],
-        "brand": "PANTENE",
-        "ean_brand": "7500000000001",
-        "ean": "7500435232838"
-    },
-    {
-        "mandatory_terms": ["PANTENE", "QUERATINA", "SHAMPOO", "500"],
-        "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "BLINDA"],
+        "mandatory_terms": ["PANTENE","SHAMPOO","PRO-V","MIRACLES","QUERATINA"],
+        "optional_terms": ["PREENCHE","BLINDA","510ML"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435232838"
