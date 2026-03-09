@@ -617,6 +617,13 @@
         "ean": "7500435126199"
     },
     {
+        "mandatory_terms":["ALWAYS","7","P","48","GRATIS"],
+        "optional_terms":["PROTECAO","4X","ABSORVENTES","CONTROLA","ODORES","FLUXO","MEDIO","SUAVE","COM","ABAS"],
+        "brand":"ALWAYS",
+        "ean_brand":"7189999999928",
+        "ean":"7500435248341"
+    }, 
+    {
     "mandatory_terms": ["ALWAYS", "ABSORVENTE", "P", "8", "4X"],
     "optional_terms": ["PROTECAO", "FLUXO", "MEDIO", "SECA"],
     "brand": "ALWAYS",
@@ -7280,14 +7287,6 @@
         "ean_brand":"7189999999936",
         "ean":"7500435177542"
     }, 
-    
-    {
-        "mandatory_terms":["ALWAYS","GRATIS","P","48","4X"],
-        "optional_terms":["PROTECAO","7","ABSORVENTES","CONTROLA","ODORES","FLUXO","MEDIO","SUAVE","COM","ABAS"],
-        "brand":"ALWAYS",
-        "ean_brand":"7189999999928",
-        "ean":"7500435248341"
-    }, 
     {
         "mandatory_terms":["DOWNY","REFIL","AMACIANTE","1.6","CONCENTRADO"],
         "optional_terms":["BRISA","VERAO","NOVA","FORMULA","PERFUME","ALTA","FIXA"],
@@ -9615,8 +9614,8 @@
         "ean": "7891010793463"
     },
     {
-        "mandatory_terms": ["SEMPRE","LIVRE","ADAPT","32","UNIDADES"],
-        "optional_terms": ["COBERTURA","SUAVE","COM","ABAS"],
+        "mandatory_terms": ["SEMPRE","LIVRE","LEVE","MAIS","32"],
+        "optional_terms": ["ADAPT","COBERTURA","SUAVE","COM","ABAS"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010254155"
@@ -12276,11 +12275,18 @@
         "ean": "7890704810738"
     },
     {
-        "mandatory_terms": ["MILI", "ABSORVENTE", "SUAVE", "COM", "ABAS"],
-        "optional_terms": ["16", "UNIDADES", "PROTECAO", "TOTAL", "HIPOALERGENICO"],
+        "mandatory_terms": ["MILI", "ABSORVENTE", "SUAVE", "16", "LEVE"],
+        "optional_terms": ["HIPOALERGENICO", "UNIDADES", "PROTECAO", "TOTAL", "COM","ABAS"],
         "brand": "MILI",
         "ean_brand": "7189999999959",
         "ean": "7896104993835"
+    },
+    {
+        "mandatory_terms": ["MILI", "DIA&NOITE", "SUAVE", "16", "LEVE"],
+        "optional_terms": ["HIPOALERGENICO", "ANTI-VAZAMENTO", "PROTECAO", "TOTAL", "COM","ABAS","FLUXO","INTENSO"],
+        "brand": "MILI",
+        "ean_brand": "7189999999959",
+        "ean": "7896104993903"
     },
     {
         "mandatory_terms": ["MILI", "PROTETOR", "DIARIO", "SUAVE"],
@@ -12325,15 +12331,15 @@
         "ean": "7896104992753"
     },
     {
-        "mandatory_terms": ["MILI", "ABSORVENTE", "SUAVE", "COM", "ABAS"],
-        "optional_terms": ["32", "UNIDADES", "PROTECAO", "TOTAL", "REGULAR"],
+        "mandatory_terms": ["MILI", "LEVE", "HIPOALERGENICO", "32", "SUAVE"],
+        "optional_terms": ["ABSORVENTES","COM", "ABAS", "PROTECAO", "TOTAL", "REGULAR"],
         "brand": "MILI",
         "ean_brand": "7189999999959",
         "ean": "7896104992494"
     },
     {
-        "mandatory_terms": ["MILI", "ABSORVENTE", "NOTURNO", "SUAVE"],
-        "optional_terms": ["32", "UNIDADES", "HIPOALERGENICO", "INTENSO"],
+        "mandatory_terms": ["MILI", "32", "NOTURNO", "LEVE","MAIS"],
+        "optional_terms": ["PROTECAO","COM","ABAS", "ABSORVENTE", "HIPOALERGENICO", "INTENSO"],
         "brand": "MILI",
         "ean_brand": "7189999999959",
         "ean": "7896104992777"
