@@ -1408,13 +1408,6 @@
         "ean": "7500435125840"
     },
     {
-        "mandatory_terms": ["ALWAYS","ABSORVENTES","4X","M","8"],
-        "optional_terms": ["PROTECAO","FLUXO","MODERADO","COM","ABAS"],
-        "brand": "ALWAYS",
-        "ean_brand": "7189999999928",
-        "ean": "7506195129838"
-    },
-    {
         "mandatory_terms": ["ALWAYS","4X","SUAVE","MEDIO","32"],
         "optional_terms": ["P","SUAVE","PROTECAO","FLUXO","MEDIO","ABSORVENTES","GRATIS"],
         "brand": "ALWAYS",
@@ -1609,6 +1602,13 @@
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7506339394603"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","ABSORVENTES","PROTECAO","M","8"],
+        "optional_terms": ["4x","FLUXO","MODERADO","COM","ABAS"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7506195129838"
     },
     {
         "mandatory_terms": ["ALWAYS","5X","SUAVE","G","8"],
@@ -1826,6 +1826,13 @@
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435145992"
+    },
+    {
+        "mandatory_terms": ["PAMPERS", "PREMIUM", "CARE", "PANTS", "XG", "26"],
+        "optional_terms": ["11-15","PANTS", "FACIL","VESTIR"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435145954"
     },
     {
         "mandatory_terms": ["PAMPERS","PANTS","XG","14"],
@@ -2229,8 +2236,8 @@
         "ean": "7500435115353"
     },
     {
-        "mandatory_terms": ["ARIEL","DOWNY","CONCENTRADO","1.2L"],
-        "optional_terms": ["TOQUE","SAEM","MANCHAS"],
+        "mandatory_terms": ["ARIEL","DOWNY","COMBATE","MANCHAS","1.2L"],
+        "optional_terms": ["AMACIANTE","TOQUE","SAEM","MANCHAS"],
         "brand": "ARIEL",
         "ean_brand": "7189999999934",
         "ean": "7500435115827"
@@ -2446,36 +2453,36 @@
         "ean": "7500435250610"
     },
     {
-        "mandatory_terms": ["DOWNY","CONCENTRADO","BRISA","VERAO","750"] ,
-        "optional_terms": ["PERFUME","DURA","RENDE","PROTEGE","MAUS","CHEIROS","REFIL", "SUAVIZANTE"],
+        "mandatory_terms": ["DOWNY","REFIL","BRISA","VERAO","750"] ,
+        "optional_terms": ["PERFUME","DURA","RENDE","PROTEGE","MAUS","CHEIROS","CONCENTRADO", "SUAVIZANTE"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435251235"
     },
     {
-        "mandatory_terms": ["DOWNY","CONCENTRADO","BRISA","SUAVE","750"],
-        "optional_terms": ["AMACIANTE","REFIL","PERFUME","SUAVE","TEMPO", "PROTEGE", "MAUS","CHEIROS"],
+        "mandatory_terms": ["DOWNY","REFIL","BRISA","SUAVE","750"],
+        "optional_terms": ["AMACIANTE","CONCENTRADO","PERFUME","SUAVE","TEMPO", "PROTEGE", "MAUS","CHEIROS"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435251242"
     },
     {
-        "mandatory_terms":["DOWNY","CONCENTRADO","PERFUME","INTENSO","1.6"],
-        "optional_terms":["BRISA","INTENSO","NOVA","FORMULA"],
+        "mandatory_terms":["DOWNY","CONCENTRADO","BRISA","INTENSO","1.6"],
+        "optional_terms":["PERFUME","NOVA","FORMULA"],
         "brand":"PAMPERS",
         "ean_brand":"7189999999936",
         "ean":"7500435241120"
     }, 
     {
-        "mandatory_terms": ["DOWNY","CONCENTRADO","BRISA","INTENSO","750"],
-        "optional_terms": ["AMACIANTE","REFIL","PERFUME","PROTEGE","MAUS","CHEIROS"],
+        "mandatory_terms": ["DOWNY","REFIL","BRISA","INTENSO","750"],
+        "optional_terms": ["AMACIANTE","CONCENTRADO","PERFUME","PROTEGE","MAUS","CHEIROS"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435251259"
     },
     {
-        "mandatory_terms": ["DOWNY","CONCENTRADO","BRISA","VERAO","1.5"],
-        "optional_terms": ["GRATIS","150","PERFUME","DURA","RENDE","MAIS"],
+        "mandatory_terms": ["DOWNY","GRATIS","BRISA","VERAO","1.5"],
+        "optional_terms": ["CONCENTRADO","150","PERFUME","DURA","RENDE","MAIS"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7500435251471"
@@ -2509,8 +2516,8 @@
         "ean": "7500435252942"
     },
     {
-        "mandatory_terms": ["DOWNY","CONCENTRADO","VERAO","500"],
-        "optional_terms": ["MAIS","PERFUME","RENDE","2L"],
+        "mandatory_terms": ["DOWNY","BRISA","VERAO","500"],
+        "optional_terms": ["CONCENTRADO","MAIS","PERFUME","RENDE","2L"],
         "brand": "DOWNY",
         "ean_brand": "7189999999936",
         "ean": "7506195143834"
@@ -6912,8 +6919,8 @@
         "ean":"4210201445562"
     },    
     {
-        "mandatory_terms":["DOWNY","PERFUME","ALTA","FIXACAO","3L"],
-        "optional_terms":["VERAO","TROPICAL","CONCENTRADO"],
+        "mandatory_terms":["DOWNY","VERAO","TROPICAL","FIXACAO","3L"],
+        "optional_terms":["PERFUME","ALTA","CONCENTRADO"],
         "brand":"DOWNY",
         "ean_brand":"7189999999936",
         "ean":"7500435259569"
@@ -7103,8 +7110,8 @@
         "ean":"75062613"
     }, 
     {
-        "mandatory_terms":["DOWNY","CONCENTRADO","PERFUME","INTENSO"],
-        "optional_terms":["BRISA","INTENSO"],
+        "mandatory_terms":["DOWNY","REFIL","BRISA","INTENSO","400"],
+        "optional_terms":["CONCENTRADO","PERFUME"],
         "brand":"DOWNY",
         "ean_brand":"7189999999936",
         "ean":"7500435233385"
@@ -7940,14 +7947,6 @@
     },
     {
 
-        "mandatory_terms": ["PAMPERS", "PREMIUM", "CARE", "PANTS", "XG", "26"],
-        "optional_terms": ["PANTS", "FACIL","VESTIR"],
-        "brand": "PAMPERS",
-        "ean_brand": "7189999999931",
-        "ean": "7500435145954"
-    },
-    {
-
         "mandatory_terms": ["GILLETTE", "MACH3",  "CREME", "2X", "GRATIS"],
         "optional_terms": ["4", "REFIS", "BARBEAR", "150", "KIT"],
         "brand": "GILLETTE",
@@ -8558,13 +8557,6 @@
         "brand": "SHOLDERS",
         "ean_brand": "7110000000008",
         "ean": "7500435238687"
-    },
-    {
-        "mandatory_terms": ["ORAL-B","50","SUPERFLOSS","EXPERT"],
-        "optional_terms": ["FIO","DENTAL","INTERDENTAIS"],
-        "brand": "ORAL-B",
-        "ean_brand": "7189999999927",
-        "ean": "7800005064020"
     },
     {
         "mandatory_terms": ["ZEPPELIN","TRADICIONAL","ETILICO","HIDRATADO"],
@@ -10052,14 +10044,14 @@
         "ean": "7891150081147"
     },
     {
-        "mandatory_terms": ["OMO","LAVAGEM","PERFEITA","SANITIZA","HIGIENIZA"],
-        "optional_terms": ["2.2KG","TAMANHO","FAMILIA","RENDE","27","LAVAGENS"],
+        "mandatory_terms": ["OMO","TAMANHO","FAMILIA","SANITIZA","HIGIENIZA"],
+        "optional_terms": ["2.2KG","LAVAGEM","RENDE","27","LAVAGENS"],
         "brand": "OMO",
         "ean_brand": "7189999999994",
         "ean": "7891150072237"
     },
     {
-        "mandatory_terms": ["OMO","PURO","CUIDADO","HIPOALERGENICO"],
+        "mandatory_terms": ["OMO","PUROCUIDADO","TAMANHO","HIPOALERGENICO","FAMILIA"],
         "optional_terms": ["EXTRA","SUAVE","2.2KG"],
         "brand": "OMO",
         "ean_brand": "7189999999994",
@@ -11145,8 +11137,8 @@
         "ean": "7891010245610"
     },
     {
-        "mandatory_terms": ["ALWAYS","G","5X","10","INTENSO"],
-        "optional_terms": ["FLUXO","COM","SUAVE","ABAS"],
+        "mandatory_terms": ["ALWAYS","G","5X","10","GRATIS"],
+        "optional_terms": ["INTENSO","FLUXO","COM","SUAVE","ABAS"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7500435233446"
