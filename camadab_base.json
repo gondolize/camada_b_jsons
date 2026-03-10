@@ -6863,8 +6863,8 @@
         "ean":"7500435260862"
     },   
     {
-        "mandatory_terms":["DOWNY","AMACIANTE","PERFUME","INTENSO","1L"],
-        "optional_terms":["GRATIS","100","NOVA","FORMULA"],
+        "mandatory_terms":["DOWNY","AMACIANTE","GRATIS","INTENSO","1L"],
+        "optional_terms":["PERFUME","100","NOVA","FORMULA"],
         "brand":"DOWNY",
         "ean_brand":"7189999999936",
         "ean":"7500435259545"
@@ -7744,13 +7744,6 @@
         "ean_brand":"7189999999936",
         "ean":"7500435160032"
     }, 
-    {
-        "mandatory_terms":["DOWNY","BRISA","VERAO","DURA","3"],
-        "optional_terms":["RENDE","12L","CONCENTRADO","PERFUME"],
-        "brand":"DOWNY",
-        "ean_brand":"7189999999936",
-        "ean":"7500435156547"
-    },
     {
         "mandatory_terms":["DOWNY","CONCENTRADO","AGUA","FRESCA","1.6L"],
         "optional_terms":["RENDE","6.4L","PERFUME","SUAVE"],
@@ -8734,21 +8727,12 @@
         "ean": "7896085870187"
     },
     {
-        "mandatory_terms": ["OMO","LAVAGEM","PERFEITA","NOVA","FORMULA"],
-        "optional_terms": ["10X","TECNOLOGIA","REMOCAO","MANCHAS","800"],
-        "brand": "ORAL-B",
-        "ean_brand": "7189999999927",
-        "ean": "7800005064020"
-    },
-
-    {
         "mandatory_terms": ["HEDERA","TRATAMENTO","CAPILAR","CERAMIDAS","960"],
         "optional_terms": ["HIDRATACAO","REVIGORA","FORTALECE","LIMPEZA","CABELOS"],
         "brand": "HEDERA",
         "ean_brand": "7280000000028",
         "ean": "7898556121187"
     },
-
     {
         "mandatory_terms": ["BOZZANO","HIDRATACAO","CONFORT","REPAIR","ESPUMA"],
         "optional_terms": ["BARBEAR","200","RECUPERA"],
@@ -8756,7 +8740,6 @@
         "ean_brand": "7240000000024",
         "ean": "7891350000092"
     },
-
     {
         "mandatory_terms": ["GOTA","DOURADA","TONICO","ALHO","FORTALECIMENTO"],
         "optional_terms": ["LEGITIMO","DESODORIZADO","100"],
@@ -8764,7 +8747,6 @@
         "ean_brand": "7260000000026",
         "ean": "7897158702138"
     },
-
     {
         "mandatory_terms": ["PLUSH","CONCENTRADO","500","MISTICA","RENDE"],
         "optional_terms": ["AMACIANTE","ROUPAS","2"],
@@ -8772,7 +8754,6 @@
         "ean_brand": "7189999999937",
         "ean": "7896183305192"
     },
-
     {
         "mandatory_terms": ["ALTA","MODA","BB","CREAM","SHAMPOO"],
         "optional_terms": ["ULTRA","SEDOSIDADE","VEGANO","D-PANTENOL","TAMARINDO"],
@@ -8780,7 +8761,6 @@
         "ean_brand": "7200000000020",
         "ean": "7899884219836"
     },
-
     {
         "mandatory_terms": ["ALVEX","MARINER","LIMPADOR","CONCENTRADO"],
         "optional_terms": ["CASA","TODA","PERFUMADA"],
@@ -8788,7 +8768,6 @@
         "ean_brand": "7189999999985",
         "ean": "7896844001388"
     },
-
     {
         "mandatory_terms": ["AMEND","SHAMPOO","RECONSTRUTOR","BIO-AMINO"],
         "optional_terms": ["SEM","SAL","COMPLETE","REPAIR"],
@@ -8796,7 +8775,6 @@
         "ean_brand": "7210000000021",
         "ean": "7896852615973"
     },
-
     {
         "mandatory_terms": ["APLIK","PEDRA","SANITARIA","LAVANDA","25"],
         "optional_terms": ["PERFUME","DOURADOURO"],
@@ -11137,13 +11115,6 @@
         "ean": "7891010245610"
     },
     {
-        "mandatory_terms": ["ALWAYS","G","5X","10","GRATIS"],
-        "optional_terms": ["INTENSO","FLUXO","COM","SUAVE","ABAS"],
-        "brand": "ALWAYS",
-        "ean_brand": "7189999999928",
-        "ean": "7500435233446"
-    },
-    {
         "mandatory_terms": ["SEMPRE", "LIVRE", "OB", "INTERNO", "PROCOMFORT"],
         "optional_terms": ["8", "UNIDADES"],
         "brand": "SEMPRE LIVRE",
@@ -12726,6 +12697,20 @@
         "ean": "7500435138710"
     },
     {
+        "mandatory_terms": ["ALWAYS","GRATIS","XG","10","42"],
+        "optional_terms": ["FLUXO","MUITO","INTENSO","NOITES","TRANQUILAS","5X","ABSORVENTES","TOALLAS"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435248334"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","G","5X","10","GRATIS"],
+        "optional_terms": ["INTENSO","FLUXO","COM","SUAVE","ABAS"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7500435233446"
+    },
+    {
         "mandatory_terms": ["ORAL-B", "ESCOVA", "DENTAL", "SENSITIVE", "INDICATOR"],
         "optional_terms": ["KIT", "2", "UNIDADES", "FIO", "DENTAL"],
         "brand": "ORAL-B",
@@ -12885,13 +12870,6 @@
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7501065922755"
-    },
-    {
-        "mandatory_terms": ["ALWAYS","GRATIS","XG","5X","42"],
-        "optional_terms": ["FLUXO","MUITO","INTENSO","NOITES","TRANQUILAS","10","ABSORVENTES","TOALLAS"],
-        "brand": "ALWAYS",
-        "ean_brand": "7189999999928",
-        "ean": "7500435248334"
     },
     {
         "mandatory_terms": ["ALWAYS","SECA","FLEXI","ABAS","32"],
@@ -13060,6 +13038,13 @@
         "brand":"GILLETTE",
         "ean_brand":"7189999999933",
         "ean":"7500435124386"
+    },
+    {
+        "mandatory_terms":["DOWNY","BRISA","VERAO","12L","3"],
+        "optional_terms":["RENDE","HIDRO-CAUTERIZACAO","CONCENTRADO","PERFUME"],
+        "brand":"DOWNY",
+        "ean_brand":"7189999999936",
+        "ean":"7500435156547"
     }
 
 ] 
