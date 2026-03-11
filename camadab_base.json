@@ -379,8 +379,8 @@
         "ean": "7500435155540"
     },
     {
-        "mandatory_terms": ["ORAL-B","ADVANCED","5","ACOES","CARVAO"],
-        "optional_terms": ["POLIDORAS"],
+        "mandatory_terms": ["ORAL-B","ADVANCED","5","MACIA","CARVAO"],
+        "optional_terms": ["ACOES","2"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435171083"
@@ -1100,6 +1100,13 @@
         "ean": "7500435154307"
     },
     {
+        "mandatory_terms": ["PANTENE","COLAGENO","MASCARA","MIRACLES","550ML"],
+        "optional_terms": ["HIDRATA","RESGATA","PRO-V","HIDRATANTE"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435197014"
+    },
+    {
         "mandatory_terms": ["PANTENE", "COLAGENO", "SHAMPOO","HIDRATA", "510"],
         "optional_terms": ["PRO-V", "MIRACLES","RESGATA"],
         "brand": "PANTENE",
@@ -1161,13 +1168,6 @@
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435197038"
-    },
-    {
-        "mandatory_terms": ["PANTENE","COLAGENO","PRO-V","MIRACLES","550ML"],
-        "optional_terms": ["HIDRATA","RESGATA","MASCARA","HIDRATANTE"],
-        "brand": "PANTENE",
-        "ean_brand": "7500000000001",
-        "ean": "7500435197014"
     },
     {
         "mandatory_terms": ["PANTENE", "SHAMPOO", "LIBERADO"],
@@ -1597,11 +1597,11 @@
         "ean": "7506339394603"
     },
     {
-        "mandatory_terms": ["PAMPERS","CONFORT","SEC","P","50"],
-        "optional_terms": ["12H","PROTECAO"],
+        "mandatory_terms": ["PAMPERS","CONFORT","TAMANHO","XXXG","44"],
+        "optional_terms": ["NOVO","12H","PROTECAO","MAIOR","LEVE","PAGUE"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
-        "ean": "7500435106610"
+        "ean": "7500435232944"
     },
     {
         "mandatory_terms": ["PAMPERS","CONFORT","SEC","M","44"],
@@ -1918,13 +1918,7 @@
         "ean_brand": "7189999999931",
         "ean": "7500435226950"
     },
-    {
-        "mandatory_terms": ["PAMPERS","CONFORT","TAMANHO","XXXG","44"],
-        "optional_terms": ["NOVO","12H","PROTECAO","MAIOR","LEVE","PAGUE"],
-        "brand": "PAMPERS",
-        "ean_brand": "7189999999931",
-        "ean": "7500435232944"
-    },
+
     {
         "mandatory_terms": ["PAMPERS","CONFORT","SEC","XXXG","24"],
         "optional_terms": ["12H","PROTECAO","LEVE","MAIS","PAGUE","MENOS"],
@@ -7523,16 +7517,20 @@
         "ean": "7500435106597"
     },
     {
-
         "mandatory_terms": ["PAMPERS", "CONFORTSEC", "XG", "18"],
         "optional_terms": ["FRALDAS","PROTECAO","12H"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435106597"
-
+    },
+        {
+        "mandatory_terms": ["PAMPERS","CONFORT","SEC","P","50"],
+        "optional_terms": ["12H","PROTECAO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435106610"
     },
     {
-
         "mandatory_terms": ["ORAL-B", "3D", "WHITE", "102", "CARVAO"],
         "optional_terms": ["MINERAL", "CLEAN"],
         "brand": "ORAL-B",
@@ -10387,14 +10385,14 @@
         "ean": "7891150105843"
     },
     {
-        "mandatory_terms": ["BRILHANTE", "BLINDAGEM", "100%", "GARRAFA", "1,8"],
-        "optional_terms": ["ROUPAS","RENDE","18", "RECICLAVEL"],
+        "mandatory_terms": ["BRILHANTE", "BLINDAGEM", "100%", "GARRAFA", "18"],
+        "optional_terms": ["ROUPAS","RENDE","1.8L", "RECICLAVEL"],
         "brand": "BRILHANTE",
         "ean_brand": "7189999999987",
         "ean": "7891150098015"
     },
     {
-        "mandatory_terms": ["BRILHANTE", "BLINDAGEM", "CORES", "RECICLAVEL", "1.8L"],
+        "mandatory_terms": ["BRILHANTE", "BLINDAGEM", "CORES", "RECICLAVEL", "1.8"],
         "optional_terms": ["ROUPAS","RENDE","18", "RECICLAVEL"],
         "brand": "BRILHANTE",
         "ean_brand": "7189999999987",
