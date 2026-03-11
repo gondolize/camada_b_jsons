@@ -379,8 +379,8 @@
         "ean": "7500435155540"
     },
     {
-        "mandatory_terms": ["ORAL-B","ADVANCED","5","MACIA","CARVAO"],
-        "optional_terms": ["ACOES","2"],
+        "mandatory_terms": ["ORAL-B","ADVANCED","5","ACOES","CARVAO"],
+        "optional_terms": ["MACIA","2"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435171083"
@@ -428,7 +428,7 @@
         "ean": "7500435204422"
     },
     {
-        "mandatory_terms":["PAMPERS","XXG","20","PANTS","AJUSTE"],
+        "mandatory_terms":["PAMPERS","20","XXG","PANTS","AJUSTE"],
         "optional_terms":["VAZAMENTO","CINTURA","ELASTICA","TOTAL"],
         "brand":"PAMPERS",
         "ean_brand":"7189999999931",
@@ -834,11 +834,11 @@
         "ean": "7500435232838"
     },
     {
-        "mandatory_terms": ["PANTENE", "QUERATINA", "BLINDA", "300"],
-        "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "SHAMPOO"],
+        "mandatory_terms": ["PANTENE", "QUERATINA", "PREENCHE", "510", "CONDICIONADOR"],
+        "optional_terms": ["PRO-V", "MIRACLES", "BLINDA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
-        "ean": "7500435232814"
+        "ean": "7500435232821"
     },
     {
         "mandatory_terms": ["PANTENE", "QUERATINA", "SHAMPOO", "175"],
@@ -855,11 +855,11 @@
         "ean": "7500435243124"
     },
     {
-        "mandatory_terms": ["PANTENE", "QUERATINA", "PREENCHE", "510", "CONDICIONADOR"],
-        "optional_terms": ["PRO-V", "MIRACLES", "BLINDA"],
+        "mandatory_terms": ["PANTENE", "QUERATINA", "BLINDA", "300"],
+        "optional_terms": ["PRO-V", "MIRACLES", "PREENCHE", "SHAMPOO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
-        "ean": "7500435232821"
+        "ean": "7500435232814"
     },
     {
         "mandatory_terms": ["PANTENE", "BOOSTER","PROTECAO"],
@@ -1198,25 +1198,11 @@
         "ean": "7500435118583"
     },
     {
-        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "SHAMPOO", "510ML"],
+        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "SHAMPOO", "510"],
         "optional_terms": ["PRO-V", "MIRACLES", "RAIZ", "PONTAS"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435209748"
-    },
-    {
-        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "RAIZ", "300"],
-        "optional_terms": ["PRO-V", "MIRACLES", "SHAMPOO", "PONTAS"],
-        "brand": "PANTENE",
-        "ean_brand": "7500000000001",
-        "ean": "7500435209304"
-    },
-    {
-        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "OLEOSIDADE","CONTROLADA", "175"],
-        "optional_terms": ["PRO-V", "MIRACLES", "RAIZ", "PONTAS"],
-        "brand": "PANTENE",
-        "ean_brand": "7500000000001",
-        "ean": "7500435209342"
     },
     {
         "mandatory_terms": ["PANTENE", "EQUILIBRIO", "SHAMPOO", "1L"],
@@ -1273,6 +1259,20 @@
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435106405"
+    },
+    {
+        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "RAIZ", "300"],
+        "optional_terms": ["PRO-V", "MIRACLES", "SHAMPOO", "PONTAS"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435209304"
+    },
+    {
+        "mandatory_terms": ["PANTENE", "EQUILIBRIO", "OLEOSIDADE","CONTROLADA", "175"],
+        "optional_terms": ["PRO-V", "MIRACLES", "RAIZ", "PONTAS"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435209342"
     },
     {
         "mandatory_terms": ["PANTENE","RECONSTRUCAO", "REVITALIZADORA","15"],
@@ -1877,6 +1877,13 @@
         "ean": "7500435181297"
     },
     {
+        "mandatory_terms": ["PAMPERS","SUPER","XG","56","SEQUINHA"],
+        "optional_terms": ["SUPERSEQUINHA","ABSORCAO","BABY","SHARK"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435250221"
+    },
+    {
         "mandatory_terms": ["PAMPERS","SUPERSEC","M","18"],
         "optional_terms": ["SUPER","SECO","PRECO"],
         "brand": "PAMPERS",
@@ -1953,13 +1960,6 @@
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435250207"
-    },
-    {
-        "mandatory_terms": ["PAMPERS","FRALDAS","SUPERSEQUINHA","XG","56"],
-        "optional_terms": ["12H","ABSORCAO","BABY","SHARK"],
-        "brand": "PAMPERS",
-        "ean_brand": "7189999999931",
-        "ean": "7500435250221"
     },
     {
         "mandatory_terms": ["PAMPERS","FRALDAS","SUPERSEQUINHA","M","68"],
@@ -6521,8 +6521,8 @@
         "ean":"7500435130257"
     },
     {
-        "mandatory_terms":["PAMPERS","CONFORT","SEC","XXG","52"],
-        "optional_terms":["FRALDAS"],
+        "mandatory_terms":["PAMPERS","CONFORT","LEVE","XXG","52"],
+        "optional_terms":["FRALDAS/PANALES","SEC","12H"],
         "brand":"PAMPERS",
         "ean_brand":"7189999999931",
         "ean":"7500435205238"
@@ -7370,7 +7370,7 @@
         "ean":"7500435132350"
     }, 
     {
-        "mandatory_terms":["PAMPERS","XXG","12","PANTS"],
+        "mandatory_terms":["PAMPERS","12","XXG","PANTS"],
         "optional_terms":["AJUSTE","TOTAL"],
         "brand":"PAMPERS",
         "ean_brand":"7189999999931",
