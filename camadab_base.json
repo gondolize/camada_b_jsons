@@ -10387,7 +10387,14 @@
         "ean": "7891150105843"
     },
     {
-        "mandatory_terms": ["BRILHANTE", "BLINDAGEM", "CORES", "GARRAFA", "1.8L"],
+        "mandatory_terms": ["BRILHANTE", "BLINDAGEM", "100%", "GARRAFA", "1,8"],
+        "optional_terms": ["ROUPAS","RENDE","18", "RECICLAVEL"],
+        "brand": "BRILHANTE",
+        "ean_brand": "7189999999987",
+        "ean": "7891150098015"
+    },
+    {
+        "mandatory_terms": ["BRILHANTE", "BLINDAGEM", "CORES", "RECICLAVEL", "1.8L"],
         "optional_terms": ["ROUPAS","RENDE","18", "RECICLAVEL"],
         "brand": "BRILHANTE",
         "ean_brand": "7189999999987",
