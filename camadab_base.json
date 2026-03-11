@@ -11997,43 +11997,43 @@
         "ean": "7891150098046"
     },
     {
-        "mandatory_terms": ["BRILHANTE", "LIMPEZA", "TOTAL", "BLINDAGEM", "CORES"],
-        "optional_terms": ["2.2KG", "TAMANHO", "FAMILIA", "ROUPAS", "BRANCAS", "COLORIDAS"],
+        "mandatory_terms": ["BRILHANTE", "LIMPEZA", "TAMANHO", "BLINDAGEM", "2.2KG"],
+        "optional_terms": ["TAMANHO", "FAMILIA", "ROUPAS", "BRANCAS", "COLORIDAS"],
         "brand": "BRILHANTE",
         "ean_brand": "7189999999987",
         "ean": "7891150086531"
     },
     {
-        "mandatory_terms": ["BRILHANTE", "COMBATE", "MAU", "ODOR"],
-        "optional_terms": ["3L", "HIGIENE", "TOTAL", "ENTAO", "RECICLA"],
+        "mandatory_terms": ["BRILHANTE", "COMBATE", "MAU", "3L"],
+        "optional_terms": ["HIGIENE", "TOTAL", "ENTAO", "RECICLA"],
         "brand": "BRILHANTE",
         "ean_brand": "7189999999987",
         "ean": "7891150064713"
     },
     {
-        "mandatory_terms": ["BRILHANTE", "LIMPEZA", "TOTAL", "DILUIR"],
-        "optional_terms": ["500ML", "BLINDAGEM", "CORES", "REFIL", "ECONOMICO"],
+        "mandatory_terms": ["BRILHANTE", "LIMPEZA", "500ML", "DILUIR","REFIL"],
+        "optional_terms": ["BLINDAGEM", "CORES", "ECONOMICO"],
         "brand": "BRILHANTE",
         "ean_brand": "7189999999987",
         "ean": "7891150077294"
     },
     {
-        "mandatory_terms": ["BRILHANTE", "PERFUME", "CUIDADO", "EXTRAORDINARIO"],
-        "optional_terms": ["3L", "BRILHO", "ATIVO"],
+        "mandatory_terms": ["BRILHANTE", "PERFUME", "CUIDADO", "EXTRAORDINARIO","3L"],
+        "optional_terms": [ "BRILHO", "ATIVO"],
         "brand": "BRILHANTE",
         "ean_brand": "7189999999987",
         "ean": "7891150105218"
     },
     {
-        "mandatory_terms": ["BRILHANTE", "DELICADEZA", "TOTAL", "CUIDADO", "COCO"],
-        "optional_terms": ["3L", "ENTAO", "RECICLA"],
+        "mandatory_terms": ["BRILHANTE", "DELICADEZA", "3L", "CUIDADO", "COCO"],
+        "optional_terms": [ "ENTAO", "RECICLA"],
         "brand": "BRILHANTE",
         "ean_brand": "7189999999987",
         "ean": "7891150071193"
     },
     {
-        "mandatory_terms": ["BRILHANTE", "CUIDADO", "TOTAL", "TOQUE", "MACIEZ"],
-        "optional_terms": ["800G", "PERFUME", "BRANCAS", "COLORIDAS"],
+        "mandatory_terms": ["BRILHANTE", "CUIDADO", "800G", "TOQUE", "MACIEZ"],
+        "optional_terms": ["PERFUME", "BRANCAS", "COLORIDAS"],
         "brand": "BRILHANTE",
         "ean_brand": "7189999999987",
         "ean": "7891150091511"
