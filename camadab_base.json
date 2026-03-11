@@ -365,15 +365,15 @@
         "ean": "7500435150309"
     },
     {
-        "mandatory_terms": ["ORAL-B","100%","70g"],
+        "mandatory_terms": ["ORAL-B","100%","70G"],
         "optional_terms": ["BOCA","CUIDADA","BRANQUEAMENTO","BACTERIAS"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435153164"
     },
     {
-        "mandatory_terms": ["ORAL-B","INDICATOR","3","MESES","PACK"],
-        "optional_terms": ["ANUAL"],
+        "mandatory_terms": ["ORAL-B","INDICATOR","FAMILIA","COLLECTION","PACK"],
+        "optional_terms": ["35","COLOR"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435155540"
@@ -7187,6 +7187,13 @@
         "ean":"7500435132817"
     }, 
     {
+        "mandatory_terms":["PAMPERS","XG","40","FRALDAS/PANALES"],
+        "optional_terms":["FRALDAS","SUPERSEC","CONTRA","VAZAMENTOS"],
+        "brand":"PAMPERS",
+        "ean_brand":"7189999999931",
+        "ean":"7500435132817"
+    }, 
+    {
         "mandatory_terms":["PAMPERS","G","40","SUPERSEC"],
         "optional_terms":["SUPER","SECO","FRALDAS","PRECO","FRALDAS/PANALES"],
         "brand":"PAMPERS",
@@ -7722,13 +7729,6 @@
         "brand":"DOWNY",
         "ean_brand":"7189999999936",
         "ean":"7500435160032"
-    }, 
-    {
-        "mandatory_terms":["PAMPERS","SUPERSEC","M","46"],
-        "optional_terms":["SUPER","SECO","PRECO"],
-        "brand":"PAMPERS",
-        "ean_brand":"7189999999931",
-        "ean":"7500435158343"
     }, 
     {
         "mandatory_terms":["DOWNY","CONCENTRADO","AGUA","FRESCA","1.6L"],
@@ -11955,43 +11955,43 @@
         "ean": "7891350026627"
     },
     {
-        "mandatory_terms": ["BRILHANTE", "BLINDAGEM", "CORES", "LIMPEZA", "TOTAL"],
-        "optional_terms": ["900ML", "REFIL", "ECONOMICO", "ROUPAS", "BRANCAS", "COLORIDAS"],
+        "mandatory_terms": ["BRILHANTE", "BLINDAGEM", "CORES", "900", "REFIL"],
+        "optional_terms": ["ECONOMICO", "ROUPAS", "BRANCAS", "COLORIDAS"],
         "brand": "BRILHANTE",
         "ean_brand": "7189999999987",
         "ean": "7891150066519"
     },
     {
-        "mandatory_terms": ["BRILHANTE", "BLINDAGEM", "CORES", "LIMPEZA", "TOTAL"],
-        "optional_terms": ["1.8L", "GARRAFA", "RECICLAVEL"],
+        "mandatory_terms": ["BRILHANTE", "BLINDAGEM", "CORES", "GARRAFA", "1.8L"],
+        "optional_terms": ["ROUPAS","RENDE","18", "RECICLAVEL"],
         "brand": "BRILHANTE",
         "ean_brand": "7189999999987",
         "ean": "7891150098015"
     },
     {
-        "mandatory_terms": ["BRILHANTE", "COMBATE", "MAU", "ODOR"],
-        "optional_terms": ["900ML", "REFIL", "ECONOMICO", "ROUPAS", "BRANCAS", "COLORIDAS", "HIGIENE", "TOTAL"],
+        "mandatory_terms": ["BRILHANTE", "COMBATE", "MAU", "900","REFIL"],
+        "optional_terms": [, "ECONOMICO", "ROUPAS", "BRANCAS", "COLORIDAS", "HIGIENE", "TOTAL"],
         "brand": "BRILHANTE",
         "ean_brand": "7189999999987",
         "ean": "7891150066526"
     },
     {
-        "mandatory_terms": ["BRILHANTE", "LIMPEZA", "TOTAL", "BLINDAGEM", "CORES"],
-        "optional_terms": ["5L", "EMBALAGEM", "ECONOMICA"],
+        "mandatory_terms": ["BRILHANTE", "LIMPEZA", "TOTAL", "BLINDAGEM", "5L"],
+        "optional_terms": [ "EMBALAGEM", "ECONOMICA"],
         "brand": "BRILHANTE",
         "ean_brand": "7189999999987",
         "ean": "7891150050938"
     },
     {
-        "mandatory_terms": ["BRILHANTE", "LIMPEZA", "TOTAL", "BLINDAGEM", "CORES"],
-        "optional_terms": ["800G", "ROUPAS", "BRANCAS", "COLORIDAS"],
+        "mandatory_terms": ["BRILHANTE", "LIMPEZA", "TOTAL", "BLINDAGEM", "800G"],
+        "optional_terms": [ "ROUPAS", "BRANCAS", "COLORIDAS"],
         "brand": "BRILHANTE",
         "ean_brand": "7189999999987",
         "ean": "7891150086524"
     },
     {
-        "mandatory_terms": ["BRILHANTE", "COMBATE", "MAU", "ODOR"],
-        "optional_terms": ["1.8L", "HIGIENE", "TOTAL", "ROUPAS", "BRANCAS", "COLORIDAS"],
+        "mandatory_terms": ["BRILHANTE", "COMBATE", "MAU", "1.8L"],
+        "optional_terms": [ "HIGIENE", "TOTAL", "ROUPAS", "BRANCAS", "COLORIDAS"],
         "brand": "BRILHANTE",
         "ean_brand": "7189999999987",
         "ean": "7891150098046"
@@ -12977,6 +12977,13 @@
         "ean_brand": "7189999999931",
         "ean": "7500435106566"
     },
+    {
+        "mandatory_terms":["PAMPERS","SUPERSEC","M","46"],
+        "optional_terms":["SUPER","SECO","PRECO"],
+        "brand":"PAMPERS",
+        "ean_brand":"7189999999931",
+        "ean":"7500435158343"
+    }, 
     {
         "mandatory_terms": ["PAMPERS","PANTS","XXXG","24"],
         "optional_terms": ["AJUSTE","TOTAL"],
