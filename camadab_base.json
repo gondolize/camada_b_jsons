@@ -11970,7 +11970,7 @@
     },
     {
         "mandatory_terms": ["BRILHANTE", "COMBATE", "MAU", "900","REFIL"],
-        "optional_terms": [, "ECONOMICO", "ROUPAS", "BRANCAS", "COLORIDAS", "HIGIENE", "TOTAL"],
+        "optional_terms": ["ECONOMICO", "ROUPAS", "BRANCAS", "COLORIDAS", "HIGIENE", "TOTAL"],
         "brand": "BRILHANTE",
         "ean_brand": "7189999999987",
         "ean": "7891150066526"
