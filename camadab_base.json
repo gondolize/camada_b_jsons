@@ -7,13 +7,6 @@
         "ean": "7500435121002"
     },
     {
-        "mandatory_terms":["GILLETTE","MACH3","4","80","USOS"],
-        "optional_terms":["REFIL","PAGUE",",MENOS","LEVE","MAIS"],
-        "brand":"GILLETTE",
-        "ean_brand":"7189999999933",
-        "ean":"7500435169486"
-    },
-    {
         "mandatory_terms": ["GILLETTE","PRESTOBARBA","4T","PAGUE","SUAVE"],
         "optional_terms": ["APARELHOS","DESCARTAVEIS","EXTRA","MENOS","50%","PLASTICO","RECICLADO","3"],
         "brand": "GILLETTE",
@@ -1030,8 +1023,8 @@
         "ean": "7500435118514"
     },
     {
-        "mandatory_terms": ["PANTENE", "REPARA", "CREME",  "PENTEAR"],
-        "optional_terms": ["PRO-V","PARA","240","RESTAURACAO"],
+        "mandatory_terms": ["PANTENE", "REPARA", "CREME",  "240"],
+        "optional_terms": ["PRO-V","PARA","PENTEAR","RESTAURACAO"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7506309841823"
@@ -1044,8 +1037,8 @@
         "ean": "7501007457796"
     },
     {
-        "mandatory_terms": ["PANTENE", "BRILHO", "SHAMPOO", "200"],
-        "optional_terms": ["PRO-V","EXTREMO"],
+        "mandatory_terms": ["PANTENE", "BRILHO", "SHAMPOO", "200","EXTREMO"],
+        "optional_terms": ["PRO-V"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7501007457789"
@@ -1296,7 +1289,7 @@
         "ean": "7506309889399"
     },
     {
-        "mandatory_terms": ["PANTENE","NUTRICAO","UMECTANTE","AMPOLA","CAPILAR"],
+        "mandatory_terms": ["PANTENE","NUTRICAO","UMECTANTE","PROV-V","3"],
         "optional_terms": ["PRO-V", "3", "UNIDADES", "15","FORMULA","NUTRI-PEROLA"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
@@ -7314,8 +7307,8 @@
         "ean":"7500435153874"
     }, 
     {
-        "mandatory_terms":["PAMPERS","SUPERSEC","P","20"],
-        "optional_terms":["SUPER","SECO","PRECO"],
+        "mandatory_terms":["PAMPERS","SUPERSEC","TAMANHO","P","20"],
+        "optional_terms":["FRALDAS","SUPER","SECO","PRECO"],
         "brand":"PAMPERS",
         "ean_brand":"7189999999931",
         "ean":"7500435200257"
@@ -8018,7 +8011,7 @@
         "ean": "7500435167246"
     },
     {
-        "mandatory_terms":["PROBAK","II","DUAS","LAMINAS"],
+        "mandatory_terms":["PROBAK","II","DUAS","LAMINAS","2"],
         "optional_terms":["CABO","ANTIDESLIZANTE"],
         "brand":"PROBAK",
         "ean_brand":"7189999999915",
@@ -8382,13 +8375,6 @@
         "ean": "7891051037625"
     },
     {
-        "mandatory_terms": ["GILLETTE","PRESTOBARBA","EXCEL"],
-        "optional_terms": ["WOMAN","LAMINAS","AJUSTAVEIS","2"],
-        "brand": "GILLETTE",
-        "ean_brand": "7189999999933",
-        "ean": "7500435180191"
-    },
-    {
         "mandatory_terms": ["PROBAK","DUAS","ANTIDESLIZANTE"],
         "optional_terms": ["LEVE","PAGUE","7","PARALELAS"],
         "brand": "PROBAK",
@@ -8417,8 +8403,8 @@
         "ean": "7500435190534"
     },
     {
-        "mandatory_terms": ["GILLETTE","MACH","3","SENSITIVE"],
-        "optional_terms": ["6","UNIDADES","ALOE"],
+        "mandatory_terms": ["GILLETTE","MACH","3","SENSITIVE","6"],
+        "optional_terms": ["UNIDADES","ALOE"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7500435203395"
@@ -9866,29 +9852,29 @@
         "ean": "7891150067202"
     },
     {
-        "mandatory_terms": ["OMO","LAVANDA","EXPLOSAO","FRAGRANCIA"],
-        "optional_terms": ["800G","OLEOS","ESSENCIAIS","14","DIAS","PERFUME"],
+        "mandatory_terms": ["OMO","LAVANDA","EXPLOSAO","FRAGRANCIA","800G"],
+        "optional_terms": ["OLEOS","ESSENCIAIS","14","DIAS","PERFUME"],
         "brand": "OMO",
         "ean_brand": "7189999999994",
         "ean": "7891150080188"
     },
     {
-        "mandatory_terms": ["OMO","CICLO","RAPIDO","ACAO","TOTAL"],
-        "optional_terms": ["1.4L","LIMPA","PERFUMA","PROTEGE"],
+        "mandatory_terms": ["OMO","CICLO","RAPIDO","ACAO","1.4L"],
+        "optional_terms": ["TOTAL","LIMPA","PERFUMA","PROTEGE"],
         "brand": "OMO",
         "ean_brand": "7189999999994",
         "ean": "7891150104303"
     },
     {
-        "mandatory_terms": ["OMO","LAVAGEM","PERFEITA","TAMANHO","FAMILIA"],
-        "optional_terms": ["2.2KG","ATIVO","CONCENTRADO","RENDE","27","LAVAGENS"],
+        "mandatory_terms": ["OMO","LAVAGEM","PERFEITA","FAMILIA","2.2KG"],
+        "optional_terms": ["TAMANHO","ATIVO","CONCENTRADO","RENDE","27","LAVAGENS"],
         "brand": "OMO",
         "ean_brand": "7189999999994",
         "ean": "7891150069121"
     },
     {
-        "mandatory_terms": ["OMO","HIPOALERGENICO","ROUPAS","FINAS","DELICADAS"],
-        "optional_terms": ["BEBE","450ML"],
+        "mandatory_terms": ["OMO","HIPOALERGENICO","450ML","FINAS","DELICADAS"],
+        "optional_terms": ["BEBE","ROUPAS"],
         "brand": "OMO",
         "ean_brand": "7189999999994",
         "ean": "7891150077614"
@@ -9901,22 +9887,22 @@
         "ean": "7891150104310"
     },
     {
-        "mandatory_terms": ["OMO","LAVANDA","ATIVO","CONCENTRADO"],
-        "optional_terms": ["EDICAO","ESPECIAL","1.6KG","RENDE","20","LAVAGENS"],
+        "mandatory_terms": ["OMO","LAVANDA","ATIVO","CONCENTRADO","1.6KG"],
+        "optional_terms": ["EDICAO","ESPECIAL","RENDE","20","LAVAGENS"],
         "brand": "OMO",
         "ean_brand": "7189999999994",
         "ean": "7891150080201"
     },
     {
-        "mandatory_terms": ["OMO","PURO","CUIDADO","TOQUE","AVEIA"],
-        "optional_terms": ["5L","EMBALAGEM","ECONOMICA","HIPOALERGENICO"],
+        "mandatory_terms": ["OMO","PURO","CUIDADO","5L","AVEIA"],
+        "optional_terms": ["EMBALAGEM","ECONOMICA","HIPOALERGENICO"],
         "brand": "OMO",
         "ean_brand": "7189999999994",
         "ean": "7891150080492"
     },
     {
-        "mandatory_terms": ["OMO","COCO","ROUPAS","FINAS","DELICADAS"],
-        "optional_terms": ["CUIDA","CORES","TECIDOS","450ML"],
+        "mandatory_terms": ["OMO","COCO","450","FINAS","DELICADAS"],
+        "optional_terms": ["CUIDA","CORES","TECIDOS","ROUPAS"],
         "brand": "OMO",
         "ean_brand": "7189999999994",
         "ean": "7891150067219"
@@ -13037,6 +13023,13 @@
         "brand":"DOWNY",
         "ean_brand":"7189999999936",
         "ean":"7500435160070"
+    },
+    {
+        "mandatory_terms":["GILLETTE","MACH3","4","80","USOS"],
+        "optional_terms":["REFIL","PAGUE",",MENOS","LEVE","MAIS"],
+        "brand":"GILLETTE",
+        "ean_brand":"7189999999933",
+        "ean":"7500435169486"
     },
     {
         "mandatory_terms":["ORAL-B","CLEAN","COLOR","MACIA","35"],
