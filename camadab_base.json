@@ -42,7 +42,7 @@
         "ean": "7500435245845"
     },
     {
-        "mandatory_terms": ["GILLETTE", "PRESTOBARBA", "3", "SUAVE"],
+        "mandatory_terms": ["GILLETTE","CARTELA" ,"PRESTOBARBA", "3", "SUAVE"],
         "optional_terms": ["BARBEAR", "DURADOURO", "6", "APARELHOS","CARTELA"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
@@ -1731,8 +1731,8 @@
         "ean": "7500435121736"
     },
     {
-        "mandatory_terms": ["PAMPERS", "PANTS", "XXG", "28","PROTECAO"],
-        "optional_terms": ["FACIL","VESTIR","AJUSTE", "TOTAL"],
+        "mandatory_terms": ["PAMPERS", "PANTS", "XXG", "28","2"],
+        "optional_terms": ["GRATIS","VESTIR","AJUSTE", "TOTAL"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435146258"
@@ -7149,7 +7149,7 @@
     }, 
     {
         "mandatory_terms": ["PAMPERS","PANTS","XXG","60"],
-        "optional_terms": ["12H","AJUSTE","TOTAL"],
+        "optional_terms": ["NOVO/NUEVO","12H","AJUSTE","TOTAL"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435146500"
@@ -7456,8 +7456,8 @@
         "ean":"7500435132350"
     }, 
     {
-        "mandatory_terms":["PAMPERS","12","XXG","PANTS"],
-        "optional_terms":["AJUSTE","TOTAL"],
+        "mandatory_terms":["PAMPERS","12","XXG","PANTS","2"],
+        "optional_terms":["FRALDAS","GRATIS","AJUSTE","TOTAL"],
         "brand":"PAMPERS",
         "ean_brand":"7189999999931",
         "ean":"7500435146173"
@@ -9035,8 +9035,8 @@
         "ean": "7896021626625"
     },
     {
-        "mandatory_terms": ["INTIMUS","TRIPLA","PROTECAO","16"],
-        "optional_terms": ["SECA","LEVE","PAGUE","14"],
+        "mandatory_terms": ["INTIMUS","TRIPLA","PROTECAO","16","SECA"],
+        "optional_terms": ["LEVE","PAGUE","14"],
         "brand": "INTIMUS",
         "ean_brand": "7189999999924",
         "ean": "7896007545100"
@@ -9607,6 +9607,20 @@
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010793463"
+    },
+    {
+        "mandatory_terms": ["SEMPRE","LIVRE","LEVE","MAIS","32"],
+        "optional_terms": ["PLUS","NOITE","DIA","SECA"],
+        "brand": "SEMPRE LIVRE",
+        "ean_brand": "7189999999923",
+        "ean": "7891010697518"
+    },
+    {
+        "mandatory_terms": ["SEMPRE", "LIVRE", "LEVE", "MAIS", "32"],
+        "optional_terms": ["SUAVE", "COM", "DIURNO", "ABAS", "COBERTURA"],
+        "brand": "SEMPRE LIVRE",
+        "ean_brand": "7189999999923",
+        "ean": "7891010704780"
     },
     {
         "mandatory_terms": ["SEMPRE","LIVRE","LEVE","MAIS","32"],
@@ -11115,8 +11129,8 @@
         "ean": "7891010035631"
     },
     {
-        "mandatory_terms": ["SEMPRE", "LIVRE", "ULTRA", "SUAVE", "HIPOALERGENICO"],
-        "optional_terms": ["8", "UNIDADES"],
+        "mandatory_terms": ["SEMPRE", "LIVRE", "8", "SUAVE", "HIPOALERGENICO"],
+        "optional_terms": ["ULTRA", "UNIDADES"],
         "brand": "SEMPRE LIVRE",
         "ean_brand": "7189999999923",
         "ean": "7891010031633"
@@ -11135,13 +11149,7 @@
         "ean_brand": "7189999999923",
         "ean": "7891010694593"
     },
-    {
-        "mandatory_terms": ["SEMPRE", "LIVRE", "SUAVE", "COM", "ABAS"],
-        "optional_terms": ["32", "UNIDADES", "DIURNO", "LEVE", "MAIS"],
-        "brand": "SEMPRE LIVRE",
-        "ean_brand": "7189999999923",
-        "ean": "7891010704780"
-    },
+
     {
         "mandatory_terms": ["SEMPRE", "LIVRE", "OB", "INTERNO", "PROCOMFORT"],
         "optional_terms": ["16", "UNIDADES"],
@@ -11170,13 +11178,7 @@
         "ean_brand": "7189999999923",
         "ean": "7891010579616"
     },
-    {
-        "mandatory_terms": ["SEMPRE","LIVRE","NOITE","SECA","32"],
-        "optional_terms": ["LEVE","MAIS","DIA"],
-        "brand": "SEMPRE LIVRE",
-        "ean_brand": "7189999999923",
-        "ean": "7891010697518"
-    },
+
     {
         "mandatory_terms": ["SEMPRE", "LIVRE", "OB", "INTERNO","8"],
         "optional_terms": ["UNIDADES", "CANAIS", "ANTI-VAZAMENTO"],
@@ -12970,15 +12972,15 @@
         "ean": "7500435132749"
     },
     {
-        "mandatory_terms": ["PAMPERS","PREMIUM","PANTS","XXG","60"],
-        "optional_terms": ["BARREIRA","FRALDAS","CARE"],
+        "mandatory_terms": ["PAMPERS","PREMIUM","PANTS","M","78"],
+        "optional_terms": ["6-10","BARREIRA","FRALDAS","CARE"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
-        "ean": "7500435146005"
+        "ean": "7500435145978"
     },
     {
-        "mandatory_terms": ["PAMPERS","PREMIUM","PANTS","M","78"],
-        "optional_terms": ["BARREIRA","CARE"],
+        "mandatory_terms": ["PAMPERS","PREMIUM","PANTS","XXG","60"],
+        "optional_terms": ["NOVA/NUEVO","BARREIRA","FRALDAS","CARE"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435146005"
@@ -13039,17 +13041,16 @@
         "ean_brand": "7189999999931",
         "ean": "7500435153386"
     },
-
     {
-        "mandatory_terms": ["PAMPERS","PANTS","NOVA","M","42"],
-        "optional_terms": ["AJUSTE","TOTAL"],
+        "mandatory_terms": ["PAMPERS","PANTS","AJUSTE","M","42"],
+        "optional_terms": ["FRALDAS/PANALES","6-10","TOTAL"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435146227"
     },
     {
         "mandatory_terms": ["PAMPERS","PANTS","M","20"],
-    "optional_terms": ["AJUSTE","TOTAL"],
+        "optional_terms": ["AJUSTE","TOTAL"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435146142"
@@ -13125,8 +13126,8 @@
         "ean":"7500435156547"
     },
     {
-        "mandatory_terms":["DOWNY","LIRIOS","CAMPO","12L","3L"],
-        "optional_terms":["RENDE","4X","CONCENTRADO","PERFUME"],
+        "mandatory_terms":["DOWNY","LIRIOS","CAMPO","CONCENTRADO","3L"],
+        "optional_terms":["RENDE","4X","12","PERFUME"],
         "brand":"DOWNY",
         "ean_brand":"7189999999936",
         "ean":"7500435156554"
