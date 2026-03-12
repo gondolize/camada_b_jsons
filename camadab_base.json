@@ -1031,8 +1031,8 @@
         "ean": "7506309841823"
     },
     {
-        "mandatory_terms": ["PANTENE", "BRILHO", "SHAMPOO", "400"],
-        "optional_terms": ["PRO-V","EXTREMO"],
+        "mandatory_terms": ["PANTENE","PRO-V","BRILHO","EXTREMO","SHAMPOO"],
+        "optional_terms": ["400"],
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7501007457796"
@@ -13216,8 +13216,8 @@
         "ean": "7500435249829"
     },
     {
-        "mandatory_terms": ["ORAL-B","IO","SERIES","2"],
-        "optional_terms": ["REMOVE","FACILMENTE","100%","MAIS","PLACA"],
+        "mandatory_terms": ["ORAL-B","IO","100%","2"],
+        "optional_terms": ["REMOVE","FACILMENTE","SERIES","MAIS","PLACA"],
         "brand": "ORAL-B",
         "ean_brand": "7189999999927",
         "ean": "7500435249799"
