@@ -715,6 +715,13 @@
         "ean": "7500435248136"
     },
     {
+        "mandatory_terms": ["PANTENE", "HIDRATACAO", "SHAMPOO", "400"],
+        "optional_terms": ["PRO-V","INTENSA","DESDE","PRIMEIRO","USO"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7501007413921"
+    },
+    {
         "mandatory_terms": ["PANTENE", "BIOTINAMINA", "CONDICIONADOR","B3", "510"],
         "optional_terms": ["PRO-V", "MIRACLES", "ANTIQUEDA"],
         "brand": "PANTENE",
@@ -889,13 +896,7 @@
         "ean_brand": "7500000000001",
         "ean": "7500435240529"
     },
-    {
-        "mandatory_terms": ["PANTENE", "HIDRATACAO", "SHAMPOO", "400"],
-        "optional_terms": ["PRO-V","INTENSA","DESDE","PRIMEIRO","USO"],
-        "brand": "PANTENE",
-        "ean_brand": "7500000000001",
-        "ean": "7501007413921"
-    },
+
     {
         "mandatory_terms": ["PANTENE", "HIDRATACAO", "SHAMPOO", "175"],
         "optional_terms": ["PRO-V","INTENSA","PRIMEIRO","USO","GLICERINA","OLEO","COCO","PRO-VITAMINAS"],
@@ -1569,7 +1570,7 @@
         "ean": "7506339326055"
     },
     {
-        "mandatory_terms": ["ALWAYS","ABSORVENTES","5X","G","8"],
+        "mandatory_terms": ["ALWAYS","ABSORVENTES","NOTURNO","G","8"],
         "optional_terms": ["FLUXO","INTENSO","SUAVE","GRANDE"],
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
@@ -1581,13 +1582,6 @@
         "brand": "ALWAYS",
         "ean_brand": "7189999999928",
         "ean": "7506195129838"
-    },
-    {
-        "mandatory_terms": ["ALWAYS","5X","SUAVE","G","8"],
-        "optional_terms": ["ABSORVENTE","GRANDE"],
-        "brand": "ALWAYS",
-        "ean_brand": "7189999999928",
-        "ean": "7506339394603"
     },
     {
         "mandatory_terms": ["PAMPERS","CONFORT","TAMANHO","XXXG","44"],
@@ -4281,6 +4275,34 @@
         "ean": "7500435242615"
     },
     {
+        "mandatory_terms": ["HEAD","SHOULDERS","SUPER","CONDICIONADOR","170"],
+        "optional_terms": ["DETOX","RAIZ"],
+        "brand": "SHOULDERS",
+        "ean_brand": "7110000000008",
+        "ean": "7500435136525"
+    },
+    {
+        "mandatory_terms": ["HEAD","SHOULDERS","SUPER","CONDICIONADOR","170"],
+        "optional_terms": ["NUTRICAO","BALANCEADA"],
+        "brand": "SHOULDERS",
+        "ean_brand": "7110000000008",
+        "ean": "7500435136518"
+    },
+    {
+        "mandatory_terms": ["HEAD","SHOULDERS","SUPER","CONDICIONADOR","170"],
+        "optional_terms": ["ANTICOCEIRA"],
+        "brand": "SHOULDERS",
+        "ean_brand": "7110000000008",
+        "ean": "7500435136501"
+    },    
+    {
+        "mandatory_terms": ["HEAD","SHOULDERS","SHAMPOO","HIDRATACAO","200ML"],
+        "optional_terms": ["RESSECADO","OLEO","AMENDOA"],
+        "brand": "SHOULDERS",
+        "ean_brand": "7110000000008",
+        "ean": "7501001133634"
+    },
+    {
         "mandatory_terms": ["HEAD", "SHOULDERS", "LIMPEZA", "EFICAZ","400"],
         "optional_terms": ["100"],
         "brand": "SHOULDERS",
@@ -6484,6 +6506,14 @@
         
     },
     {
+        "mandatory_terms": ["GILLETTE","PRESTOBARBA","SENSITIVE","33","E"],
+        "optional_terms": ["ESTILO"],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7702018951185"
+        
+    },
+    {
         "mandatory_terms": ["PAMPERS","PANTS","XXG","78","FRALDAS"],
         "optional_terms": ["AJUSTE","TOTAL"],
         "brand": "GILLETTE",
@@ -6561,6 +6591,34 @@
         "brand": "PANTENE",
         "ean_brand": "7500000000001",
         "ean": "7500435128933"
+    },
+    {
+        "mandatory_terms": ["PANTENE", "CACHOS", "CONDICIONADOR", "LIBERADO", "170"],
+        "optional_terms": ["PRO-V", "HIDRATA"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435142120" 
+    },
+    {
+        "mandatory_terms": ["PANTENE", "MISTURINHA", "BASE", "MISTURAS", "600"],
+        "optional_terms": ["PRO-V", "PERFEITA"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435146944"
+    },
+    {
+        "mandatory_terms": ["PANTENE", "CACHOS", "MASCARA", "INTENSIVA", "270"],
+        "optional_terms": ["PRO-V", "HIDRATA"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435142137"
+    },
+    {
+        "mandatory_terms": ["PANTENE", "3", "MINUTOS", "MILAGROSOS", "CHACHOS"],
+        "optional_terms": ["PRO-V", "170","HIDRA-VITAMINADOS"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435123662"
     },
     {
         "mandatory_terms":["PANTENE","RESTAURACAO","CONDICIONADOR","750ML"],
@@ -6668,8 +6726,8 @@
         "ean":"4210201038511"
     },
     {
-        "mandatory_terms":["GILLETTE","MACH","3","IRRITATION","DEFENSE"],
-        "optional_terms":["ESPUMA","BARBEAR","5","REFRESCANTE"],
+        "mandatory_terms":["GILLETTE","MACH","ESPUMA","IRRITATION","DEFENSE"],
+        "optional_terms":["3","BARBEAR","5","REFRESCANTE"],
         "brand":"GILLETTE",
         "ean_brand":"7189999999933",
         "ean":"7702018273874"
@@ -6729,6 +6787,13 @@
         "brand":"SHOULDERS",
         "ean_brand":"7110000000008",
         "ean":"7500435128759"
+    },   
+    {
+        "mandatory_terms":["HEAD","SHOULDERS","DETOX","RAIZ","ESPECIAL"],
+        "optional_terms":["PRECO","KIT","1","SHAMPOO","SUPER","CONDICIONADOR"],
+        "brand":"SHOULDERS",
+        "ean_brand":"7110000000008",
+        "ean":"7500435152082"
     },   
     {
         "mandatory_terms":["PANTENE","LISO","EXTREMO","INSTANTANEAMENTE"],
@@ -7123,6 +7188,13 @@
         "brand":"ALWAYS",
         "ean_brand":"7189999999928",
         "ean":"7590002012383"
+    },
+    {
+        "mandatory_terms":["ALWAYS","LENCOS","UMEDECIDOS","16","PH"],
+        "optional_terms":["GINECOLOGICAMENTE","TESTADO"],
+        "brand":"ALWAYS",
+        "ean_brand":"7189999999928",
+        "ean":"7500435158299"
     }, 
     {
         "mandatory_terms":["GILLETTE","PRESTOBARBA","ULTRAGRIP","3"],
@@ -7146,11 +7218,25 @@
         "ean":"7500435107297"
     }, 
     {
+        "mandatory_terms":["PANTENE","MASCARA","HIDRATACAO","INTENSA","600"],
+        "optional_terms":["ULTIMATE","CARE","PRO-V"],
+        "brand":"PANTENE",
+        "ean_brand":"7500000000001",
+        "ean":"7500435159272"
+    }, 
+    {
         "mandatory_terms":["PANTENE","BRILHO","EXTREMO","CONDICIONADOR"],
         "optional_terms":["CABELO","BRILHANTE","SEDOSO","PRO-V"],
         "brand":"PANTENE",
         "ean_brand":"7500000000001",
         "ean":"7501007457826"
+    }, 
+    {
+        "mandatory_terms":["PANTENE","ANTI-FRIZZ","CREME","PENTEAR","600"],
+        "optional_terms":["HIDRO","CAUTERIZAÇÃO","PRO-V"],
+        "brand":"PANTENE",
+        "ean_brand":"7500000000001",
+        "ean":"7500435159920"
     }, 
     {
         "mandatory_terms":["ARIEL","CONCENTRADO","HIPOLERGENICO","PAMPERS","TESTADO"],
@@ -7221,6 +7307,13 @@
         "brand":"DOWNY",
         "ean_brand":"7189999999936",
         "ean":"7500435156981"
+    }, 
+    {
+        "mandatory_terms":["DOWNY","SPORTS","ODOR","BLOCK","900"],
+        "optional_terms":["ROUPAS","ESPORTIVAS","AMACIANTE","CONCENTRADO"],
+        "brand":"DOWNY",
+        "ean_brand":"7189999999936",
+        "ean":"7500435159968"
     }, 
     {
         "mandatory_terms":["PAMPERS","PANTS","M","34"],
@@ -12877,6 +12970,20 @@
         "ean": "7500435132749"
     },
     {
+        "mandatory_terms": ["PAMPERS","PREMIUM","PANTS","XXG","60"],
+        "optional_terms": ["BARREIRA","FRALDAS","CARE"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435146005"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","PREMIUM","PANTS","M","78"],
+        "optional_terms": ["BARREIRA","CARE"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435146005"
+    },
+    {
         "mandatory_terms": ["PAMPERS","PANTS","P","46"],
         "optional_terms": ["AJUSTE","TOTAL","12H","NOVO"],
         "brand": "PAMPERS",
@@ -12926,15 +13033,8 @@
         "ean": "7500435184861"
     },
     {
-        "mandatory_terms": ["PAMPERS","CONFORT","SEC","XXG","44"],
-        "optional_terms": ["PRECO","INCRIVEL","12H"],
-        "brand": "PAMPERS",
-        "ean_brand": "7189999999931",
-        "ean": "7500435184861"
-    },
-    {
         "mandatory_terms": ["PAMPERS","CONFORT","SEC","XXG","60"],
-    "optional_terms": ["LEVE","MAIS","PAGUE","MENOS","12H"],
+        "optional_terms": ["LEVE","MAIS","PAGUE","MENOS","12H"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435153386"
@@ -12942,7 +13042,7 @@
 
     {
         "mandatory_terms": ["PAMPERS","PANTS","NOVA","M","42"],
-    "optional_terms": ["AJUSTE","TOTAL"],
+        "optional_terms": ["AJUSTE","TOTAL"],
         "brand": "PAMPERS",
         "ean_brand": "7189999999931",
         "ean": "7500435146227"
@@ -12989,6 +13089,13 @@
         "ean_brand": "7189999999931",
         "ean": "7500435246606"
     },
+        {
+        "mandatory_terms": ["PAMPERS","SUPERSEC","M","30"],
+        "optional_terms": ["ABSORCAO","6-10","FRALDAS"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435132725"
+    },
     {
         "mandatory_terms":["GILLETTE","PRESTOBARBA","3","SENSITIVE","8"],
         "optional_terms":["80","BARBAS","SUAVES","ALOE"],
@@ -13018,6 +13125,27 @@
         "ean":"7500435156547"
     },
     {
+        "mandatory_terms":["DOWNY","LIRIOS","CAMPO","12L","3L"],
+        "optional_terms":["RENDE","4X","CONCENTRADO","PERFUME"],
+        "brand":"DOWNY",
+        "ean_brand":"7189999999936",
+        "ean":"7500435156554"
+    },
+    {
+        "mandatory_terms":["DOWNY","PERFUME","COLLECTION","MISTICO","450"],
+        "optional_terms":["CONCENTRADO","AMEIXA","JASMIM","PESSEGO"],
+        "brand":"DOWNY",
+        "ean_brand":"7189999999936",
+        "ean":"7500435160087"
+    },
+        {
+        "mandatory_terms":["DOWNY","GRATIS","BRISA","SUAVE","1.5L"],
+        "optional_terms":["150","CONCENTRADO","75","LAVAGENS","PERFUME"],
+        "brand":"DOWNY",
+        "ean_brand":"7189999999936",
+        "ean":"7500435244602"
+    },
+    {
         "mandatory_terms":["DOWNY","900","ADORAVEL","COLLECTION","SOFISTICADOS"],
         "optional_terms":["PERFUMES","DURAM","DIA","TODO"],
         "brand":"DOWNY",
@@ -13030,6 +13158,139 @@
         "brand":"GILLETTE",
         "ean_brand":"7189999999933",
         "ean":"7500435169486"
+    },
+{
+        "mandatory_terms": ["GILLETTE","AFEITADA","ESPUMA","SUAVE","BARBEAR"],
+        "optional_terms": ["PRESTOBARBA"],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7702018951123"
+    },
+    {
+        "mandatory_terms": ["PANTENE","PRO-V","PRE","SHAMPOO","400ML"],
+        "optional_terms": ["LIMPEZA","PROFUNDA"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7506339322224"
+    },
+    {
+        "mandatory_terms": ["HEAD","SHOULDERS","NOVA","MACA","400ML"],
+        "optional_terms": ["SHAMPOO","ANTICASPA"],
+        "brand": "SHOULDERS",
+        "ean_brand": "7110000000008",
+        "ean": "7506195120071"
+    },
+    {
+        "mandatory_terms": ["HEAD","SHOULDERS","SHAMPOO","ANTICASPA","MACA"],
+        "optional_terms": ["200ML"],
+        "brand": "SHOULDERS",
+        "ean_brand": "7110000000008",
+        "ean": "7506195120057"
+    },
+    {
+        "mandatory_terms": ["ALWAYS","MAXI","PROTECAO","SECA","8"],
+        "optional_terms": ["ABSORVENTES","ABSORCAO","INSTANTANEA"],
+        "brand": "ALWAYS",
+        "ean_brand": "7189999999928",
+        "ean": "7501065922724"
+    },
+    {
+        "mandatory_terms": ["OLD","SPICE","PROTECAO","50G","VIP"],
+        "optional_terms": ["EPICA","ACTIVE","DEFENSE"],
+        "brand": "OLD SPICE",
+        "ean_brand": "7189999999930",
+        "ean": "7501001309077"
+    },
+    {
+        "mandatory_terms": ["DOWNY","ALTA FIXACAO","DURACAO","350ML","AMACIANTE"],
+        "optional_terms": ["PERFUME","TECNOLOGIA","FIXA","PERFUME"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435260602"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","ECONOMICO","CONFORT","XXG","148"],
+        "optional_terms": ["PACOTE","100%","LIVRE","VAZAMENTOS","AJUSTE","ELASTICO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435249829"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","IO","SERIES","2"],
+        "optional_terms": ["REMOVE","FACILMENTE","100%","MAIS","PLACA"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435249799"
+    },
+    {
+        "mandatory_terms": ["ORAL-B","100%","ECONO","PACK","X2"],
+        "optional_terms": ["110ML","140G"],
+        "brand": "ORAL-B",
+        "ean_brand": "7189999999927",
+        "ean": "7500435204767"
+    },
+    {
+        "mandatory_terms": ["GILLETTE","SENSITIVE","ESPUMA","155ML"],
+        "optional_terms": ["BARBEAR"],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7500435188470"
+    },
+    {
+        "mandatory_terms": ["DOWNY","CONCENTRADO","ROUPAS","PERFUMADAS","1.250L"],
+        "optional_terms": ["GRATIS","250ML","LEVE","PAGUE"],
+        "brand": "DOWNY",
+        "ean_brand": "7189999999936",
+        "ean": "7500435190275"
+    },
+    {
+        "mandatory_terms": ["OLD","SPICE","PROTECAO","50G","ADVENTURE"],
+        "optional_terms": ["EPICA","4X","ACTIVE","DEFENSE","BARRA","ANTITRANSPIRANTE"],
+        "brand": "OLD SPICE",
+        "ean_brand": "7189999999930",
+        "ean": "7500435186421"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","CONFORT","XXG","44","PRECO"],
+        "optional_terms": ["INCRIVEL","12H","PROTECAO"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "7500435184878"
+    },
+    {
+        "mandatory_terms": ["HEAD","SHOULDERS","CRESCIMENTO","FORTE","2"],
+        "optional_terms": ["RAIZ","SHAMPOOS","VITAMINA","E","EFEITO","ANTIOXIDANTE","200ML","PRECO","ESPECIAL"],
+        "brand": "SHOULDERS",
+        "ean_brand": "7110000000008",
+        "ean": "7500435184632"
+    },
+    {
+        "mandatory_terms": ["PANTENE","PRO-V","MIRACLES","NUTRE","270"],
+        "optional_terms": ["REPOE","REVITALIZA","MASCARA","INTENSIVA","OLEOS"],
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435177078"
+    },
+    {
+        "mandatory_terms": ["PANTENE","PRO-V","MIRACLES","PROTEGE","270"],
+        "optional_terms": ["ANTI-FRIZZ","OLEOS","REPARA","MASCARA","INTENSIVA-"], 
+        "brand": "PANTENE",
+        "ean_brand": "7500000000001",
+        "ean": "7500435177061"
+    },
+    {
+        "mandatory_terms": ["GILLETTE","CREME","BARBEAR","ALOE","VERA"],
+        "optional_terms": ["ROSTO","CORPO","PROTECAO","CONFORTO","150"],
+        "brand": "GILLETTE",
+        "ean_brand": "7189999999933",
+        "ean": "7500435173223"
+    },
+    {
+        "mandatory_terms": ["PAMPERS","LENCOS","UMEDECIDOS","48","CHEIRINHO"],
+        "optional_terms": ["BEBE"],
+        "brand": "PAMPERS",
+        "ean_brand": "7189999999931",
+        "ean": "4015400763680"
     },
     {
         "mandatory_terms":["ORAL-B","CLEAN","COLOR","MACIA","35"],
