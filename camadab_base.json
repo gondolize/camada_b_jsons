@@ -6506,8 +6506,8 @@
         
     },
     {
-        "mandatory_terms": ["GILLETTE","PRESTOBARBA","SENSITIVE","33","E"],
-        "optional_terms": ["ESTILO"],
+        "mandatory_terms": ["GILLETTE","PRESTOBARBA","33","ESPUMA","BARBEAR"],
+        "optional_terms": ["DURA","90"],
         "brand": "GILLETTE",
         "ean_brand": "7189999999933",
         "ean": "7702018951185"
